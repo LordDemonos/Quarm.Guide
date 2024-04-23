@@ -268,7 +268,7 @@ The mule account will be exempt from IP restrictions allowing you run a game cli
 **A:** Use an updated eqgame.dll and make sure `eqclient.ini` has `EnableExtendedNameplateDistance=TRUE`. 
 
 ### Q10
-**A:** First make sure you're using the experimental `eqgame.dll` file as this fixes the framerate options in your `eqclient.ini`. With previous versions of `eqgame.dll` the frame rate/refresh rate values would not be respected. You `eqclient.ini` then has values for `RefreshRate=60` `MaxFPS=60` `MaxBGFPS=60` `MaxMouseLookFPS=60` and `NoFPSLimiter=1` . These can be adjusted based on your monitor's refresh rate. 
+**A:** First make sure you're using the experimental `eqgame.dll` file as this fixes the framerate options in your `eqclient.ini`. With previous versions of `eqgame.dll` the frame rate/refresh rate values would not be respected. You `eqclient.ini` then has values for `RefreshRate=60` `MaxFPS=60` `MaxBGFPS=60` `MaxMouseLookFPS=60` and `NoFPSLimiter=1` . These can be adjusted based on your monitor's refresh rate. The general consensus seems to be to limit your FPS, and set it to your monitor's max refres rate. The higher the frame rate, the smoother the game should feel. 
 
 ### Q11
 **A:** Sometimes Zeal's camera movement settings do not save properly so the camera feels too fast, or wont move at all. In game you can ALT + O to open the options menu and navigate to the Zeal tab. I like all my camera settings around .3. These settings can also be found in `eqclient.ini` at the bottom under [Zeal] `MouseSensitivityX=0.300000` `MouseSensitivityY=0.300000` `MouseSensitivityX3rd=0.300000` `MouseSensitivityY3rd=0.300000`.
@@ -277,6 +277,8 @@ The mule account will be exempt from IP restrictions allowing you run a game cli
 **A:** Delete the following files from your TAKP folder. `eqtheme.mp3` `combattheme1.mp3` `combattheme2.mp3` `deaththeme.mp3`
 
 ## Suggestions Feedback and Help
+
+- [Project Quarm Discord #zeal-discussions](https://discord.com/channels/1133452007412334643/1210670176077348934) | [Project Quarm Discord #tech-help](https://discord.com/channels/1133452007412334643/1133453502182596729) [Project Quarm Discord #ui-discussion](https://discord.com/channels/1133452007412334643/1162826324092657757)
 
 Still reading? I'd like to expand this guide and keep it maintained. What I need from you are more questions to populate the FAQ at the bottom. I need to install Visual Studio and document steps to attaching the game to it to log the data the Secrets and Salty need when the game crashes or bugs out. I'd like to host a fully updated ZlizEQMap [zonedata file](https://github.com/hada79/ZlizEQMap/blob/master/ZoneData/ZoneData-The%20Al'Kabor%20Project.txt) but this one isn't updated for Quarm. I have some other ideas too. Please submit suggestions/help/feedback to me via DM on X or Discord. Feel free to ask `Xanax/Xantagonist <Former Glory>` any questions, anywhere you find me in game! 
 
