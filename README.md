@@ -199,9 +199,13 @@ https://store.steampowered.com/app/993090/Lossless_Scaling/
 
 ## FAQ
 
+Q: Where can I learn more about Project Quarm?
+
+A: The main website projectquarm.com contains a link to the [Project Quarm Discord](https://discord.gg/3nDQ9AkUz8).
+
 Q: When I use my mouse wheel to scroll backwards, I do not see my character in 3rd person. How do I enable Mouse Look?
 
-A: You may have disabled mouse look. While logged into the game, press F12 to enable/disable mouse look
+A: You may have disabled mouse look. While logged into the game, press F12 to enable/disable mouse look.
 
 Q: How do I make the chat text bigger in game?
 
