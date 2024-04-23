@@ -1,8 +1,9 @@
 # EverQuest Project Quarm Installation Guide (Updated: April 24, 2024)
 ##### By Xanax/Xantagonist < Former Glory > 
-lorddemonos on Discord
 
 ## Part 1: Installing the Main Game
+
+#### Backup Warning - Anytime you change something or overwrite a file, backup the whole TAKP folder. Its easy and fast and I'm not going to remind you to backup files after every step. - Backup Warning
 
 ### Step 1: Create a TAKP Forum Account
 Before you can download and install the game, you'll need to create an account on the TAKP forums.
@@ -41,7 +42,7 @@ Zeal is used to add additional functionality to EverQuest. Main additions includ
 
 #### Prerequisite 1. (Required) Enable sound in your eqclient.ini
 
-Make sure SOUND=ON is listed in your eqclient.ini. Zeal uses the EverQuest sound engine to inject code into the game, thus the sound must be enabled for Zeal to function.
+Make sure Sound=TRUE is listed in your eqclient.ini. Zeal uses the EverQuest sound engine to inject code into the game, thus the sound must be enabled for Zeal to function.
 
 #### Prerequisite 2. (Required) Excluding your TAKP Installation
 Excluding your TAKP installation from being scanned by your antivirus software can help reduce load times, zoning times, and eliminate stuttering when opening your bags. This is highly recommended.
@@ -148,21 +149,31 @@ After following these steps, the Old Skeleton Models will be installed and appli
 
 #### GINA
 
+A log monitoring application that provides audio and visual feedback based on triggers you either define or import.
+
 https://eq.gimasoft.com/gina/Default.aspx [Supplimental Documentation](https://kingdomdkp.com/index.php/Guides/Tools/How-to-installing-gina--basic-functions.html?)
 
 #### EQ Nag
+
+An EverQuest notification agent. An alternative to GINA.
 
 https://github.com/guildantix/eq-nag/releases [Documentation](https://guildantix.github.io/eq-nag/)
 
 #### NParse (TAKP Fork)
 
+Provides player location and spell tracking support for TAKP by reading the player log.
+
 https://github.com/hitechhippie/nparse-takp
 
 #### PigParse/PQTool/EQTool
 
+Log parser containing 3D Maps, Timers for everything, damage meters, and mob info.
+
 https://github.com/smasherprog/EqTool
 
 #### ZlizEQMap
+
+ZlizEQMap is a map tool mainly designed for servers that emulate old versions of EverQuest. It features a local database of maps from the old EQAtlas website (now hosted on allakabor.com and tessmage.com), along with player positioning (x plotted on map), transparent overlay, waypoints, zone connections, and more.
 
 https://github.com/hada79/ZlizEQMap
 
@@ -172,7 +183,19 @@ https://www.project1999.com/forums/showthread.php?t=386944
 
 ### EQ Tell Notifer
 
+Desktop notifications for tells recieved in game
+
 https://github.com/rtcox/EQ_tell_notifier/tree/main
+
+### Old EQ Spell Gems/Particle Effects/Music
+
+https://www.reddit.com/r/everquest/comments/36ovuk/howto_old_eq_uispell_gemsparticle_effectsmusic/
+
+### Lossless Scaling
+
+Lossless Scaling allows you to scale windowed games to full screen using the state-of-the-art scaling algorithms, as well as use ML based proprietary scaling and frame generation.
+
+https://store.steampowered.com/app/993090/Lossless_Scaling/
 
 ## FAQ
 
@@ -198,8 +221,33 @@ The character running the command must first be of appropriate level and no othe
 
 The mule account will be exempt from IP restrictions allowing you run a game client and buy/sell/transfer items independent of your main account. Again, RUNNING THE COMMAND AND CONFIRMING WILL DELEVEL YOU TO 1 AND FLAG THE ENTIRE ACCOUNT AS A MULE ACCOUNT. BE CERTAIN OF YOUR INTENTIONS. @CSR WILL NOT REVOKE THIS FLAG UNDER ANY CIRCUMSTANCES, NOR ARE THEY EQUIPPED TO DEAL WITH ANY ISSUES THAT ARISE."
 
+Q: How do I change my resolution?
+
+A: In your eqclient.ini you can find the [VideoMode] section. Change this to match your desktop's settings.
+
+[VideoMode]
+BitsPerPixel=32
+Width=1920
+Height=1080
+RefreshRate=60
+
+Q: How do I run the game full screen? 
+
+A: You want to run the game in windowed mode first. In your eqclient.ini set this option WindowedMode=TRUE. Find [VideoMode] and set it to your desired resolution. When you are logged into EverQuest, press SHIFT + Enter to switch between windowed and fullscreen modes. If you are still having problems, see the 3rd party programs section for LosslessScaling.
+
+Q: I'm using the Stone UI from 1999?
+
+A: In your eqclient.ini set NewUI=TRUE and OldUI=False
+
+Q: How do I view nameplates from far away?
+
+A: Use an updated eqgame.dll and make sure eqclient.ini has EnableExtendedNameplateDistance=TRUE 
+
 ## Suggestions Feedback and Help
 
-I'd like to expand this guide and keep it maintained. What I need from you are more questions to populate the FAQ at the bottom. I need to install Visual Studio and document steps to attaching the game to it to log the data the Secrets and Salty need when the game crashes or bugs out. I'd like to host a fully updated ZlizEQMap [zonedata file](https://github.com/hada79/ZlizEQMap/blob/master/ZoneData/ZoneData-The%20Al'Kabor%20Project.txt) but this one isn't updated for Quarm. I have some other ideas too. Feel free to ask Xanax/Xantagonist <Former Glory> any questions, anywhere you find me!
+Still reading? I'd like to expand this guide and keep it maintained. What I need from you are more questions to populate the FAQ at the bottom. I need to install Visual Studio and document steps to attaching the game to it to log the data the Secrets and Salty need when the game crashes or bugs out. I'd like to host a fully updated ZlizEQMap [zonedata file](https://github.com/hada79/ZlizEQMap/blob/master/ZoneData/ZoneData-The%20Al'Kabor%20Project.txt) but this one isn't updated for Quarm. I have some other ideas too. Please submit suggestions/help/feedback to me via DM on X or Discord. Feel free to ask Xanax/Xantagonist <Former Glory> any questions, anywhere you find me in game! 
+
+#### @LordDemonos on X
+#### lorddemonos on Discord
 
 
