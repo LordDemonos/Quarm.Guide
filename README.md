@@ -1,5 +1,6 @@
 # EverQuest Project Quarm Installation Guide (Updated: April 24, 2024)
-##### By Xanax/Xantagonist < Former Glory > / lorddemonos on Discord
+##### By Xanax/Xantagonist < Former Glory > 
+lorddemonos on Discord
 
 ## Part 1: Installing the Main Game
 
