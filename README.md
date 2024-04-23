@@ -1,5 +1,5 @@
 # EverQuest Project Quarm Installation Guide (Updated: April 24, 2024)
-##### By Xanax/Xantagonist <Former Glory>
+##### By Xanax/Xantagonist < Former Glory >
 
 ## Part 1: Installing the Main Game
 
@@ -141,7 +141,7 @@ After following these steps, the Old Skeleton Models will be installed and appli
 
 #### GINA
 
-https://eq.gimasoft.com/gina/Default.aspx
+https://eq.gimasoft.com/gina/Default.aspx [Supplimental Documentation](https://kingdomdkp.com/index.php/Guides/Tools/How-to-installing-gina--basic-functions.html?)
 
 #### EQ Nag
 
