@@ -133,11 +133,9 @@ To install EQ Basic 1.1, follow these steps:
 https://www.reddit.com/r/everquest/comments/36ovuk/howto_old_eq_uispell_gemsparticle_effectsmusic/
 
 #### KaichoFX Spell Effects
-Download Link: https://drive.google.com/file/d/1zXoiMFk-Z-f2Qc6tI9ZUJjfR98rVdLoK/view
+Download Link 1: https://drive.google.com/file/d/1zXoiMFk-Z-f2Qc6tI9ZUJjfR98rVdLoK/view
 
-**DOWNLOAD** the latest SpellEffects pack _version 1d_ here: https://drive.google.com/drive/folders/1nSWhNloSVfPXb8Kdthb20pM_P99bGvBF?usp=sharing
-
-**NOTE:** Rename your original SpellEffects folder as a BACKUP, and create a new folder with the custom spell effects in them. Enjoy!
+Installation Instructions [here](https://www.reddit.com/r/ProjectQuarm/comments/17h98xq/comment/k6prhur/)
 
 #### Sound File Fixes
 Link: https://www.takproject.net/forums/index.php?threads%2Fwindows-10-ambient-noise-too-loud.8234%2F
