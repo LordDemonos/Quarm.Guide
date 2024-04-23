@@ -7,7 +7,7 @@ Before you can download and install the game, you'll need to create an account o
 
 **NOTE: You must only create 1 forum account. You can create up to 10 game accounts under your forum account, but you must not create more than 1 forum account. If this is detected, the extra forum accounts will be deleted, and access to any game accounts associated with them will be lost. Also, please name your forum and game accounts carefully as these cannot be changed or deleted after creation. Read the forum FAQ and Rules for more information [here](https://www.takproject.net/forums/index.php?forums/server-info.90/).**
 
-1. Visit the following link and follow the instructions to register a new account: https://www.takproject.net/forums/index.php?login%2F
+1. Visit the following link and follow the instructions to register a new account: [Login](https://www.takproject.net/forums/index.php?login%2F)
 
 2. Once you have created a forum account and are logged in, navigate to the "Game Accounts" section.
 
@@ -23,21 +23,28 @@ Before you can download and install the game, you'll need to create an account o
 6. Reload/Refresh the page and search for any variation of TAKP
 
 ## Step 2: Download the Game Client
-1. Visit the Getting Started page on the TAKP wiki: https://wiki.takp.info/index.php?title=Getting_Started
+1. Visit the Getting Started page on the TAKP wiki: [Getting Started](https://wiki.takp.info/index.php?title=Getting_Started)
 2. Click on the "Getting Started with Windows" section.
 3. Download the stable 2.1 version of the game client [here](https://www.dropbox.com/s/bppy4ebt7vl7hwk/TAKP%20PC%20V2.1c.zip?dl=0), or use the latest 2.2 version [here](https://drive.google.com/file/d/1qoBktDeJMJKPBr-EZxub1vspJhz11i1y).
 
 ## Step 3: Converting your TAKP client to Quarm
 1. Join the Project Quarm discord (discord link to be added later).
 2. Navigate to the #server-files channel.
-3. Download the `eqgame.dll` file from the following message: https://discord.com/channels/1133452007412334643/1135981619858128998/1170491429253034047
+3. Download the `eqgame.dll` file from the following message: [#server-files](https://discord.com/channels/1133452007412334643/1135981619858128998/1170491429253034047)
 4. Extract the `eqgame.dll` file to your TAKP folder (where you installed the game client).
 
 ## Step 4: Installing Zeal
+
+Zeal is used to add additional functionality to EverQuest. Main additions include camera smoothing, spell sets, and melody. A full list of features can be found in the [readme](https://github.com/iamclint/Zeal/blob/master/README.md)
+
+### Prerequisite - Enable sound in your eqclient.ini
+
+Make sure SOUND=ON is listed in your eqclient.ini. Zeal uses the EverQuest sound engine to inject code into the game, thus the sound must be enabled for Zeal to function.
+
 ### 1. (Required) Excluding your TAKP Installation
 Excluding your TAKP installation from being scanned by your antivirus software can help reduce load times, zoning times, and eliminate stuttering when opening your bags. This is highly recommended.
 
-Link: https://wiki.takp.info/index.php/Set_Windows_Defender_Exclusion_on_Windows_10
+Link: [Set Windows Defender Exclusion on Windows 10](https://wiki.takp.info/index.php/Set_Windows_Defender_Exclusion_on_Windows_10)
 
 Follow the instructions on the link above to exclude your TAKP installation from virus scans.
 
@@ -45,7 +52,7 @@ Follow the instructions on the link above to exclude your TAKP installation from
 Zeal is a file that utilizes a method known as code injection to enhance the functionality of EverQuest's sound engine. This process involves inserting custom code into the game's executable to introduce new features and improvements. While this technique is commonly associated with malware or viruses due to its intrusive nature, Zeal serves a legitimate purpose in enhancing the gaming experience. However, because Zeal is currently in early development and lacks a digital signature, it may trigger antivirus software to flag it as potentially harmful. This is because unsigned files are often treated with suspicion by operating systems and security software. Project Quarm intends to address this issue by obtaining a digital certificate from Microsoft to sign Zeal in the future, thereby eliminating any concerns about its legitimacy.
 
 ### 3. Download and Extract Zeal.asi to your TAKP Folder
-1. To download Zeal, visit the project's GitHub repository at [https://github.com/iamclint/Zeal](https://github.com/iamclint/Zeal) and navigate to the 'Releases' section. You'll find the latest version available for download in a file named `zeal.zip`. Ensure that you have previously excluded your TAKP folder from virus scans, as discussed in the previous step.
+1. To download Zeal, visit the project's GitHub repository at [https://github.com/iamclint/Zeal](https://github.com/iamclint/Zeal) and navigate to the '[Releases](https://github.com/iamclint/Zeal/releases)' section. You'll find the latest version available for download in a file named `zeal.zip`. Ensure that you have previously excluded your TAKP folder from virus scans, as discussed in the previous step.
 2. If you encounter any difficulties downloading the file, consider using an alternative browser such as Edge or Firefox. Alternatively, if you're using Chrome and experiencing issues, you may need to force the download by following the instructions [here](https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/This-file-is-dangerous-so-Chrome-has-blocked-it-message-received-when-downloading-ZIP-files-from-BIM-360-Team.html).
 3. Once downloaded, extract the contents of the zip file directly into the root directory of your TAKP folder.
 
