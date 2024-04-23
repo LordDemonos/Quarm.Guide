@@ -233,6 +233,7 @@ https://github.com/Codeusa/Borderless-Gaming/releases
 10. [Q: The game still isnt smooth. Camera movement is still jittery?](#q10)
 11. [Q: I logged in and I can only move the camera left and right or only up and down? Mouse speed is really fast too?](#q11)
 12. [Q: I want to turn off the loud music at character creation or character select screen?](#q12)
+13. [Q: Quarm enabled snow and its very loud?](Q13)
 
 ### Q1
 **A:** The main website projectquarm.com contains a link to the [Project Quarm Discord](https://discord.gg/3nDQ9AkUz8).
@@ -275,6 +276,9 @@ The mule account will be exempt from IP restrictions allowing you run a game cli
 
 ### Q12
 **A:** Delete the following files from your TAKP folder. `eqtheme.mp3` `combattheme1.mp3` `combattheme2.mp3` `deaththeme.mp3`
+
+### Q13
+**A:** Originally posted on discord by Hallic|Kelendil: For those interested in reducing or deleting the new event snow sound: The name of the file for the snow/wind loop is wind_lp1.wav located in the snd2.pfs file in your EQ directory. You will need a special pfs file viewer to open, extract or delete this file. To do so: https://github.com/Shendare/EQZip/releases . First open snd2.pfs and you will see a list of several environmental sounds there. You can export or delete the wind_lp1.wav OR even use an online .wav volume reducing tool such as: https://mp3cut.net/change-volume to reduce the volume. You can then upload the reduced volume wave file back into snd2.pfs (overwrite and replace the loud one) and now you have a much softer sounding ambient wind. You can do this for all the sound files btw and even make custom ones.
 
 ## Suggestions Feedback and Help
 
