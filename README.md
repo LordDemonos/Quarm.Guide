@@ -32,7 +32,7 @@ Before you can download and install the game, you'll need to create an account o
 
 3. Click "Create Login Server Account" and create a game account. Your forum account may have up to 10 game accounts, but you are limited to having three game accounts +1 trader account simultaneously logged in. Also note, your forum and game accounts are not linked to your wiki login in any way.
 
-#### [Source: LevelUpLarry](https://www.youtube.com/watch?v=u83_FICd97c)
+#### Source: [LevelUpLarry](https://www.youtube.com/watch?v=u83_FICd97c)
 
 ### Step 2: Download the Game Client
 1. Visit the Getting Started page on the TAKP wiki: [Getting Started](https://wiki.takp.info/index.php?title=Getting_Started)
@@ -155,7 +155,7 @@ To install the Old Skeleton Models, follow these steps:
 
 After following these steps, the Old Skeleton Models will be installed and applied to the game.
 
-[Source: ItsKensterrr](https://www.youtube.com/watch?v=spMp-f7S7FA) | [Source: ItsKensterrr](https://www.youtube.com/watch?v=zvhGnkbRW9g)
+Sources: [ItsKensterrr](https://www.youtube.com/watch?v=spMp-f7S7FA) | [ItsKensterrr](https://www.youtube.com/watch?v=zvhGnkbRW9g)
 
 ## Part 3: Installing Optional 3rd Party Programs
 
