@@ -51,7 +51,7 @@ Zeal is used to add additional functionality to EverQuest. Main additions includ
 
 #### Prerequisite 1. (Required) Enable sound in your eqclient.ini
 
-Make sure Sound=TRUE is listed in your eqclient.ini. Zeal uses the EverQuest sound engine to inject code into the game, thus the sound must be enabled for Zeal to function.
+Make sure Sound=TRUE is listed in your eqclient.ini. Zeal uses the EverQuest sound engine to inject code into the game, thus the sound must be enabled for Zeal to function. You will still have access to various sound options in game by pressing ALT + O and adjusting the sliders for Sound Realism, Music Volume, and Sound Volume.
 
 #### Prerequisite 2. (Required) Excluding your TAKP Installation
 Excluding your TAKP installation from being scanned by your antivirus software can help reduce load times, zoning times, and eliminate stuttering when opening your bags. This is highly recommended.
@@ -87,7 +87,7 @@ The Project Quarm team plans to address this issue by obtaining a digital certif
 4. Press the "./" in the upper right to select your TAKP folder.
 5. Under Adapters, make sure your primary video card is selected.
 6. Select "Windowed Mode".
-7. Navigate to the DriectX tab.
+7. Navigate to the DirectX tab.
 8. Change VRAM to match your video card's VRAM.
 9. Uncheck dgVooDoo watermark.
 
@@ -185,11 +185,11 @@ Provides player location and spell tracking support for TAKP by reading the play
 
 https://github.com/hitechhippie/nparse-takp
 
-#### PigParse/PQTool/EQTool
+#### Quarm Tool
 
 Log parser containing 3D Maps, Timers for everything, damage meters, and mob info.
 
-https://github.com/smasherprog/EqTool
+https://github.com/EJWellman/QuarmTool
 
 #### ZlizEQMap
 
@@ -288,4 +288,5 @@ Still reading? I'd like to expand this guide and keep it maintained. What I need
 
 #### @LordDemonos on [X](https://twitter.com/home)
 #### lorddemonos on [Discord](https://discord.com/)
+#### Special Thanks to `Zephon <Mayhem>` `Manie <Erud's Crossing Guard>` `Gamjee` `Calmethar.` 
 
