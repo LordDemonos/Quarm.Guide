@@ -5,8 +5,9 @@
 1. [Part 1: Installing the Main Game](#part-1-installing-the-main-game)
 2. [Part 2: (Optional) Installing Optional Textures and Effects](#part-2-optional-installing-optional-textures-and-effects)
 3. [Part 3: (Optional) Installing Optional 3rd Party Programs](#part-3-optional-installing-optional-3rd-party-programs)
-4. [FAQ](#faq)
-5. [Suggestions Feedback and Help](#suggestions-feedback-and-help)
+4. [Xanax's Checklist for Minimal Crashes](#xanaxs-checklist-for-minimal-crashes)
+5. [FAQ](#faq)
+6. [Suggestions Feedback and Help](#suggestions-feedback-and-help)
 
 ## Part 1: Installing the Main Game
 
