@@ -30,7 +30,7 @@ Before you can download and install the game, you'll need to create an account o
 ### Step 3: Converting your TAKP client to Quarm
 1. Join the Project Quarm discord (discord link to be added later).
 2. Navigate to the #server-files channel.
-3. Download the `eqgame.dll` file from the following message: [#server-files](https://discord.com/channels/1133452007412334643/1135981619858128998/1170491429253034047)
+3. Download the `eqgame.dll` file from the following message: [#server-files](https://discord.com/channels/1133452007412334643/1135981619858128998/1170491429253034047). This is the latest stable release. An experimental release of `eqgame.dll` can be found under [zeal-discussions](https://discord.com/channels/1133452007412334643/1210670176077348934/1227704216655761499).
 4. Extract the `eqgame.dll` file to your TAKP folder (where you installed the game client).
 
 ### Step 4: Installing Zeal
@@ -56,6 +56,39 @@ Zeal is a file that utilizes a method known as code injection to enhance the fun
 2. If you encounter any difficulties downloading the file, consider using an alternative browser such as Edge or Firefox. Alternatively, if you're using Chrome and experiencing issues, you may need to force the download by following the instructions [here](https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/This-file-is-dangerous-so-Chrome-has-blocked-it-message-received-when-downloading-ZIP-files-from-BIM-360-Team.html).
 3. Once downloaded, extract the contents of the zip file directly into the root directory of your TAKP folder.
 
+### Step 5: dgVoodoo2 
+
+[dgVoodoo2](http://dege.freeweb.hu/dgVoodoo2/dgVoodoo2/) is a set of implementation of old graphics API's for Windows 7 and later versions. If you are still having problems with intermittent game crashes, this may help. These steps were obtained from [El Hefe's Guide](https://www.youtube.com/watch?v=ArLNnN0GwfQ)
+
+1. Download the latest version [here](http://dege.freeweb.hu/dgVoodoo2/dgVoodoo2/). Open the zip file and extract only dgVoodooCpl to the root of your TAKP folder.
+2. For Windows, inside the zip file under /MS/x86/ copy all four .dll files to the root of your TAKP folder, overwriting any older files found.
+   
+D3D8.dll
+D3D9.dll
+D3Dlmm.dll
+DDraw.dll
+
+3. Run dgVoodoo.conf from within your TAKP folder.
+4. Press the "./" in the upper right to select your TAKP folder.
+5. Under Adapters, make sure your primary video card is selected.
+6. Select "Windowed Mode".
+7. Navigate to the DriectX tab.
+8. Change VRAM to match your video card's VRAM.
+9. Uncheck dgVooDoo watermark.
+
+### Xanax's Checklist for Minimal Crashes
+
+I wrote this guide because half of my guild seems to crash when they zone in and out of the planes. Everyone is on different pieces and versions of this game. Meanwhile I've thrown most of this guide into 3 different game folders and they all work well, only crashing occasionally when I drop to character select, or if I change my audio output source. Here's what I'm using:
+
+1. 2.1 version of TAKP was recommended back in October and I've stuck with it
+2. Secrets's experimental .dll from zeal-discussions.
+3. Excluded TAKP folder from antivirus scanning.
+4. Always running latest Zeal unless it contains a specific bug I want to avoid. Always keep previous versions backed up.
+5. dgVoodoo fix
+6. Also running several muted sound files, EQ Basic 1.1, KaichoFX Spell Effcts, and the game looks absolutely amazing!
+
+If you ask me, the first 3 are the biggest contributors to stability. Hopefully we can lessen these crashes and work towards fixing the rest over time.
+
 ## Part 2: (Optional) Installing Optional Textures and Effects
 This step is optional, but you can install various texture packs and visual effects to enhance the game's appearance.
 
@@ -76,7 +109,7 @@ To install EQ Basic 1.1, follow these steps:
 3. Create a new shortcut pointing to your newly copied EverQuest directory.
 4. Log into the game as usual and enjoy the new experience!
 
-#### KaichoFX Particle Effects
+#### KaichoFX Spell Effects
 Download Link: https://drive.google.com/file/d/1zXoiMFk-Z-f2Qc6tI9ZUJjfR98rVdLoK/view
 
 **DOWNLOAD** the latest SpellEffects pack _version 1d_ here: https://drive.google.com/drive/folders/1nSWhNloSVfPXb8Kdthb20pM_P99bGvBF?usp=sharing
@@ -105,18 +138,22 @@ After following these steps, the Old Skeleton Models will be installed and appli
 
 ## Step 6: (Optional) Installing Optional 3rd Party Programs
 
-#### dgVoodoo2 
 
-dgVoodoo2 is a set of implementation of old graphics API's for Windows 7 and later versions 
-
-http://dege.freeweb.hu/dgVoodoo2/dgVoodoo2/
 
 ## FAQ
 
 ...
 
-When I use my mouse wheel to scroll backwards, I do not see my character in 3rd person. How do I enable Mouse Look?
+Q: When I use my mouse wheel to scroll backwards, I do not see my character in 3rd person. How do I enable Mouse Look?
 
-Why doesnt (zeal feature) appear in my User Interface?
+A: You may have disabled mouse look. While logged into the game, press F12 to enable/disable mouse look
+
+Q: How do I make the chat text bigger in game?
+
+A: /chatfontsize 1-5
+
+Q: Why doesnt (zeal feature) appear in my User Interface?
+
+A: Zeal adds functionality so the User Interface needs to be told how to display that functionality. Zeal contains a few UI files you can drop into the TAKP/Uifiles/ folder that you use. Alternatively, you can find new user interafaces with added functionality. I use [Nillipus UI 1440p](https://discord.com/channels/1133452007412334643/1162826324092657757/1224809011392807003)[Merchant](https://discord.com/channels/1133452007412334643/1162826324092657757/1224861589799178321) and [qqui Calmethar](https://www.eqinterface.com/downloads/fileinfo.php?id=6959) is updated frequently.
 
 
