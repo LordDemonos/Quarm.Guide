@@ -225,16 +225,16 @@ https://github.com/Codeusa/Borderless-Gaming/releases
 ### Q1 Where can I learn more about Project Quarm?
 **A:** The main website projectquarm.com contains a link to the [Project Quarm Discord](https://discord.gg/3nDQ9AkUz8).
 
-### Q2
+### Q2 When I use my mouse wheel to scroll backwards, I do not see my character in 3rd person. How do I enable Mouse Look?
 **A:** You may have disabled mouse look. While logged into the game, press F12 to enable/disable mouse look.
 
-### Q3
+### Q3 How do I make the chat text bigger in game?
 **A:** /chatfontsize 1-5
 
-### Q4
+### Q4 Why doesnt (zeal feature) appear in my User Interface?
 **A:** Zeal adds functionality so the User Interface needs to be told how to display that functionality. Zeal contains a few UI files you can drop into the TAKP/Uifiles/ folder that you use. Alternatively, you can find new user interafaces with added functionality. I use [Nillipus UI 1440p](https://discord.com/channels/1133452007412334643/1162826324092657757/1224809011392807003)[Merchant](https://discord.com/channels/1133452007412334643/1162826324092657757/1224861589799178321) and [qqui Calmethar](https://www.eqinterface.com/downloads/fileinfo.php?id=6959) is updated frequently.
 
-### Q5
+### Q5 Problem with Mule Account?
 **A:** [Creating a mule](https://discord.com/channels/1133452007412334643/1135968760281432164/1208195978016854096) "The #makemule command is now available in game. Running the command in game will give you further instructions for how to flag the account as a mule and will ask that you run an additional command for confirmation.
 
 Flagging an account as a mule can not be undone and will delevel the character running the command to 1 SO BE CERTAIN OF YOUR INTENTIONS. 
@@ -243,9 +243,7 @@ The character running the command must first be of appropriate level and no othe
 
 The mule account will be exempt from IP restrictions allowing you run a game client and buy/sell/transfer items independent of your main account. Again, RUNNING THE COMMAND AND CONFIRMING WILL DELEVEL YOU TO 1 AND FLAG THE ENTIRE ACCOUNT AS A MULE ACCOUNT. BE CERTAIN OF YOUR INTENTIONS. @CSR WILL NOT REVOKE THIS FLAG UNDER ANY CIRCUMSTANCES, NOR ARE THEY EQUIPPED TO DEAL WITH ANY ISSUES THAT ARISE."
 
-Q: How do I change my resolution?
-
-### Q6
+### Q6 How do I change my resolution?
 **A:** In your eqclient.ini you can find the [VideoMode] section. Change this to match your desktop's settings.
 
 [VideoMode]
@@ -254,13 +252,13 @@ Width=1920
 Height=1080
 RefreshRate=60
 
-### Q7
+### Q7 How do I run the game full screen?
 **A:** You want to run the game in windowed mode first. In your eqclient.ini set this option WindowedMode=TRUE. Find [VideoMode] and set it to your desired resolution. When you are logged into EverQuest, press SHIFT + Enter to switch between windowed and fullscreen modes. If you are still having problems, see the 3rd party programs section for LosslessScaling.
 
-### Q8
+### Q8 I'm using the Stone UI from 1999?
 **A:** In your eqclient.ini set NewUI=TRUE and OldUI=False
 
-### Q9
+### Q9 How do I view nameplates from far away?
 **A:** Use an updated eqgame.dll and make sure eqclient.ini has EnableExtendedNameplateDistance=TRUE 
 
 ## Suggestions Feedback and Help
