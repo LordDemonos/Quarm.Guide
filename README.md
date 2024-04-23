@@ -231,6 +231,7 @@ https://github.com/Codeusa/Borderless-Gaming/releases
 8. [Q: I'm using the Stone UI from 1999?](#q8)
 9. [Q: How do I view nameplates from far away?](#q9)
 10. [Q: The game still isnt smooth. Camera movement is still jittery?](#q10)
+11. [Q: I logged in and I can only move the camera left and right or only up and down? Mouse speed is really fast too?](#q11)
 
 ### Q1
 **A:** The main website projectquarm.com contains a link to the [Project Quarm Discord](https://discord.gg/3nDQ9AkUz8).
@@ -272,7 +273,10 @@ RefreshRate=60
 **A:** Use an updated eqgame.dll and make sure eqclient.ini has EnableExtendedNameplateDistance=TRUE 
 
 ### Q10
-**A:** First make sure you're using the experimental eqgame.dll file as this fixes the framerate options in your eqclient.ini. With previous versions of eqgame.dll the frame rate/refresh rate values would not be respected.
+**A:** First make sure you're using the experimental eqgame.dll file as this fixes the framerate options in your eqclient.ini. With previous versions of eqgame.dll the frame rate/refresh rate values would not be respected. You eqclient.ini then has values for RefreshRate=60 MaxFPS=60 MaxBGFPS=60 MaxMouseLookFPS=60 and NoFPSLimiter=1 . These can be adjusted based on your monitor's refresh rate. 
+
+### Q11
+**A:** Sometimes Zeal's camera movement settings do not save properly so the camera feels too fast, or wont move at all. In game you can ALT + O to open the options menu and navigate to the Zeal tab. I like all my camera settings around .3. These settings can also be found in eqclient.ini at the bottom under [Zeal] MouseSensitivityX=0.300000 MouseSensitivityY=0.300000 MouseSensitivityX3rd=0.300000 MouseSensitivityY3rd=0.300000
 
 ## Suggestions Feedback and Help
 
