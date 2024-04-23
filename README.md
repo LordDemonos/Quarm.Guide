@@ -1,6 +1,13 @@
 # EverQuest Project Quarm Installation Guide (Updated: April 24, 2024)
 ##### By Xanax/Xantagonist < Former Glory > 
 
+## Table of Contents
+1. [Part 1: Installing the Main Game](#part-1-installing-the-main-game)
+2. [Part 2: (Optional) Installing Optional Textures and Effects](#part-2-optional-installing-optional-textures-and-effects)
+3. [Step 6: (Optional) Installing Optional 3rd Party Programs](#step-6-optional-installing-optional-3rd-party-programs)
+4. [FAQ](#faq)
+5. [Suggestions Feedback and Help](#suggestions-feedback-and-help)
+
 ## Part 1: Installing the Main Game
 
 #### Backup Warning - Anytime you change something or overwrite a file, backup the whole TAKP folder. Its easy and fast and I'm not going to remind you to backup files after every step. - Backup Warning
@@ -254,4 +261,6 @@ Still reading? I'd like to expand this guide and keep it maintained. What I need
 #### @LordDemonos on X
 #### lorddemonos on Discord
 
+##### EverQuest is a registered trademark of Daybreak Game Company LLC.
+##### EQEmulator and Project Quarm are not associated or affiliated in any way with Daybreak Game Company LLC.
 
