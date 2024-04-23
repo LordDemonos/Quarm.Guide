@@ -80,11 +80,7 @@ The Project Quarm team plans to address this issue by obtaining a digital certif
 
 1. Download the latest version [here](http://dege.freeweb.hu/dgVoodoo2/dgVoodoo2/). Open the zip file and extract only dgVoodooCpl to the root of your TAKP folder.
 2. For Windows, inside the zip file, under /MS/x86/ copy all four .dll files to the root of your TAKP folder, overwriting any older files found.
-   
-- `D3D8.dll`
-- `D3D9.dll`
-- `D3Dlmm.dll`
-- `DDraw.dll`
+    `D3D8.dll` `D3D9.dll``D3Dlmm.dll``DDraw.dll`
 
 3. Run dgVoodoo.conf from within your TAKP folder.
 4. Press the "./" in the upper right to select your TAKP folder.
