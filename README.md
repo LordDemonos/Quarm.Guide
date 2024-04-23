@@ -4,7 +4,7 @@
 ## Table of Contents
 1. [Part 1: Installing the Main Game](#part-1-installing-the-main-game)
 2. [Part 2: (Optional) Installing Optional Textures and Effects](#part-2-optional-installing-optional-textures-and-effects)
-3. [Step 6: (Optional) Installing Optional 3rd Party Programs](#step-6-optional-installing-optional-3rd-party-programs)
+3. [Part 3: (Optional) Installing Optional 3rd Party Programs](#step-6-optional-installing-optional-3rd-party-programs)
 4. [FAQ](#faq)
 5. [Suggestions Feedback and Help](#suggestions-feedback-and-help)
 
@@ -152,7 +152,7 @@ To install the Old Skeleton Models, follow these steps:
 
 After following these steps, the Old Skeleton Models will be installed and applied to the game.
 
-## Step 6: (Optional) Installing Optional 3rd Party Programs
+## Part 3: (Optional) Installing Optional 3rd Party Programs
 
 #### GINA
 
