@@ -222,7 +222,7 @@ https://github.com/Codeusa/Borderless-Gaming/releases
 8. [Q: I'm using the Stone UI from 1999?](#q8)
 9. [Q: How do I view nameplates from far away?](#q9)
 
-### Q1 Where can I learn more about Project Quarm?
+### Q1
 **A:** The main website projectquarm.com contains a link to the [Project Quarm Discord](https://discord.gg/3nDQ9AkUz8).
 
 ### Q2 When I use my mouse wheel to scroll backwards, I do not see my character in 3rd person. How do I enable Mouse Look?
