@@ -35,7 +35,7 @@ Before you can download and install the game, you'll need to create an account o
 
 ### Step 4: Installing Zeal
 
-Zeal is used to add additional functionality to EverQuest. Main additions include camera smoothing, spell sets, and melody. A full list of features can be found in the [readme](https://github.com/iamclint/Zeal/blob/master/README.md).
+Zeal is used to add additional functionality to EverQuest. Main additions include camera smoothing, better tab targetting, spell sets, and melody. A full list of features can be found in the [readme](https://github.com/iamclint/Zeal/blob/master/README.md).
 
 #### Prerequisite 1. (Required) Enable sound in your eqclient.ini
 
@@ -116,5 +116,7 @@ http://dege.freeweb.hu/dgVoodoo2/dgVoodoo2/
 ...
 
 When I use my mouse wheel to scroll backwards, I do not see my character in 3rd person. How do I enable Mouse Look?
+
+Why doesnt (zeal feature) appear in my User Interface?
 
 
