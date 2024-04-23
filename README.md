@@ -255,32 +255,26 @@ The character running the command must first be of appropriate level and no othe
 The mule account will be exempt from IP restrictions allowing you run a game client and buy/sell/transfer items independent of your main account. Again, RUNNING THE COMMAND AND CONFIRMING WILL DELEVEL YOU TO 1 AND FLAG THE ENTIRE ACCOUNT AS A MULE ACCOUNT. BE CERTAIN OF YOUR INTENTIONS. @CSR WILL NOT REVOKE THIS FLAG UNDER ANY CIRCUMSTANCES, NOR ARE THEY EQUIPPED TO DEAL WITH ANY ISSUES THAT ARISE."
 
 ### Q6
-**A:** In your eqclient.ini you can find the [VideoMode] section. Change this to match your desktop's settings.
-
-[VideoMode]
-BitsPerPixel=32
-Width=1920
-Height=1080
-RefreshRate=60
+**A:** In your `eqclient.ini` you can find the [VideoMode] section. Change this to match your desktop's settings. [VideoMode] `BitsPerPixel=32` `Width=1920` `Height=1080` `RefreshRate=60`
 
 ### Q7
-**A:** You want to run the game in windowed mode first. In your eqclient.ini set this option WindowedMode=TRUE. Find [VideoMode] and set it to your desired resolution. When you are logged into EverQuest, press SHIFT + Enter to switch between windowed and fullscreen modes. If you are still having problems, see the 3rd party programs section for LosslessScaling.
+**A:** You want to run the game in windowed mode first. In your `eqclient.ini` set this option `WindowedMode=TRUE`. Find [VideoMode] and set it to your desired resolution. When you are logged into EverQuest, press SHIFT + Enter to switch between windowed and fullscreen modes. If you are still having problems, see the 3rd party programs section for LosslessScaling.
 
 ### Q8
-**A:** In your eqclient.ini set NewUI=TRUE and OldUI=False
+**A:** In your `eqclient.ini` set NewUI=TRUE and `OldUI=False`.
 
 ### Q9
-**A:** Use an updated eqgame.dll and make sure eqclient.ini has EnableExtendedNameplateDistance=TRUE 
+**A:** Use an updated eqgame.dll and make sure `eqclient.ini` has `EnableExtendedNameplateDistance=TRUE`. 
 
 ### Q10
-**A:** First make sure you're using the experimental eqgame.dll file as this fixes the framerate options in your eqclient.ini. With previous versions of eqgame.dll the frame rate/refresh rate values would not be respected. You eqclient.ini then has values for RefreshRate=60 MaxFPS=60 MaxBGFPS=60 MaxMouseLookFPS=60 and NoFPSLimiter=1 . These can be adjusted based on your monitor's refresh rate. 
+**A:** First make sure you're using the experimental `eqgame.dll` file as this fixes the framerate options in your `eqclient.ini`. With previous versions of `eqgame.dll` the frame rate/refresh rate values would not be respected. You `eqclient.ini` then has values for `RefreshRate=60` `MaxFPS=60` `MaxBGFPS=60` `MaxMouseLookFPS=60` and `NoFPSLimiter=1` . These can be adjusted based on your monitor's refresh rate. 
 
 ### Q11
-**A:** Sometimes Zeal's camera movement settings do not save properly so the camera feels too fast, or wont move at all. In game you can ALT + O to open the options menu and navigate to the Zeal tab. I like all my camera settings around .3. These settings can also be found in eqclient.ini at the bottom under [Zeal] MouseSensitivityX=0.300000 MouseSensitivityY=0.300000 MouseSensitivityX3rd=0.300000 MouseSensitivityY3rd=0.300000
+**A:** Sometimes Zeal's camera movement settings do not save properly so the camera feels too fast, or wont move at all. In game you can ALT + O to open the options menu and navigate to the Zeal tab. I like all my camera settings around .3. These settings can also be found in `eqclient.ini` at the bottom under [Zeal] `MouseSensitivityX=0.300000` `MouseSensitivityY=0.300000` `MouseSensitivityX3rd=0.300000` `MouseSensitivityY3rd=0.300000`.
 
 ## Suggestions Feedback and Help
 
-Still reading? I'd like to expand this guide and keep it maintained. What I need from you are more questions to populate the FAQ at the bottom. I need to install Visual Studio and document steps to attaching the game to it to log the data the Secrets and Salty need when the game crashes or bugs out. I'd like to host a fully updated ZlizEQMap [zonedata file](https://github.com/hada79/ZlizEQMap/blob/master/ZoneData/ZoneData-The%20Al'Kabor%20Project.txt) but this one isn't updated for Quarm. I have some other ideas too. Please submit suggestions/help/feedback to me via DM on X or Discord. Feel free to ask Xanax/Xantagonist <Former Glory> any questions, anywhere you find me in game! 
+Still reading? I'd like to expand this guide and keep it maintained. What I need from you are more questions to populate the FAQ at the bottom. I need to install Visual Studio and document steps to attaching the game to it to log the data the Secrets and Salty need when the game crashes or bugs out. I'd like to host a fully updated ZlizEQMap [zonedata file](https://github.com/hada79/ZlizEQMap/blob/master/ZoneData/ZoneData-The%20Al'Kabor%20Project.txt) but this one isn't updated for Quarm. I have some other ideas too. Please submit suggestions/help/feedback to me via DM on X or Discord. Feel free to ask Xanax/Xantagonist < Former Glory > any questions, anywhere you find me in game! 
 
 #### @LordDemonos on [X](https://twitter.com/home)
 #### lorddemonos on [Discord](https://discord.com/)
