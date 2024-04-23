@@ -266,7 +266,7 @@ The mule account will be exempt from IP restrictions allowing you run a game cli
 **A:** In your `eqclient.ini` set NewUI=TRUE and `OldUI=False`.
 
 ### Q9
-**A:** Use an updated eqgame.dll and make sure `eqclient.ini` has `EnableExtendedNameplateDistance=TRUE`. 
+**A:** Use an [updated](#step-3-converting-your-takp-client-to-quarm) `eqgame.dll` and make sure `eqclient.ini` has `EnableExtendedNameplateDistance=TRUE`. 
 
 ### Q10
 **A:** First make sure you're using the experimental `eqgame.dll` file as this fixes the framerate options in your `eqclient.ini`. With previous versions of `eqgame.dll` the frame rate/refresh rate values would not be respected. You `eqclient.ini` then has values for `RefreshRate=60` `MaxFPS=60` `MaxBGFPS=60` `MaxMouseLookFPS=60` and `NoFPSLimiter=1` . These can be adjusted based on your monitor's refresh rate. The general consensus seems to be to limit your FPS, and set it to your monitor's max refres rate. The higher the frame rate, the smoother the game should feel. 
