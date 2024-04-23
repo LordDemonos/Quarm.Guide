@@ -37,21 +37,21 @@ Before you can download and install the game, you'll need to create an account o
 
 Zeal is used to add additional functionality to EverQuest. Main additions include camera smoothing, spell sets, and melody. A full list of features can be found in the [readme](https://github.com/iamclint/Zeal/blob/master/README.md)
 
-#### Prerequisite - Enable sound in your eqclient.ini
+#### Prerequisite 1. (Required) Enable sound in your eqclient.ini
 
 Make sure SOUND=ON is listed in your eqclient.ini. Zeal uses the EverQuest sound engine to inject code into the game, thus the sound must be enabled for Zeal to function.
 
-#### 1. (Required) Excluding your TAKP Installation
+#### Prerequisite 2. (Required) Excluding your TAKP Installation
 Excluding your TAKP installation from being scanned by your antivirus software can help reduce load times, zoning times, and eliminate stuttering when opening your bags. This is highly recommended.
 
 Link: [Set Windows Defender Exclusion on Windows 10](https://wiki.takp.info/index.php/Set_Windows_Defender_Exclusion_on_Windows_10)
 
 Follow the instructions on the link above to exclude your TAKP installation from virus scans.
 
-#### 2. Why is Zeal getting flagged as a Virus/Malware?
+#### Why is Zeal getting flagged as a Virus/Malware?
 Zeal is a file that utilizes a method known as code injection to enhance the functionality of EverQuest's sound engine. This process involves inserting custom code into the game's executable to introduce new features and improvements. While this technique is commonly associated with malware or viruses due to its intrusive nature, Zeal serves a legitimate purpose in enhancing the gaming experience. However, because Zeal is currently in early development and lacks a digital signature, it may trigger antivirus software to flag it as potentially harmful. This is because unsigned files are often treated with suspicion by operating systems and security software. Project Quarm intends to address this issue by obtaining a digital certificate from Microsoft to sign Zeal in the future, thereby eliminating any concerns about its legitimacy.
 
-#### 3. Download and Extract Zeal.asi to your TAKP Folder
+#### Download and Extract Zeal.asi to your TAKP Folder
 1. To download Zeal, visit the project's GitHub repository at [https://github.com/iamclint/Zeal](https://github.com/iamclint/Zeal) and navigate to the '[Releases](https://github.com/iamclint/Zeal/releases)' section. You'll find the latest version available for download in a file named `zeal.zip`. Ensure that you have previously excluded your TAKP folder from virus scans, as discussed in the previous step.
 2. If you encounter any difficulties downloading the file, consider using an alternative browser such as Edge or Firefox. Alternatively, if you're using Chrome and experiencing issues, you may need to force the download by following the instructions [here](https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/This-file-is-dangerous-so-Chrome-has-blocked-it-message-received-when-downloading-ZIP-files-from-BIM-360-Team.html).
 3. Once downloaded, extract the contents of the zip file directly into the root directory of your TAKP folder.
