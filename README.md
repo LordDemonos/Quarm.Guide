@@ -98,7 +98,7 @@ Under Compatability, select "Run this program in compatability mode for Windows 
 
 I wrote this guide because half of my guild seems to crash when they zone in and out of the planes. Everyone is on different pieces and versions of this game. Meanwhile I've thrown most of this guide into 3 different game folders and they all work well, only crashing occasionally when I drop to character select, or if I change my audio output source. Here's what I'm using:
 
-1. 2.1 version of TAKP was recommended back in October and I've stuck with it
+1. 2.1 version of TAKP was recommended back in October and I've stuck with it.
 2. Secrets's experimental .dll from zeal-discussions.
 3. Excluded TAKP folder from antivirus scanning.
 4. Always running latest Zeal unless it contains a specific bug I want to avoid. Always keep previous versions backed up.
