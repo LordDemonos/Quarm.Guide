@@ -204,6 +204,12 @@ Lossless Scaling allows you to scale windowed games to full screen using the sta
 
 https://store.steampowered.com/app/993090/Lossless_Scaling/
 
+### Borderless Gaming
+
+I dont use this with EQ but I need to mention it alongside Lossless Scaling. I use it with my 4k OLED monitor to remove the Windows border around games sometimes to prevent OLED burn-in. Its pricey on Steam but free on Github.
+
+https://github.com/Codeusa/Borderless-Gaming/releases
+
 ## FAQ
 
 Q: Where can I learn more about Project Quarm?
