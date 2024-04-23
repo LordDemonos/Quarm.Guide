@@ -10,7 +10,7 @@
         - [Why is Zeal getting flagged as a Virus/Malware?](#why-is-zeal-getting-flagged-as-a-virusmalware)
         - [Download and Extract Zeal.asi to your TAKP Folder](#download-and-extract-zealasi-to-your-takp-folder)
     - [Step 5: dgVoodoo2](#step-5-dgvoodoo2)
-    - [Setp 6: Placebos](#setp-6-placebos)
+    - [Setep 6: Placebos](#setep-6-placebos)
 2. [Xanax's Checklist for Minimal Crashes](#xanaxs-checklist-for-minimal-crashes)
 3. [Part 2: Installing Optional Textures and Effects](#part-2-installing-optional-textures-and-effects)
 4. [Part 3: Installing Optional 3rd Party Programs](#part-3-installing-optional-3rd-party-programs)
@@ -47,7 +47,7 @@ Before you can download and install the game, you'll need to create an account o
 
 ### Step 4: Installing Zeal
 
-Zeal is used to add additional functionality to EverQuest. Main additions include camera smoothing, better tab targetting, spell sets, and melody. A full list of features can be found in the [readme](https://github.com/iamclint/Zeal/blob/master/README.md).
+Zeal is used to add additional functionality to EverQuest. Main additions include camera smoothing, better tab targeting, spell sets, and melody. A full list of features can be found in the [readme](https://github.com/iamclint/Zeal/blob/master/README.md).
 
 #### Prerequisite 1. (Required) Enable sound in your eqclient.ini
 
@@ -74,7 +74,7 @@ Zeal is a file that utilizes a method known as code injection to enhance the fun
 [dgVoodoo2](http://dege.freeweb.hu/dgVoodoo2/dgVoodoo2/) is a set of implementation of old graphics API's for Windows 7 and later versions. If you are still having problems with intermittent game crashes, this may help. These steps were obtained from [El Hefe's Guide](https://www.youtube.com/watch?v=ArLNnN0GwfQ)
 
 1. Download the latest version [here](http://dege.freeweb.hu/dgVoodoo2/dgVoodoo2/). Open the zip file and extract only dgVoodooCpl to the root of your TAKP folder.
-2. For Windows, inside the zip file under /MS/x86/ copy all four .dll files to the root of your TAKP folder, overwriting any older files found.
+2. For Windows, inside the zip file, under /MS/x86/ copy all four .dll files to the root of your TAKP folder, overwriting any older files found.
    
 D3D8.dll
 D3D9.dll
@@ -89,7 +89,7 @@ DDraw.dll
 8. Change VRAM to match your video card's VRAM.
 9. Uncheck dgVooDoo watermark.
 
-### Setp 6: Placebos
+### Setep 6: Placebos
 
 Navigate to your TAKP folder and find eqgame.exe. Right click and select Properties. 
 Under Compatability, select "Run this program in compatability mode for Windows XP (Service Pack 3)" and "Run this program as an administrator". 
