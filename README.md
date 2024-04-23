@@ -40,7 +40,7 @@ Before you can download and install the game, you'll need to create an account o
 3. Download the stable 2.1 version of the game client [here](https://www.dropbox.com/s/bppy4ebt7vl7hwk/TAKP%20PC%20V2.1c.zip?dl=0), or use the latest 2.2 version [here](https://drive.google.com/file/d/1qoBktDeJMJKPBr-EZxub1vspJhz11i1y).
 
 ### Step 3: Converting your TAKP client to Quarm
-1. Join the Project Quarm discord (discord link to be added later).
+1. Join the [Project Quarm Discord](https://discord.gg/3nDQ9AkUz8).
 2. Navigate to the #server-files channel.
 3. Download the `eqgame.dll` file from the following message: [#server-files](https://discord.com/channels/1133452007412334643/1135981619858128998/1170491429253034047). This is the latest stable release. An experimental release of `eqgame.dll` can be found under [zeal-discussions](https://discord.com/channels/1133452007412334643/1210670176077348934/1227704216655761499).
 4. Extract the `eqgame.dll` file to your TAKP folder (where you installed the game client).
