@@ -23,15 +23,6 @@ Before you can download and install the game, you'll need to create an account o
 
 3. Click "Create Login Server Account" and create a game account. Your forum account may have up to 10 game accounts, but you are limited to having three game accounts +1 trader account simultaneously logged in. Also note, your forum and game accounts are not linked to your wiki login in any way.
 
-*NOTE: Some Gmail users have reported not receiving the email verification or password reset verification emails from the TAKP website. If you encounter this issue, try the following steps:*
-
-1. Go to the Gmail client via browser
-2. Go to SETTINGS on the upper right (small cogwheel)
-3. Select CONFIGURE INBOX
-4. Place a check beside all the tabs (Primary, Social, Promotions, Updates, and Forums)
-5. SAVE
-6. Reload/Refresh the page and search for any variation of TAKP
-
 ### Step 2: Download the Game Client
 1. Visit the Getting Started page on the TAKP wiki: [Getting Started](https://wiki.takp.info/index.php?title=Getting_Started)
 2. Click on the "Getting Started with Windows" section.
