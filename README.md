@@ -230,6 +230,7 @@ https://github.com/Codeusa/Borderless-Gaming/releases
 7. [Q: How do I run the game full screen?](#q7)
 8. [Q: I'm using the Stone UI from 1999?](#q8)
 9. [Q: How do I view nameplates from far away?](#q9)
+10. [Q: The game still isnt smooth. Camera movement is still jittery?](#q10)
 
 ### Q1
 **A:** The main website projectquarm.com contains a link to the [Project Quarm Discord](https://discord.gg/3nDQ9AkUz8).
@@ -261,14 +262,17 @@ Width=1920
 Height=1080
 RefreshRate=60
 
-### Q7 How do I run the game full screen?
+### Q7
 **A:** You want to run the game in windowed mode first. In your eqclient.ini set this option WindowedMode=TRUE. Find [VideoMode] and set it to your desired resolution. When you are logged into EverQuest, press SHIFT + Enter to switch between windowed and fullscreen modes. If you are still having problems, see the 3rd party programs section for LosslessScaling.
 
-### Q8 I'm using the Stone UI from 1999?
+### Q8
 **A:** In your eqclient.ini set NewUI=TRUE and OldUI=False
 
-### Q9 How do I view nameplates from far away?
+### Q9
 **A:** Use an updated eqgame.dll and make sure eqclient.ini has EnableExtendedNameplateDistance=TRUE 
+
+### Q10
+**A:** First make sure you're using the experimental eqgame.dll file as this fixes the framerate options in your eqclient.ini. With previous versions of eqgame.dll the frame rate/refresh rate values would not be respected.
 
 ## Suggestions Feedback and Help
 
