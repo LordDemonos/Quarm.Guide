@@ -109,7 +109,7 @@ I wrote this guide because half of my guild seems to crash when they zone in and
 If you ask me, the first 3 are the biggest contributors to stability. Hopefully we can lessen these crashes and work towards fixing the rest over time.
 
 ## Part 2: Installing Optional Textures and Effects
-This step is optional, but you can install various texture packs and visual effects to enhance the game's appearance.
+You can install various texture packs and visual effects to enhance the game's appearance.
 
 #### Classic HD Textures
 Download Link: https://wiki.project1999.com/EQ_Classic_HD#The_Al.27Kabor_Project_version:
@@ -158,6 +158,8 @@ After following these steps, the Old Skeleton Models will be installed and appli
 [Source: ItsKensterrr](https://www.youtube.com/watch?v=spMp-f7S7FA)[Source: ItsKensterrr](https://www.youtube.com/watch?v=zvhGnkbRW9g)
 
 ## Part 3: Installing Optional 3rd Party Programs
+
+These programs add functionality not found in the game client by reading your EverQuest player log files. Programs that use hooks to inject code into the game are now allowed, with the one exception being Zeal.
 
 #### GINA
 
