@@ -28,23 +28,28 @@ Before you can download and install the game, you'll need to create an account o
 3. Download the stable 2.1 version of the game client, or use the latest 2.2 version. I plan on expanding more on this later.
 
 ## Step 3: Converting your TAKP client to Quarm
-### 1. Join the Project Quarm discord (discord link to be added later).
-### 2. Navigate to the #server-files channel.
-### 3. Download the `eqgame.dll` file from the following message: https://discord.com/channels/1133452007412334643/1135981619858128998/1170491429253034047
-### 4. Extract the `eqgame.dll` file to your TAKP folder (where you installed the game client).
+1. Join the Project Quarm discord (discord link to be added later).
+2. Navigate to the #server-files channel.
+3. Download the `eqgame.dll` file from the following message: https://discord.com/channels/1133452007412334643/1135981619858128998/1170491429253034047
+4. Extract the `eqgame.dll` file to your TAKP folder (where you installed the game client).
 
 ## Step 4: Installing Zeal
+### 1. (Required) Excluding your TAKP Installation
 Excluding your TAKP installation from being scanned by your antivirus software can help reduce load times, zoning times, and eliminate stuttering when opening your bags. This is highly recommended.
 
 Link: https://wiki.takp.info/index.php/Set_Windows_Defender_Exclusion_on_Windows_10
 
 Follow the instructions on the link above to exclude your TAKP installation from virus scans.
 
+### 2. Why is Zeal getting flagged as a Virus/Malware?
 Zeal is a file that utilizes a method known as code injection to enhance the functionality of EverQuest's sound engine. This process involves inserting custom code into the game's executable to introduce new features and improvements. While this technique is commonly associated with malware or viruses due to its intrusive nature, Zeal serves a legitimate purpose in enhancing the gaming experience. However, because Zeal is currently in early development and lacks a digital signature, it may trigger antivirus software to flag it as potentially harmful. This is because unsigned files are often treated with suspicion by operating systems and security software. Project Quarm intends to address this issue by obtaining a digital certificate from Microsoft to sign Zeal in the future, thereby eliminating any concerns about its legitimacy.
 
-To download Zeal, visit the project's GitHub repository at [https://github.com/iamclint/Zeal](https://github.com/iamclint/Zeal) and navigate to the 'Releases' section. You'll find the latest version available for download in a file named `zeal.zip`. Ensure that you have previously excluded your TAKP folder from virus scans, as discussed in the previous step. If you encounter any difficulties downloading the file, consider using an alternative browser such as Edge or Firefox. Alternatively, if you're using Chrome and experiencing issues, you may need to force the download by following the instructions [here](https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/This-file-is-dangerous-so-Chrome-has-blocked-it-message-received-when-downloading-ZIP-files-from-BIM-360-Team.html). Once downloaded, extract the contents of the zip file directly into the root directory of your TAKP folder.
+### 3. Download and Extract Zeal.asi to your TAKP Folder
+1. To download Zeal, visit the project's GitHub repository at [https://github.com/iamclint/Zeal](https://github.com/iamclint/Zeal) and navigate to the 'Releases' section. You'll find the latest version available for download in a file named `zeal.zip`. Ensure that you have previously excluded your TAKP folder from virus scans, as discussed in the previous step.
+2. If you encounter any difficulties downloading the file, consider using an alternative browser such as Edge or Firefox. Alternatively, if you're using Chrome and experiencing issues, you may need to force the download by following the instructions [here](https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/This-file-is-dangerous-so-Chrome-has-blocked-it-message-received-when-downloading-ZIP-files-from-BIM-360-Team.html).
+3. Once downloaded, extract the contents of the zip file directly into the root directory of your TAKP folder.
 
-### Step 5: Installing Optional Textures and Effects (Optional)
+### Step 5: (Optional) Installing Optional Textures and Effects
 This step is optional, but you can install various texture packs and visual effects to enhance the game's appearance.
 
 #### Classic HD Textures
@@ -91,16 +96,12 @@ To install the Old Skeleton Models, follow these steps:
 
 After following these steps, the Old Skeleton Models will be installed and applied to the game.
 
-### Step 6: Download the Installer
-...
-
-### Step 7: Run the Installer
-...
-
-## Part 2: Installing Optional Textures, Asis, and Zeal
-
-...
+### Step 6: (Optional) Installing Optional 3rd Party Programs
 
 ## FAQ
 
 ...
+
+When I use my mouse wheel to scroll backwards, I do not see my character in 3rd person. How do I enable Mouse Look?
+
+
