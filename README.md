@@ -4,8 +4,8 @@
 ## Table of Contents
 1. [Part 1: Installing the Main Game](#part-1-installing-the-main-game)
 2. [Xanax's Checklist for Minimal Crashes](#xanaxs-checklist-for-minimal-crashes)
-3. [Part 2: (Optional) Installing Optional Textures and Effects](#part-2-optional-installing-optional-textures-and-effects)
-4. [Part 3: (Optional) Installing Optional 3rd Party Programs](#part-3-optional-installing-optional-3rd-party-programs)
+3. [Part 2: Installing Optional Textures and Effects](#part-2-installing-optional-textures-and-effects)
+4. [Part 3: Installing Optional 3rd Party Programs](#part-3-installing-optional-3rd-party-programs)
 5. [FAQ](#faq)
 6. [Suggestions Feedback and Help](#suggestions-feedback-and-help)
 
@@ -98,7 +98,7 @@ I wrote this guide because half of my guild seems to crash when they zone in and
 
 If you ask me, the first 3 are the biggest contributors to stability. Hopefully we can lessen these crashes and work towards fixing the rest over time.
 
-## Part 2: (Optional) Installing Optional Textures and Effects
+## Part 2: Installing Optional Textures and Effects
 This step is optional, but you can install various texture packs and visual effects to enhance the game's appearance.
 
 #### Classic HD Textures
@@ -145,7 +145,7 @@ To install the Old Skeleton Models, follow these steps:
 
 After following these steps, the Old Skeleton Models will be installed and applied to the game.
 
-## Part 3: (Optional) Installing Optional 3rd Party Programs
+## Part 3: Installing Optional 3rd Party Programs
 
 #### GINA
 
