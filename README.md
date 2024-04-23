@@ -232,6 +232,7 @@ https://github.com/Codeusa/Borderless-Gaming/releases
 9. [Q: How do I view nameplates from far away?](#q9)
 10. [Q: The game still isnt smooth. Camera movement is still jittery?](#q10)
 11. [Q: I logged in and I can only move the camera left and right or only up and down? Mouse speed is really fast too?](#q11)
+12. [Q: I want to turn off the loud music at character creation or character select screen?](#q12)
 
 ### Q1
 **A:** The main website projectquarm.com contains a link to the [Project Quarm Discord](https://discord.gg/3nDQ9AkUz8).
@@ -271,6 +272,9 @@ The mule account will be exempt from IP restrictions allowing you run a game cli
 
 ### Q11
 **A:** Sometimes Zeal's camera movement settings do not save properly so the camera feels too fast, or wont move at all. In game you can ALT + O to open the options menu and navigate to the Zeal tab. I like all my camera settings around .3. These settings can also be found in `eqclient.ini` at the bottom under [Zeal] `MouseSensitivityX=0.300000` `MouseSensitivityY=0.300000` `MouseSensitivityX3rd=0.300000` `MouseSensitivityY3rd=0.300000`.
+
+### Q12
+**A:** Delete the following files from your TAKP folder. `eqtheme.mp3` `combattheme1.mp3` `combattheme2.mp3` `deaththeme.mp3`
 
 ## Suggestions Feedback and Help
 
