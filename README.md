@@ -1,12 +1,12 @@
 # EverQuest Project Quarm Installation Guide (Updated: April 24, 2024)
-##### By Xanax/Xantagonist < Former Glory >
+##### By Xanax/Xantagonist < Former Glory > / lorddemonos on Discord
 
 ## Part 1: Installing the Main Game
 
 ### Step 1: Create a TAKP Forum Account
 Before you can download and install the game, you'll need to create an account on the TAKP forums.
 
-**NOTE: You must only create 1 forum account. You can create up to 10 game accounts under your forum account, but you must not create more than 1 forum account. If this is detected, the extra forum accounts will be deleted, and access to any game accounts associated with them will be lost. Also, please name your forum and game accounts carefully as these cannot be changed or deleted after creation. Read the forum FAQ and Rules for more information [here](https://www.takproject.net/forums/index.php?forums/server-info.90/).**
+**NOTE: You must only create 1 forum account. You can create up to 10 game accounts under your forum account, but you must not create more than 1 forum account. If this is detected, the extra forum accounts will be deleted, and access to any game accounts associated with them will be lost. Also, please name your forum and game accounts carefully as these cannot be changed or deleted after creation. Read the forum FAQ and Rules for more information [here](https://www.takproject.net/forums/index.php?forums/server-info.90/).*
 
 1. Visit the following link and follow the instructions to register a new account: [Login](https://www.takproject.net/forums/index.php?login%2F)
 
@@ -14,7 +14,7 @@ Before you can download and install the game, you'll need to create an account o
 
 3. Click "Create Login Server Account" and create a game account. Your forum account may have up to 10 game accounts, but you are limited to having three game accounts +1 trader account simultaneously logged in. Also note, your forum and game accounts are not linked to your wiki login in any way.
 
-**NOTE: Some Gmail users have reported not receiving the email verification or password reset verification emails from the TAKP website. If you encounter this issue, try the following steps:**
+*NOTE: Some Gmail users have reported not receiving the email verification or password reset verification emails from the TAKP website. If you encounter this issue, try the following steps:*
 
 1. Go to the Gmail client via browser
 2. Go to SETTINGS on the upper right (small cogwheel)
@@ -77,6 +77,11 @@ DDraw.dll
 8. Change VRAM to match your video card's VRAM.
 9. Uncheck dgVooDoo watermark.
 
+### Setp 6: Placebos
+
+Navigate to your TAKP folder and find eqgame.exe. Right click and select Properties. 
+Under Compatability, select "Run this program in compatability mode for Windows XP (Service Pack 3)" and "Run this program as an administrator". 
+
 ### Xanax's Checklist for Minimal Crashes
 
 I wrote this guide because half of my guild seems to crash when they zone in and out of the planes. Everyone is on different pieces and versions of this game. Meanwhile I've thrown most of this guide into 3 different game folders and they all work well, only crashing occasionally when I drop to character select, or if I change my audio output source. Here's what I'm using:
@@ -86,7 +91,8 @@ I wrote this guide because half of my guild seems to crash when they zone in and
 3. Excluded TAKP folder from antivirus scanning.
 4. Always running latest Zeal unless it contains a specific bug I want to avoid. Always keep previous versions backed up.
 5. dgVoodoo fix
-6. Also running several muted sound files, EQ Basic 1.1, KaichoFX Spell Effcts, and the game looks absolutely amazing!
+6. Running program as Administrator.
+7. Also running several muted sound files, EQ Basic 1.1, KaichoFX Spell Effcts, and the game looks absolutely amazing!
 
 If you ask me, the first 3 are the biggest contributors to stability. Hopefully we can lessen these crashes and work towards fixing the rest over time.
 
@@ -189,7 +195,7 @@ Flagging an account as a mule can not be undone and will delevel the character r
 
 The character running the command must first be of appropriate level and no other characters can exist on the account when the command is run. Once an account is flagged as a mule then all characters on the account will be mules bound in EC tunnel and can not leave EC nor level past level 1. These accounts should not contribute to overall server population - this is so we can accurately track server population across third-party population tracking websites, such as UnixGeek's EQEmulator player stats.
 
-The mule account will be exempt from IP restrictions allowing you run a game client and buy/sell/transfer items independent of your main account. Again, RUNNING THE COMMAND AND CONFIRMING WILL DELEVEL YOU TO 1 AND FLAG THE ENTIRE ACCOUNT AS A MULE ACCOUNT. BE CERTAIN OF YOUR INTENTIONS. @CSR WILL NOT REVOKE THIS FLAG UNDER ANY CIRCUMSTANCES, NOR ARE THEY EQUIPPED TO DEAL WITH ANY ISSUES THAT ARISE. (edited)"
+The mule account will be exempt from IP restrictions allowing you run a game client and buy/sell/transfer items independent of your main account. Again, RUNNING THE COMMAND AND CONFIRMING WILL DELEVEL YOU TO 1 AND FLAG THE ENTIRE ACCOUNT AS A MULE ACCOUNT. BE CERTAIN OF YOUR INTENTIONS. @CSR WILL NOT REVOKE THIS FLAG UNDER ANY CIRCUMSTANCES, NOR ARE THEY EQUIPPED TO DEAL WITH ANY ISSUES THAT ARISE."
 
 ## Suggestions Feedback and Help
 
