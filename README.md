@@ -22,18 +22,18 @@ Before you can download and install the game, you'll need to create an account o
 5. SAVE
 6. Reload/Refresh the page and search for any variation of TAKP
 
-### Step 2: Download the Game Client
+## Step 2: Download the Game Client
 1. Visit the Getting Started page on the TAKP wiki: https://wiki.takp.info/index.php?title=Getting_Started
 2. Click on the "Getting Started with Windows" section.
 3. Download the stable 2.1 version of the game client, or use the latest 2.2 version. I plan on expanding more on this later.
 
-### Step 3: Converting your TAKP client to Quarm
-1. Join the Project Quarm discord (discord link to be added later).
-2. Navigate to the #server-files channel.
-3. Download the `eqgame.dll` file from the following message: https://discord.com/channels/1133452007412334643/1135981619858128998/1170491429253034047
-4. Extract the `eqgame.dll` file to your TAKP folder (where you installed the game client).
+## Step 3: Converting your TAKP client to Quarm
+### 1. Join the Project Quarm discord (discord link to be added later).
+### 2. Navigate to the #server-files channel.
+### 3. Download the `eqgame.dll` file from the following message: https://discord.com/channels/1133452007412334643/1135981619858128998/1170491429253034047
+### 4. Extract the `eqgame.dll` file to your TAKP folder (where you installed the game client).
 
-### Step 4: Installing Zeal
+## Step 4: Installing Zeal
 Excluding your TAKP installation from being scanned by your antivirus software can help reduce load times, zoning times, and eliminate stuttering when opening your bags. This is highly recommended.
 
 Link: https://wiki.takp.info/index.php/Set_Windows_Defender_Exclusion_on_Windows_10
