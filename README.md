@@ -3,6 +3,14 @@
 
 ## Table of Contents
 1. [Part 1: Installing the Main Game](#part-1-installing-the-main-game)
+    - [Step 1: Create a TAKP Forum Account](#step-1-create-a-takp-forum-account)
+    - [Step 2: Download the Game Client](#step-2-download-the-game-client)
+    - [Step 3: Converting your TAKP client to Quarm](#step-3-converting-your-takp-client-to-quarm)
+    - [Step 4: Installing Zeal](#step-4-installing-zeal)
+        - [Why is Zeal getting flagged as a Virus/Malware?](#why-is-zeal-getting-flagged-as-a-virusmalware)
+        - [Download and Extract Zeal.asi to your TAKP Folder](#download-and-extract-zealasi-to-your-takp-folder)
+    - [Step 5: dgVoodoo2](#step-5-dgvoodoo2)
+    - [Setp 6: Placebos](#setp-6-placebos)
 2. [Xanax's Checklist for Minimal Crashes](#xanaxs-checklist-for-minimal-crashes)
 3. [Part 2: Installing Optional Textures and Effects](#part-2-installing-optional-textures-and-effects)
 4. [Part 3: Installing Optional 3rd Party Programs](#part-3-installing-optional-3rd-party-programs)
