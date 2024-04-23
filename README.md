@@ -61,7 +61,12 @@ Link: [Set Windows Defender Exclusion on Windows 10](https://wiki.takp.info/inde
 Follow the instructions on the link above to exclude your TAKP installation from virus scans.
 
 #### Why is Zeal getting flagged as a Virus/Malware?
-Zeal is a file that utilizes a method known as code injection to enhance the functionality of EverQuest's sound engine. This process involves inserting custom code into the game's executable to introduce new features and improvements. While this technique is commonly associated with malware or viruses due to its intrusive nature, Zeal serves a legitimate purpose in enhancing the gaming experience. However, because Zeal is currently in early development and lacks a digital signature, it may trigger antivirus software to flag it as potentially harmful. This is because unsigned files are often treated with suspicion by operating systems and security software. Project Quarm intends to address this issue by obtaining a digital certificate from Microsoft to sign Zeal in the future, thereby eliminating any concerns about its legitimacy.
+Zeal is a file that adds new features and improvements to EverQuest by injecting custom code into the game's sound engine. This process is called code injection. While code injection is sometimes associated with malware or viruses because it modifies the game files, Zeal serves a legitimate purpose in enhancing the gaming experience.
+
+However, because Zeal is currently in early development and does not have a digital signature, it may be flagged as potentially harmful by antivirus software. A digital signature is a way to verify that a file is safe and comes from a trusted source. Since Zeal does not have this signature yet, antivirus programs treat it with suspicion.
+
+The Project Quarm team plans to address this issue by obtaining a digital certificate from Microsoft to sign Zeal in the future. This digital signature will confirm that Zeal is a legitimate and safe program, eliminating any concerns about its legitimacy.
+
 
 #### Download and Extract Zeal.asi to your TAKP Folder
 1. To download Zeal, visit the project's GitHub repository at and navigate to the '[Releases](https://github.com/iamclint/Zeal/releases)' section. You'll find the latest version available for download in a file named `zeal.zip`. Ensure that you have previously excluded your TAKP folder from virus scans, as discussed in the previous step.
