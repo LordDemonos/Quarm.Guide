@@ -128,6 +128,10 @@ To install EQ Basic 1.1, follow these steps:
 3. Create a new shortcut pointing to your newly copied EverQuest directory.
 4. Log into the game as usual and enjoy the new experience!
 
+#### Old EQ Spell Gems/Particle Effects/Music
+
+https://www.reddit.com/r/everquest/comments/36ovuk/howto_old_eq_uispell_gemsparticle_effectsmusic/
+
 #### KaichoFX Spell Effects
 Download Link: https://drive.google.com/file/d/1zXoiMFk-Z-f2Qc6tI9ZUJjfR98rVdLoK/view
 
@@ -195,23 +199,19 @@ https://github.com/hada79/ZlizEQMap
 
 https://www.project1999.com/forums/showthread.php?t=386944
 
-### EQ Tell Notifer
+#### EQ Tell Notifer
 
 Desktop notifications for tells recieved in game
 
 https://github.com/rtcox/EQ_tell_notifier/tree/main
 
-### Old EQ Spell Gems/Particle Effects/Music
-
-https://www.reddit.com/r/everquest/comments/36ovuk/howto_old_eq_uispell_gemsparticle_effectsmusic/
-
-### Lossless Scaling
+#### Lossless Scaling
 
 Lossless Scaling allows you to scale windowed games to full screen using the state-of-the-art scaling algorithms, as well as use ML based proprietary scaling and frame generation.
 
 https://store.steampowered.com/app/993090/Lossless_Scaling/
 
-### Borderless Gaming
+#### Borderless Gaming
 
 I dont use this with EQ but I need to mention it alongside Lossless Scaling. I use it with my 4k OLED monitor to remove the Windows border around games sometimes to prevent OLED burn-in. Its pricey on Steam but free on Github.
 
