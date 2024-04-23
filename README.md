@@ -155,7 +155,7 @@ To install the Old Skeleton Models, follow these steps:
 
 After following these steps, the Old Skeleton Models will be installed and applied to the game.
 
-[Source: ItsKensterrr](https://www.youtube.com/watch?v=spMp-f7S7FA)[Source: ItsKensterrr](https://www.youtube.com/watch?v=zvhGnkbRW9g)
+[Source: ItsKensterrr](https://www.youtube.com/watch?v=spMp-f7S7FA) | [Source: ItsKensterrr](https://www.youtube.com/watch?v=zvhGnkbRW9g)
 
 ## Part 3: Installing Optional 3rd Party Programs
 
@@ -165,13 +165,13 @@ These programs add functionality not found in the game client by reading your Ev
 
 A log monitoring application that provides audio and visual feedback based on triggers you either define or import.
 
-https://eq.gimasoft.com/gina/Default.aspx [Supplimental Documentation](https://kingdomdkp.com/index.php/Guides/Tools/How-to-installing-gina--basic-functions.html?)
+https://eq.gimasoft.com/gina/Default.aspx | [Supplimental Documentation](https://kingdomdkp.com/index.php/Guides/Tools/How-to-installing-gina--basic-functions.html?)
 
 #### EQ Nag
 
 An EverQuest notification agent. An alternative to GINA.
 
-https://github.com/guildantix/eq-nag/releases [Documentation](https://guildantix.github.io/eq-nag/)
+https://github.com/guildantix/eq-nag/releases | [Documentation](https://guildantix.github.io/eq-nag/)
 
 #### NParse (TAKP Fork)
 
