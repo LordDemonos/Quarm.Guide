@@ -1,4 +1,5 @@
 # EverQuest Project Quarm Installation Guide (Updated: April 24, 2024)
+##### By Xanax/Xantagonist <Former Glory>
 
 ## Part 1: Installing the Main Game
 
@@ -138,11 +139,35 @@ After following these steps, the Old Skeleton Models will be installed and appli
 
 ## Step 6: (Optional) Installing Optional 3rd Party Programs
 
+#### GINA
 
+https://eq.gimasoft.com/gina/Default.aspx
+
+#### EQ Nag
+
+https://github.com/guildantix/eq-nag/releases [Documentation](https://guildantix.github.io/eq-nag/)
+
+#### NParse (TAKP Fork)
+
+https://github.com/hitechhippie/nparse-takp
+
+#### PigParse/PQTool/EQTool
+
+https://github.com/smasherprog/EqTool
+
+#### ZlizEQMap
+
+https://github.com/hada79/ZlizEQMap
+
+#### Supplemental Maps for ZlizEQMap (More Accurate)
+
+https://www.project1999.com/forums/showthread.php?t=386944
+
+### EQ Tell Notifer
+
+https://github.com/rtcox/EQ_tell_notifier/tree/main
 
 ## FAQ
-
-...
 
 Q: When I use my mouse wheel to scroll backwards, I do not see my character in 3rd person. How do I enable Mouse Look?
 
@@ -155,5 +180,19 @@ A: /chatfontsize 1-5
 Q: Why doesnt (zeal feature) appear in my User Interface?
 
 A: Zeal adds functionality so the User Interface needs to be told how to display that functionality. Zeal contains a few UI files you can drop into the TAKP/Uifiles/ folder that you use. Alternatively, you can find new user interafaces with added functionality. I use [Nillipus UI 1440p](https://discord.com/channels/1133452007412334643/1162826324092657757/1224809011392807003)[Merchant](https://discord.com/channels/1133452007412334643/1162826324092657757/1224861589799178321) and [qqui Calmethar](https://www.eqinterface.com/downloads/fileinfo.php?id=6959) is updated frequently.
+
+Q: Problem with Mule Account?
+
+A: [Creating a mule](https://discord.com/channels/1133452007412334643/1135968760281432164/1208195978016854096) "The #makemule command is now available in game. Running the command in game will give you further instructions for how to flag the account as a mule and will ask that you run an additional command for confirmation.
+
+Flagging an account as a mule can not be undone and will delevel the character running the command to 1 SO BE CERTAIN OF YOUR INTENTIONS. 
+
+The character running the command must first be of appropriate level and no other characters can exist on the account when the command is run. Once an account is flagged as a mule then all characters on the account will be mules bound in EC tunnel and can not leave EC nor level past level 1. These accounts should not contribute to overall server population - this is so we can accurately track server population across third-party population tracking websites, such as UnixGeek's EQEmulator player stats.
+
+The mule account will be exempt from IP restrictions allowing you run a game client and buy/sell/transfer items independent of your main account. Again, RUNNING THE COMMAND AND CONFIRMING WILL DELEVEL YOU TO 1 AND FLAG THE ENTIRE ACCOUNT AS A MULE ACCOUNT. BE CERTAIN OF YOUR INTENTIONS. @CSR WILL NOT REVOKE THIS FLAG UNDER ANY CIRCUMSTANCES, NOR ARE THEY EQUIPPED TO DEAL WITH ANY ISSUES THAT ARISE. (edited)"
+
+## Suggestions Feedback and Help
+
+I'd like to expand this guide and keep it maintained. What I need from you are more questions to populate the FAQ at the bottom. I need to install Visual Studio and document steps to attaching the game to it to log the data the Secrets and Salty need when the game crashes or bugs out. I'd like to host a fully updated ZlizEQMap [zonedata file](https://github.com/hada79/ZlizEQMap/blob/master/ZoneData/ZoneData-The%20Al'Kabor%20Project.txt) but this one isn't updated for Quarm. I have some other ideas too. Feel free to ask Xanax/Xantagonist <Former Glory> any questions, anywhere you find me!
 
 
