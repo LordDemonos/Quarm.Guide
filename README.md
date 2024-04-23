@@ -212,25 +212,30 @@ https://github.com/Codeusa/Borderless-Gaming/releases
 
 ## FAQ
 
-Q: Where can I learn more about Project Quarm?
+1. [Q: Where can I learn more about Project Quarm?](#q1)
+2. [Q: When I use my mouse wheel to scroll backwards, I do not see my character in 3rd person. How do I enable Mouse Look?](#q2)
+3. [Q: How do I make the chat text bigger in game?](#q3)
+4. [Q: Why doesnt (zeal feature) appear in my User Interface?](#q4)
+5. [Q: Problem with Mule Account?](#q5)
+6. [Q: How do I change my resolution?](#q6)
+7. [Q: How do I run the game full screen?](#q7)
+8. [Q: I'm using the Stone UI from 1999?](#q8)
+9. [Q: How do I view nameplates from far away?](#q9)
 
-A: The main website projectquarm.com contains a link to the [Project Quarm Discord](https://discord.gg/3nDQ9AkUz8).
+### Q1
+**A:** The main website projectquarm.com contains a link to the [Project Quarm Discord](https://discord.gg/3nDQ9AkUz8).
 
-Q: When I use my mouse wheel to scroll backwards, I do not see my character in 3rd person. How do I enable Mouse Look?
+### Q2
+**A:** You may have disabled mouse look. While logged into the game, press F12 to enable/disable mouse look.
 
-A: You may have disabled mouse look. While logged into the game, press F12 to enable/disable mouse look.
+### Q3
+**A:** /chatfontsize 1-5
 
-Q: How do I make the chat text bigger in game?
+### Q4
+**A:** Zeal adds functionality so the User Interface needs to be told how to display that functionality. Zeal contains a few UI files you can drop into the TAKP/Uifiles/ folder that you use. Alternatively, you can find new user interafaces with added functionality. I use [Nillipus UI 1440p](https://discord.com/channels/1133452007412334643/1162826324092657757/1224809011392807003)[Merchant](https://discord.com/channels/1133452007412334643/1162826324092657757/1224861589799178321) and [qqui Calmethar](https://www.eqinterface.com/downloads/fileinfo.php?id=6959) is updated frequently.
 
-A: /chatfontsize 1-5
-
-Q: Why doesnt (zeal feature) appear in my User Interface?
-
-A: Zeal adds functionality so the User Interface needs to be told how to display that functionality. Zeal contains a few UI files you can drop into the TAKP/Uifiles/ folder that you use. Alternatively, you can find new user interafaces with added functionality. I use [Nillipus UI 1440p](https://discord.com/channels/1133452007412334643/1162826324092657757/1224809011392807003)[Merchant](https://discord.com/channels/1133452007412334643/1162826324092657757/1224861589799178321) and [qqui Calmethar](https://www.eqinterface.com/downloads/fileinfo.php?id=6959) is updated frequently.
-
-Q: Problem with Mule Account?
-
-A: [Creating a mule](https://discord.com/channels/1133452007412334643/1135968760281432164/1208195978016854096) "The #makemule command is now available in game. Running the command in game will give you further instructions for how to flag the account as a mule and will ask that you run an additional command for confirmation.
+### Q5
+**A:** [Creating a mule](https://discord.com/channels/1133452007412334643/1135968760281432164/1208195978016854096) "The #makemule command is now available in game. Running the command in game will give you further instructions for how to flag the account as a mule and will ask that you run an additional command for confirmation.
 
 Flagging an account as a mule can not be undone and will delevel the character running the command to 1 SO BE CERTAIN OF YOUR INTENTIONS. 
 
@@ -240,7 +245,8 @@ The mule account will be exempt from IP restrictions allowing you run a game cli
 
 Q: How do I change my resolution?
 
-A: In your eqclient.ini you can find the [VideoMode] section. Change this to match your desktop's settings.
+### Q6
+**A:** In your eqclient.ini you can find the [VideoMode] section. Change this to match your desktop's settings.
 
 [VideoMode]
 BitsPerPixel=32
@@ -248,17 +254,14 @@ Width=1920
 Height=1080
 RefreshRate=60
 
-Q: How do I run the game full screen? 
+### Q7
+**A:** You want to run the game in windowed mode first. In your eqclient.ini set this option WindowedMode=TRUE. Find [VideoMode] and set it to your desired resolution. When you are logged into EverQuest, press SHIFT + Enter to switch between windowed and fullscreen modes. If you are still having problems, see the 3rd party programs section for LosslessScaling.
 
-A: You want to run the game in windowed mode first. In your eqclient.ini set this option WindowedMode=TRUE. Find [VideoMode] and set it to your desired resolution. When you are logged into EverQuest, press SHIFT + Enter to switch between windowed and fullscreen modes. If you are still having problems, see the 3rd party programs section for LosslessScaling.
+### Q8
+**A:** In your eqclient.ini set NewUI=TRUE and OldUI=False
 
-Q: I'm using the Stone UI from 1999?
-
-A: In your eqclient.ini set NewUI=TRUE and OldUI=False
-
-Q: How do I view nameplates from far away?
-
-A: Use an updated eqgame.dll and make sure eqclient.ini has EnableExtendedNameplateDistance=TRUE 
+### Q9
+**A:** Use an updated eqgame.dll and make sure eqclient.ini has EnableExtendedNameplateDistance=TRUE 
 
 ## Suggestions Feedback and Help
 
