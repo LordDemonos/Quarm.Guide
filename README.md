@@ -7,8 +7,6 @@
     - [Step 2: Download the Game Client](#step-2-download-the-game-client)
     - [Step 3: Converting your TAKP client to Quarm](#step-3-converting-your-takp-client-to-quarm)
     - [Step 4: Installing Zeal](#step-4-installing-zeal)
-        - [Why is Zeal getting flagged as a Virus/Malware?](#why-is-zeal-getting-flagged-as-a-virusmalware)
-        - [Download and Extract Zeal.asi to your TAKP Folder](#download-and-extract-zealasi-to-your-takp-folder)
     - [Step 5: dgVoodoo2](#step-5-dgvoodoo2)
     - [Step 6: Issues Running the Game](#step-6-issues-running-the-game)
 2. [Xanax's Checklist for Minimal Crashes](#xanaxs-checklist-for-minimal-crashes)
