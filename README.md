@@ -295,38 +295,59 @@ Screenshots can be taken by pressing PRINT SCREEN within the game, and can be ch
 You can install various texture packs and visual effects to enhance the game's appearance.
 
 #### Classic HD Textures
-Download Link: https://wiki.project1999.com/EQ_Classic_HD#The_Al.27Kabor_Project_version:
+
+EQ Classic HD is an ongoing project by Cucumbers, Paulgiamatti, Sorn, and Zaela to graphically enhance, upscale, retexture, and reimagine classic EverQuest. They primarily deal with textures, but their package also corrects some minor transparency, particle, and model animation issues. 
+
+https://wiki.project1999.com/EQ_Classic_HD#The_Al.27Kabor_Project_version:
 
 **Note: The link contains special instructions for applying these textures to the Al'Kabor Project (TAKP).**
 
-#### EQ Basic 1.1
-Link: https://www.reddit.com/r/project1999/comments/10rz5r0/eq_basic_v11_an_eq_graphics_overhaul_project/
+To install Classic HD Textures, first make sure you're downloading the [The Al'Kabor Project version](https://drive.google.com/file/d/0ByJldqMGux7CVUh6a2taTWlndmM/view?usp=sharing&resourcekey=0-CzMD3Z47SRVJ6NNjLXql5w). Open the downloaded zip file. The archive contains an installer and uninstaller you can use. Manually, you can extract or copy the .S3D files contained in the EQClassicHD folder to your EverQuest directory (overwrite if you left the old ones in). To uninstall, copy your backed up files back into your EverQuest directory and overwrite. Install and uninstall.bat can be deleted or ignored. 
 
+#### EQ Basic 1.1
+
+EQ Basic is a FULL graphics overhaul of Everquest, specifically for P99 Green/Blue (Classic, Kunark, Velious). This includes all zones, objects, character models, equipment(Including epics), mobs and spell effects! 
+
+Source: https://www.reddit.com/r/project1999/comments/10rz5r0/eq_basic_v11_an_eq_graphics_overhaul_project/
 Download: https://drive.google.com/file/d/1PbP9Pwnjkaw4-cgN7_as8SL8PAKQlYGB/view
 
-To install EQ Basic 1.1, follow these steps:
-
-1. Make a copy of your EverQuest directory before overwriting any files.
-2. After making a copy, extract the downloaded `.7z` file into your copied EverQuest directory.
-3. Create a new shortcut pointing to your newly copied EverQuest directory.
-4. Log into the game as usual and enjoy the new experience!
+To install EQ Basic 1.1 download and extract the `.7z` archive to your TAKP folder, overwriting files when prompted.
 
 #### Old EQ Spell Gems/Particle Effects/Music
 
+This is everything you can do to get EQ back to as close to a classic feel as possible.
+
 https://www.reddit.com/r/everquest/comments/36ovuk/howto_old_eq_uispell_gemsparticle_effectsmusic/
 
+Various installation instructions for the different parts can be found within the Reddit link provided above.
+
 #### KaichoFX Spell Effects
+
+Kaicho has been working on their passion project, creating new spell effects, particles, and animations for EverQuest. You can find an example during one of his streams [here](https://clips.twitch.tv/SuaveEnergeticGalagoMingLee-lhitQb6LALq3BUHv)
+
+https://www.reddit.com/r/ProjectQuarm/comments/17h98xq/comment/k6prhur/
+
 Download Link 1: https://drive.google.com/file/d/1zXoiMFk-Z-f2Qc6tI9ZUJjfR98rVdLoK/view
 
-Installation Instructions [here](https://www.reddit.com/r/ProjectQuarm/comments/17h98xq/comment/k6prhur/)
+To install KaichoFX, download the zip file from the above link. Rename your current SpellEffects folder inside your EQ folder to something like "SpellEffectsBACKUP" to save original copies in case you want to revert back. Create a new folder called SpellEffects inside your EQ folder. Extract the KaichoFX files into your new SpellEffects folder.
 
 #### Sound File Fixes
-Link: https://www.takproject.net/forums/index.php?threads%2Fwindows-10-ambient-noise-too-loud.8234%2F
 
-This link provides edited sound files to change the volumes of certain annoying sounds like rain and wind/snow.
+This link provides edited sound files to change the volumes of certain annoying sounds like rain and wind/snow. Scroll down to locate khanable's post.
+
+https://www.takproject.net/forums/index.php?threads%2Fwindows-10-ambient-noise-too-loud.8234%2F
+
+- https://www.dropbox.com/s/wv4i1sme0uxb422/EMT_0%.zip?dl=0 (set to 0.0 - music works, NO environment sounds)
+- https://www.dropbox.com/s/lz853tlc3of4xt5/EMT_25%.zip?dl=0 (set to 0.25 - music works, 25% volume on environment sounds)
+- https://www.dropbox.com/s/nn5f4elgdbpc07c/EMT_50%.zip?dl=0 (set to 0.50 - music works, 50% volume on environment sounds)
+
+To install open your TAKP folder, sort by type. Locate all the EMT files. Move them into a folder to have a backup. Extract the .zip file into your TAKP directory. Log out/back in.
 
 #### Old Skeleton Models
-Download Link: https://github.com/nickgal/EqSkelePatcher/releases
+
+Simple tool for patching `gequip5.s3d` and `global6_chr.s3d` to enable classic EverQuest skeletons.
+
+https://github.com/nickgal/EqSkelePatcher/releases
 
 To install the Old Skeleton Models, follow these steps:
 
