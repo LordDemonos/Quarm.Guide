@@ -10,10 +10,14 @@
     - [Step 5: dgVoodoo2](#step-5-dgvoodoo2)
     - [Step 6: Issues Running the Game](#step-6-issues-running-the-game)
 2. [Xanax's Checklist for Minimal Crashes](#xanaxs-checklist-for-minimal-crashes)
-3. [Part 3: Installing Optional Textures and Effects](#part-3-installing-optional-textures-and-effects)
-4. [Part 4: Installing Optional 3rd Party Programs](#part-4-installing-optional-3rd-party-programs)
-5. [FAQ](#faq)
-6. [Suggestions Feedback and Help](#suggestions-feedback-and-help)
+3. [Part 2: After Installing the Main Game](#part-2-after-installing-the-main-game)
+    - [Step 1: Understanding your EQClient.ini](#step-1-understanding-your-eqclientini)
+    - [Step 2: Controlling your User Interface](#step-2-controlling-your-user-interface)
+    - [Step 3: Characters, Logs, Spell Sets, and Screenshots](#step-3-characters-logs-spell-sets-and-screenshots)
+5. [Part 3: Installing Optional Textures and Effects](#part-3-installing-optional-textures-and-effects)
+6. [Part 4: Installing Optional 3rd Party Programs](#part-4-installing-optional-3rd-party-programs)
+7. [FAQ](#faq)
+8. [Suggestions Feedback and Help](#suggestions-feedback-and-help)
 
 ## Part 1: Installing the Main Game
 
@@ -180,6 +184,113 @@ I wrote this guide because half of my guild seems to crash when they zone in and
 
 If you ask me, the first 3 are the biggest contributors to stability. Hopefully we can lessen these crashes and work towards fixing the rest over time.
 
+## Part 2: After Installing the Main Game
+
+### Step 1: Understanding your EQClient.ini
+
+The `eqclient.ini` file contains a list of settings that can be changed to suit your preferences, many of which cannot be changed in-game through the options window.
+
+In Windows, the `eqclient.ini` is located within your EverQuest directory, wherever `eqgame.exe` reside.
+
+Some commonly changed settings include:
+
+- WindowedMode=TRUE/FALSE - This line must be typed out at the top but below [Defaults].
+- NewUI=TRUE/FALSE - Our client still has the old pre-Luclin UI for nostalgia mode.
+- Log=TRUE/FALSE - Setting this true will automatically turn your log file on when entering the game.
+- CombatMusic=TRUE/FALSE - Enable or disable melee combat music.
+- ChannelAutoJoin=alliance - The Alliance channel is used as the global chat channel for the server.
+- TargetGroupBuff=1 - This will allow you to buff groups with group buff spells from outside the group by targeting a member of the group.
+- AttackOnAssist=FALSE - This will allow you to assist another player without automatically enabling auto attack.
+- MaxFPS= - This is the framerate you limit the foreground client window to. If this is set too high, it may consume too many system resources. Typically 60 is a good number to start with and adjust if necessary. A setting of 0 disables the limit. YMMV
+- MaxBGFPS= - This is the framerate you limit the background client windows to. You don't want this too low, since it will affect autofollow ability. But, if you have it too high, it may consume too many system resources. 60 is typically good. A setting of 0 disables the limit. YMMV
+- MouseRightHanded=1 - Switches mouse button orientation.
+- MaxMouseLookFPS= - Allows you to set the mouselook FPS to help with mouselook slowness. If your mouselook is too slow, try adjusting this to 60 or 45. A setting of 0 disables the limit. YMMV
+- AllLuclinPcModelsOff=TRUE - This disables Luclin models. This also allows use of the famous horse bug that existed on AK where you don't have the limitations of horse speed up/down that you do with Luclin models on.
+- [VideoMode]:
+
+`Width=1920
+Height=1080
+(match your display settings with the proper height and width prior to launching the game)`
+
+- Velious armor textures:
+
+`LoadVeliousArmorsWithLuclin=TRUE
+LoadArmor17=TRUE
+LoadArmor18=TRUE
+LoadArmor19=TRUE
+LoadArmor20=TRUE
+LoadArmor21=TRUE
+LoadArmor22=TRUE
+LoadArmor23=TRUE`
+
+Velious armor textures are not enabled by default as they can cause an issue with Vah Shir armor not displaying. Most players would probably prefer them on however. [Source: wiki.takp](https://wiki.takp.info/index.php/Getting_Started_on_Windows)
+
+There are some other flags that seem to be unique to Project Quarm [Source: #tech-help](https://discord.com/channels/1133452007412334643/1133453502182596729/1177702642173087864).
+
+- `EnableBrownSkeletonHack=FALSE` - We had problems getting the correct skeleton models at first and some people like the brown ones. You can set this to TRUE or you can go find skeleton model replacements under Part 3. 
+- `EnableExtendedNameplateDistance=TRUE` - Added after the 10/8/2023 .dll update that extended the nameplate distance.
+- `EnableClassicMusic=FALSE` - Changes the music from old to new.
+
+Zeal also has a number of `eqclient.ini` values that are saved here and this list will likely grow over time. 
+
+MouseSmoothing=TRUE - This fixes the jittery 3rd person camera movement that is exclusive to the TAKP client. The mouse sensitivity values below are all extensions of this. Make sure they're never set to 0 or else your camera will not move on that axis.
+MouseSensitivityX=0.300000
+MouseSensitivityY=0.300000
+ChatTimestamps=TRUE - Zeal feature that adds chat timestamps in HH:MM:SS. 
+MouseSensitivityX3rd=0.300000
+MouseSensitivityY3rd=0.300000
+Camera3StrafeEnabled=TRUE 
+Camera4StrafeEnabled=TRUE
+CycleToZealCamEnabled=TRUE
+Bluecon=TRUE - When a mob cons dark blue the text is difficult to read on a black backgroud. This will add a new value to the Options - Color tab with a value of 70.
+ZealInput=TRUE - toggles the zeal input setup for any input in game, giving you a more modern input (ctrl+c, ctrl+v, left, right, shift left+right for highlighting, home, end ect).
+LeftTurnSpellbookAutostand=FALSE
+RightTurnSpellbookAutostand=FALSE
+NetstatVisibilityState=TRUE
+LeftStrafeSpellbookAutostand=TRUE
+RightStrafeSpellbookAutostand=TRUE
+PanDelay=20 - Zeal adds the ability to left click and hold to move the camera in 3rd person without moving the character. To prevent misclicks, you can add a delay to this functionality.
+
+### Step 2: Controlling your User Interface
+
+The supported client comes with several additional custom UIs. To switch to one of these, run the slash command /loadskin <ui> 1. The 1 is optional-- it will keep your current window positions. Loading UIs via the options window will not work. [Source: TAKP Wiki](https://wiki.takp.info/index.php/Getting_Started_on_Windows#EQClient.ini_settings)
+
+There are several sources to download new User Interface packages, such as [qqui Calmethar](https://www.eqinterface.com/downloads/fileinfo.php?id=6959), [eqinterface.com](https://eqinterface.com/downloads/index.php?cid=115&dp=0&sh=full&so=desc&sb=lastupdate), or from [#ui-discussion](https://discord.com/channels/1133452007412334643/1162826324092657757). Just make sure to check the date and description for Zeal additions.
+
+#### Duplicating your UI Settings for New Characters
+
+Inevitably you'll create multiple characters during your time on Project Quarm. However you do not have to choose a UI and move every window for each character. You can easily copy all of your UI positions by understanding your UI log files. In your TAKP folder you will find files with the naming convention `UI_charactername_pq.proj.ini`. If you identify the one for your main character, the one who has their UI set and all the window positions perfect, you can simply make a copy of this file and rename it to the name of your second character. When you log into the new character, your UI and window positions should now match your first character. 
+
+`UI_Xanax_pq.proj.ini` Copy, Paste `UI_Xanax_pq.proj - Copy.ini` rename to `UI_Xantagonist_pq.proj.ini`
+
+### Step 3: Characters, Logs, Spell Sets, and Screenshots
+
+#### Character ini for Friends Abilities Socials and Macro Settings
+
+The above file duplication and renaming trick we used with our UI settings can be used for other saved settings as well. `charactername_pq.proj.ini` contains all of your friends, ignore, abilities, combat skills, and social macros. Any time you make a new character, you should consider duplicating this file as well and renaming the copy to your new character. The ability and macro copying is a mixed bag, but it's important not to lose your friends. 
+
+#### Chat Logs
+
+Everything you see in your chat windows is written to a log file in your TAKP folder. Back in the orginal EQ days we would delete this every month because the file would get big and make the game act up. Everything you see in this file, the CSR team for Project Quarm can also see and is likely being logged on their end. `eqlog_charactername_pq.proj.txt` is the file that all your chat logs are written to. This can be helpful if you need to pull historical chat conversations, for example. 
+
+#### Spell Sets
+
+Zeal has added the ability to make spell sets. Commands in game are as follows:
+
+`/spellset`
+
+- Arguments: save, load, delete
+- Example: /spellset save buffs
+- Example: /spellset load buffs
+- Example: /spellset delete buffs
+- Description: allows you to save and load spellsets
+
+Once created, you can even right click your spellbook to choose one of your spell sets from a drop down menu. These values are saved in a new file called `charactername_spellsets.ini`. Within these you can then rename your spellsets or duplicate the file for someone playing the same class as you, for example. 
+
+#### Screenshots
+
+Screenshots can be taken by pressing PRINT SCREEN within the game, and can be changed within the Options. These are saved in your TAKP folder as `EQ000001.bmp` for example. 
+
 ## Part 3: Installing Optional Textures and Effects
 You can install various texture packs and visual effects to enhance the game's appearance.
 
@@ -303,6 +414,7 @@ https://github.com/Codeusa/Borderless-Gaming/releases
 - [I want to turn off the loud music at character creation or character select screen?](#i-want-to-turn-off-the-loud-music-at-character-creation-or-character-select-screen)
 - [Quarm enabled snow and it's very loud?](#quarm-enabled-snow-and-its-very-loud)
 - [I have a new laptop with an integrated graphics card and I'm experiencing graphical problems?](#i-have-a-new-laptop-with-an-integrated-graphics-card-and-im-experiencing-graphical-problems)
+- [How do I disable Luclin models?](#how-do-i-disable-luclin-models)
 - [How do I disable Velious armor textures?](#how-do-i-disable-velious-armor-textures)
 - [Sometimes my character's spell gems stay grayed out and the server stops responding to my client.](#sometimes-my-characters-spell-gems-stay-grayed-out-and-the-server-stops-responding-to-my-client)
 - [Chat channels keep dropping?](#chat-channels-keep-dropping)
@@ -316,6 +428,7 @@ https://github.com/Codeusa/Borderless-Gaming/releases
 - [The game runs too fast?](#the-game-runs-too-fast)
 - [I'm still experiencing crashes during long play sessions on raids?](#im-still-experiencing-crashes-during-long-play-sessions-on-raids)
 - [I can't see the bottom of the logon window to press the accept button?](#i-cant-see-the-bottom-of-the-logon-window-to-press-the-accept-button)
+- [I can't find Grizzly Bear Skins, only Thick Grizzly Bear Skins?](#i-cant-find-grizzly-bear-skins-only-thick-grizzly-bear-skins)
 
 
 ### Where can I learn more about Project Quarm?
@@ -397,6 +510,40 @@ If you have an AMD card, find an equivalent setting in the Radeon control panel.
 If the wrapper is loaded, in game it will have a "dgVoodoo" watermark in the lower right corner of the display. The performance difference is usually very noticeable. But if you want to be sure, you can use software such as [GPU-Z](https://www.techpowerup.com/gpuz/), to monitor the load on the discrete graphics card. Remove the watermark by running dgVoodooCpl.exe, clicking the DirectX tab, and unchecking 'dgVoodoo Watermark.' OR you can locate the dgVoodooWatermark line in your dgVoodoo.conf file and make sure it's set to false: "dgVoodooWatermark = false" If it doesn't exist, create it.
 
 Option 2: [DXwrapper](https://www.dropbox.com/s/phvxgl6ojf2xqih/DxWrapper.zip?dl=0). This wraps the dx8 to dx9. It will use the amd graphics on a switchable graphics laptop, even though it selects the onboard graphics at run time. By using GPU-Z, you can see which graphics card is doing the work. What doesn't work, is adjusting the gamma from the slider in game. Just put these 3 files in your TAKP install folder and give it a try. If it doesn't work or you don't see performance gains, then remove them. [Source: wiki.takp](https://wiki.takp.info/index.php/Getting_Started_on_Windows)
+
+### How do I disable Luclin models?
+
+**A:** Locate the section in your `eqclient.ini` for UseLuclin and set them to FALSE. Luclin models are set during the initial game configuration and those values are saved here. 
+
+`UseLuclinHumanMale=FALSE
+UseLuclinHumanFemale=FALSE
+UseLuclinBarbarianMale=FALSE
+UseLuclinBarbarianFemale=FALSE
+UseLuclinEruditeMale=FALSE
+UseLuclinEruditeFemale=FALSE
+UseLuclinWoodElfMale=FALSE
+UseLuclinWoodElfFemale=FALSE
+UseLuclinHighElfMale=FALSE
+UseLuclinHighElfFemale=FALSE
+UseLuclinDarkElfMale=FALSE
+UseLuclinDarkElfFemale=FALSE
+UseLuclinHalfElfMale=FALSE
+UseLuclinHalfElfFemale=FALSE
+UseLuclinDwarfMale=FALSE
+UseLuclinDwarfFemale=FALSE
+UseLuclinTrollMale=FALSE
+UseLuclinTrollFemale=FALSE
+UseLuclinOgreMale=FALSE
+UseLuclinOgreFemale=FALSE
+UseLuclinHalflingMale=FALSE
+UseLuclinHalflingFemale=FALSE
+UseLuclinGnomeMale=FALSE
+UseLuclinGnomeFemale=FALSE
+UseLuclinIksarMale=FALSE
+UseLuclinIksarFemale=FALSE
+UseLuclinElementals=FALSE
+UseLuclinVahShirMale=FALSE
+UseLuclinVahShirFemale=FALSE`
 
 ### How do I disable Velious armor textures?
 **A:** Locate the section in your `eqclient.ini` for Velious armor textures and set them to FALSE. Velious armor textures are not enabled by default as they can cause an issue with Vah Shir armor not displaying. 
@@ -495,6 +642,16 @@ Use Ryzen Master to apply settings [Source: TAKP Forums](https://www.takproject.
 
 `FEWindowedModeXOffset=0`
 `FEWindowedModeYOffset=0`
+
+### I can't find Grizzly Bear Skins, only Thick Grizzly Bear Skins?
+**A:** Thick Grizzly Bear Skins work for whatever quest or item you are trying to complete. From user [Peuw](https://discord.com/channels/1133452007412334643/1154893244702920806/1154893244702920806):*After turning in the four skins, he returns only the Grizzly Bear Skin and states he has no need for these items. I found he accepts:*
+
+`Thick Grizzly Bear Skin (should be not Thick?)`
+`Shark Skin`
+`Polar Bear Skin`
+`Alligator Skin`
+
+*I was able to complete cap quest with these skins, and the following dagger turn in.* 
 
 ## Suggestions Feedback and Help
 
