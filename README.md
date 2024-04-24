@@ -655,7 +655,7 @@ Use Ryzen Master to apply settings [Source: TAKP Forums](https://www.takproject.
 *I was able to complete cap quest with these skins, and the following dagger turn in.* 
 
 ### There are no maps?
-**A:** The map system was introduced with the Legacy of Ykesha expansion in February 2003, and is not present in Project Quarm. I suggest looking into [ZlizEQMap](#ZlizEQMap)
+**A:** The map system was introduced with the Legacy of Ykesha expansion in February 2003, and is not present in Project Quarm. I suggest looking into [ZlizEQMap](#ZlizEQMap). 
 
 ## Suggestions Feedback and Help
 
