@@ -341,7 +341,7 @@ https://www.takproject.net/forums/index.php?threads%2Fwindows-10-ambient-noise-t
 - https://www.dropbox.com/s/lz853tlc3of4xt5/EMT_25%.zip?dl=0 (set to 0.25 - music works, 25% volume on environment sounds)
 - https://www.dropbox.com/s/nn5f4elgdbpc07c/EMT_50%.zip?dl=0 (set to 0.50 - music works, 50% volume on environment sounds)
 
-To install open your TAKP folder, sort by type. Locate all the EMT files. Move them into a folder to have a backup. Extract the .zip file into your TAKP directory. Log out/back in.
+To install, open your TAKP folder, sort by type. Locate all the EMT files. Move them into a folder to have a backup. Extract the .zip file into your TAKP directory. Log out/back in.
 
 #### Old Skeleton Models
 
