@@ -254,7 +254,7 @@ https://github.com/Codeusa/Borderless-Gaming/releases
 - [How do I disable Velious armor textures?](#how-do-i-disable-velious-armor-textures)
 - [Sometimes my character's spell gems stay greyed out and the server stops responding to my client.](#sometimes-my-characters-spell-gems-stay-greyed-out-and-the-server-stops-responding-to-my-client)
 - [Chat channels keep dropping?](#chat-channels-keep-dropping)
-- [Why is my non-QWERTY keyboard not working correctly in game?](#why-is-my-nonqwerty-keyboard-not-working-correctly-in-game)
+- [Why is my non-QWERTY keyboard not working correctly in game?](#why-is-my-non-qwerty-keyboard-not-working-correctly-in-game)
 
 
 ### Where can I learn more about Project Quarm?
