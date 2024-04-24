@@ -57,9 +57,47 @@ Make sure Sound=TRUE is listed in your `eqclient.ini`. Zeal uses the EverQuest s
 #### Prerequisite 2. (Required) Excluding your TAKP Installation
 Excluding your TAKP installation from being scanned by your antivirus software can also help reduce load times, zoning times, and eliminate stuttering when opening your bags. This is highly recommended and is a prerequisite for downloading Zeal, as explained below.
 
-Link: [Set Windows Defender Exclusion on Windows 10](https://wiki.takp.info/index.php/Set_Windows_Defender_Exclusion_on_Windows_10)
+##### Windows 10
 
-Follow the instructions on the link above to exclude your TAKP installation from virus scans.
+ Instructions for performing the above through Windows Settings panel:
+
+*This may be slightly different for the different versions of Windows 10. This was taken from the 1909 version released late 2019.*
+
+-Right click the windows button in the lower left hand corner and select search.
+
+![Defenderexclusion1](/faq/part4/Defenderexclusion1.png)
+
+- Search for and select Windows Security.
+
+![Defenderexclusion2](/faq/part4/Defenderexclusion2.png)
+
+- Click Virus and threat Protection.
+
+![Defenderexclusion3](/faq/part4/Defenderexclusion3.png)
+
+- Under Virus and threat Protection settings, click manage settings.
+
+![Defenderexclusion4](/faq/part4/Defenderexclusion4.png)
+
+- Under exclusions, click Add or Remove Exclusions
+
+![Defenderexclusion5](/faq/part4/Defenderexclusion5.png)
+
+- Click Add an exclusion and select Folder
+
+![Defenderexclusion6](/faq/part4/Defenderexclusion6.png)
+
+- Select the folder that you currently have (or intend to have) the TAKP files extracted into and run from when you play.
+
+##### Powershell
+
+Open administrative PowerShell and type in the below, replace C:\TAKPv22 folder path with where you unzipped the game files.
+
+`Add-MpPreference -ExclusionPath "C:\TAKPv22"`
+
+`Add-MpPreference -ExclusionProcess "C:\TAKPv22\eqgame.exe"`
+
+![AV_Exclusions_PowerShell_Example](img/step4/AV_Exclusions_PowerShell_Example.png)
 
 #### Why is Zeal getting flagged as a Virus/Malware?
 Zeal is a file that adds new features and improvements to EverQuest by injecting custom code into the game's sound engine. This process is called code injection. While code injection is sometimes associated with malware or viruses because it modifies the game files, Zeal serves a legitimate purpose in enhancing the gaming experience.
