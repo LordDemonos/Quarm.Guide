@@ -255,6 +255,8 @@ https://github.com/Codeusa/Borderless-Gaming/releases
 - [Sometimes my character's spell gems stay greyed out and the server stops responding to my client.](#sometimes-my-characters-spell-gems-stay-greyed-out-and-the-server-stops-responding-to-my-client)
 - [Chat channels keep dropping?](#chat-channels-keep-dropping)
 - [Why is my non-QWERTY keyboard not working correctly in game?](#why-is-my-non-qwerty-keyboard-not-working-correctly-in-game)
+- [I'm having mouse issues?](#im-having-mouse-issues)
+- [I'm getting a EQMAIN.DLL error running the game](#im-getting-a-eqmain-dll-error-running-the-game)
 
 
 ### Where can I learn more about Project Quarm?
@@ -364,6 +366,14 @@ If one packet is dropped that is the keepalive from Client to Server, you will t
 
 ###  Why is my non-QWERTY keyboard not working correctly in game? 
 **A:** The default client is packaged with the QWERTY keyboard layout file. This can be changed by replacing the `keyboard.txt` in your TAKP folder with the one made for your locality [keyboard.txt by nationality](https://drive.google.com/open?id=0B70BIislzWn_U01KbnNXQVZ3WU0). *Please note that several are still missing and will be uploaded as we can find/make them*
+
+### I'm having mouse issues?
+**A:** Usually caused by DPI Scaling setting in Windows. Need to set it to 100% DPI scaling. You may find this forum thread useful: [Mouse issues](Usually caused by DPI Scaling setting in Windows. Need to set it to 100% DPI scaling. You may find this forum thread useful: Mouse issues)
+
+### I'm getting a EQMAIN.DLL error running the game
+**A:** This happens if you try to launch the game from Windows Search results. Don't launch from search results. Navigate to the folder manually and run `eqgame.exe` directly, or create a desktop shortcut, or launch via hotkey.net. Also this error can happen if your anti-virus deletes some game files. Make sure you set AV exclusions and the game files aren't being quarantined.
+
+![Eqmain-dll-error](/img/faq/Eqmain-dll-error.png)
 
 ## Suggestions Feedback and Help
 
