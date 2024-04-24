@@ -111,6 +111,20 @@ The Project Quarm team plans to address this issue by obtaining a digital certif
 3. Once downloaded, extract the contents of the zip file directly into the root directory of your TAKP folder. Make sure you see `zeal.asi` in your TAKP folder and if you encounter any trouble, your first step is to make sure `zeal.asi` is still in your TAKP folder.
 4. Log into the game and type /zeal version to show the version number. /help zeal will output the command list.
 
+#### UI Files for Zeal
+
+Zeal comes prepackaged with a uifiles folder containing files modified to display new features found within Zeal. When extracting `zeal.zip` to your TAKP folder, it will place these files in your /uifiles/duxaUI/ folder, which is the default user interface when `NewUI=TRUE` and `OldUI=FALSE` in your `eqclient.ini`. 
+
+![ChangeButton_ZealOptions](/img/step4/ChangeButton_ZealOptions.png)
+
+However Zeal does not come with user interface files for every Zeal feature and your game chat window will show errors when playing. These are not harmful to your gameplay experience and can be ignored. EverQuest will identify which files are missing or broken and attempt to load them from the deafault folder instead. 
+
+![uierrors](/img/step4/uierrors.png)
+
+If you are following this guide, you can download a replacement UI from various sources such as [qqui Calmethar](https://www.eqinterface.com/downloads/fileinfo.php?id=6959), [eqinterface.com](https://eqinterface.com/downloads/index.php?cid=115&dp=0&sh=full&so=desc&sb=lastupdate), or from [#ui-discussion](https://discord.com/channels/1133452007412334643/1162826324092657757). Just make sure to check the date and description for Zeal additions.
+
+If you are already using a custom user interface, you can determine which UI elements are missing Zeal features and causing errors by analyzing the `UIErrors.txt file` found within the root of your TAKP folder. An easy fix is to download another UI that has everything working such as [qqui Calmethar](https://www.eqinterface.com/downloads/fileinfo.php?id=6959), and just move the files you need into the UI folder you are using. Most user interfaces can be pieced together from different sources to achieve the look and feel you prefer.
+
 ### Step 5: dgVoodoo2 
 
 [dgVoodoo2](http://dege.freeweb.hu/dgVoodoo2/dgVoodoo2/) is a set of implementations of old graphics APIs for Windows 7 and later versions. If you are still having problems with intermittent game crashes, this may help.
