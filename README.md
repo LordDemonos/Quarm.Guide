@@ -10,7 +10,7 @@
         - [Why is Zeal getting flagged as a Virus/Malware?](#why-is-zeal-getting-flagged-as-a-virusmalware)
         - [Download and Extract Zeal.asi to your TAKP Folder](#download-and-extract-zealasi-to-your-takp-folder)
     - [Step 5: dgVoodoo2](#step-5-dgvoodoo2)
-    - [Setep 6: Placebos](#setep-6-placebos)
+    - [Step 6: Placebos](#step-6-placebos)
 2. [Xanax's Checklist for Minimal Crashes](#xanaxs-checklist-for-minimal-crashes)
 3. [Part 2: Installing Optional Textures and Effects](#part-2-installing-optional-textures-and-effects)
 4. [Part 3: Installing Optional 3rd Party Programs](#part-3-installing-optional-3rd-party-programs)
@@ -93,7 +93,7 @@ The Project Quarm team plans to address this issue by obtaining a digital certif
 
 Source: [El Hefe](https://www.youtube.com/watch?v=ArLNnN0GwfQ)
 
-### Setep 6: Placebos
+### Step 6: Placebos
 
 Navigate to your TAKP folder and find eqgame.exe. Right click and select Properties. 
 Under Compatability, select "Run this program in compatability mode for Windows XP (Service Pack 3)" and "Run this program as an administrator". 
