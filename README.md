@@ -19,7 +19,7 @@
 
 ## Part 1: Installing the Main Game
 
-#### Backup Warning - Anytime you change something or overwrite a file, backup the whole TAKP folder. Its easy and fast and I'm not going to remind you to backup files after every step. - Backup Warning
+#### Backup Warning - Anytime you change something or overwrite a file, backup that file, backup the whole TAKP folder if you want. It's easy and fast and I'm not going to remind you to backup files after every step. - Backup Warning
 
 ### Step 1: Create a TAKP Forum Account
 Before you can download and install the game, you'll need to create an account on the TAKP forums.
@@ -76,7 +76,7 @@ The Project Quarm team plans to address this issue by obtaining a digital certif
 
 ### Step 5: dgVoodoo2 
 
-[dgVoodoo2](http://dege.freeweb.hu/dgVoodoo2/dgVoodoo2/) is a set of implementation of old graphics API's for Windows 7 and later versions. If you are still having problems with intermittent game crashes, this may help.
+[dgVoodoo2](http://dege.freeweb.hu/dgVoodoo2/dgVoodoo2/) is a set of implementations of old graphics APIs for Windows 7 and later versions. If you are still having problems with intermittent game crashes, this may help.
 
 1. Download the latest version [here](http://dege.freeweb.hu/dgVoodoo2/dgVoodoo2/). Open the zip file and extract only dgVoodooCpl to the root of your TAKP folder.
 2. For Windows, inside the zip file, under /MS/x86/ copy all four .dll files to the root of your TAKP folder, overwriting any older files found.
@@ -96,7 +96,7 @@ Source: [El Hefe](https://www.youtube.com/watch?v=ArLNnN0GwfQ)
 ### Step 6: Placebos
 
 Navigate to your TAKP folder and find eqgame.exe. Right click and select Properties. 
-Under Compatability, select "Run this program in compatability mode for Windows XP (Service Pack 3)" and "Run this program as an administrator". 
+Under Compatibility, select "Run this program in compatibility mode for Windows XP (Service Pack 3)" and "Run this program as an administrator". 
 
 ### Xanax's Checklist for Minimal Crashes
 
@@ -105,10 +105,10 @@ I wrote this guide because half of my guild seems to crash when they zone in and
 1. 2.1 version of TAKP was recommended back in October and I've stuck with it.
 2. Secrets's experimental .dll from zeal-discussions.
 3. Excluded TAKP folder from antivirus scanning.
-4. Always running latest Zeal unless it contains a specific bug I want to avoid. Always keep previous versions backed up.
+4. Always running the latest Zeal unless it contains a specific bug I want to avoid. Always keep previous versions backed up.
 5. dgVoodoo fix
 6. Running program as Administrator.
-7. Also running several muted sound files, EQ Basic 1.1, KaichoFX Spell Effcts, and the game looks absolutely amazing!
+7. Also running several muted sound files, EQ Basic 1.1, KaichoFX Spell Effects, and the game looks absolutely amazing!
 
 If you ask me, the first 3 are the biggest contributors to stability. Hopefully we can lessen these crashes and work towards fixing the rest over time.
 
@@ -171,7 +171,7 @@ These programs add functionality not found in the game client by reading your Ev
 
 A log monitoring application that provides audio and visual feedback based on triggers you either define or import.
 
-https://eq.gimasoft.com/gina/Default.aspx | [Supplimental Documentation](https://kingdomdkp.com/index.php/Guides/Tools/How-to-installing-gina--basic-functions.html?)
+https://eq.gimasoft.com/gina/Default.aspx | [Supplemental Documentation](https://kingdomdkp.com/index.php/Guides/Tools/How-to-installing-gina--basic-functions.html?)
 
 #### EQ Nag
 
@@ -201,9 +201,9 @@ https://github.com/hada79/ZlizEQMap
 
 https://www.project1999.com/forums/showthread.php?t=386944
 
-#### EQ Tell Notifer
+#### EQ Tell Notifier
 
-Desktop notifications for tells recieved in game
+Desktop notifications for tells received in game
 
 https://github.com/rtcox/EQ_tell_notifier/tree/main
 
@@ -215,7 +215,7 @@ https://store.steampowered.com/app/993090/Lossless_Scaling/
 
 #### Borderless Gaming
 
-I dont use this with EQ but I need to mention it alongside Lossless Scaling. I use it with my 4k OLED monitor to remove the Windows border around games sometimes to prevent OLED burn-in. Its pricey on Steam but free on Github.
+I don't use this with EQ but I need to mention it alongside Lossless Scaling. I use it with my 4k OLED monitor to remove the Windows border around games sometimes to prevent OLED burn-in. Its pricey on Steam but free on Github.
 
 https://github.com/Codeusa/Borderless-Gaming/releases
 
@@ -224,13 +224,13 @@ https://github.com/Codeusa/Borderless-Gaming/releases
 1. [Q: Where can I learn more about Project Quarm?](#q1)
 2. [Q: When I use my mouse wheel to scroll backwards, I do not see my character in 3rd person. How do I enable Mouse Look?](#q2)
 3. [Q: How do I make the chat text bigger in game?](#q3)
-4. [Q: Why doesnt (zeal feature) appear in my User Interface?](#q4)
+4. [Q: Why doesn't (zeal feature) appear in my User Interface?](#q4)
 5. [Q: Problem with Mule Account?](#q5)
 6. [Q: How do I change my resolution?](#q6)
 7. [Q: How do I run the game full screen?](#q7)
 8. [Q: I'm using the Stone UI from 1999?](#q8)
 9. [Q: How do I view nameplates from far away?](#q9)
-10. [Q: The game still isnt smooth. Camera movement is still jittery?](#q10)
+10. [Q: The game still isn't smooth. Camera movement is still jittery?](#q10)
 11. [Q: I logged in and I can only move the camera left and right or only up and down? Mouse speed is really fast too?](#q11)
 12. [Q: I want to turn off the loud music at character creation or character select screen?](#q12)
 13. [Q: Quarm enabled snow and its very loud?](#q13)
@@ -254,7 +254,7 @@ Flagging an account as a mule can not be undone and will delevel the character r
 
 The character running the command must first be of appropriate level and no other characters can exist on the account when the command is run. Once an account is flagged as a mule then all characters on the account will be mules bound in EC tunnel and can not leave EC nor level past level 1. These accounts should not contribute to overall server population - this is so we can accurately track server population across third-party population tracking websites, such as UnixGeek's EQEmulator player stats.
 
-The mule account will be exempt from IP restrictions allowing you run a game client and buy/sell/transfer items independent of your main account. Again, RUNNING THE COMMAND AND CONFIRMING WILL DELEVEL YOU TO 1 AND FLAG THE ENTIRE ACCOUNT AS A MULE ACCOUNT. BE CERTAIN OF YOUR INTENTIONS. @CSR WILL NOT REVOKE THIS FLAG UNDER ANY CIRCUMSTANCES, NOR ARE THEY EQUIPPED TO DEAL WITH ANY ISSUES THAT ARISE."
+The mule account will be exempt from IP restrictions allowing you to run a game client and buy/sell/transfer items independent of your main account. Again, RUNNING THE COMMAND AND CONFIRMING WILL DELEVEL YOU TO 1 AND FLAG THE ENTIRE ACCOUNT AS A MULE ACCOUNT. BE CERTAIN OF YOUR INTENTIONS. @CSR WILL NOT REVOKE THIS FLAG UNDER ANY CIRCUMSTANCES, NOR ARE THEY EQUIPPED TO DEAL WITH ANY ISSUES THAT ARISE."
 
 ### Q6
 **A:** In your `eqclient.ini` you can find the [VideoMode] section. Change this to match your desktop's settings. [VideoMode] `BitsPerPixel=32` `Width=1920` `Height=1080` `RefreshRate=60`
@@ -269,7 +269,7 @@ The mule account will be exempt from IP restrictions allowing you run a game cli
 **A:** Use an [updated](#step-3-converting-your-takp-client-to-quarm) `eqgame.dll` and make sure `eqclient.ini` has `EnableExtendedNameplateDistance=TRUE`. 
 
 ### Q10
-**A:** First make sure you're using the experimental `eqgame.dll` file as this fixes the framerate options in your `eqclient.ini`. With previous versions of `eqgame.dll` the frame rate/refresh rate values would not be respected. You `eqclient.ini` then has values for `RefreshRate=60` `MaxFPS=60` `MaxBGFPS=60` `MaxMouseLookFPS=60` and `NoFPSLimiter=1` . These can be adjusted based on your monitor's refresh rate. The general consensus seems to be to limit your FPS, and set it to your monitor's max refres rate. The higher the frame rate, the smoother the game should feel. 
+**A:** First make sure you're using the experimental `eqgame.dll` file as this fixes the framerate options in your `eqclient.ini`. With previous versions of `eqgame.dll` the frame rate/refresh rate values would not be respected. You `eqclient.ini` then has values for `RefreshRate=60` `MaxFPS=60` `MaxBGFPS=60` `MaxMouseLookFPS=60` and `NoFPSLimiter=1` . These can be adjusted based on your monitor's refresh rate. The general consensus seems to be to limit your FPS, and set it to your monitor's max refresh rate. The higher the frame rate, the smoother the game should feel. 
 
 ### Q11
 **A:** Sometimes Zeal's camera movement settings do not save properly so the camera feels too fast, or wont move at all. In game you can ALT + O to open the options menu and navigate to the Zeal tab. I like all my camera settings around .3. These settings can also be found in `eqclient.ini` at the bottom under [Zeal] `MouseSensitivityX=0.300000` `MouseSensitivityY=0.300000` `MouseSensitivityX3rd=0.300000` `MouseSensitivityY3rd=0.300000`.
