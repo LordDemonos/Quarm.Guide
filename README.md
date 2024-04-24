@@ -77,11 +77,11 @@ Excluding your TAKP installation from being scanned by your antivirus software c
 
 ![Defenderexclusion4](/img/step4/Defenderexclusion4.png)
 
-- Under exclusions, click Add or Remove Exclusions
+- Under exclusions, click Add or Remove Exclusions.
 
 ![Defenderexclusion5](/img/step4/Defenderexclusion5.png)
 
-- Click Add an exclusion and select Folder
+- Click Add an exclusion and select Folder.
 
 ![Defenderexclusion6](/img/step4/Defenderexclusion6.png)
 
