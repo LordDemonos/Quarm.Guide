@@ -63,27 +63,27 @@ Excluding your TAKP installation from being scanned by your antivirus software c
 
 -Right click the windows button in the lower left hand corner and select search.
 
-![Defenderexclusion1](/faq/step4/Defenderexclusion1.png)
+![Defenderexclusion1](/img/step4/Defenderexclusion1.png)
 
 - Search for and select Windows Security.
 
-![Defenderexclusion2](/faq/step4/Defenderexclusion2.png)
+![Defenderexclusion2](/img/step4/Defenderexclusion2.png)
 
 - Click Virus and threat Protection.
 
-![Defenderexclusion3](/faq/step4/Defenderexclusion3.png)
+![Defenderexclusion3](/img/step4/Defenderexclusion3.png)
 
 - Under Virus and threat Protection settings, click manage settings.
 
-![Defenderexclusion4](/faq/step4/Defenderexclusion4.png)
+![Defenderexclusion4](/img/step4/Defenderexclusion4.png)
 
 - Under exclusions, click Add or Remove Exclusions
 
-![Defenderexclusion5](/faq/step4/Defenderexclusion5.png)
+![Defenderexclusion5](/img/step4/Defenderexclusion5.png)
 
 - Click Add an exclusion and select Folder
 
-![Defenderexclusion6](/faq/step4/Defenderexclusion6.png)
+![Defenderexclusion6](/img/step4/Defenderexclusion6.png)
 
 - Select the folder that you currently have (or intend to have) the TAKP files extracted into and run from when you play.
 
