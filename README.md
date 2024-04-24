@@ -253,9 +253,31 @@ PanDelay=20 - Zeal adds the ability to left click and hold to move the camera in
 
 ### Step 2: Controlling your User Interface
 
-The supported client comes with several additional custom UIs. To switch to one of these, run the slash command /loadskin <ui> 1. The 1 is optional-- it will keep your current window positions. Loading UIs via the options window will not work. [Source: wiki.takp](https://wiki.takp.info/index.php/Getting_Started_on_Windows#EQClient.ini_settings)
+The supported client comes with several additional custom UIs. To switch to one of these, run the slash command `/loadskin <ui> 1`. The 1 is optional-- it will keep your current window positions. Loading UIs via the options window will not work. [Source: wiki.takp](https://wiki.takp.info/index.php/Getting_Started_on_Windows#EQClient.ini_settings)
 
 There are several sources to download new User Interface packages, such as [qqui Calmethar](https://www.eqinterface.com/downloads/fileinfo.php?id=6959), [eqinterface.com](https://eqinterface.com/downloads/index.php?cid=115&dp=0&sh=full&so=desc&sb=lastupdate), or from [#ui-discussion](https://discord.com/channels/1133452007412334643/1162826324092657757). Just make sure to check the date and description for Zeal additions.
+
+#### How Do I install a Interface?
+
+1. Download your chosen interface.
+
+2. Find the folder in your EverQuest directiory UIFILES inside there will be a folder Default*.
+
+3. Create another folder beside Default, for our example we will call it "BARD" (You can not have spaces in the name). If the file you downloaded already contains a folder, you should skip this step. 
+
+4. Unzip all of the files from your download into the folder "BARD"
+
+5. Login to EverQuest. In game, type `/loadskin BARD`. This will select the BARD UI and load it. The screen will look like your zoning for a moment, then load your new UI modifications. Typing `/loadskin BARD 1`, the 1 is optional-- it will keep your current window positions.
+
+*The default folder CAN NOT be altered in anyway.. any changes made to this folder are over written at Start-Up of the game.
+
+#### Where should my files be saved?
+
+The should be saved in a single level folder. One of the most common reason that UI's wont load is that there is a sub-folder inside the Custom UI Folder. Here are two pictures one showing the wrong way, and one showing the correct way. 
+
+![wrong-way-sm](/img/step2/wrong-way-sm.jpg) ![correct-way](/img/step2/correct-way.jpg)
+
+[Source: eqinterface](https://www.eqinterface.com/forums/faq.php?faq=install#faq_howto_install)
 
 #### Duplicating your UI Settings for New Characters
 
@@ -453,6 +475,7 @@ https://github.com/Codeusa/Borderless-Gaming/releases
 - [I can't see the bottom of the logon window to press the accept button?](#i-cant-see-the-bottom-of-the-logon-window-to-press-the-accept-button)
 - [I can't find Grizzly Bear Skins, only Thick Grizzly Bear Skins?](#i-cant-find-grizzly-bear-skins-only-thick-grizzly-bear-skins)
 - [There are no maps?](#there-are-no-maps)
+- [How do I install a custom mouse pointer?](#how-do-i-install-a-custom-mouse-pointer)
 
 
 ### Where can I learn more about Project Quarm?
@@ -679,6 +702,58 @@ Use Ryzen Master to apply settings [Source: TAKP Forums](https://www.takproject.
 
 ### There are no maps?
 **A:** The map system was introduced with the Legacy of Ykesha expansion in February 2003, and is not present in Project Quarm. I suggest looking into [ZlizEQMap](#ZlizEQMap). 
+
+### How do I install a custom mouse pointer?
+**A:** Installing a custom mouse pointer for your interface isn’t too difficult of a task but requires some basic knowledge. You will need enough skill to be able to open a XML file in a text editor and change some things. Knowing how to use a graphics editing program with .tga files may help you as well.
+
+When you download a custom mouse pointer for Everquest there should be two files included with in the pointer zipfile. One will be a .tga graphic file and the other should be a readme.txt that gives instructions on what to change in the EQUI_Animations.xml. Since every courser has different sizes the author should include this information.
+
+If you don’t already have a custom EQUI_Animations.xml file you’ll want to copy that file from your default folder into your custom interface folder. The following changes are only examples to give you more insight into what is happening. The author of these custom pointers should include directions.
+
+You will need to define the new graphic file in the EQUI_Animations.xml and that can be done by using the <TextureInfo Item= > tag. When looking through the animations file you will see many of these tags defining many different graphics. At the end of the list add you can add your own like the one shown below :
+
+	`<TextureInfo item = "mycustompointer.tga">
+		<Size>
+			<CX>64</CX>
+			<CY>64</CY>
+		</Size>
+	</TextureInfo>`
+
+
+Notice the item=” mycustompointer.tga” is jus the name of the .tga file that should be included in the zipfile. The author should provide the above code or at the very least the CX and CY values.
+
+If they didn’t and you are proficient with Adobe Photoshop or other graphic editing programs you can find the size and location your self. The X,Y location is the X,Y pixel coordinates where the graphic starts inside the graphic file. The CX,CY is the pixel size of the graphic inside the file.
+
+Now you need to find the <Ui2DAnimation item = "A_DefaultCursor"> code in the EQUI_Animations.xml. The author should provide new code to replace the old Cursor code with. If they don’t below is an example on how a custom cursor is called into place.
+
+	`<Ui2DAnimation item = "A_DefaultCursor">
+		<Cycle>true</Cycle>
+		<Frames>
+			<Texture> mycustompointer.tga </Texture>
+			<Location>
+				<X>0</X>
+				<Y>0</Y>
+			</Location>
+			<Size>
+				<CX>64</CX>
+				<CY>64</CY>
+			</Size>
+			<Hotspot>
+				<X>1</X>
+				<Y>1</Y>
+			</Hotspot>
+			<Duration>1000</Duration>
+		</Frames>
+	</Ui2DAnimation>`
+
+
+Notice the texture name is the same name as your custom cursor file name. The author should also provide you values for the X, Y location and the CX, CY size.
+
+If they didn’t and you are proficient with Adobe Photoshop or other graphic editing programs you can find the size and location your self. The X,Y location is the X,Y pixel coordinates where the graphic starts inside the graphic file. The CX,CY is the pixel size of the graphic inside the file.
+
+Once these basics are done correctly you should get your new mouse pointer in game. If everything is working be proud of your self because you can take this knowledge and start to create your own!
+
+If you have no mouse pointer after this more then likely the X,Y or the CX,CY values are wrong or you have a typo in the filename. If it’s a typo in the filename of the .tga file you should see an error in your uierrors.txt about it. [Source: eqinterface](https://www.eqinterface.com/forums/faq.php?faq=install#faq_howto_install)
 
 ## Suggestions Feedback and Help
 
