@@ -315,6 +315,7 @@ https://github.com/Codeusa/Borderless-Gaming/releases
 - [I have white and yellow bars covering my text?](#i-have-white-and-yellow-bars-covering-my-text)
 - [The game runs too fast?](#the-game-runs-too-fast)
 - [I'm still experiencing crashes during long play sessions on raids?](#im-still-experiencing-crashes-during-long-play-sessions-on-raids)
+- [I can't see the bottom of the logon window to press the accept button?](#i-cant-see-the-bottom-of-the-logon-window-to-press-the-accept-button)
 
 
 ### Where can I learn more about Project Quarm?
@@ -488,6 +489,12 @@ Use Ryzen Master to apply settings [Source: TAKP Forums](https://www.takproject.
 - Update to latest [FreeTheMouse client v3.6.4](https://www.dropbox.com/s/qzb86juu8k87mfs/eqgame_dll%20v3.6.4%20for%20ftm.zip?dl=0). This should help with client switching crashes.
 - Edit your eqclient.ini file and change this line to match your chosen UI that you use `UISkin=<your UI name>`.
 [Source: TAKP Forums](https://www.takproject.net/forums/index.php?threads/crash-to-desktop-on-enter-world.16444) [Source: TAKP Forums](https://www.takproject.net/forums/index.php?threads/power-of-two-ui-crashing-client-when-entering-world.11793)
+
+### I can't see the bottom of the logon window to press the accept button?
+**A:** Add the Following lines to [Defaults] Section of your eqclient.ini
+
+`FEWindowedModeXOffset=0`
+`FEWindowedModeYOffset=0`
 
 ## Suggestions Feedback and Help
 
