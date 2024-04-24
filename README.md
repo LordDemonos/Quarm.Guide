@@ -63,27 +63,27 @@ Excluding your TAKP installation from being scanned by your antivirus software c
 
 -Right click the windows button in the lower left hand corner and select search.
 
-![Defenderexclusion1](/faq/part4/Defenderexclusion1.png)
+![Defenderexclusion1](/faq/step4/Defenderexclusion1.png)
 
 - Search for and select Windows Security.
 
-![Defenderexclusion2](/faq/part4/Defenderexclusion2.png)
+![Defenderexclusion2](/faq/step4/Defenderexclusion2.png)
 
 - Click Virus and threat Protection.
 
-![Defenderexclusion3](/faq/part4/Defenderexclusion3.png)
+![Defenderexclusion3](/faq/step4/Defenderexclusion3.png)
 
 - Under Virus and threat Protection settings, click manage settings.
 
-![Defenderexclusion4](/faq/part4/Defenderexclusion4.png)
+![Defenderexclusion4](/faq/step4/Defenderexclusion4.png)
 
 - Under exclusions, click Add or Remove Exclusions
 
-![Defenderexclusion5](/faq/part4/Defenderexclusion5.png)
+![Defenderexclusion5](/faq/step4/Defenderexclusion5.png)
 
 - Click Add an exclusion and select Folder
 
-![Defenderexclusion6](/faq/part4/Defenderexclusion6.png)
+![Defenderexclusion6](/faq/step4/Defenderexclusion6.png)
 
 - Select the folder that you currently have (or intend to have) the TAKP files extracted into and run from when you play.
 
@@ -95,7 +95,7 @@ Open administrative PowerShell and type in the below, replace C:\TAKPv22 folder 
 
 `Add-MpPreference -ExclusionProcess "C:\TAKPv22\eqgame.exe"`
 
-![AV_Exclusions_PowerShell_Example](img/step4/AV_Exclusions_PowerShell_Example.png)
+![AV_Exclusions_PowerShell_Example](/img/step4/AV_Exclusions_PowerShell_Example.png)
 
 #### Why is Zeal getting flagged as a Virus/Malware?
 Zeal is a file that adds new features and improvements to EverQuest by injecting custom code into the game's sound engine. This process is called code injection. While code injection is sometimes associated with malware or viruses because it modifies the game files, Zeal serves a legitimate purpose in enhancing the gaming experience.
