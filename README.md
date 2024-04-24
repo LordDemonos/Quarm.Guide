@@ -142,6 +142,8 @@ If you are already using a custom user interface, you can determine which UI ele
 8. Change VRAM to match your video card's VRAM.
 9. Uncheck dgVooDoo watermark.
 
+![dgVoodoo1](/img/step5/dgVoodoo1.png) ![dgVoodoo2](/img/step5/dgVoodoo1.png)
+
 Source: [El Hefe](https://www.youtube.com/watch?v=ArLNnN0GwfQ)
 
 ### Step 6: Issues Running the Game
