@@ -163,7 +163,7 @@ It could also be caused when Directx 9c or a Visual C runtime is not installed. 
 
 [Visual C 2015 runtime](https://www.microsoft.com/en-us/download/details.aspx?id=53587) - download the 32bit version
 [Directx 9c](https://www.microsoft.com/en-us/download/details.aspx?id=8109)
-could also be that proper [AV exclusions](https://wiki.takp.info/index.php/Set_Windows_Defender_Exclusion_on_Windows_10) are not set
+could also be that proper [AV exclusions](https://wiki.takp.info/index.php/Set_Windows_Defender_Exclusion_on_Windows_10) are not set.
 
 #### Set Compatibility
 
@@ -253,7 +253,7 @@ PanDelay=20 - Zeal adds the ability to left click and hold to move the camera in
 
 ### Step 2: Controlling your User Interface
 
-The supported client comes with several additional custom UIs. To switch to one of these, run the slash command /loadskin <ui> 1. The 1 is optional-- it will keep your current window positions. Loading UIs via the options window will not work. [Source: TAKP Wiki](https://wiki.takp.info/index.php/Getting_Started_on_Windows#EQClient.ini_settings)
+The supported client comes with several additional custom UIs. To switch to one of these, run the slash command /loadskin <ui> 1. The 1 is optional-- it will keep your current window positions. Loading UIs via the options window will not work. [Source: wiki.takp](https://wiki.takp.info/index.php/Getting_Started_on_Windows#EQClient.ini_settings)
 
 There are several sources to download new User Interface packages, such as [qqui Calmethar](https://www.eqinterface.com/downloads/fileinfo.php?id=6959), [eqinterface.com](https://eqinterface.com/downloads/index.php?cid=115&dp=0&sh=full&so=desc&sb=lastupdate), or from [#ui-discussion](https://discord.com/channels/1133452007412334643/1162826324092657757). Just make sure to check the date and description for Zeal additions.
 
@@ -292,6 +292,7 @@ Once created, you can even right click your spellbook to choose one of your spel
 Screenshots can be taken by pressing PRINT SCREEN within the game, and can be changed within the Options. These are saved in your TAKP folder as `EQ000001.bmp` for example. 
 
 ## Part 3: Installing Optional Textures and Effects
+
 You can install various texture packs and visual effects to enhance the game's appearance.
 
 #### Classic HD Textures
@@ -299,8 +300,7 @@ You can install various texture packs and visual effects to enhance the game's a
 EQ Classic HD is an ongoing project by Cucumbers, Paulgiamatti, Sorn, and Zaela to graphically enhance, upscale, retexture, and reimagine classic EverQuest. They primarily deal with textures, but their package also corrects some minor transparency, particle, and model animation issues. 
 
 https://wiki.project1999.com/EQ_Classic_HD#The_Al.27Kabor_Project_version:
-
-**Note: The link contains special instructions for applying these textures to the Al'Kabor Project (TAKP).**
+*Note: The link contains special instructions for applying these textures to the Al'Kabor Project (TAKP).*
 
 To install Classic HD Textures, first make sure you're downloading the [The Al'Kabor Project version](https://drive.google.com/file/d/0ByJldqMGux7CVUh6a2taTWlndmM/view?usp=sharing&resourcekey=0-CzMD3Z47SRVJ6NNjLXql5w). Open the downloaded zip file. The archive contains an installer and uninstaller you can use. Manually, you can extract or copy the .S3D files contained in the EQClassicHD folder to your EverQuest directory (overwrite if you left the old ones in). To uninstall, copy your backed up files back into your EverQuest directory and overwrite. Install and uninstall.bat can be deleted or ignored. 
 
@@ -323,7 +323,7 @@ Various installation instructions for the different parts can be found within th
 
 #### KaichoFX Spell Effects
 
-Kaicho has been working on their passion project, creating new spell effects, particles, and animations for EverQuest. You can find an example during one of his streams [here](https://clips.twitch.tv/SuaveEnergeticGalagoMingLee-lhitQb6LALq3BUHv)
+Kaicho has been working on their passion project, creating new spell effects, particles, and animations for EverQuest. You can find an example during one of his streams [here](https://clips.twitch.tv/SuaveEnergeticGalagoMingLee-lhitQb6LALq3BUHv).
 
 https://www.reddit.com/r/ProjectQuarm/comments/17h98xq/comment/k6prhur/
 
@@ -531,7 +531,7 @@ In order for dgVoodoo to fire, you have to set `eqgame.exe` to use High Performa
 
 If you have an AMD card, find an equivalent setting in the Radeon control panel.
 
-If the wrapper is loaded, in game it will have a "dgVoodoo" watermark in the lower right corner of the display. The performance difference is usually very noticeable. But if you want to be sure, you can use software such as [GPU-Z](https://www.techpowerup.com/gpuz/), to monitor the load on the discrete graphics card. Remove the watermark by running dgVoodooCpl.exe, clicking the DirectX tab, and unchecking 'dgVoodoo Watermark.' OR you can locate the dgVoodooWatermark line in your dgVoodoo.conf file and make sure it's set to false: "dgVoodooWatermark = false" If it doesn't exist, create it.
+If the wrapper is loaded, in game it will have a "dgVoodoo" watermark in the lower right corner of the display. The performance difference is usually very noticeable. But if you want to be sure, you can use software such as [GPU-Z](https://www.techpowerup.com/gpuz/), to monitor the load on the discrete graphics card. Remove the watermark by running `dgVoodooCpl.exe`, clicking the DirectX tab, and unchecking 'dgVoodoo Watermark.' OR you can locate the dgVoodooWatermark line in your dgVoodoo.conf file and make sure it's set to false: "dgVoodooWatermark = false" If it doesn't exist, create it.
 
 Option 2: [DXwrapper](https://www.dropbox.com/s/phvxgl6ojf2xqih/DxWrapper.zip?dl=0). This wraps the dx8 to dx9. It will use the amd graphics on a switchable graphics laptop, even though it selects the onboard graphics at run time. By using GPU-Z, you can see which graphics card is doing the work. What doesn't work, is adjusting the gamma from the slider in game. Just put these 3 files in your TAKP install folder and give it a try. If it doesn't work or you don't see performance gains, then remove them. [Source: wiki.takp](https://wiki.takp.info/index.php/Getting_Started_on_Windows)
 
@@ -593,9 +593,9 @@ LoadArmor23=FALSE`
 [See also this post summarizing connection issues for TAKP](http://www.takproject.net/forums/index.php?threads/connection-issues-read-this.4488/#post-24796). [Source: wiki.takp](https://wiki.takp.info/index.php/Getting_Started_on_Windows)
 
 ### Chat channels keep dropping?
-**A:** If your chat channels regularly drop, you can try adding `ChatKeepAlive=1` in the defaults section of the eqclient.ini, this will increase the frequency the keepalives are sent to every 15 seconds.
+**A:** If your chat channels regularly drop, you can try adding `ChatKeepAlive=1` in the defaults section of the `eqclient.ini`, this will increase the frequency the keepalives are sent to every 15 seconds.
 
-If one packet is dropped, that is the keepalive from Client to Server, you will time out before it triggers again, if the ChatKeepAlive=1 is not set. So this specific condition can contribute to chat channels dropping. [Source: wiki.takp](https://wiki.takp.info/index.php/Getting_Started_on_Windows)
+If one packet is dropped, that is the keepalive from Client to Server, you will time out before it triggers again, if the `ChatKeepAlive=1` is not set. So this specific condition can contribute to chat channels dropping. [Source: wiki.takp](https://wiki.takp.info/index.php/Getting_Started_on_Windows)
 
 ###  Why is my non-QWERTY keyboard not working correctly in game? 
 **A:** The default client is packaged with the QWERTY keyboard layout file. This can be changed by replacing the `keyboard.txt` in your TAKP folder with the one made for your locality [keyboard.txt by nationality](https://drive.google.com/open?id=0B70BIislzWn_U01KbnNXQVZ3WU0). *Please note that several are still missing and will be uploaded as we can find/make them*
@@ -642,7 +642,7 @@ Now your gamma has been increased for this monitor!
 ### I have white and yellow bars covering my text?
 **A:** This is likely caused by an incompatible version of dgvoodoo. You can either look for a newer or older version that is compatible with your graphics card or can disable dgvoodoo by moving the d3d8.dll out of the EQ client folder and relaunching the client.
 
-This issue is fixed in v2.2 client that has an updated dgVoodoo2 d3d8.dll which is compatible with AMD cards. You can download it from [here](http://dege.fw.hu/temp/dgVoodoo2_81_exp4.zip)
+This issue is fixed in v2.2 client that has an updated dgVoodoo2 d3d8.dll which is compatible with AMD cards. You can download it from [here](http://dege.fw.hu/temp/dgVoodoo2_81_exp4.zip).
 
 ![Barscoveringtext](/img/faq/Barscoveringtext.png)
 
@@ -655,14 +655,14 @@ This issue is fixed in v2.2 client that has an updated dgVoodoo2 d3d8.dll which 
 Use Ryzen Master to apply settings [Source: TAKP Forums](https://www.takproject.net/forums/index.php?threads/everything-is-at-10x-speed.27284/)) 
 
 ### I'm still experiencing crashes during long play sessions on raids?
-**A:** If you are experiencing client crashing during raids, can check the long discussion [here](https://www.takproject.net/forums/index.php?threads/crashing-when-zoning-long-play-sessions.20996/page-5#post-114059)
+**A:** If you are experiencing client crashing during raids, can check the long discussion [here](https://www.takproject.net/forums/index.php?threads/crashing-when-zoning-long-play-sessions.20996/page-5#post-114059).
 - Edit your `eqclient.ini` file and set this value to zero `ShowSpellEffects=0` or in-game can type `/showspell OFF`
 - Update to latest [FreeTheMouse client v3.6.4](https://www.dropbox.com/s/qzb86juu8k87mfs/eqgame_dll%20v3.6.4%20for%20ftm.zip?dl=0). This should help with client switching crashes.
 - Edit your eqclient.ini file and change this line to match your chosen UI that you use `UISkin=<your UI name>`.
 [Source: TAKP Forums](https://www.takproject.net/forums/index.php?threads/crash-to-desktop-on-enter-world.16444) [Source: TAKP Forums](https://www.takproject.net/forums/index.php?threads/power-of-two-ui-crashing-client-when-entering-world.11793)
 
 ### I can't see the bottom of the logon window to press the accept button?
-**A:** Add the Following lines to [Defaults] Section of your eqclient.ini
+**A:** Add the Following lines to [Defaults] Section of your `eqclient.ini`
 
 `FEWindowedModeXOffset=0`
 `FEWindowedModeYOffset=0`
