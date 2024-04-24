@@ -257,6 +257,11 @@ https://github.com/Codeusa/Borderless-Gaming/releases
 - [Why is my non-QWERTY keyboard not working correctly in game?](#why-is-my-non-qwerty-keyboard-not-working-correctly-in-game)
 - [I'm having mouse issues?](#im-having-mouse-issues)
 - [I'm getting a EQMAIN.DLL error running the game?](#im-getting-a-eqmaindll-error-running-the-game)
+- [The text in game is fuzzy and not clear?](#the-text-in-game-is-fuzzy-and-not-clear)
+- [The gamma slider doesnt work?](#the-gamma-slider-doesnt-work)
+- [The EULA acceptance window moved so I cant log in?](#the-eula-acceptance-window-moved-so-i-cant-log-in)
+- [I have white and yellow bars covering my text?](#i-have-white-and-yellow-bars-covering-my-text)
+- [The game runs too fast?](#the-game-runs-too-fast)
 
 
 ### Where can I learn more about Project Quarm?
@@ -302,8 +307,8 @@ Height=1080
 
 The supported client includes a frame rate limiter not found in the original client. You can change foreground and background FPS limits (this gets put in automatically if absent) by editing these lines in your `eqclient.ini`:
 
-`[Options]
-MaxFPS=60 - This is the framerate you limit the foreground client window to. If this is set too high, it may consume too many system resources. Typically 60 is a good number to start with and adjust if necessary. A setting of 0 disables the limit.`
+`[Options]`
+`MaxFPS=60 - This is the framerate you limit the foreground client window to. If this is set too high, it may consume too many system resources. Typically 60 is a good number to start with and adjust if necessary. A setting of 0 disables the limit.`
 
 `MaxBGFPS=60 - This is the framerate you limit the background client windows to. You don't want this too low, since it will affect autofollow ability. But, if you have it too high, it may consume too many system resources. 60 is typically good. A setting of 0 disables the limit.`
 
@@ -377,6 +382,52 @@ If one packet is dropped that is the keepalive from Client to Server, you will t
 **A:** This happens if you try to launch the game from Windows Search results. Don't launch from search results. Navigate to the folder manually and run `eqgame.exe` directly, or create a desktop shortcut, or launch via hotkey.net. Also this error can happen if your anti-virus deletes some game files. Make sure you set AV exclusions and the game files aren't being quarantined.
 
 ![Eqmain-dll-error](/img/faq/Eqmain-dll-error.png)
+
+### The text in game is fuzzy and not clear?
+**A:** In each of your EQ folders:
+- Right click `eqgame.exe`, properties, compatibility tab, change DPI settings, check the box "Override high DPI scaling behavior" and select "Application" in the dropdown.
+
+### The gamma slider doesnt work?
+**A:** For some people, the in-game Gamma slider does nothing. Follow the below steps on how to increase Gamma on Windows 10 machines:
+
+- Right click on Desktop -> choose "Display Settings"
+- Click on "Advanced display settings"
+- Click on "Display adapter properties for Display 1"
+- Click on "Color Management" tab, then click on "Color Management..." button
+- Click on "Advanced" tab, then click on "Change system defaults..." button at the bottom
+- Click on "Advanced" tab, then click on "Calibrate display" button at the bottom.
+
+A "Welcome to Display Calibration" window will pop up. If you use multiple monitors you need to move this window to the monitor you wish to adjust gamma on. Click Next, Next, Next.
+
+Now in the "Adjust gamma" screen, move the slider up a little bit until desired setting is found. You can have your EQ running next to it to find a suitable level, and click Next when done.
+
+You can click on "Skip brightness and contrast adjustment", and click Next past the color balance screens, and untick the "Start ClearType Tuner" and click on Finish.
+
+Now back at the Color Management - System Defaults screen, tick the "Use Windows display calibration" setting and click Close.
+
+Now your gamma has been increased for this monitor!
+
+*Note: If the Gamma resets on next reboot, you need to get back to the "Color Management - System Defaults" screen, and re-tick the "Use Windows display calibration" setting and click Close. This will bring back your previous settings.*
+
+### The EULA acceptance window moved so I cant log in?
+**A:** This is the first window you see when you run the game. Settings for this are in the eqw.ini file in your EQ folder. Positions are set numerically according to each resolution you use (2 for x and y would be the upper left for example):
+
+![Eqwini](/img/faq/Eqwini.png)
+
+### I have white and yellow bars covering my text?
+**A:** This is likely caused by an incompatible version of dgvoodoo. You can either look for a newer or older version that is compatible with your graphics card or can disable dgvoodoo by moving the d3d8.dll out of the EQ client folder and relaunching the client.
+
+This issue is fixed in v2.2 client that has an updated dgVoodoo2 d3d8.dll which is compatible with AMD cards. You can download it from [here](http://dege.fw.hu/temp/dgVoodoo2_81_exp4.zip)
+
+![Barscoveringtext](/img/faq/Barscoveringtext.png)
+
+### The game runs too fast?
+**A:** If you are using an AMD 7xxx series CPU in your system you may need to adjust your system's settings to avoid this issue. The following were done by different people to correct this issue:
+
+- "I disabled PBO and reduced clock speed to 3900 in bios then in Ryzen Master switched to normal profile and its working for me now. Game running at normal speed."
+- "I fixed my AMD 7950x. PBO off, CPU boost off, fixed 42x 100 for 4.2Ghz set clock speed. Set the Ram to 6000 with XMP II."
+
+Use Ryzen Master to apply settings [Source: TAKP Forums](https://www.takproject.net/forums/index.php?threads/everything-is-at-10x-speed.27284/)) 
 
 ## Suggestions Feedback and Help
 
