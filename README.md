@@ -254,7 +254,7 @@ https://github.com/Codeusa/Borderless-Gaming/releases
 - [How do I disable Velious armor textures?](#how-do-i-disable-velious-armor-textures)
 - [Sometimes my character's spell gems stay greyed out and the server stops responding to my client.](#sometimes-my-characters-spell-gems-stay-greyed-out-and-the-server-stops-responding-to-my-client)
 - [Chat channels keep dropping?](#chat-channels-keep-dropping)
-- [Why is my non-QWERTY keyboard not working correctly in game?](#why-is-my-nonquerty-keyboard-not-working-correctly-in-game)
+- [Why is my non-QWERTY keyboard not working correctly in game?](#why-is-my-nonqwerty-keyboard-not-working-correctly-in-game)
 
 
 ### Where can I learn more about Project Quarm?
@@ -363,7 +363,7 @@ LoadArmor23=FALSE`
 If one packet is dropped that is the keepalive from Client to Server, you will time out before it triggers again, if the ChatKeepAlive=1 is not set. So this specific condition can contribute to chat channels dropping. [Source: wiki.takp](https://wiki.takp.info/index.php/Getting_Started_on_Windows)
 
 ###  Why is my non-QWERTY keyboard not working correctly in game? 
-**A:** The default client is packaged with the QWERTY keyboard layout file. This can be changed by replacing the `keyboard.txt` in your TAKP folder with the one made for your locality [`keyboard.txt` by nationality](https://drive.google.com/open?id=0B70BIislzWn_U01KbnNXQVZ3WU0). *Please note that several are still missing and will be uploaded as we can find/make them*
+**A:** The default client is packaged with the QWERTY keyboard layout file. This can be changed by replacing the `keyboard.txt` in your TAKP folder with the one made for your locality [keyboard.txt by nationality](https://drive.google.com/open?id=0B70BIislzWn_U01KbnNXQVZ3WU0). *Please note that several are still missing and will be uploaded as we can find/make them*
 
 ## Suggestions Feedback and Help
 
