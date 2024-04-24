@@ -73,7 +73,7 @@ Excluding your TAKP installation from being scanned by your antivirus software c
 
 ![Defenderexclusion3](/img/step4/Defenderexclusion3.png)
 
-- Under Virus and threat Protection settings, click manage settings.
+- Under Virus and Threat Protection settings, click manage settings.
 
 ![Defenderexclusion4](/img/step4/Defenderexclusion4.png)
 
@@ -89,7 +89,7 @@ Excluding your TAKP installation from being scanned by your antivirus software c
 
 ##### Powershell
 
-Open administrative PowerShell and type in the below, replace C:\TAKPv22 folder path with where you unzipped the game files.
+Open administrative PowerShell and type in the below, replace the C:\TAKPv22 folder path with where you unzipped the game files.
 
 `Add-MpPreference -ExclusionPath "C:\TAKPv22"`
 
@@ -117,7 +117,7 @@ Zeal comes prepackaged with a uifiles folder containing files modified to displa
 
 ![ChangeButton_ZealOptions](/img/step4/ChangeButton_ZealOptions.png)
 
-However Zeal does not come with user interface files for every Zeal feature and your game chat window will show errors when playing. These are not harmful to your gameplay experience and can be ignored. EverQuest will identify which files are missing or broken and attempt to load them from the deafault folder instead. 
+However Zeal does not come with user interface files for every Zeal feature and your game chat window will show errors when playing. These are not harmful to your gameplay experience and can be ignored. EverQuest will identify which files are missing or broken and attempt to load them from the default folder instead. 
 
 ![uierrors](/img/step4/uierrors.png)
 
@@ -159,7 +159,7 @@ It could also be caused when Directx 9c or a Visual C runtime is not installed. 
 [Directx 9c](https://www.microsoft.com/en-us/download/details.aspx?id=8109)
 could also be that proper [AV exclusions](https://wiki.takp.info/index.php/Set_Windows_Defender_Exclusion_on_Windows_10) are not set
 
-#### Set Compatability
+#### Set Compatibility
 
 Navigate to your TAKP folder and find `eqgame.exe`. Right click and select Properties. 
 Under Compatibility, select "Run this program in compatibility mode for Windows XP (Service Pack 3)" and "Run this program as an administrator". 
@@ -281,7 +281,7 @@ https://store.steampowered.com/app/993090/Lossless_Scaling/
 
 #### Borderless Gaming
 
-I don't use this with EQ but I need to mention it alongside Lossless Scaling. I use it with my 4k OLED monitor to remove the Windows border around games sometimes to prevent OLED burn-in. Its pricey on Steam but free on Github.
+I don't use this with EQ but I need to mention it alongside Lossless Scaling. I use it with my 4k OLED monitor to remove the Windows border around games sometimes to prevent OLED burn-in. It's pricey on Steam but free on Github.
 
 https://github.com/Codeusa/Borderless-Gaming/releases
 
@@ -299,17 +299,17 @@ https://github.com/Codeusa/Borderless-Gaming/releases
 - [The game still isn't smooth. Camera movement is still jittery?](#the-game-still-isnt-smooth-camera-movement-is-still-jittery)
 - [I logged in and I can only move the camera left and right or only up and down? Mouse speed is really fast too?](#i-logged-in-and-i-can-only-move-the-camera-left-and-right-or-only-up-and-down-mouse-speed-is-really-fast-too)
 - [I want to turn off the loud music at character creation or character select screen?](#i-want-to-turn-off-the-loud-music-at-character-creation-or-character-select-screen)
-- [Quarm enabled snow and its very loud?](#quarm-enabled-snow-and-its-very-loud)
+- [Quarm enabled snow and it's very loud?](#quarm-enabled-snow-and-its-very-loud)
 - [I have a new laptop with an integrated graphics card and I'm experiencing graphical problems?](#i-have-a-new-laptop-with-an-integrated-graphics-card-and-im-experiencing-graphical-problems)
 - [How do I disable Velious armor textures?](#how-do-i-disable-velious-armor-textures)
-- [Sometimes my character's spell gems stay greyed out and the server stops responding to my client.](#sometimes-my-characters-spell-gems-stay-greyed-out-and-the-server-stops-responding-to-my-client)
+- [Sometimes my character's spell gems stay grayed out and the server stops responding to my client.](#sometimes-my-characters-spell-gems-stay-grayed-out-and-the-server-stops-responding-to-my-client)
 - [Chat channels keep dropping?](#chat-channels-keep-dropping)
 - [Why is my non-QWERTY keyboard not working correctly in game?](#why-is-my-non-qwerty-keyboard-not-working-correctly-in-game)
 - [I'm having mouse issues?](#im-having-mouse-issues)
 - [I'm getting a EQMAIN.DLL error running the game?](#im-getting-a-eqmaindll-error-running-the-game)
 - [The text in game is fuzzy and not clear?](#the-text-in-game-is-fuzzy-and-not-clear)
-- [The gamma slider doesnt work?](#the-gamma-slider-doesnt-work)
-- [The EULA acceptance window moved so I cant log in?](#the-eula-acceptance-window-moved-so-i-cant-log-in)
+- [The gamma slider doesn't work?](#the-gamma-slider-doesnt-work)
+- [The EULA acceptance window moved so I can't log in?](#the-eula-acceptance-window-moved-so-i-cant-log-in)
 - [I have white and yellow bars covering my text?](#i-have-white-and-yellow-bars-covering-my-text)
 - [The game runs too fast?](#the-game-runs-too-fast)
 
@@ -366,7 +366,7 @@ The supported client includes a frame rate limiter not found in the original cli
 
 `NoFPSLimiter=0 - Enables/disables the No FPS Limiter and likes to set itself to 1. For the smoothest experience, set this to 0.`
 
-The recommended frame rate for MaxMouseLookFPS is 60 (or 30) to avoid mouse look issues. It's 0 (unlimited FPS) by default. Very high frame rates will make mouse look less usable. However you can change these if desired. You may want a higher background FPS for better autofollowing. These features (among other fixes) are a part of the latest eqgame.dll you would have downloaded under the Obtaining the Client Section for Windows. [Source: wiki.takp](https://wiki.takp.info/index.php/Getting_Started_on_Windows)
+The recommended frame rate for MaxMouseLookFPS is 60 (or 30) to avoid mouse look issues. It's 0 (unlimited FPS) by default. Very high frame rates will make the mouse look less usable. However you can change these if desired. You may want a higher background FPS for better autofollowing. These features (among other fixes) are a part of the latest eqgame.dll you would have downloaded under the Obtaining the Client Section for Windows. [Source: wiki.takp](https://wiki.takp.info/index.php/Getting_Started_on_Windows)
 
 ### I logged in and I can only move the camera left and right or only up and down? Mouse speed is really fast too?
 **A:** Sometimes Zeal's camera movement settings do not save properly so the camera feels too fast, or wont move at all. In game you can ALT + O to open the options menu and navigate to the Zeal tab. I like all my camera settings around .3. These settings can also be found in `eqclient.ini` at the bottom under [Zeal] `MouseSensitivityX=0.300000` `MouseSensitivityY=0.300000` `MouseSensitivityX3rd=0.300000` `MouseSensitivityY3rd=0.300000`.
@@ -374,8 +374,8 @@ The recommended frame rate for MaxMouseLookFPS is 60 (or 30) to avoid mouse look
 ### I want to turn off the loud music at character creation or character select screen?
 **A:** Delete the following files from your TAKP folder. `eqtheme.mp3` `combattheme1.mp3` `combattheme2.mp3` `deaththeme.mp3`
 
-### Quarm enabled snow and its very loud?
-**A:** Originally posted on discord by Hallic|Kelendil: For those interested in reducing or deleting the new event snow sound, the name of the file for the snow/wind loop is `wind_lp1.wav` located in the `snd2.pfs` file in your EQ directory. You will need a special pfs file viewer to open, extract or delete this file. To do so, use [EQ-Zip EverQuest Archive Manager](https://github.com/Shendare/EQZip/releases). First open `snd2.pfs` and you will see a list of several environmental sounds there. You can export or delete the `wind_lp1.wav` OR even use an online .wav volume reducing tool such as [Change Volume](https://mp3cut.net/change-volume) to reduce the volume. You can then upload the reduced volume wave file back into `snd2.pfs` (overwrite and replace the loud one) and now you have a much softer sounding ambient wind. You can do this for all the sound files btw and even make custom ones.
+### Quarm enabled snow and it's very loud?
+**A:** Originally posted on discord by Hallic|Kelendil: For those interested in reducing or deleting the new event snow sound, the name of the file for the snow/wind loop is `wind_lp1.wav` located in the `snd2.pfs` file in your EQ directory. You will need a special pfs file viewer to open, extract or delete this file. To do so, use [EQ-Zip EverQuest Archive Manager](https://github.com/Shendare/EQZip/releases). First open `snd2.pfs` and you will see a list of several environmental sounds there. You can export or delete the `wind_lp1.wav` OR even use an online .wav volume reducing tool such as [Change Volume](https://mp3cut.net/change-volume) to reduce the volume. You can then upload the reduced volume wav file back into `snd2.pfs` (overwrite and replace the loud one) and now you have a much softer sounding ambient wind. You can do this for all the sound files btw and even make custom ones.
 
 ### I have a new laptop with an integrated graphics card and I'm experiencing graphical problems?
 **A:** *Hybrid Graphics Support* Some laptops containing hybrid graphics, with discrete graphics processing capabilities, often do not get utilized by the PC Client. This is due to the graphics in the older PC client being based on MS DirectX 8. A DirectX wrapper has been found that can successfully enable use of the discrete GPU, over the slower on board graphics. If you are experiencing performance issues on a relatively new laptop with an integrated GPU, give one of the following two options a try. One option is using dgVoodoo2, read more [here](https://wiki.takp.info/index.php/Getting_Started_on_Windows).
@@ -390,7 +390,7 @@ In order for dgVoodoo to fire, you have to set `eqgame.exe` to use High Performa
 
 If you have an AMD card, find an equivalent setting in the Radeon control panel.
 
-If the wrapper is loaded, in game it will have a "dgVoodoo" watermark in the lower right corner of the display. The performance difference is usually very noticeable. But if you want to be sure, you can use software such as [GPU-Z](https://www.techpowerup.com/gpuz/), to monitor the load on the discrete graphics card. Remove the watermark by running dgVoodooCpl.exe, clicking the DirectX tab, and unchecking 'dgVoodoo Watermark.' OR you can locate the dgVoodooWatermark line in your dgVoodoo.conf file and make sure its set to false: "dgVoodooWatermark = false" If it doesn't exist, create it.
+If the wrapper is loaded, in game it will have a "dgVoodoo" watermark in the lower right corner of the display. The performance difference is usually very noticeable. But if you want to be sure, you can use software such as [GPU-Z](https://www.techpowerup.com/gpuz/), to monitor the load on the discrete graphics card. Remove the watermark by running dgVoodooCpl.exe, clicking the DirectX tab, and unchecking 'dgVoodoo Watermark.' OR you can locate the dgVoodooWatermark line in your dgVoodoo.conf file and make sure it's set to false: "dgVoodooWatermark = false" If it doesn't exist, create it.
 
 Option 2: [DXwrapper](https://www.dropbox.com/s/phvxgl6ojf2xqih/DxWrapper.zip?dl=0). This wraps the dx8 to dx9. It will use the amd graphics on a switchable graphics laptop, even though it selects the onboard graphics at run time. By using GPU-Z, you can see which graphics card is doing the work. What doesn't work, is adjusting the gamma from the slider in game. Just put these 3 files in your TAKP install folder and give it a try. If it doesn't work or you don't see performance gains, then remove them. [Source: wiki.takp](https://wiki.takp.info/index.php/Getting_Started_on_Windows)
 
@@ -406,7 +406,7 @@ LoadArmor21=FALSE
 LoadArmor22=FALSE
 LoadArmor23=FALSE`
 
-### Sometimes my character's spell gems stay greyed out and the server stops responding to my client.
+### Sometimes my character's spell gems stay grayed out and the server stops responding to my client.
 **A:** This is what is commonly referred to as 'desyncing'. The precise cause(s) of the problem are unknown (else they would get fixed up) but there are things that can be done to reduce the chance of this occurring.
 
 - Ensure that your internet connection is uncongested. Try using a wired connection to your router instead of wifi.
@@ -418,9 +418,9 @@ LoadArmor23=FALSE`
 [See also this post summarizing connection issues for TAKP](http://www.takproject.net/forums/index.php?threads/connection-issues-read-this.4488/#post-24796). [Source: wiki.takp](https://wiki.takp.info/index.php/Getting_Started_on_Windows)
 
 ### Chat channels keep dropping?
-**A:** If your chat channels regularly drop, you can try adding `ChatKeepAlive=1` in the defaults section of the eqclient.ini, this will increase frequency the keepalives are sent to every 15 seconds.
+**A:** If your chat channels regularly drop, you can try adding `ChatKeepAlive=1` in the defaults section of the eqclient.ini, this will increase the frequency the keepalives are sent to every 15 seconds.
 
-If one packet is dropped that is the keepalive from Client to Server, you will time out before it triggers again, if the ChatKeepAlive=1 is not set. So this specific condition can contribute to chat channels dropping. [Source: wiki.takp](https://wiki.takp.info/index.php/Getting_Started_on_Windows)
+If one packet is dropped, that is the keepalive from Client to Server, you will time out before it triggers again, if the ChatKeepAlive=1 is not set. So this specific condition can contribute to chat channels dropping. [Source: wiki.takp](https://wiki.takp.info/index.php/Getting_Started_on_Windows)
 
 ###  Why is my non-QWERTY keyboard not working correctly in game? 
 **A:** The default client is packaged with the QWERTY keyboard layout file. This can be changed by replacing the `keyboard.txt` in your TAKP folder with the one made for your locality [keyboard.txt by nationality](https://drive.google.com/open?id=0B70BIislzWn_U01KbnNXQVZ3WU0). *Please note that several are still missing and will be uploaded as we can find/make them*
@@ -437,15 +437,15 @@ If one packet is dropped that is the keepalive from Client to Server, you will t
 **A:** In each of your EQ folders:
 - Right click `eqgame.exe`, properties, compatibility tab, change DPI settings, check the box "Override high DPI scaling behavior" and select "Application" in the dropdown.
 
-### The gamma slider doesnt work?
+### The gamma slider doesn't work?
 **A:** For some people, the in-game Gamma slider does nothing. Follow the below steps on how to increase Gamma on Windows 10 machines:
 
 - Right click on Desktop -> choose "Display Settings"
 - Click on "Advanced display settings"
 - Click on "Display adapter properties for Display 1"
-- Click on "Color Management" tab, then click on "Color Management..." button
-- Click on "Advanced" tab, then click on "Change system defaults..." button at the bottom
-- Click on "Advanced" tab, then click on "Calibrate display" button at the bottom.
+- Click on the "Color Management" tab, then click on "Color Management..." button
+- Click on the "Advanced" tab, then click on "Change system defaults..." button at the bottom
+- Click on the "Advanced" tab, then click on the "Calibrate display" button at the bottom.
 
 A "Welcome to Display Calibration" window will pop up. If you use multiple monitors you need to move this window to the monitor you wish to adjust gamma on. Click Next, Next, Next.
 
@@ -459,7 +459,7 @@ Now your gamma has been increased for this monitor!
 
 *Note: If the Gamma resets on next reboot, you need to get back to the "Color Management - System Defaults" screen, and re-tick the "Use Windows display calibration" setting and click Close. This will bring back your previous settings.*
 
-### The EULA acceptance window moved so I cant log in?
+### The EULA acceptance window moved so I can't log in?
 **A:** This is the first window you see when you run the game. Settings for this are in the eqw.ini file in your EQ folder. Positions are set numerically according to each resolution you use (2 for x and y would be the upper left for example):
 
 ![Eqwini](/img/faq/Eqwini.png)
