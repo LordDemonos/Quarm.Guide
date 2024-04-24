@@ -314,6 +314,7 @@ https://github.com/Codeusa/Borderless-Gaming/releases
 - [The EULA acceptance window moved so I can't log in?](#the-eula-acceptance-window-moved-so-i-cant-log-in)
 - [I have white and yellow bars covering my text?](#i-have-white-and-yellow-bars-covering-my-text)
 - [The game runs too fast?](#the-game-runs-too-fast)
+- [I'm still experiencing crashes during long play sessions on raids?](#im-still-experiencing-crashes-during-long-play-sessions-on-raids)
 
 
 ### Where can I learn more about Project Quarm?
@@ -480,6 +481,13 @@ This issue is fixed in v2.2 client that has an updated dgVoodoo2 d3d8.dll which 
 - "I fixed my AMD 7950x. PBO off, CPU boost off, fixed 42x 100 for 4.2Ghz set clock speed. Set the Ram to 6000 with XMP II."
 
 Use Ryzen Master to apply settings [Source: TAKP Forums](https://www.takproject.net/forums/index.php?threads/everything-is-at-10x-speed.27284/)) 
+
+### I'm still experiencing crashes during long play sessions on raids?
+**A:** If you are experiencing client crashing during raids, can check the long discussion [here](https://www.takproject.net/forums/index.php?threads/crashing-when-zoning-long-play-sessions.20996/page-5#post-114059)
+- Edit your `eqclient.ini` file and set this value to zero `ShowSpellEffects=0` or in-game can type `/showspell OFF`
+- Update to latest [FreeTheMouse client v3.6.4](https://www.dropbox.com/s/qzb86juu8k87mfs/eqgame_dll%20v3.6.4%20for%20ftm.zip?dl=0). This should help with client switching crashes.
+- Edit your eqclient.ini file and change this line to match your chosen UI that you use `UISkin=<your UI name>`.
+[Source: TAKP Forums](https://www.takproject.net/forums/index.php?threads/crash-to-desktop-on-enter-world.16444) [Source: TAKP Forums](https://www.takproject.net/forums/index.php?threads/power-of-two-ui-crashing-client-when-entering-world.11793)
 
 ## Suggestions Feedback and Help
 
