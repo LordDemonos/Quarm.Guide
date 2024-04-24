@@ -51,7 +51,7 @@ Zeal is used to add additional functionality to EverQuest. Main additions includ
 
 #### Prerequisite 1. (Required) Enable sound in your eqclient.ini
 
-Make sure Sound=TRUE is listed in your eqclient.ini. Zeal uses the EverQuest sound engine to inject code into the game, thus the sound must be enabled for Zeal to function. You will still have access to various sound options in game by pressing ALT + O and adjusting the sliders for Sound Realism, Music Volume, and Sound Volume.
+Make sure Sound=TRUE is listed in your `eqclient.ini`. Zeal uses the EverQuest sound engine to inject code into the game, thus the sound must be enabled for Zeal to function. You will still have access to various sound options in game by pressing ALT + O and adjusting the sliders for Sound Realism, Music Volume, and Sound Volume.
 
 #### Prerequisite 2. (Required) Excluding your TAKP Installation
 Excluding your TAKP installation from being scanned by your antivirus software can help reduce load times, zoning times, and eliminate stuttering when opening your bags. This is highly recommended.
