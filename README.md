@@ -30,7 +30,7 @@ Before you can download and install the game, you'll need to create an account o
 
 2. Once you have created a forum account and are logged in, navigate to the "Game Accounts" section.
 
-3. Click "Create Login Server Account" and create a game account. Your forum account may have up to 10 game accounts, but you are limited to having three game accounts +1 trader account simultaneously logged in. Also note, your forum and game accounts are not linked to your wiki login in any way.
+3. Click "Create Login Server Account" and create a game account.
 
 #### Source: [LevelUpLarry](https://www.youtube.com/watch?v=u83_FICd97c)
 
