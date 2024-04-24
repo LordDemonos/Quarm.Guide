@@ -98,18 +98,20 @@ Source: [El Hefe](https://www.youtube.com/watch?v=ArLNnN0GwfQ)
 
 If you see any of these when trying to first run the game:
 
-    windows application error
-    the memory could not be read
+- windows application error
+- the memory could not be read
 
 This could be caused by WinEQ2 running in the background which is not compatible with this client. Exit the WinEQ2 application and try again.
 
 It could also be caused when Directx 9c or a Visual C runtime is not installed. Try installing the following, rebooting and trying again:
 
-    [Visual C 2015 runtime](https://www.microsoft.com/en-us/download/details.aspx?id=53587) - download the 32bit version
-    [Directx 9c](https://www.microsoft.com/en-us/download/details.aspx?id=8109)
-    could also be that proper [AV exclusions](https://wiki.takp.info/index.php/Set_Windows_Defender_Exclusion_on_Windows_10) are not set
+[Visual C 2015 runtime](https://www.microsoft.com/en-us/download/details.aspx?id=53587) - download the 32bit version
+[Directx 9c](https://www.microsoft.com/en-us/download/details.aspx?id=8109)
+could also be that proper [AV exclusions](https://wiki.takp.info/index.php/Set_Windows_Defender_Exclusion_on_Windows_10) are not set
 
-Navigate to your TAKP folder and find eqgame.exe. Right click and select Properties. 
+#### Set Compatability
+
+Navigate to your TAKP folder and find `eqgame.exe`. Right click and select Properties. 
 Under Compatibility, select "Run this program in compatibility mode for Windows XP (Service Pack 3)" and "Run this program as an administrator". 
 
 ### Xanax's Checklist for Minimal Crashes
@@ -252,6 +254,7 @@ https://github.com/Codeusa/Borderless-Gaming/releases
 - [How do I disable Velious armor textures?](#how-do-i-disable-velious-armor-textures)
 - [Sometimes my character's spell gems stay greyed out and the server stops responding to my client.](#sometimes-my-characters-spell-gems-stay-greyed-out-and-the-server-stops-responding-to-my-client)
 - [Chat channels keep dropping?](#chat-channels-keep-dropping)
+- [Why is my non-QWERTY keyboard not working correctly in game?](#why-is-my-nonquerty-keyboard-not-working-correctly-in-game)
 
 
 ### Where can I learn more about Project Quarm?
@@ -346,11 +349,11 @@ LoadArmor23=FALSE`
 ### Sometimes my character's spell gems stay greyed out and the server stops responding to my client.
 **A:** This is what is commonly referred to as 'desyncing'. The precise cause(s) of the problem are unknown (else they would get fixed up) but there are things that can be done to reduce the chance of this occurring.
 
-    Ensure that your internet connection is uncongested. Try using a wired connection to your router instead of wifi.
-    Make sure your firewall isn't blocking client ports.
-    Make sure your frame rate is limited if running the Windows client.
-    Use one of the clients linked above if you're using a different one.
-    Try connecting over a VPN. Some users claim this helps.
+- Ensure that your internet connection is uncongested. Try using a wired connection to your router instead of wifi.
+- Make sure your firewall isn't blocking client ports.
+- Make sure your frame rate is limited if running the Windows client.
+- Use one of the clients linked above if you're using a different one.
+- Try connecting over a VPN. Some users claim this helps.
 
 [See also this post summarizing connection issues for TAKP](http://www.takproject.net/forums/index.php?threads/connection-issues-read-this.4488/#post-24796). [Source: wiki.takp](https://wiki.takp.info/index.php/Getting_Started_on_Windows)
 
@@ -358,6 +361,9 @@ LoadArmor23=FALSE`
 **A:** If your chat channels regularly drop, you can try adding `ChatKeepAlive=1` in the defaults section of the eqclient.ini, this will increase frequency the keepalives are sent to every 15 seconds.
 
 If one packet is dropped that is the keepalive from Client to Server, you will time out before it triggers again, if the ChatKeepAlive=1 is not set. So this specific condition can contribute to chat channels dropping. [Source: wiki.takp](https://wiki.takp.info/index.php/Getting_Started_on_Windows)
+
+###  Why is my non-QWERTY keyboard not working correctly in game? 
+**A:** The default client is packaged with the QWERTY keyboard layout file. This can be changed by replacing the `keyboard.txt` in your TAKP folder with the one made for your locality [`keyboard.txt` by nationality](https://drive.google.com/open?id=0B70BIislzWn_U01KbnNXQVZ3WU0). *Please note that several are still missing and will be uploaded as we can find/make them*
 
 ## Suggestions Feedback and Help
 
