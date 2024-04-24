@@ -91,7 +91,7 @@ The Project Quarm team plans to address this issue by obtaining a digital certif
 8. Change VRAM to match your video card's VRAM.
 9. Uncheck dgVooDoo watermark.
 
-#### Hybrid Graphics Support
+*Hybrid Graphics Support* 
 
 Some laptops containing hybrid graphics, with discrete graphics processing capabilities, often do not get utilized by the PC Client. This is due to the graphics in the older PC client being based on MS DirectX 8. A DirectX wrapper has been found that can successfully enable use of the discrete GPU, over the slower on board graphics. If you are experiencing performance issues on a relatively new laptop with an integrated GPU, give one of the following two options a try. One option is using dgVoodoo2, read more [here](https://wiki.takp.info/index.php/Getting_Started_on_Windows).
 
