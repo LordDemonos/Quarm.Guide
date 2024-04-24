@@ -256,7 +256,7 @@ https://github.com/Codeusa/Borderless-Gaming/releases
 - [Chat channels keep dropping?](#chat-channels-keep-dropping)
 - [Why is my non-QWERTY keyboard not working correctly in game?](#why-is-my-non-qwerty-keyboard-not-working-correctly-in-game)
 - [I'm having mouse issues?](#im-having-mouse-issues)
-- [I'm getting a EQMAIN.DLL error running the game](#im-getting-a-eqmain-dll-error-running-the-game)
+- [I'm getting a EQMAIN.DLL error running the game?](#im-getting-a-eqmaindll-error-running-the-game)
 
 
 ### Where can I learn more about Project Quarm?
@@ -370,7 +370,7 @@ If one packet is dropped that is the keepalive from Client to Server, you will t
 ### I'm having mouse issues?
 **A:** Usually caused by DPI Scaling setting in Windows. Need to set it to 100% DPI scaling. You may find this forum thread useful: [Mouse issues](Usually caused by DPI Scaling setting in Windows. Need to set it to 100% DPI scaling. You may find this forum thread useful: Mouse issues)
 
-### I'm getting a EQMAIN.DLL error running the game
+### I'm getting a EQMAIN.DLL error running the game?
 **A:** This happens if you try to launch the game from Windows Search results. Don't launch from search results. Navigate to the folder manually and run `eqgame.exe` directly, or create a desktop shortcut, or launch via hotkey.net. Also this error can happen if your anti-virus deletes some game files. Make sure you set AV exclusions and the game files aren't being quarantined.
 
 ![Eqmain-dll-error](/img/faq/Eqmain-dll-error.png)
