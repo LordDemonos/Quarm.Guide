@@ -92,11 +92,6 @@ The Project Quarm team plans to address this issue by obtaining a digital certif
 8. Change VRAM to match your video card's VRAM.
 9. Uncheck dgVooDoo watermark.
 
-*Hybrid Graphics Support* 
-
-Some laptops containing hybrid graphics, with discrete graphics processing capabilities, often do not get utilized by the PC Client. This is due to the graphics in the older PC client being based on MS DirectX 8. A DirectX wrapper has been found that can successfully enable use of the discrete GPU, over the slower on board graphics. If you are experiencing performance issues on a relatively new laptop with an integrated GPU, give one of the following two options a try. One option is using dgVoodoo2, read more [here](https://wiki.takp.info/index.php/Getting_Started_on_Windows).
-
-
 Source: [El Hefe](https://www.youtube.com/watch?v=ArLNnN0GwfQ)
 
 ### Step 6: Placebos
@@ -227,33 +222,34 @@ https://github.com/Codeusa/Borderless-Gaming/releases
 
 ## FAQ
 
-1. [Q: Where can I learn more about Project Quarm?](#q1)
-2. [Q: When I use my mouse wheel to scroll backwards, I do not see my character in 3rd person. How do I enable Mouse Look?](#q2)
-3. [Q: How do I make the chat text bigger in game?](#q3)
-4. [Q: Why doesn't (zeal feature) appear in my User Interface?](#q4)
-5. [Q: Problem with Mule Account?](#q5)
-6. [Q: How do I change my resolution?](#q6)
-7. [Q: How do I run the game full screen?](#q7)
-8. [Q: I'm using the Stone UI from 1999?](#q8)
-9. [Q: How do I view nameplates from far away?](#q9)
-10. [Q: The game still isn't smooth. Camera movement is still jittery?](#q10)
-11. [Q: I logged in and I can only move the camera left and right or only up and down? Mouse speed is really fast too?](#q11)
-12. [Q: I want to turn off the loud music at character creation or character select screen?](#q12)
-13. [Q: Quarm enabled snow and its very loud?](#q13)
+- [Where can I learn more about Project Quarm?](#where-can-i-learn-more-about-project-quarm)
+- [When I use my mouse wheel to scroll backwards, I do not see my character in 3rd person. How do I enable Mouse Look?](#when-i-use-my-mouse-wheel-to-scroll-backwards-i-do-not-see-my-character-in-3rd-person-how-do-i-enable-mouse-look)
+- [How do I make the chat text bigger in game?](#how-do-i-make-the-chat-text-bigger-in-game)
+- [Why doesn't (zeal feature) appear in my User Interface?](#why-doesnt-zeal-feature-appear-in-my-user-interface)
+- [Problem with Mule Account?](#problem-with-mule-account)
+- [How do I change my resolution?](#how-do-i-change-my-resolution)
+- [How do I run the game full screen?](#how-do-i-run-the-game-full-screen)
+- [I'm using the Stone UI from 1999?](#im-using-the-stone-ui-from-1999)
+- [How do I view nameplates from far away?](#how-do-i-view-nameplates-from-far-away)
+- [The game still isn't smooth. Camera movement is still jittery?](#the-game-still-isnt-smooth-camera-movement-is-still-jittery)
+- [I logged in and I can only move the camera left and right or only up and down? Mouse speed is really fast too?](#i-logged-in-and-i-can-only-move-the-camera-left-and-right-or-only-up-and-down-mouse-speed-is-really-fast-too)
+- [I want to turn off the loud music at character creation or character select screen?](#i-want-to-turn-off-the-loud-music-at-character-creation-or-character-select-screen)
+- [Quarm enabled snow and its very loud?](#quarm-enabled-snow-and-its-very-loud)
+- [I have a new laptop with an integrated graphics card and I'm experiencing graphical problems?](#i-have-a-new-laptop-with-an-integrated-graphics-card-and-im-experiencing-graphical-problems)
 
-### Q1
+### Where can I learn more about Project Quarm?
 **A:** The main website projectquarm.com contains a link to the [Project Quarm Discord](https://discord.gg/3nDQ9AkUz8).
 
-### Q2
+### When I use my mouse wheel to scroll backwards, I do not see my character in 3rd person. How do I enable Mouse Look?
 **A:** You may have disabled mouse look. While logged into the game, press F12 to enable/disable mouse look.
 
-### Q3
+### How do I make the chat text bigger in game?
 **A:** /chatfontsize 1-5
 
-### Q4
-**A:** Zeal adds functionality so the User Interface needs to be told how to display that functionality. Zeal contains a few UI files you can drop into the TAKP/Uifiles/ folder that you use. Alternatively, you can find new user interafaces with added functionality. I use [Nillipus UI 1440p](https://discord.com/channels/1133452007412334643/1162826324092657757/1224809011392807003)[Merchant](https://discord.com/channels/1133452007412334643/1162826324092657757/1224861589799178321) and [qqui Calmethar](https://www.eqinterface.com/downloads/fileinfo.php?id=6959) is updated frequently.
+### Why doesn't (zeal feature) appear in my User Interface?
+**A:** Zeal adds functionality so the User Interface needs to be told how to display that functionality. Zeal contains a few UI files you can drop into the TAKP/Uifiles/ folder that you use. Alternatively, you can find new user interfaces with added functionality. I use [Nillipus UI 1440p](https://discord.com/channels/1133452007412334643/1162826324092657757/1224809011392807003)[Merchant](https://discord.com/channels/1133452007412334643/1162826324092657757/1224861589799178321) and [qqui Calmethar](https://www.eqinterface.com/downloads/fileinfo.php?id=6959) is updated frequently.
 
-### Q5
+### Problem with Mule Account?
 **A:** [Creating a mule](https://discord.com/channels/1133452007412334643/1135968760281432164/1208195978016854096) "The #makemule command is now available in game. Running the command in game will give you further instructions for how to flag the account as a mule and will ask that you run an additional command for confirmation.
 
 Flagging an account as a mule can not be undone and will delevel the character running the command to 1 SO BE CERTAIN OF YOUR INTENTIONS. 
@@ -262,29 +258,46 @@ The character running the command must first be of appropriate level and no othe
 
 The mule account will be exempt from IP restrictions allowing you to run a game client and buy/sell/transfer items independent of your main account. Again, RUNNING THE COMMAND AND CONFIRMING WILL DELEVEL YOU TO 1 AND FLAG THE ENTIRE ACCOUNT AS A MULE ACCOUNT. BE CERTAIN OF YOUR INTENTIONS. @CSR WILL NOT REVOKE THIS FLAG UNDER ANY CIRCUMSTANCES, NOR ARE THEY EQUIPPED TO DEAL WITH ANY ISSUES THAT ARISE."
 
-### Q6
+### How do I change my resolution?
 **A:** In your `eqclient.ini` you can find the [VideoMode] section. Change this to match your desktop's settings. [VideoMode] `BitsPerPixel=32` `Width=1920` `Height=1080` `RefreshRate=60`
 
-### Q7
+### How do I run the game full screen?
 **A:** You want to run the game in windowed mode first. In your `eqclient.ini` set this option `WindowedMode=TRUE`. Find [VideoMode] and set it to your desired resolution. When you are logged into EverQuest, press SHIFT + Enter to switch between windowed and fullscreen modes. If you are still having problems, see the 3rd party programs section for LosslessScaling.
 
-### Q8
+### I'm using the Stone UI from 1999?
 **A:** In your `eqclient.ini` set NewUI=TRUE and `OldUI=False`.
 
-### Q9
+### How do I view nameplates from far away?
 **A:** Use an [updated](#step-3-converting-your-takp-client-to-quarm) `eqgame.dll` and make sure `eqclient.ini` has `EnableExtendedNameplateDistance=TRUE`. 
 
-### Q10
+### The game still isn't smooth. Camera movement is still jittery?
 **A:** First make sure you're using the experimental `eqgame.dll` file as this fixes the framerate options in your `eqclient.ini`. With previous versions of `eqgame.dll` the frame rate/refresh rate values would not be respected. You `eqclient.ini` then has values for `RefreshRate=60` `MaxFPS=60` `MaxBGFPS=60` `MaxMouseLookFPS=60` and `NoFPSLimiter=1` . These can be adjusted based on your monitor's refresh rate. The general consensus seems to be to limit your FPS, and set it to your monitor's max refresh rate. The higher the frame rate, the smoother the game should feel. 
 
-### Q11
+### I logged in and I can only move the camera left and right or only up and down? Mouse speed is really fast too?
 **A:** Sometimes Zeal's camera movement settings do not save properly so the camera feels too fast, or wont move at all. In game you can ALT + O to open the options menu and navigate to the Zeal tab. I like all my camera settings around .3. These settings can also be found in `eqclient.ini` at the bottom under [Zeal] `MouseSensitivityX=0.300000` `MouseSensitivityY=0.300000` `MouseSensitivityX3rd=0.300000` `MouseSensitivityY3rd=0.300000`.
 
-### Q12
+### I want to turn off the loud music at character creation or character select screen?
 **A:** Delete the following files from your TAKP folder. `eqtheme.mp3` `combattheme1.mp3` `combattheme2.mp3` `deaththeme.mp3`
 
-### Q13
+### Quarm enabled snow and its very loud?
 **A:** Originally posted on discord by Hallic|Kelendil: For those interested in reducing or deleting the new event snow sound, the name of the file for the snow/wind loop is wind_lp1.wav located in the snd2.pfs file in your EQ directory. You will need a special pfs file viewer to open, extract or delete this file. To do so, use [EQ-Zip EverQuest Archive Manager](https://github.com/Shendare/EQZip/releases). First open `snd2.pfs` and you will see a list of several environmental sounds there. You can export or delete the `wind_lp1.wav` OR even use an online .wav volume reducing tool such as [Change Volume](https://mp3cut.net/change-volume) to reduce the volume. You can then upload the reduced volume wave file back into `snd2.pfs` (overwrite and replace the loud one) and now you have a much softer sounding ambient wind. You can do this for all the sound files btw and even make custom ones.
+
+### I have a new laptop with an integrated graphics card and I'm experiencing graphical problems?
+**A:** *Hybrid Graphics Support* Some laptops containing hybrid graphics, with discrete graphics processing capabilities, often do not get utilized by the PC Client. This is due to the graphics in the older PC client being based on MS DirectX 8. A DirectX wrapper has been found that can successfully enable use of the discrete GPU, over the slower on board graphics. If you are experiencing performance issues on a relatively new laptop with an integrated GPU, give one of the following two options a try. One option is using dgVoodoo2, read more [here](https://wiki.takp.info/index.php/Getting_Started_on_Windows).
+
+Option 1: You can download the dgVoodoo2 wrapper at [dgVoodoo2](http://dege.freeweb.hu/dgVoodoo2/dgVoodoo2/). This specific [Version 2.8.2](http://dege.fw.hu/temp/dgVoodoo2_81_exp4.zip) seems to work well on AMD and NVidia based hybrid graphics.
+
+To install this wrapper, you need to open the downloaded zip file, and copy the `D3D8.dll` file found in the MS subfolder, and put this in the same folder as your `eqgame.exe`. Then just run the eqgame.exe normally. DO NOT PUT THIS FILE IN YOUR WINDOWS SYSTEM FOLDER!!! After selecting this display adapter, the game should run normally, with the exception of changing screen resolutions. If you change the display resolution in game, it WILL crash the client. So only do this in a safe location. You can optionally change the resolution by hand in the `eqgame.ini`.
+
+In order for dgVoodoo to fire, you have to set `eqgame.exe` to use High Performance Mode in your NVidia control panel. Refer to below screenshot
+
+/img/faq/NvidiaPerformanceSetting.png
+
+If you have an AMD card, find an equivalent setting in the Radeon control panel.
+
+If the wrapper is loaded, in game it will have a "dgVoodoo" watermark in the lower right corner of the display. The performance difference is usually very noticeable. But if you want to be sure, you can use software such as [GPU-Z](https://www.techpowerup.com/gpuz/), to monitor the load on the discrete graphics card. Remove the watermark by running dgVoodooCpl.exe, clicking the DirectX tab, and unchecking 'dgVoodoo Watermark.' OR you can locate the dgVoodooWatermark line in your dgVoodoo.conf file and make sure its set to false: "dgVoodooWatermark = false" If it doesn't exist, create it.
+
+Option 2: [DXwrapper](https://www.dropbox.com/s/phvxgl6ojf2xqih/DxWrapper.zip?dl=0). This wraps the dx8 to dx9. It will use the amd graphics on a switchable graphics laptop, even though it selects the onboard graphics at run time. By using GPU-Z, you can see which graphics card is doing the work. What doesn't work, is adjusting the gamma from the slider in game. Just put these 3 files in your TAKP install folder and give it a try. If it doesn't work or you don't see performance gains, then remove them. [Source: wiki.takp](https://wiki.takp.info/index.php/Getting_Started_on_Windows)
 
 ## Suggestions Feedback and Help
 
