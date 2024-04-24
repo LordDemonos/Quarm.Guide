@@ -10,7 +10,7 @@
         - [Why is Zeal getting flagged as a Virus/Malware?](#why-is-zeal-getting-flagged-as-a-virusmalware)
         - [Download and Extract Zeal.asi to your TAKP Folder](#download-and-extract-zealasi-to-your-takp-folder)
     - [Step 5: dgVoodoo2](#step-5-dgvoodoo2)
-    - [Step 6: Placebos](#step-6-placebos)
+    - [Step 6: Issues Running the Game](#step-6-issues-running-the-game)
 2. [Xanax's Checklist for Minimal Crashes](#xanaxs-checklist-for-minimal-crashes)
 3. [Part 2: Installing Optional Textures and Effects](#part-2-installing-optional-textures-and-effects)
 4. [Part 3: Installing Optional 3rd Party Programs](#part-3-installing-optional-3rd-party-programs)
@@ -94,7 +94,20 @@ The Project Quarm team plans to address this issue by obtaining a digital certif
 
 Source: [El Hefe](https://www.youtube.com/watch?v=ArLNnN0GwfQ)
 
-### Step 6: Placebos
+### Step 6: Issues Running the Game
+
+If you see any of these when trying to first run the game:
+
+    windows application error
+    the memory could not be read
+
+This could be caused by WinEQ2 running in the background which is not compatible with this client. Exit the WinEQ2 application and try again.
+
+It could also be caused when Directx 9c or a Visual C runtime is not installed. Try installing the following, rebooting and trying again:
+
+    [Visual C 2015 runtime](https://www.microsoft.com/en-us/download/details.aspx?id=53587) - download the 32bit version
+    [Directx 9c](https://www.microsoft.com/en-us/download/details.aspx?id=8109)
+    could also be that proper [AV exclusions](https://wiki.takp.info/index.php/Set_Windows_Defender_Exclusion_on_Windows_10) are not set
 
 Navigate to your TAKP folder and find eqgame.exe. Right click and select Properties. 
 Under Compatibility, select "Run this program in compatibility mode for Windows XP (Service Pack 3)" and "Run this program as an administrator". 
@@ -236,6 +249,10 @@ https://github.com/Codeusa/Borderless-Gaming/releases
 - [I want to turn off the loud music at character creation or character select screen?](#i-want-to-turn-off-the-loud-music-at-character-creation-or-character-select-screen)
 - [Quarm enabled snow and its very loud?](#quarm-enabled-snow-and-its-very-loud)
 - [I have a new laptop with an integrated graphics card and I'm experiencing graphical problems?](#i-have-a-new-laptop-with-an-integrated-graphics-card-and-im-experiencing-graphical-problems)
+- [How do I disable Velious armor textures?](#how-do-i-disable-velious-armor-textures)
+- [Sometimes my character's spell gems stay greyed out and the server stops responding to my client.](#sometimes-my-characters-spell-gems-stay-greyed-out-and-the-server-stops-responding-to-my-client)
+- [Chat channels keep dropping?](#chat-channels-keep-dropping)
+
 
 ### Where can I learn more about Project Quarm?
 **A:** The main website projectquarm.com contains a link to the [Project Quarm Discord](https://discord.gg/3nDQ9AkUz8).
@@ -259,7 +276,12 @@ The character running the command must first be of appropriate level and no othe
 The mule account will be exempt from IP restrictions allowing you to run a game client and buy/sell/transfer items independent of your main account. Again, RUNNING THE COMMAND AND CONFIRMING WILL DELEVEL YOU TO 1 AND FLAG THE ENTIRE ACCOUNT AS A MULE ACCOUNT. BE CERTAIN OF YOUR INTENTIONS. @CSR WILL NOT REVOKE THIS FLAG UNDER ANY CIRCUMSTANCES, NOR ARE THEY EQUIPPED TO DEAL WITH ANY ISSUES THAT ARISE."
 
 ### How do I change my resolution?
-**A:** In your `eqclient.ini` you can find the [VideoMode] section. Change this to match your desktop's settings. [VideoMode] `BitsPerPixel=32` `Width=1920` `Height=1080` `RefreshRate=60`
+**A:** In your `eqclient.ini` you can find the [VideoMode] section. Change this to match your desktop's settings. 
+
+`[VideoMode] 
+Width=1920
+Height=1080
+(match your display settings with the proper height and width prior to launching the game)`
 
 ### How do I run the game full screen?
 **A:** You want to run the game in windowed mode first. In your `eqclient.ini` set this option `WindowedMode=TRUE`. Find [VideoMode] and set it to your desired resolution. When you are logged into EverQuest, press SHIFT + Enter to switch between windowed and fullscreen modes. If you are still having problems, see the 3rd party programs section for LosslessScaling.
@@ -308,6 +330,34 @@ If you have an AMD card, find an equivalent setting in the Radeon control panel.
 If the wrapper is loaded, in game it will have a "dgVoodoo" watermark in the lower right corner of the display. The performance difference is usually very noticeable. But if you want to be sure, you can use software such as [GPU-Z](https://www.techpowerup.com/gpuz/), to monitor the load on the discrete graphics card. Remove the watermark by running dgVoodooCpl.exe, clicking the DirectX tab, and unchecking 'dgVoodoo Watermark.' OR you can locate the dgVoodooWatermark line in your dgVoodoo.conf file and make sure its set to false: "dgVoodooWatermark = false" If it doesn't exist, create it.
 
 Option 2: [DXwrapper](https://www.dropbox.com/s/phvxgl6ojf2xqih/DxWrapper.zip?dl=0). This wraps the dx8 to dx9. It will use the amd graphics on a switchable graphics laptop, even though it selects the onboard graphics at run time. By using GPU-Z, you can see which graphics card is doing the work. What doesn't work, is adjusting the gamma from the slider in game. Just put these 3 files in your TAKP install folder and give it a try. If it doesn't work or you don't see performance gains, then remove them. [Source: wiki.takp](https://wiki.takp.info/index.php/Getting_Started_on_Windows)
+
+### How do I disable Velious armor textures?
+**A:** Locate the section in your `eqclient.ini` for Velious armor textures and set them to FALSE. Velious armor textures are not enabled by default as they can cause an issue with Vah Shir armor not displaying. 
+
+`LoadVeliousArmorsWithLuclin=FALSE
+LoadArmor17=FALSE
+LoadArmor18=FALSE
+LoadArmor19=FALSE
+LoadArmor20=FALSE
+LoadArmor21=FALSE
+LoadArmor22=FALSE
+LoadArmor23=FALSE`
+
+### Sometimes my character's spell gems stay greyed out and the server stops responding to my client.
+**A:** This is what is commonly referred to as 'desyncing'. The precise cause(s) of the problem are unknown (else they would get fixed up) but there are things that can be done to reduce the chance of this occurring.
+
+    Ensure that your internet connection is uncongested. Try using a wired connection to your router instead of wifi.
+    Make sure your firewall isn't blocking client ports.
+    Make sure your frame rate is limited if running the Windows client.
+    Use one of the clients linked above if you're using a different one.
+    Try connecting over a VPN. Some users claim this helps.
+
+[See also this post summarizing connection issues for TAKP](http://www.takproject.net/forums/index.php?threads/connection-issues-read-this.4488/#post-24796). [Source: wiki.takp](https://wiki.takp.info/index.php/Getting_Started_on_Windows)
+
+### Chat channels keep dropping?
+**A:** If your chat channels regularly drop, you can try adding `ChatKeepAlive=1` in the defaults section of the eqclient.ini, this will increase frequency the keepalives are sent to every 15 seconds.
+
+If one packet is dropped that is the keepalive from Client to Server, you will time out before it triggers again, if the ChatKeepAlive=1 is not set. So this specific condition can contribute to chat channels dropping. [Source: wiki.takp](https://wiki.takp.info/index.php/Getting_Started_on_Windows)
 
 ## Suggestions Feedback and Help
 
