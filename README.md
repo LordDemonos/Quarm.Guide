@@ -429,6 +429,7 @@ https://github.com/Codeusa/Borderless-Gaming/releases
 - [I'm still experiencing crashes during long play sessions on raids?](#im-still-experiencing-crashes-during-long-play-sessions-on-raids)
 - [I can't see the bottom of the logon window to press the accept button?](#i-cant-see-the-bottom-of-the-logon-window-to-press-the-accept-button)
 - [I can't find Grizzly Bear Skins, only Thick Grizzly Bear Skins?](#i-cant-find-grizzly-bear-skins-only-thick-grizzly-bear-skins)
+- [There are no maps?](#there-are-no-maps)
 
 
 ### Where can I learn more about Project Quarm?
@@ -652,6 +653,9 @@ Use Ryzen Master to apply settings [Source: TAKP Forums](https://www.takproject.
 `Alligator Skin`
 
 *I was able to complete cap quest with these skins, and the following dagger turn in.* 
+
+### There are no maps?
+**A:** The map system was introduced with the Legacy of Ykesha expansion in February 2003, and is not present in Project Quarm. I suggest looking into [ZlizEQMap](#ZlizEQMap)
 
 ## Suggestions Feedback and Help
 
