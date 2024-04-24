@@ -190,7 +190,7 @@ If you ask me, the first 3 are the biggest contributors to stability. Hopefully 
 
 The `eqclient.ini` file contains a list of settings that can be changed to suit your preferences, many of which cannot be changed in-game through the options window.
 
-In Windows, the `eqclient.ini` is located within your EverQuest directory, wherever `eqgame.exe` reside.
+In Windows, the `eqclient.ini` is located within your EverQuest directory, wherever `eqgame.exe` resides.
 
 Some commonly changed settings include:
 
@@ -201,10 +201,10 @@ Some commonly changed settings include:
 - ChannelAutoJoin=alliance - The Alliance channel is used as the global chat channel for the server.
 - TargetGroupBuff=1 - This will allow you to buff groups with group buff spells from outside the group by targeting a member of the group.
 - AttackOnAssist=FALSE - This will allow you to assist another player without automatically enabling auto attack.
-- MaxFPS= - This is the framerate you limit the foreground client window to. If this is set too high, it may consume too many system resources. Typically 60 is a good number to start with and adjust if necessary. A setting of 0 disables the limit. YMMV
-- MaxBGFPS= - This is the framerate you limit the background client windows to. You don't want this too low, since it will affect autofollow ability. But, if you have it too high, it may consume too many system resources. 60 is typically good. A setting of 0 disables the limit. YMMV
+- MaxFPS= - This is the framerate you limit the foreground client window to. If this is set too high, it may consume too many system resources. Typically 60 is a good number to start with and adjust if necessary. A setting of 0 disables the limit.
+- MaxBGFPS= - This is the framerate you limit the background client windows to. You don't want this too low, since it will affect autofollow ability. But, if you have it too high, it may consume too many system resources. 60 is typically good. A setting of 0 disables the limit.
 - MouseRightHanded=1 - Switches mouse button orientation.
-- MaxMouseLookFPS= - Allows you to set the mouselook FPS to help with mouselook slowness. If your mouselook is too slow, try adjusting this to 60 or 45. A setting of 0 disables the limit. YMMV
+- MaxMouseLookFPS= - Allows you to set the mouselook FPS to help with mouselook slowness. If your mouselook is too slow, try adjusting this to 60 or 45. A setting of 0 disables the limit.
 - AllLuclinPcModelsOff=TRUE - This disables Luclin models. This also allows use of the famous horse bug that existed on AK where you don't have the limitations of horse speed up/down that you do with Luclin models on.
 - [VideoMode]:
 
@@ -242,7 +242,7 @@ MouseSensitivityY3rd=0.300000
 Camera3StrafeEnabled=TRUE 
 Camera4StrafeEnabled=TRUE
 CycleToZealCamEnabled=TRUE
-Bluecon=TRUE - When a mob cons dark blue the text is difficult to read on a black backgroud. This will add a new value to the Options - Color tab with a value of 70.
+Bluecon=TRUE - When a mob cons dark blue the text is difficult to read on a black background. This will add a new value to the Options - Color tab with a value of 70.
 ZealInput=TRUE - toggles the zeal input setup for any input in game, giving you a more modern input (ctrl+c, ctrl+v, left, right, shift left+right for highlighting, home, end ect).
 LeftTurnSpellbookAutostand=FALSE
 RightTurnSpellbookAutostand=FALSE
@@ -271,7 +271,7 @@ The above file duplication and renaming trick we used with our UI settings can b
 
 #### Chat Logs
 
-Everything you see in your chat windows is written to a log file in your TAKP folder. Back in the orginal EQ days we would delete this every month because the file would get big and make the game act up. Everything you see in this file, the CSR team for Project Quarm can also see and is likely being logged on their end. `eqlog_charactername_pq.proj.txt` is the file that all your chat logs are written to. This can be helpful if you need to pull historical chat conversations, for example. 
+Everything you see in your chat windows is written to a log file in your TAKP folder. Back in the original EQ days we would delete this every month because the file would get big and make the game act up. Everything you see in this file, the CSR team for Project Quarm can also see and is likely being logged on their end. `eqlog_charactername_pq.proj.txt` is the file that all your chat logs are written to. This can be helpful if you need to pull historical chat conversations, for example. 
 
 #### Spell Sets
 
@@ -283,7 +283,7 @@ Zeal has added the ability to make spell sets. Commands in game are as follows:
 - Example: /spellset save buffs
 - Example: /spellset load buffs
 - Example: /spellset delete buffs
-- Description: allows you to save and load spellsets
+- Description: allows you to save and load spell sets
 
 Once created, you can even right click your spellbook to choose one of your spell sets from a drop down menu. These values are saved in a new file called `charactername_spellsets.ini`. Within these you can then rename your spellsets or duplicate the file for someone playing the same class as you, for example. 
 
@@ -626,7 +626,7 @@ This issue is fixed in v2.2 client that has an updated dgVoodoo2 d3d8.dll which 
 ### The game runs too fast?
 **A:** If you are using an AMD 7xxx series CPU in your system you may need to adjust your system's settings to avoid this issue. The following were done by different people to correct this issue:
 
-- "I disabled PBO and reduced clock speed to 3900 in bios then in Ryzen Master switched to normal profile and its working for me now. Game running at normal speed."
+- "I disabled PBO and reduced clock speed to 3900 in bios then in Ryzen Master switched to normal profile and it's working for me now. Game running at normal speed."
 - "I fixed my AMD 7950x. PBO off, CPU boost off, fixed 42x 100 for 4.2Ghz set clock speed. Set the Ram to 6000 with XMP II."
 
 Use Ryzen Master to apply settings [Source: TAKP Forums](https://www.takproject.net/forums/index.php?threads/everything-is-at-10x-speed.27284/)) 
@@ -652,7 +652,7 @@ Use Ryzen Master to apply settings [Source: TAKP Forums](https://www.takproject.
 `Polar Bear Skin`
 `Alligator Skin`
 
-*I was able to complete cap quest with these skins, and the following dagger turn in.* 
+*I was able to complete the cap quest with these skins, and the following dagger turn in.* 
 
 ### There are no maps?
 **A:** The map system was introduced with the Legacy of Ykesha expansion in February 2003, and is not present in Project Quarm. I suggest looking into [ZlizEQMap](#ZlizEQMap). 
