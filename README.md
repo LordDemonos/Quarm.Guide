@@ -288,5 +288,5 @@ Still reading? I'd like to expand this guide and keep it maintained. What I need
 
 #### @LordDemonos on [X](https://twitter.com/home)
 #### lorddemonos on [Discord](https://discord.com/)
-#### Special Thanks to `Zephon <Mayhem>` `Manie <Erud's Crossing Guard>` `Gamjee` `Calmethar.` 
+#### Special Thanks to `Zephon <Mayhem>` `Manie <Erud's Crossing Guard>` `Gamjee` `Calmethar.` `Salty`
 
