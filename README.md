@@ -16,7 +16,7 @@
     - [Step 3: Characters, Logs, Spell Sets, and Screenshots](#step-3-characters-logs-spell-sets-and-screenshots)
 5. [Part 3: Installing Optional Textures and Effects](#part-3-installing-optional-textures-and-effects)
 6. [Part 4: Installing Optional 3rd Party Programs](#part-4-installing-optional-3rd-party-programs)
-7. [FAQ](#faq)
+7. [FAQ, Troubleshooting, and Obscure Situations](#faq-troubleshooting-and-obscure-situations)
 8. [Suggestions Feedback and Help](#suggestions-feedback-and-help)
 
 ## Part 1: Installing the Main Game
@@ -376,13 +376,15 @@ ZlizEQMap is a map tool mainly designed for servers that emulate old versions of
 
 https://github.com/hada79/ZlizEQMap
 
-#### Supplemental Maps for ZlizEQMap (More Accurate)
+#### Supplemental Maps for ZlizEQMap
+
+These are new maps made to work with ZlizEQMap and you'll find your location and coordinates will be more accurate using these over the EQAtlas maps. Maps are for the most part larger than the ones from EQAtlas used in ZlizEQMap, and are best suited for use on a second monitor.
 
 https://www.project1999.com/forums/showthread.php?t=386944
 
 #### EQ Tell Notifier
 
-Desktop notifications for tells received in game
+Desktop notifications for tells received in game.
 
 https://github.com/rtcox/EQ_tell_notifier/tree/main
 
@@ -398,7 +400,7 @@ I don't use this with EQ but I need to mention it alongside Lossless Scaling. I 
 
 https://github.com/Codeusa/Borderless-Gaming/releases
 
-## FAQ
+## FAQ, Troubleshooting, and Obscure Situations
 
 - [Where can I learn more about Project Quarm?](#where-can-i-learn-more-about-project-quarm)
 - [When I use my mouse wheel to scroll backwards, I do not see my character in 3rd person. How do I enable Mouse Look?](#when-i-use-my-mouse-wheel-to-scroll-backwards-i-do-not-see-my-character-in-3rd-person-how-do-i-enable-mouse-look)
