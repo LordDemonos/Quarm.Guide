@@ -291,7 +291,7 @@ To install this wrapper, you need to open the downloaded zip file, and copy the 
 
 In order for dgVoodoo to fire, you have to set `eqgame.exe` to use High Performance Mode in your NVidia control panel. Refer to below screenshot
 
-/img/faq/NvidiaPerformanceSetting.png
+![NvidiaPerformanceSetting](/img/faq/NvidiaPerformanceSetting.png)
 
 If you have an AMD card, find an equivalent setting in the Radeon control panel.
 
