@@ -1,5 +1,5 @@
 # EverQuest Project Quarm Getting Started Guide (Updated: April 25, 2024)
-##### By Xanax/Xantagonist < Former Glory >																[#petitions](https://discord.com/channels/1133452007412334643/1153470935421157396)
+##### By Xanax/Xantagonist <Former Glory>
 
 ## Table of Contents
 1. [A Brief Introduction to Project Quarm](#a-brief-introduction-to-project-quarm)
@@ -18,7 +18,7 @@
 5. [Part 3: Installing Optional Textures and Effects](#part-3-installing-optional-textures-and-effects)
 6. [Part 4: Installing Optional 3rd Party Programs](#part-4-installing-optional-3rd-party-programs)
 7. [FAQ, Troubleshooting, and Obscure Situations](#faq-troubleshooting-and-obscure-situations)
-8.  [Suggestions Feedback and Help](#suggestions-feedback-and-help)
+8. [Suggestions Feedback and Help](#suggestions-feedback-and-help)
 
 ## A Brief Introduction to Project Quarm
 
