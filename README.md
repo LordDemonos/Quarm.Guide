@@ -2,22 +2,39 @@
 ##### By Xanax/Xantagonist < Former Glory > 
 
 ## Table of Contents
- 1. [Part 1: Installing the Main Game](#part-1-installing-the-main-game)
+1. [A Brief Introduction to Project Quarm](#a-brief-introduction-to-project-quarm)
+2. [Part 1: Installing the Main Game](#part-1-installing-the-main-game)
     - [Step 1: Create a TAKP Forum Account](#step-1-create-a-takp-forum-account)
     - [Step 2: Download the Game Client](#step-2-download-the-game-client)
     - [Step 3: Converting your TAKP client to Quarm](#step-3-converting-your-takp-client-to-quarm)
     - [Step 4: Installing Zeal](#step-4-installing-zeal)
     - [Step 5: dgVoodoo2](#step-5-dgvoodoo2)
     - [Step 6: Issues Running the Game](#step-6-issues-running-the-game)
- 2. [Xanax's Checklist for Minimal Crashes](#xanaxs-checklist-for-minimal-crashes)
- 3. [Part 2: After Installing the Main Game](#part-2-after-installing-the-main-game)
+3. [Xanax's Checklist for Minimal Crashes](#xanaxs-checklist-for-minimal-crashes)
+4. [Part 2: After Installing the Main Game](#part-2-after-installing-the-main-game)
     - [Step 1: Understanding your EQClient.ini](#step-1-understanding-your-eqclientini)
     - [Step 2: Controlling your User Interface](#step-2-controlling-your-user-interface)
     - [Step 3: Characters, Logs, Spell Sets, and Screenshots](#step-3-characters-logs-spell-sets-and-screenshots)
- 4. [Part 3: Installing Optional Textures and Effects](#part-3-installing-optional-textures-and-effects)
- 5. [Part 4: Installing Optional 3rd Party Programs](#part-4-installing-optional-3rd-party-programs)
- 6. [FAQ, Troubleshooting, and Obscure Situations](#faq-troubleshooting-and-obscure-situations)
- 7. [Suggestions Feedback and Help](#suggestions-feedback-and-help)
+5. [Part 3: Installing Optional Textures and Effects](#part-3-installing-optional-textures-and-effects)
+6. [Part 4: Installing Optional 3rd Party Programs](#part-4-installing-optional-3rd-party-programs)
+7. [FAQ, Troubleshooting, and Obscure Situations](#faq-troubleshooting-and-obscure-situations)
+8.  [Suggestions Feedback and Help](#suggestions-feedback-and-help)
+
+## A Brief Introduction to Project Quarm
+
+Welcome to [Project Quarm](https://projectquarm.com/), a 1-Box EverQuest emulated server based on the [TAKProject](https://www.takproject.net/) codebase! We are currently in the Classic era with Kunark Pre-release coming June 1st.
+
+Main Ruleset
+
+- Time-Locked Progression Server - 9 Months of Classic, 9 Months of Kunark, 9 Months of Velious, 9 Months of Luclin, Planes of Power final expansion.
+- Planes of Power may contain custom mechanics post-PoP, such as rotating hotzones.
+- One-Box Policy, enforced by IP & manual CSR intervention.
+- Era restrictions apply to prevent out-of-era mechanics. This is done selectively.
+- MGBs at level 1, and other 'TAKP-like' features are enabled selectively. For example, Monk AC is in its 'pre-nerf' state.
+- Selective Clientside Quality of Life - Mouse Wheel Camera, Buff Timers, Auto-Stand on Cast. Additional QOL have been added through [Zeal](#step-4-installing-zeal)
+
+If you want to learn more about Project Quarm specific features and rules, head over to the [About Project Quarm](#about-project-quarm) section.
+
 
 ## Part 1: Installing the Main Game
 
