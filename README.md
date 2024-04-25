@@ -32,6 +32,7 @@
    - [Server Downtime](#server-downtime)
    - [IP Exemption](#ip-exemption)
    - [Rules](#rules)
+   - [Raid Rules](#raid-rules)
 9. [FAQ, Troubleshooting, and Obscure Situations](#faq-troubleshooting-and-obscure-situations)
 10. [Suggestions Feedback and Additional Help](#suggestions-feedback-and-help)
 
@@ -1042,6 +1043,63 @@ In order to make an IP exemption, make sure both accounts and characters have be
 - Rule 13.3: Providing non-game related services in exchange for anything represented in the database falls under the scope of Rule 13.
 - Rule 14: We don't allow discussion of actions taken against rule violators. Please do not discuss action taken against any players, including yourself for violations of these rules. Any violation appeals MUST be handled through the ⁠petitions channel.
 
+### Raid Rules
+
+* Guild NPC Instances, with Earthquakes being the only way open-world spawns occur.
+
+#### Private Guild Instances Are Available, Quakes Return!
+- Due to overwhelming player feedback about casual accessibility, and my own intuition on the subject, we've overhauled how raid rotations work - by scrapping them and replacing them with private guild instances. Don't worry, competition is still available via an overhauled Earthquake system!
+- Guild instances are accessible via the Knowledge book near any adjacent-to-raid zone where the tryout books were formerly present.
+- Guild instances require an officer from your guild and 12 guild members to be at or above (30 in Classic, 50 in Kunark, 55 in Velious, 60 in Luclin, 65 in Planes of Power) in the guild you are attempting to create an instance for. This requirement is enforced by the server code and not our customer support staff.
+- Guild instances have a combat engagement requirement equal to the above. If you do not meet the engage requirement above, players are forced to their bind point on any combat action, including friendly heals.
+- Guild instances have heightened respawn when compared to normal instances. This means that every raid creature may not share the same timer as open-world creatures.
+- If your corpse becomes unretrievable in a guild instance, fear not: The Graveyard system from Planes of Power is active in these zones, and your corpses will be dispensed every 2 hours to the adjacent zone where the zone-in book is located.
+- Guild instances do not award loot for any other creature than the raid target(s) in question, unless otherwise specified. For the current instances, this is the following:
+- 
+**Nagafen's Lair (Instanced)**
+- Lord Nagafen - 6d 18h
+- Giants (all) - 18h
+
+**Permafrost Caverns (Instanced)**
+- Lady Vox - 6d 18h
+
+**Kedge Keep (Instanced)**
+- Phinigel - 18h
+
+**Plane of Hate (Instanced)**
+- Maestro of Rancor - 2d 18h
+- Innoruuk - 6d 18h
+- All Trash - 18h (No Lockout)
+
+** Plane of Fear (Instanced)**
+- a dracoliche - 2d 18h
+- Cazic-Thule - 6d 18h
+- All Trash, Quest NPCs - 18h (No Lockout)
+
+**Plane of Sky (Instanced)**
+- All Island Bosses - 18h
+- All Trash, Quest NPCs - 18h (No Lockout)
+
+Please note that if not otherwise specified, creatures in instances have 24 hour respawn rates, and give significantly reduced experience. (virtually nothing)
+- Guild creation has been disabled via petitions until a lockout system has been created for the Guild Instances.
+
+**EarthQuake revamp**
+- Earthquakes are now scheduled to occur every 3 to 7 days.
+- Earthquakes now have a duration of three (3) hours.
+- Earthquakes no longer have a ruleset. Server Rules 9.x and 10.x are suspended during earthquakes for raid zones. Please assume that if your zone doesn't give a message about NPCs being re-popped, that you have to adhere to rules 9.x and 10.x still.
+The current zones considered to be raid zones are:
+**Permafrost Caverns**
+**Nagafen's Lair**
+**Kedge Keep**
+**Plane of Sky**
+**Plane of Fear**
+**Plane of Hate**
+- On an earthquake triggering, everyone in the zone is evacuated to the zone-in to ensure fair competition. If you wish to avoid the evac, position yourself outside of the zone.
+- Earthquake timers are now visible to guild leaders and officers ahead of their trigger time. No more batphones. Typing '#showquake' will allow a guild officer or leader to view the next earthquake time.
+- Earthquakes no longer have guild engage requirements due to the rule 9.x and 10.x suspension during the three hour period, and thus can be pickup grouped.
+
+**Raid Rotations**
+* Are dead. 🙂
 
 ## FAQ, Troubleshooting, and Obscure Situations
 
