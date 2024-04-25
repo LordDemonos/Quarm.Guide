@@ -50,7 +50,7 @@ Before you can download and install the game, you'll need to create an account o
 
 ### Step 4: Installing Zeal
 
-Zeal is used to add additional functionality to EverQuest. Main additions include camera smoothing, better tab targeting, spell sets, and melody. A full list of features can be found in the [readme](https://github.com/iamclint/Zeal/blob/master/README.md).
+Zeal is used to add additional functionality to EverQuest. Main additions include 3rd person camera smoothing fix, better tab targeting, spell sets, and melody. A full list of features can be found in the [readme](https://github.com/iamclint/Zeal/blob/master/README.md).
 
 #### Prerequisite 1. (Required) Enable sound in your eqclient.ini
 
