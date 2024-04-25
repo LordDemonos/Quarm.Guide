@@ -322,7 +322,7 @@ You can install various texture packs and visual effects to enhance the game's a
 EQ Classic HD is an ongoing project by Cucumbers, Paulgiamatti, Sorn, and Zaela to graphically enhance, upscale, retexture, and reimagine classic EverQuest. They primarily deal with textures, but their package also corrects some minor transparency, particle, and model animation issues. 
 
 - https://wiki.project1999.com/EQ_Classic_HD#The_Al.27Kabor_Project_version:
-*Note: The link contains special instructions for applying these textures to the Al'Kabor Project (TAKP).*
+- *Note: The link contains special instructions for applying these textures to the Al'Kabor Project (TAKP).*
 
 To install Classic HD Textures, first make sure you're downloading the [The Al'Kabor Project version](https://drive.google.com/file/d/0ByJldqMGux7CVUh6a2taTWlndmM/view?usp=sharing&resourcekey=0-CzMD3Z47SRVJ6NNjLXql5w). Open the downloaded zip file. The archive contains an installer and uninstaller you can use. Manually, you can extract or copy the .S3D files contained in the EQClassicHD folder to your EverQuest directory (overwrite if you left the old ones in). To uninstall, copy your backed up files back into your EverQuest directory and overwrite. Install and uninstall.bat can be deleted or ignored. 
 
