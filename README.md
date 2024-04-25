@@ -1006,7 +1006,7 @@ In order to make an IP exemption, make sure both accounts and characters have be
 
 ### Rules
 
-Rule 0: Actively antagonizing the management (<@&1133455540752748564>) will result in whatever cruel breed of nonsense they feel like at the time.
+Rule 0: Actively antagonizing the management will result in whatever cruel breed of nonsense they feel like at the time.
 
 Rule 1: If you have to ask if you can do it or not, just don't do it. This will likely resolve all of the below rules, but just in case, they're left here for your discretion.
 
@@ -1016,7 +1016,7 @@ Rule 2.1: All forms of automation software are not allowed and will be actioned 
 Rule 2.3: Melody is not exempt from Rule 2.2.
 
 Rule 3: Any form of cheating - be it active hacks, or passive hacks - are not tolerated. Any software hooking, reading memory from, or otherwise interacting with the game client is also NOT TOLERATED. Macroquest, ShowEQ, Cheat Engine, Debuggers, EQBC, ect WILL GET YOU BANNED!
-Rule 3.1: We may selectively approve third-party programs that modify, read memory, or interact with the game. Those allowed will be listed in <#1135981619858128998> .
+Rule 3.1: We may selectively approve third-party programs that modify, read memory, or interact with the game. Those allowed will be listed in [#server-files](https://discord.com/channels/1133452007412334643/1135981619858128998) .
 
 Rule 4: Multiboxing of any nature is not allowed for player characters.
 Rule 4.1: Multiboxing on accounts with IP exemptions will result in all accounts with that exemption getting banned without appeal.
@@ -1030,7 +1030,7 @@ Rule 5.4: Lying to, harassing and/or deceiving any staff or contributor is not a
 Rule 5.5: If it breaks the Discord TOS, it's not allowed on our discord.
 Rule 5.6: Discussing politics or religion is not allowed.
 
-Rule 6: Report exploits via Private Message ONLY to Management. (<@&1133455540752748564>) Abusing unreported exploits is not allowed.
+Rule 6: Report exploits via Private Message ONLY to Management. Abusing unreported exploits is not allowed.
 
 Rule 7: Ping any staff member at your own risk. If it's important enough that it's necessary, so be it. This includes DMs, we have day jobs so unless the server is on fire it probably doesn't need to be a DM.
 
@@ -1043,7 +1043,7 @@ Rule 9.1: Kill stealing will not be tolerated. Kill Stealing is defined as the k
 Rule 9.2: Player to player agreements outside the scope of rule 9 will not be enforced by staff.
 Rule 9.3: Intentional griefing and/or training is not allowed.
 
-Rule 10: Please respect raid and camp rules. Camp rules are listed in #⁠camp_rules. Raid rules are located in ⁠⁠<#1136033679882326106>.
+Rule 10: Please respect raid and camp rules. Camp rules are listed in #⁠camp_rules. Raid rules are located in ⁠⁠[#raid-rules](https://discord.com/channels/1133452007412334643/1136033679882326106).
 
 Rule 11: This space is intentionally left blank.
 
