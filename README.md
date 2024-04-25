@@ -476,6 +476,8 @@ I don't use this with EQ but I need to mention it alongside Lossless Scaling. I 
 - [I can't find Grizzly Bear Skins, only Thick Grizzly Bear Skins?](#i-cant-find-grizzly-bear-skins-only-thick-grizzly-bear-skins)
 - [There are no maps?](#there-are-no-maps)
 - [How do I install a custom mouse pointer?](#how-do-i-install-a-custom-mouse-pointer)
+- [My default chat channel will not save?](#my-default-chat-channel-will-not-save)
+- [One of my UI windows is off screen and I can't move it?](#one-of-my-ui-windows-is-off-screen-and-i-cant-move-it)
 
 
 ### Where can I learn more about Project Quarm?
@@ -751,6 +753,12 @@ If they didn’t and you are proficient with Adobe Photoshop or other graphic ed
 Once these basics are done correctly you should get your new mouse pointer in game. If everything is working, be proud of yourself because you can take this knowledge and start to create your own!
 
 If you have no mouse pointer after this more than likely the X,Y or the CX,CY values are wrong or you have a typo in the filename. If it’s a typo in the filename of the .tga file you should see an error in your uierrors.txt about it. [Source: eqinterface](https://www.eqinterface.com/forums/faq.php?faq=install#faq_howto_install)
+
+### My default chat channel will not save?
+**A:** It's a Quarm bug. If you set the default channel on any other chat window, that isn't the 'Main' one, the setting will save between logging. [Source: Zephon](https://discord.com/channels/1133452007412334643/1214573430402322503/1220133660125167626)
+
+### One of my UI windows is off screen and I can't move it?
+**A:** Your settings are saved in your [UI .ini file](#Duplicating-your-UI-Settings-for-New-Characters ) so there's a couple ways you can reset these values. You can edit the file yourself and change the coordinates of the specific UI element that is off screen, and then reload your UI. You could delete the file and the game will generate a new one upon next login. The simplest method is to simply reload your UI without using the file and tell EQ to reset all the windows. You can type /loadskin uiname without appending a 1 to the end, to have EQ load the UI without saving positions. Learn more [here](How-Do-i-install-a-Interface).
 
 ## Suggestions Feedback and Help
 
