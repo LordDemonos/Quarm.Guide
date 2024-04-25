@@ -18,7 +18,6 @@
 5. [Part 3: Installing Optional Textures and Effects](#part-3-installing-optional-textures-and-effects)
 6. [Part 4: Installing Optional 3rd Party Programs](#part-4-installing-optional-3rd-party-programs)
 7. [About Project Quarm](#about-project-quarm)
-   - [About Project Quarm](#about-project-quarm)
    - [Main Ruleset](#main-ruleset)
    - [Optional Ruleset](#optional-ruleset)
    - [Gameplay Changes](#gameplay-changes)
