@@ -1,5 +1,5 @@
 # EverQuest Project Quarm Getting Started Guide (Updated: April 25, 2024)
-##### By Xanax/Xantagonist < Former Glory > > [#petitions](https://discord.com/channels/1133452007412334643/1153470935421157396)
+##### By Xanax/Xantagonist < Former Glory >																`[#petitions](https://discord.com/channels/1133452007412334643/1153470935421157396)`
 
 ## Table of Contents
 1. [A Brief Introduction to Project Quarm](#a-brief-introduction-to-project-quarm)
