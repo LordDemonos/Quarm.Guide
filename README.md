@@ -233,23 +233,23 @@ There are some other flags that seem to be unique to Project Quarm [Source: #tec
 
 Zeal also has a number of `eqclient.ini` values that are saved here and this list will likely grow over time. 
 
-MouseSmoothing=TRUE - This fixes the jittery 3rd person camera movement that is exclusive to the TAKP client. The mouse sensitivity values below are all extensions of this. Make sure they're never set to 0 or else your camera will not move on that axis.
-MouseSensitivityX=0.300000
-MouseSensitivityY=0.300000
-ChatTimestamps=TRUE - Zeal feature that adds chat timestamps in HH:MM:SS. 
-MouseSensitivityX3rd=0.300000
-MouseSensitivityY3rd=0.300000
-Camera3StrafeEnabled=TRUE 
-Camera4StrafeEnabled=TRUE
-CycleToZealCamEnabled=TRUE
-Bluecon=TRUE - When a mob cons dark blue the text is difficult to read on a black background. This will add a new value to the Options - Color tab with a value of 70.
-ZealInput=TRUE - toggles the zeal input setup for any input in game, giving you a more modern input (ctrl+c, ctrl+v, left, right, shift left+right for highlighting, home, end ect).
-LeftTurnSpellbookAutostand=FALSE
-RightTurnSpellbookAutostand=FALSE
-NetstatVisibilityState=TRUE
-LeftStrafeSpellbookAutostand=TRUE
-RightStrafeSpellbookAutostand=TRUE
-PanDelay=20 - Zeal adds the ability to left click and hold to move the camera in 3rd person without moving the character. To prevent misclicks, you can add a delay to this functionality.
+- MouseSmoothing=TRUE - This fixes the jittery 3rd person camera movement that is exclusive to the TAKP client. The mouse sensitivity values below are all extensions of this. Make sure they're never set to 0 or else your camera will not move on that axis.
+- MouseSensitivityX=0.300000
+- MouseSensitivityY=0.300000
+- ChatTimestamps=TRUE - Zeal feature that adds chat timestamps in HH:MM:SS. 
+- MouseSensitivityX3rd=0.300000
+- MouseSensitivityY3rd=0.300000
+- Camera3StrafeEnabled=TRUE 
+- Camera4StrafeEnabled=TRUE
+- CycleToZealCamEnabled=TRUE
+- Bluecon=TRUE - When a mob cons dark blue the text is difficult to read on a black background. This will add a new value to the Options - Color tab with a value of 70.
+- ZealInput=TRUE - toggles the zeal input setup for any input in game, giving you a more modern input (ctrl+c, ctrl+v, left, right, shift left+right for highlighting, home, end ect).
+- LeftTurnSpellbookAutostand=FALSE
+- RightTurnSpellbookAutostand=FALSE
+- NetstatVisibilityState=TRUE
+- LeftStrafeSpellbookAutostand=TRUE
+- RightStrafeSpellbookAutostand=TRUE
+- PanDelay=20 - Zeal adds the ability to left click and hold to move the camera in 3rd person without moving the character. To prevent misclicks, you can add a delay to this functionality.
 
 ### Step 2: Controlling your User Interface
 
