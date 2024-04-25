@@ -811,17 +811,17 @@ The Guild Instance books and graveyards will be in the following locations:
 - Plane of Hate - Oasis of Marr, near the Fisher huts.
 - Graveyard: East of the instance book.
 
-![hate](/img/about/hate.png)
+![hate](/img/about/hate.jpg)
 
 - Plane of Sky - East Freeport, ascending to the heavens behind where the Seafarer's Roost meets the East Freeport gates. Bring levitate!
 - Graveyard: Just outside the gates in East Freeport.
 
-![sky](/img/about/sky.png)  
+![sky](/img/about/sky.jpg)  
 
 - Plane of Fear - To the left of the Plane of Fear portal.
 - Graveyard: Further left of the instance.
 
-![fear](/img/about/fear.png)
+![fear](/img/about/fear.jpg)
 
 ### Mule Accounts
 
