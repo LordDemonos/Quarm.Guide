@@ -2,22 +2,22 @@
 ##### By Xanax/Xantagonist < Former Glory > 
 
 ## Table of Contents
- [Part 1: Installing the Main Game](#part-1-installing-the-main-game)
+ 1.[Part 1: Installing the Main Game](#part-1-installing-the-main-game)
     - [Step 1: Create a TAKP Forum Account](#step-1-create-a-takp-forum-account)
     - [Step 2: Download the Game Client](#step-2-download-the-game-client)
     - [Step 3: Converting your TAKP client to Quarm](#step-3-converting-your-takp-client-to-quarm)
     - [Step 4: Installing Zeal](#step-4-installing-zeal)
     - [Step 5: dgVoodoo2](#step-5-dgvoodoo2)
     - [Step 6: Issues Running the Game](#step-6-issues-running-the-game)
- [Xanax's Checklist for Minimal Crashes](#xanaxs-checklist-for-minimal-crashes)
- [Part 2: After Installing the Main Game](#part-2-after-installing-the-main-game)
+ 2.[Xanax's Checklist for Minimal Crashes](#xanaxs-checklist-for-minimal-crashes)
+ 3.[Part 2: After Installing the Main Game](#part-2-after-installing-the-main-game)
     - [Step 1: Understanding your EQClient.ini](#step-1-understanding-your-eqclientini)
     - [Step 2: Controlling your User Interface](#step-2-controlling-your-user-interface)
     - [Step 3: Characters, Logs, Spell Sets, and Screenshots](#step-3-characters-logs-spell-sets-and-screenshots)
- [Part 3: Installing Optional Textures and Effects](#part-3-installing-optional-textures-and-effects)
- [Part 4: Installing Optional 3rd Party Programs](#part-4-installing-optional-3rd-party-programs)
- [FAQ, Troubleshooting, and Obscure Situations](#faq-troubleshooting-and-obscure-situations)
- [Suggestions Feedback and Help](#suggestions-feedback-and-help)
+ 4.[Part 3: Installing Optional Textures and Effects](#part-3-installing-optional-textures-and-effects)
+ 5.[Part 4: Installing Optional 3rd Party Programs](#part-4-installing-optional-3rd-party-programs)
+ 6.[FAQ, Troubleshooting, and Obscure Situations](#faq-troubleshooting-and-obscure-situations)
+ 7.[Suggestions Feedback and Help](#suggestions-feedback-and-help)
 
 ## Part 1: Installing the Main Game
 
