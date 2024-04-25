@@ -1135,6 +1135,7 @@ The current zones considered to be raid zones are:
 - [My default chat channel will not save?](#my-default-chat-channel-will-not-save)
 - [One of my UI windows is off screen and I can't move it?](#one-of-my-ui-windows-is-off-screen-and-i-cant-move-it)
 - [I do not see buff timers?](#i-do-not-see-buff-timers)
+- [Are there hell levels?](#are-there-hell-levels)
 
 
 ### Where can I learn more about Project Quarm?
@@ -1410,6 +1411,9 @@ If you have no mouse pointer after this more than likely the X,Y or the CX,CY va
 
 ### I do not see buff timers?
 **A:** You need an updated `eqgame.dll` file, [see here](#Step-3-Converting-your-TAKP-client-to-Quarm)
+
+### Are there hell levels?
+**A:** Level smoothing rules are in place on this server. The typical hell levels still require more exp but but the requirements for each level are a lot more even than in the original game. You can look up how much exp you need per level over at [pqdi.cc](https://www.pqdi.cc/exp).
 
 ## Suggestions Feedback and Additional Help
 
