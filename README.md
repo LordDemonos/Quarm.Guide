@@ -1136,6 +1136,7 @@ The current zones considered to be raid zones are:
 - [One of my UI windows is off screen and I can't move it?](#one-of-my-ui-windows-is-off-screen-and-i-cant-move-it)
 - [I do not see buff timers?](#i-do-not-see-buff-timers)
 - [Are there hell levels?](#are-there-hell-levels)
+- [Do pets take a portion of experience?](#do-pets-take-a-portion-of-experience)
 
 
 ### Where can I learn more about Project Quarm?
@@ -1414,6 +1415,9 @@ If you have no mouse pointer after this more than likely the X,Y or the CX,CY va
 
 ### Are there hell levels?
 **A:** Level smoothing rules are in place on this server. The typical hell levels still require more exp but but the requirements for each level are a lot more even than in the original game. You can look up how much exp you need per level over at [pqdi.cc](https://www.pqdi.cc/exp).
+
+### Do pets take a portion of experience?
+**A:** If your pet deals more than 50% of the mob's total health, it will earn exp as if it were another player in your party. [Source: Secrets](https://discord.com/channels/1133452007412334643/1133453587675103323/1147980850701545504) This is true if you are solo or grouped. However it is unlikely a single pet will deal over 50% of a mob's total health when you are grouped, since your party members are also doing damage. This rule applies to each individual pet, so a party with 3 mages doesn't need to worry, since a single pet is still not dealing 50% of a mob's total health.
 
 ## Suggestions Feedback and Additional Help
 
