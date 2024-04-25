@@ -443,7 +443,7 @@ ZlizEQMap is a map tool mainly designed for servers that emulate old versions of
 
 - https://github.com/hada79/ZlizEQMap
 
-#### Supplemental Maps for ZlizEQMap
+#### Keilly's Supplemental Maps for ZlizEQMap
 
 These are new maps made to work with ZlizEQMap and you'll find your location and coordinates will be more accurate using these over the EQAtlas maps. Maps are for the most part larger than the ones from EQAtlas used in ZlizEQMap, and are best suited for use on a second monitor.
 
