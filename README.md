@@ -161,14 +161,14 @@ This could be caused by WinEQ2 running in the background which is not compatible
 
 It could also be caused when Directx 9c or a Visual C runtime is not installed. Try installing the following, rebooting and trying again:
 
-[Visual C 2015 runtime](https://www.microsoft.com/en-us/download/details.aspx?id=53587) - download the 32bit version
-[Directx 9c](https://www.microsoft.com/en-us/download/details.aspx?id=8109)
-could also be that proper [AV exclusions](https://wiki.takp.info/index.php/Set_Windows_Defender_Exclusion_on_Windows_10) are not set.
+- [Visual C 2015 runtime](https://www.microsoft.com/en-us/download/details.aspx?id=53587) - download the 32bit version
+- [Directx 9c](https://www.microsoft.com/en-us/download/details.aspx?id=8109)
+- Could also be that proper [AV exclusions](https://wiki.takp.info/index.php/Set_Windows_Defender_Exclusion_on_Windows_10) are not set.
 
 #### Set Compatibility
 
 Navigate to your TAKP folder and find `eqgame.exe`. Right click and select Properties. 
-Under Compatibility, select "Run this program in compatibility mode for Windows XP (Service Pack 3)" and "Run this program as an administrator". 
+Under Compatibility, select "Run this program in compatibility mode for Windows XP (Service Pack 2)". 
 
 ### Xanax's Checklist for Minimal Crashes
 
@@ -179,7 +179,7 @@ I wrote this guide because half of my guild seems to crash when they zone in and
 3. Excluded TAKP folder from antivirus scanning.
 4. Always running the latest Zeal unless it contains a specific bug I want to avoid. Always keep previous versions backed up.
 5. dgVoodoo fix
-6. Running program as Administrator.
+6. Running program in compatibility mode for Windows XP (Service Pack 2).
 7. Also running several muted sound files, EQ Basic 1.1, KaichoFX Spell Effects, and the game looks absolutely amazing!
 
 If you ask me, the first 3 are the biggest contributors to stability. Hopefully we can lessen these crashes and work towards fixing the rest over time.
