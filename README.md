@@ -25,20 +25,9 @@
 
 Welcome to [Project Quarm](https://projectquarm.com/), a 1-Box EverQuest emulated server based on the [TAKProject](https://www.takproject.net/) codebase! We are currently in the Classic era with Kunark Pre-release coming June 1st.
 
-Main Ruleset
-
-- Time-Locked Progression Server - 9 Months of Classic, 9 Months of Kunark, 9 Months of Velious, 9 Months of Luclin, Planes of Power final expansion.
-- Planes of Power may contain custom mechanics post-PoP, such as rotating hotzones.
-- One-Box Policy, enforced by IP & manual CSR intervention. [#petitions](https://discord.com/channels/1133452007412334643/1153470935421157396)
-- Era restrictions apply to prevent out-of-era mechanics. This is done selectively.
-- MGBs at level 1, and other 'TAKP-like' features are enabled selectively. For example, Monk AC is in its 'pre-nerf' state.
-- Selective Clientside Quality of Life - Mouse Wheel Camera, Buff Timers, Auto-Stand on Cast. Additional QOL have been added through [Zeal](#step-4-installing-zeal)
-- Instanced Raid Encounters
-- Legacy Items Drop Forever
-- Hardcore and Solo Self Found Gameplay Modes
+Some server highlights include: TLP through Planes of Power at 9 month intervals, instanced raid ancounters, legacy items drop forever, hardcore and solo self found gameplay modes, custom content and events, and a ton of QOL features through [Zeal](https://github.com/iamclint/Zeal).
 
 If you want to learn more about Project Quarm specific features and rules, head over to the [About Project Quarm](#about-project-quarm) section.
-
 
 ## Part 1: Installing the Main Game
 
@@ -465,6 +454,15 @@ I don't use this with EQ but I need to mention it alongside Lossless Scaling. I 
 - https://github.com/Codeusa/Borderless-Gaming/releases
 
 ## About Project Quarm
+
+### Main Ruleset
+
+- Time-Locked Progression Server - 9 Months of Classic, 9 Months of Kunark, 9 Months of Velious, 9 Months of Luclin, Planes of Power final expansion.
+- Planes of Power may contain custom mechanics post-PoP, such as rotating hotzones.
+- One-Box Policy, enforced by IP & manual CSR intervention. [#petitions](https://discord.com/channels/1133452007412334643/1153470935421157396)
+- Era restrictions apply to prevent out-of-era mechanics. This is done selectively.
+- MGBs at level 1, and other 'TAKP-like' features are enabled selectively. For example, Monk AC is in its 'pre-nerf' state.
+- Selective Clientside Quality of Life - Mouse Wheel Camera, Buff Timers, Auto-Stand on Cast. Additional QOL have been added through [Zeal](#step-4-installing-zeal)
 
 ### Optional Self Imposed Rulesets
 
