@@ -33,7 +33,7 @@
    - [IP Exemption](#ip-exemption)
    - [Rules](#rules)
 9. [FAQ, Troubleshooting, and Obscure Situations](#faq-troubleshooting-and-obscure-situations)
-10. [Suggestions Feedback and Help](#suggestions-feedback-and-help)
+10. [Suggestions Feedback and Additional Help](#suggestions-feedback-and-help)
 
 ## A Brief Introduction to Project Quarm
 
@@ -1368,9 +1368,9 @@ If you have no mouse pointer after this more than likely the X,Y or the CX,CY va
 ### I do not see buff timers?
 **A:** You need an updated `eqgame.dll` file, [see here](#Step-3-Converting-your-TAKP-client-to-Quarm)
 
-## Suggestions Feedback and Help
+## Suggestions Feedback and Additional Help
 
-#### [Project Quarm Discord #zeal-discussions](https://discord.com/channels/1133452007412334643/1210670176077348934) | [Project Quarm Discord #tech-help](https://discord.com/channels/1133452007412334643/1133453502182596729) | [Project Quarm Discord #ui-discussion](https://discord.com/channels/1133452007412334643/1162826324092657757)
+#### [Project Quarm Discord #zeal-discussions](https://discord.com/channels/1133452007412334643/1210670176077348934) | [Project Quarm Discord #tech-help](https://discord.com/channels/1133452007412334643/1133453502182596729) | [Project Quarm Discord #ui-discussion](https://discord.com/channels/1133452007412334643/1162826324092657757) | [Project Quarm Discord #petitions](https://discord.com/channels/1133452007412334643/1153470935421157396)
 
 Still reading? I'd like to expand this guide and keep it maintained. What I need from you are more questions to populate the FAQ at the bottom. I need to install Visual Studio and document steps to attaching the game to it to log the data that Secrets and Salty need when the game crashes or bugs out. I'd like to host a fully updated ZlizEQMap [zonedata file](https://github.com/hada79/ZlizEQMap/blob/master/ZoneData/ZoneData-The%20Al'Kabor%20Project.txt) but this one isn't updated for Quarm. I have some other ideas too. Please submit suggestions/help/feedback to me via DM on X or Discord. Feel free to ask `Xanax/Xantagonist <Former Glory>` any questions, anywhere you find me in game! 
 
