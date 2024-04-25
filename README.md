@@ -39,7 +39,7 @@
 
 Welcome to [Project Quarm](https://projectquarm.com/), a 1-Box EverQuest emulated server based on the [TAKProject](https://www.takproject.net/) codebase! We are currently in the Classic era with Kunark Pre-release coming June 1st.
 
-Some server highlights include: TLP through Planes of Power at 9 month intervals, instanced raid ancounters, legacy items drop forever, hardcore and solo self found gameplay modes, custom content and events, and a ton of QOL features through [Zeal](https://github.com/iamclint/Zeal).
+Some server highlights include: TLP through Planes of Power at 9 month intervals, instanced raid encounters, legacy items drop forever, hardcore and solo self found gameplay modes, custom content and events, and a ton of QOL features through [Zeal](https://github.com/iamclint/Zeal).
 
 If you want to learn more about Project Quarm specific features and rules, head over to the [About Project Quarm](#about-project-quarm) section.
 
@@ -487,14 +487,14 @@ The process of doing so resets your character and all of its data to as if it ha
 This is a gametype that restricts interactions with standard ruleset players. This is more akin to a "Group Self Found / Group Ironman" ruleset if enabled by itself.
 The following restrictions are imposed:
 - You cannot group or raid with players who are not also playing the Self Found ruleset.
-- You cannot be buffed or healed by other players whom are outside of your experience credit range.
+- You cannot be buffed or healed by other players who are outside of your experience credit range.
 - You cannot trade with other players.
 - You cannot purchase items from merchants that aren't already on the merchant.
 - You cannot loot items that were handed to an NPC by a player off of the NPC's corpse.
 - You cannot sell or buy items in The Bazaar.
 - You cannot pick up dropped items on the ground that are dropped by other players. Standard ground spawns do not apply to this rule.
 - You cannot loot items from 'opened' corpses. You must receive initial experience credit per the ruleset to loot the item(s) you wish to loot.
-- You cannot loot items from corpses of mobs you weren't in group or raid experience credit range of.
+- You cannot loot items from corpses of mobs you weren't in a group or raid experience credit range of.
 - You must engage a creature at 100% HP to receive experience or loot for yourself, your group or your raid, and deal at least 50% of the mob's health in damage to receive experience.
 - *NOTE: Normal damage rules additionally apply to the target for experience credit. The NPC regenerating to 100% HP will reset this flag.*
 
@@ -586,8 +586,8 @@ Classic 1.9: June 1st, 2024 (1 month)
 #### Kunark (2.x) (July 1st, 2024)
 
 Kunark 2.0 (July 1st, 2024))
-- Kunark accessible.
-- Iksar createable.
+- Kunark is accessible.
+- Iksar creatable.
 - Nurga and Droga pre revamp
 - Chardok pre revamp.
 - Level Cap 60, 0 AA
@@ -612,7 +612,7 @@ Velious (3.0): April 1st, 2025 (3 months)
 - Level cap remains 60.
 - Runnyeye revamps.
 - Warrens and Stonebrunt quests NPCs enable.
-- Legacy Items enable.
+- Legacy Items enabled.
 - Seaworthy planking is enabled as a rare spawn.
 - EXP/ ZEM rules change to Velious group bonus / Velious newbie ZEM boost.
 - Sleeper's Tomb is unavailable at launch.
@@ -732,7 +732,7 @@ Please note that if not otherwise specified, creatures in instances have 24 hour
 - EarthQuake revamp
 - Earthquakes are now scheduled to occur every 3 to 7 days.
 - Earthquakes now have a duration of three (3) hours.
-- Earthquakes no longer have a ruleset. Server Rules 9.x and 10.x are suspended during earthquakes for raid zones. Please assume that if your zone doesn't give a message about NPCs being re-popped, that you have to adhere to rules 9.x and 10.x still.
+- Earthquakes no longer have a ruleset. Server Rules 9.x and 10.x are suspended during earthquakes for raid zones. Please assume that if your zone doesn't give a message about NPCs being re-popped, that you still have to adhere to rules 9.x and 10.x still.
 
 The current zones considered to be raid zones are:
 - Permafrost Caverns
@@ -747,7 +747,7 @@ On an earthquake triggering, everyone in the zone is evacuated to the zone-in to
 
 Please note that the following changes were made to the zones for Project Quarm:
 
-- All boss creatures will not appear in Open World until an Earthquake.
+- All boss creatures will not appear in the Open World until an Earthquake.
 - Instanced trash will drop loot and will not lock players out, but will have heightened respawn timers.
 - Open world trash will retain its normal respawn timers.
 - Quests are enabled in all open world / instanced versions of Sky, Hate and Fear.
@@ -757,7 +757,7 @@ Please note that the following changes were made to the zones for Project Quarm:
 
 - Slime Blood of Cazic Thule will drop in place of Skin of Cazic for all eras, however this item will be locked to Kunark.
 - The Golems in Fear are their 51/52 selves - they will not drop any loot until Kunark. This is normal, as they only would drop epic pieces. They do not death touch, which is era-accurate. Do not report this with a bug.
-- Cazic-Thule is his level 55 self. He has fairly low resists for his level, however, he now has his Velious-era crowd control immunities.
+- Cazic-Thule is his level 55 self. He has fairly low resistance for his level, however, he now has his Velious-era crowd control immunities.
 a dracoliche is its level 53 self, with Rotting Flesh & Dragon Roar. a dracoliche does not gain its lifetap until the Velious-era revamp.
 - Class armor and Lustrous Russet drop indefinitely.
 - Irak & Wraith of a Shissar are Kunark gated.
@@ -776,7 +776,7 @@ a dracoliche is its level 53 self, with Rotting Flesh & Dragon Roar. a dracolich
 #### Sky:
 
 - Open World: All boss creatures will be spawned upon an Earthquake occurring without any scripted encounters needing to be completed
-- Keys are no longer no rent, and will add to the keyring.
+- Keys are no longer no rent, and will be added to the keyring.
 - Instance: You must complete the instance by progressing through it normally.
 - Instance: Keeper of Souls now spawns instantly on the death of a soul tamer without a waiting period. However, it is not possible to trigger multiple Keeper of Souls within the same 18 hour period.
 - You may only interact with the Key Master in Open World for the purpose of interacting with him as a merchant.
@@ -784,7 +784,7 @@ a dracoliche is its level 53 self, with Rotting Flesh & Dragon Roar. a dracolich
 
 #### Welcome to the Ruins of Old Paineel, also known as The Hole! 
 
-This zone is being released ahead of Kunark, which is a major departure of EQ's original timeline. It's our team's personal opinion that the items contained within The Hole aren't significantly powerful, and that releasing The Hole early is quite a treat for folks who are historically used to having to play it in Kunark.
+This zone is being released ahead of Kunark, which is a major departure from EQ's original timeline. It's our team's personal opinion that the items contained within The Hole aren't significantly powerful, and that releasing The Hole early is quite a treat for folks who are historically used to having to play it in Kunark.
 
 - Most Epic NPCs will be disabled in The Hole ahead of Kunark. Please expect any Epic items that have snuck past our grasp to disappear at some point before Kunark.
 - Master Yael is considered a raid target, as is Nortlav the Scalekeeper. Nortlav will spawn in Kunark.
@@ -872,11 +872,11 @@ Trivial loot code is in effect, and you cannot loot green con NPC corpses in the
 
 Named creatures may appear during your crawl through the dungeon. These creatures share loot with the main boss, and any loot exclusive to them is considered legacy loot. This will not affect your ability to loot those items outside of the event, and those flags will be cleared following the event.
 
-We recommend to be at least level 13 to truly begin your expedition.
+We recommend being at least level 13 to truly begin your expedition.
 
 Lastly, the event reward requires a significant amount of faction to obtain. You need at least 1900 faction, and each blood will grant 50 faction. Each NPC faction hit will grant 1 faction.
 
-We strongly encourage those whom wish to help the lower players to do so, but CSRs will action higher level players actively monopolizing the zone. Keep your interactions to taunts, buffs, and heals to snag crucial faction hits. Druzzil will be watching.
+We strongly encourage those who wish to help the lower players to do so, but CSRs will act against higher level players actively monopolizing the zone. Keep your interactions to taunts, buffs, and heals to snag crucial faction hits. Druzzil will be watching.
 
 There are no level restrictions on the event outside of the zone. So, please feel free to participate in those events if you're max level to get the same blood that will also drop in the Shard of Decay.
 
@@ -886,12 +886,12 @@ Lorisyn, all of the blood and anomalies will disappear at the same time.
 
 #### Brell's Blessed Land - 11/17/2023
 
-During the period before Frostfell, the land needs to be prepared for celebration and merryment. 
+During the period before Frostfell, the land needs to be prepared for celebration and merriment. 
 The Shard of Decay has closed. Snow is falling on the ground in places where they shouldn't be, and the season of feasts is upon us.
 
 However, Brell needs the land culled of various creatures that are capable of flight, and will reward adventurers kindly.
 
-Druzzil and Brell has blessed the land for a limited period of time to aid with this effort, and Norrath shall reap the reward of experience.
+Druzzil and Brell have blessed the land for a limited period of time to aid with this effort, and Norrath shall reap the reward of experience.
 
 Since we don't sell anything here, and you can't eat the server, we're giving the best feast of all:
 Outdoor zones will receive a 0.20 increase to their ZEM for the duration of the event.
@@ -900,7 +900,7 @@ Snow will appear in place of rain as the land begins to get colder.
 
 Flying creatures include the following:
 
-`ghosts, gargoyles, spectres, imps, harpies, pegasus, djinn, griffins, pixies, faeries, will-o-wisps, air elementals, wasps, bixies, drakes, reanimated hands, dragons, evil eyes, swordfish / fish / sharks (for meme factor) / phinigel (kedge descendents), whirling blades, bats, and aviaks`
+`ghosts, gargoyles, specters, imps, harpies, pegasus, djinn, griffins, pixies, faeries, will-o-wisps, air elementals, wasps, bixies, drakes, reanimated hands, dragons, evil eyes, swordfish / fish / sharks (for meme factor) / phinigel (kedge descendents), whirling blades, bats, and aviaks`
 
 #### Domain of Frost AKA Halas — 12/19/2023
 
@@ -911,7 +911,7 @@ Upon opening the portal, a band of fire goblins, belonging to a Scrooge named Sa
 
 The Domain must be rescued! The Wizard has opened a portal to the pocket plane again; this time for adventurers to save the plane in the East Commonlands tunnel.
 
-Due to her massive power and fear of being discovered as shady, the Shady Swashbuckler has taken up shop elsewhere in the tunnel, and has bought a banker friend with him. This banker friend is also extremely shady, though appears to be an honest fellow. 
+Due to her massive power and fear of being discovered as shady, the Shady Swashbuckler has taken up shop elsewhere in the tunnel, and has brought a banker friend with him. This banker friend is also extremely shady, though appears to be an honest fellow. 
 He quite enjoys the company, and might be keeping his friend with him well after the Wizard's departure.
 
 Enter the Domain of Frost, and reap the rewards within.
@@ -919,7 +919,7 @@ The Domain of Frost is a level 30 to 45 zone, being split right down the middle 
 Trivial Loot Code is enabled in the Domain of Frost.
 The Domain of Frost has a passive +0.05 experience boost within its walls.
 There are rumors of a container of considerable storage within - if you manage to find one, it will require you to be of the 30th season to loot.
-Bards who have lived to tell the tale also share of a hidden compartment in the well - guilds may be interested in completing the trials within to get a time-limited reward. There are multiple ways to get this reward.
+Bards who have lived to tell the tale also share a hidden compartment in the well - guilds may be interested in completing the trials within to get a time-limited reward. There are multiple ways to get this reward.
 Know that this encounter is the most difficult of the raid encounters adventurers have faced thus far.
 
 *NOTE: The reward item name contains a symbol - (t) - indicates that the item is temporary and will be removed following the event. Fret not about its power.*
@@ -931,7 +931,7 @@ The graveyard for Domain of Frost now dispenses corpses in North Ro at the East 
 #### The Tower of Frost (AKA Oops, All Icebones) — 12/26/2023
 
 The Tower of Frost is now available as a Level 8 to 25 undead zone featuring everyone's favorite friends: icebone skeletons. Big ones, small ones; some the size of your head.
-This zone is exactly what you think it is. It's all icebone skeletons. There is no loot to be found here beyond bone chips, a few scraps of cloth and rusty weapons. Trivial loot code is enabled here, too, so don't think of coming in here if you're not appropriate level.
+This zone is exactly what you think it is. It's all icebone skeletons. There is no loot to be found here beyond bone chips, a few scraps of cloth and rusty weapons. Trivial loot code is enabled here, too, so don't think of coming in here if you're not at an appropriate level.
 
 The basement is the most challenging, while the top level provides a medium level of difficulty. The entrance, of course, is the easiest part of the zone.
 
@@ -996,7 +996,7 @@ There is a second way to end the tomb, but it won't be until the Planes are full
 
 ### Server Downtime
 
-Server Downtimes typcally happen when the CSR team has available time. Announcements are posted in-game as well as [#server-status-downtime}(https://discord.com/channels/1133452007412334643/1160202360346378250). Server downtimes are typically concluded in about 5 minutes when everything goes according to plan.
+Server Downtimes typically happen when the CSR team has available time. Announcements are posted in-game as well as [#server-status-downtime}(https://discord.com/channels/1133452007412334643/1160202360346378250). Server downtimes are typically concluded in about 5 minutes when everything goes according to plan.
 
 TAKP Login Server downtimes typically happen every Wednesday and last for about 15 minutes. During this time you will be unable to log in and the server will appear offline. If you are already in game your service should not be affected. 
 
@@ -1049,8 +1049,8 @@ Rule 11: This space is intentionally left blank.
 
 Rule 12: Zone monopolization is not allowed. This is subjective to the Project Quarm staff as to what they deem zone monopolization, but generally it includes not reasonably sharing NPC spawns in zones, or mass pulling zones where other experience groups are participating in content. Bards included.
 
-Rule 13: RMT is not allowed. RMT is defined as any sort of arrangement that involves any form of in-game resource, asset, item, character, guild or anything otherwise represented in the database being exchanged for anything not represented in the database. Soliciting RMT is not allowed. Facilitating RMT is not allowed. Discussing RMT is not allowed. Proxy forms of RMT such as casinos, giveaways of donated items, and trading items for outside of game services is not allowed. Joking about RMT is not allowed.
-Rule 13.1: DKP systems are generally considered exempt from Rule 13 so long as the DKP can only be aquired via ingame activities.
+Rule 13: RMT is not allowed. RMT is defined as any sort of arrangement that involves any form of in-game resource, asset, item, character, guild or anything otherwise represented in the database being exchanged for anything not represented in the database. Soliciting RMT is not allowed. Facilitating RMT is not allowed. Discussing RMT is not allowed. Proxy forms of RMT such as casinos, giveaways of donated items, and trading items for outside of game services are not allowed. Joking about RMT is not allowed.
+Rule 13.1: DKP systems are generally considered exempt from Rule 13 so long as the DKP can only be acquired via in game activities.
 Rule 13.2: Providing game-related services in exchange for anything not represented in the database falls under the scope of Rule 13.
 Rule 13.3: Providing non-game related services in exchange for anything represented in the database falls under the scope of Rule 13.
 
