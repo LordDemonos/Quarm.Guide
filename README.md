@@ -17,8 +17,9 @@
     - [Step 3: Characters, Logs, Spell Sets, and Screenshots](#step-3-characters-logs-spell-sets-and-screenshots)
 5. [Part 3: Installing Optional Textures and Effects](#part-3-installing-optional-textures-and-effects)
 6. [Part 4: Installing Optional 3rd Party Programs](#part-4-installing-optional-3rd-party-programs)
-7. [FAQ, Troubleshooting, and Obscure Situations](#faq-troubleshooting-and-obscure-situations)
-8. [Suggestions Feedback and Help](#suggestions-feedback-and-help)
+7. [About Project Quarm](#about-project-quarm)
+8. [FAQ, Troubleshooting, and Obscure Situations](#faq-troubleshooting-and-obscure-situations)
+9. [Suggestions Feedback and Help](#suggestions-feedback-and-help)
 
 ## A Brief Introduction to Project Quarm
 
@@ -32,6 +33,9 @@ Main Ruleset
 - Era restrictions apply to prevent out-of-era mechanics. This is done selectively.
 - MGBs at level 1, and other 'TAKP-like' features are enabled selectively. For example, Monk AC is in its 'pre-nerf' state.
 - Selective Clientside Quality of Life - Mouse Wheel Camera, Buff Timers, Auto-Stand on Cast. Additional QOL have been added through [Zeal](#step-4-installing-zeal)
+- Instanced Raid Encounters
+- Legacy Items Drop Forever
+- Hardcore and Solo Self Found Gameplay Modes
 
 If you want to learn more about Project Quarm specific features and rules, head over to the [About Project Quarm](#about-project-quarm) section.
 
@@ -459,6 +463,120 @@ Lossless Scaling allows you to scale windowed games to full screen using the sta
 I don't use this with EQ but I need to mention it alongside Lossless Scaling. I use it with my 4k OLED monitor to remove the Windows border around games sometimes to prevent OLED burn-in. It's pricey on Steam but free on Github.
 
 - https://github.com/Codeusa/Borderless-Gaming/releases
+
+## About Project Quarm
+
+### Optional Self Imposed Rulesets
+
+These three rulesets may be toggled on independently or all at once at Level 1 at any Priest of Discord. 
+The process of doing so resets your character and all of its data to as if it had just spawned in the game world, and prevents future ruleset toggling.
+
+#### Self Found
+This is a gametype that restricts interactions with standard ruleset players. This is more akin to a "Group Self Found / Group Ironman" ruleset if enabled by itself.
+The following restrictions are imposed:
+- You cannot group or raid with players who are not also playing the Self Found ruleset.
+- You cannot be buffed or healed by other players whom are outside of your experience credit range.
+- You cannot trade with other players.
+- You cannot purchase items from merchants that aren't already on the merchant.
+- You cannot loot items that were handed to an NPC by a player off of the NPC's corpse.
+- You cannot sell or buy items in The Bazaar.
+- You cannot pick up dropped items on the ground that are dropped by other players. Standard ground spawns do not apply to this rule.
+- You cannot loot items from 'opened' corpses. You must receive initial experience credit per the ruleset to loot the item(s) you wish to loot.
+- You cannot loot items from corpses of mobs you weren't in group or raid experience credit range of.
+- You must engage a creature at 100% HP to receive experience or loot for yourself, your group or your raid, and deal at least 50% of the mob's health in damage to receive experience.
+- *NOTE: Normal damage rules additionally apply to the target for experience credit. The NPC regenerating to 100% HP will reset this flag.*
+
+#### Solo Only
+This is a gametype that restricts interactions with all other players, including other ruleset players. The restrictions here override the restrictions in Self Found if they would conflict. This is akin to a "Solo Self Found / Ironman" ruleset found in other games.
+The following restrictions are imposed:
+- You cannot group or raid with other players.
+- You cannot be buffed or healed by other players.
+- You cannot trade with other players.
+- You cannot purchase items from merchants that aren't already on the merchant.
+- You cannot loot items that were handed to an NPC by a player off of the NPC's corpse.
+- You cannot sell or buy items from The Bazaar.
+- You cannot pick up dropped items on the ground that are dropped by other players. Standard ground spawns do not apply to this rule.
+- You must engage a creature at 100% HP to receive experience or loot for yourself and deal at least 50% of the mob's health in damage to receive experience. Normal damage rules additionally apply to the target for experience credit. The NPC regenerating to 100% HP will reset this flag.
+- You cannot loot items from 'opened' corpses. You must receive initial credit per the ruleset to loot the item(s) you wish to loot.
+
+#### Hardcore
+This is a gametype that will result in permanent deletion of your character upon your first death above the item loss level. This is also known as a "Permadeath" ruleset found in other games.
+There are no restrictions like the rulesets above have, but this may be toggled on in addition to the above two rulesets.
+- *NOTE: Characters who have hit a milestone under the hardcore ruleset that die will be broadcast to the entire server. Their corpse will instantly decay and the character will be reset.
+There will be no character recovery after a death.*
+
+### Gameplay Changes
+
+- No 'Out of Group Range' exploit - a player who is physically out of range of other players may not receive an experience bonus as if they were in a group.
+- Tradeskill containers will delete nodrop items for everyone, including the player who placed it there.
+
+The following zones have 'pull limits' and when you aggro a quantity of mobs over these numbers, they will instantly teleport on you instead of chase you:
+
+- hohonora    Halls of Honor    15
+- pofire    Plane of Fire    15
+- povalor    Plane of Valor    20
+- solrotower    Tower of Solusek Ro    20
+- podisease    Plane of Disease    25
+- poeartha    Plane of Earth    25
+- poearthb    Plane of Earth    25
+- ponightmare    Plane of Nightmares    25
+- postorms    Plane of Storms    25
+- potactics    Drunder, the Fortress of Zek    25
+- vexthal    Vex Thal    28
+- skyfire    Skyfire Mountains    30
+- poinnovation    Plane of Innovation    40
+- pojustice    Plane of Justice    40
+- potorment    Torment, the Plane of Pain    40
+
+#### Reduced Respawn Timers & Anti Kite 
+
+For launch, we will impose a limit on the amount of mobs that can be pulled in newbie zones to 4. Anti Kite code will be applied after 4 NPCs are pulled. This is to prevent folks from monopolizing zones with PBAOE classes early on.
+
+Newbie zones will also have a reduced respawn rate on all NPCs. NPCs between 12 and 60 second respawns will be reduced to 12 seconds. NPCs between 61 seconds and 499 seconds will be reduced to 60 seconds.
+
+Newbie zones are normally major cities with newbie yards, and adjacent stomping grounds such as South Ro, East Commonlands or Qeynos Hills.
+
+This restriction will be removed after zones thin out or 7 days, whichever comes sooner. 
+
+### Timeline
+
+Time-Locked Progression system, with 9 months between each expansion. Classic -> Kunark -> Velious -> Luclin -> Planes of Power. Incremental patches will occur every 3 months.
+
+#### Classic (1.x) (October 1st, 2023)
+
+1.0 (Launch)
+- Paineel is in on launch. The Hole and The Warrens are closed.
+- Runnyeye does not drop Alloy items, and the sporali have not moved in.
+- Legacy Items are enabled:
+ * Manastone
+ * Rubicite Armor
+ * Guise of the Deceiver
+ * Journeyman's Boots (Drelzna)
+- EXP / ZEM - Pre Velious, Classic EQ ZEMs
+- A single pet dealing 50% or more will reduce solo experience at 50% or equal to one group member weight of the pet's level if grouped.
+- Wizards keep later xpac  innate crit chance.
+
+Classic 1.3: January 1st, 2024 (3 months)
+- The Temple of Solusek Ro opens.
+- The Classic Planes (Hate, Fear, Sky) open. - Cazic-Thule is a hybrid of Kunark and Velious CT. Innoruuk is a hybrid of pre and post revamp Innoruuk.  (Immunities to slow, snare, fear, root, paci, etc, but not resist immune)
+- Legacy Items are disabled from Classic 1.0
+
+Classic 1.6: April 1st, 2024 (2 months)
+- The Hole opens.
+- Bloody Kithicor / Firiona Vie / Lanys T'vyl GM event
+- Lustrous Russet Armor stops dropping.
+
+Classic 1.9: June 1st, 2024 (1 month)
+- Special event: 1 month Kunark-Locked Iksar early access (Level Cap 50, some zones restricted)
+
+### Legacy Items
+
+### Mule Accounts
+
+### Elective Services
+
+### Events
+
 
 ## FAQ, Troubleshooting, and Obscure Situations
 
