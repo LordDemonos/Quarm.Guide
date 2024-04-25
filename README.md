@@ -1071,7 +1071,7 @@ In order to make an IP exemption, make sure both accounts and characters have be
 - Innoruuk - 6d 18h
 - All Trash - 18h (No Lockout)
 
-** Plane of Fear (Instanced)**
+**Plane of Fear (Instanced)**
 - a dracoliche - 2d 18h
 - Cazic-Thule - 6d 18h
 - All Trash, Quest NPCs - 18h (No Lockout)
