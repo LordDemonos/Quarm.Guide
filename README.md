@@ -373,7 +373,7 @@ Kaicho has been working on their passion project, creating new spell effects, pa
 
 - https://www.reddit.com/r/ProjectQuarm/comments/17h98xq/comment/k6prhur/
 
-- Download Link 1: https://drive.google.com/file/d/1zXoiMFk-Z-f2Qc6tI9ZUJjfR98rVdLoK/view
+- Download: https://drive.google.com/file/d/1zXoiMFk-Z-f2Qc6tI9ZUJjfR98rVdLoK/view
 
 To install KaichoFX, download the zip file from the above link. Rename your current SpellEffects folder inside your EQ folder to something like "SpellEffectsBACKUP" to save original copies in case you want to revert back. Create a new folder called SpellEffects inside your EQ folder. Extract the KaichoFX files into your new SpellEffects folder.
 
@@ -381,7 +381,7 @@ To install KaichoFX, download the zip file from the above link. Rename your curr
 
 This link provides edited sound files to change the volumes of certain annoying sounds like rain and wind/snow. Scroll down to locate khanable's post.
 
-https://www.takproject.net/forums/index.php?threads%2Fwindows-10-ambient-noise-too-loud.8234%2F
+- https://www.takproject.net/forums/index.php?threads%2Fwindows-10-ambient-noise-too-loud.8234%2F
 
 - https://www.dropbox.com/s/wv4i1sme0uxb422/EMT_0%.zip?dl=0 (set to 0.0 - music works, NO environment sounds)
 - https://www.dropbox.com/s/lz853tlc3of4xt5/EMT_25%.zip?dl=0 (set to 0.25 - music works, 25% volume on environment sounds)
