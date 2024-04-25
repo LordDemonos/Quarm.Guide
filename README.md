@@ -28,7 +28,7 @@ Main Ruleset
 
 - Time-Locked Progression Server - 9 Months of Classic, 9 Months of Kunark, 9 Months of Velious, 9 Months of Luclin, Planes of Power final expansion.
 - Planes of Power may contain custom mechanics post-PoP, such as rotating hotzones.
-- One-Box Policy, enforced by IP & manual CSR intervention.
+- One-Box Policy, enforced by IP & manual CSR intervention. [#petitions](https://discord.com/channels/1133452007412334643/1153470935421157396)
 - Era restrictions apply to prevent out-of-era mechanics. This is done selectively.
 - MGBs at level 1, and other 'TAKP-like' features are enabled selectively. For example, Monk AC is in its 'pre-nerf' state.
 - Selective Clientside Quality of Life - Mouse Wheel Camera, Buff Timers, Auto-Stand on Cast. Additional QOL have been added through [Zeal](#step-4-installing-zeal)
