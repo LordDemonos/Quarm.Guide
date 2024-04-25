@@ -321,7 +321,7 @@ You can install various texture packs and visual effects to enhance the game's a
 
 EQ Classic HD is an ongoing project by Cucumbers, Paulgiamatti, Sorn, and Zaela to graphically enhance, upscale, retexture, and reimagine classic EverQuest. They primarily deal with textures, but their package also corrects some minor transparency, particle, and model animation issues. 
 
-https://wiki.project1999.com/EQ_Classic_HD#The_Al.27Kabor_Project_version:
+- https://wiki.project1999.com/EQ_Classic_HD#The_Al.27Kabor_Project_version:
 *Note: The link contains special instructions for applying these textures to the Al'Kabor Project (TAKP).*
 
 To install Classic HD Textures, first make sure you're downloading the [The Al'Kabor Project version](https://drive.google.com/file/d/0ByJldqMGux7CVUh6a2taTWlndmM/view?usp=sharing&resourcekey=0-CzMD3Z47SRVJ6NNjLXql5w). Open the downloaded zip file. The archive contains an installer and uninstaller you can use. Manually, you can extract or copy the .S3D files contained in the EQClassicHD folder to your EverQuest directory (overwrite if you left the old ones in). To uninstall, copy your backed up files back into your EverQuest directory and overwrite. Install and uninstall.bat can be deleted or ignored. 
@@ -330,8 +330,8 @@ To install Classic HD Textures, first make sure you're downloading the [The Al'K
 
 EQ Basic is a FULL graphics overhaul of Everquest, specifically for P99 Green/Blue (Classic, Kunark, Velious). This includes all zones, objects, character models, equipment(Including epics), mobs and spell effects! 
 
-Source: https://www.reddit.com/r/project1999/comments/10rz5r0/eq_basic_v11_an_eq_graphics_overhaul_project/
-Download: https://drive.google.com/file/d/1PbP9Pwnjkaw4-cgN7_as8SL8PAKQlYGB/view
+- Source: https://www.reddit.com/r/project1999/comments/10rz5r0/eq_basic_v11_an_eq_graphics_overhaul_project/
+- Download: https://drive.google.com/file/d/1PbP9Pwnjkaw4-cgN7_as8SL8PAKQlYGB/view
 
 To install EQ Basic 1.1 download and extract the `.7z` archive to your TAKP folder, overwriting files when prompted.
 
@@ -339,7 +339,7 @@ To install EQ Basic 1.1 download and extract the `.7z` archive to your TAKP fold
 
 This is everything you can do to get EQ back to as close to a classic feel as possible.
 
-https://www.reddit.com/r/everquest/comments/36ovuk/howto_old_eq_uispell_gemsparticle_effectsmusic/
+- https://www.reddit.com/r/everquest/comments/36ovuk/howto_old_eq_uispell_gemsparticle_effectsmusic/
 
 Various installation instructions for the different parts can be found within the Reddit link provided above.
 
@@ -347,9 +347,9 @@ Various installation instructions for the different parts can be found within th
 
 Kaicho has been working on their passion project, creating new spell effects, particles, and animations for EverQuest. You can find an example during one of his streams [here](https://clips.twitch.tv/SuaveEnergeticGalagoMingLee-lhitQb6LALq3BUHv).
 
-https://www.reddit.com/r/ProjectQuarm/comments/17h98xq/comment/k6prhur/
+- https://www.reddit.com/r/ProjectQuarm/comments/17h98xq/comment/k6prhur/
 
-Download Link 1: https://drive.google.com/file/d/1zXoiMFk-Z-f2Qc6tI9ZUJjfR98rVdLoK/view
+- Download Link 1: https://drive.google.com/file/d/1zXoiMFk-Z-f2Qc6tI9ZUJjfR98rVdLoK/view
 
 To install KaichoFX, download the zip file from the above link. Rename your current SpellEffects folder inside your EQ folder to something like "SpellEffectsBACKUP" to save original copies in case you want to revert back. Create a new folder called SpellEffects inside your EQ folder. Extract the KaichoFX files into your new SpellEffects folder.
 
@@ -369,7 +369,7 @@ To install, open your TAKP folder, sort by type. Locate all the EMT files. Move 
 
 Simple tool for patching `gequip5.s3d` and `global6_chr.s3d` to enable classic EverQuest skeletons.
 
-https://github.com/nickgal/EqSkelePatcher/releases
+- https://github.com/nickgal/EqSkelePatcher/releases
 
 To install the Old Skeleton Models, follow these steps:
 
@@ -393,55 +393,55 @@ These programs add functionality not found in the game client by reading your Ev
 
 A log monitoring application that provides audio and visual feedback based on triggers you either define or import.
 
-https://eq.gimasoft.com/gina/Default.aspx | [Supplemental Documentation](https://kingdomdkp.com/index.php/Guides/Tools/How-to-installing-gina--basic-functions.html?)
+- https://eq.gimasoft.com/gina/Default.aspx | [Supplemental Documentation](https://kingdomdkp.com/index.php/Guides/Tools/How-to-installing-gina--basic-functions.html?)
 
 #### EQ Nag
 
 An EverQuest notification agent. An alternative to GINA.
 
-https://github.com/guildantix/eq-nag/releases | [Documentation](https://guildantix.github.io/eq-nag/)
+- https://github.com/guildantix/eq-nag/releases | [Documentation](https://guildantix.github.io/eq-nag/)
 
 #### NParse (TAKP Fork)
 
 Provides player location and spell tracking support for TAKP by reading the player log.
 
-https://github.com/hitechhippie/nparse-takp
+- https://github.com/hitechhippie/nparse-takp
 
 #### Quarm Tool
 
 Log parser containing 3D Maps, Timers for everything, damage meters, and mob info.
 
-https://github.com/EJWellman/QuarmTool
+- https://github.com/EJWellman/QuarmTool
 
 #### ZlizEQMap
 
 ZlizEQMap is a map tool mainly designed for servers that emulate old versions of EverQuest. It features a local database of maps from the old EQAtlas website (now hosted on allakabor.com and tessmage.com), along with player positioning (x plotted on map), transparent overlay, waypoints, zone connections, and more.
 
-https://github.com/hada79/ZlizEQMap
+- https://github.com/hada79/ZlizEQMap
 
 #### Supplemental Maps for ZlizEQMap
 
 These are new maps made to work with ZlizEQMap and you'll find your location and coordinates will be more accurate using these over the EQAtlas maps. Maps are for the most part larger than the ones from EQAtlas used in ZlizEQMap, and are best suited for use on a second monitor.
 
-https://www.project1999.com/forums/showthread.php?t=386944
+- https://www.project1999.com/forums/showthread.php?t=386944
 
 #### EQ Tell Notifier
 
 Desktop notifications for tells received in game.
 
-https://github.com/rtcox/EQ_tell_notifier/tree/main
+- https://github.com/rtcox/EQ_tell_notifier/tree/main
 
 #### Lossless Scaling
 
 Lossless Scaling allows you to scale windowed games to full screen using the state-of-the-art scaling algorithms, as well as use ML based proprietary scaling and frame generation.
 
-https://store.steampowered.com/app/993090/Lossless_Scaling/
+- https://store.steampowered.com/app/993090/Lossless_Scaling/
 
 #### Borderless Gaming
 
 I don't use this with EQ but I need to mention it alongside Lossless Scaling. I use it with my 4k OLED monitor to remove the Windows border around games sometimes to prevent OLED burn-in. It's pricey on Steam but free on Github.
 
-https://github.com/Codeusa/Borderless-Gaming/releases
+- https://github.com/Codeusa/Borderless-Gaming/releases
 
 ## FAQ, Troubleshooting, and Obscure Situations
 
