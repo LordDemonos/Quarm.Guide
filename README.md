@@ -257,7 +257,7 @@ The supported client comes with several additional custom UIs. To switch to one 
 
 There are several sources to download new User Interface packages, such as [qqui Calmethar](https://www.eqinterface.com/downloads/fileinfo.php?id=6959), [eqinterface.com](https://eqinterface.com/downloads/index.php?cid=115&dp=0&sh=full&so=desc&sb=lastupdate), or from [#ui-discussion](https://discord.com/channels/1133452007412334643/1162826324092657757). Just make sure to check the date and description for Zeal additions.
 
-#### How Do I install a Interface?
+#### How Do I install an Interface?
 
 1. Download your chosen interface.
 
@@ -758,7 +758,7 @@ If you have no mouse pointer after this more than likely the X,Y or the CX,CY va
 **A:** It's a Quarm bug. If you set the default channel on any other chat window, that isn't the 'Main' one, the setting will save between logging. [Source: Zephon](https://discord.com/channels/1133452007412334643/1214573430402322503/1220133660125167626)
 
 ### One of my UI windows is off screen and I can't move it?
-**A:** Your settings are saved in your [UI .ini file](#Duplicating-your-UI-Settings-for-New-Characters ) so there's a couple ways you can reset these values. You can edit the file yourself and change the coordinates of the specific UI element that is off screen, and then reload your UI. You could delete the file and the game will generate a new one upon next login. The simplest method is to simply reload your UI without using the file and tell EQ to reset all the windows. You can type /loadskin uiname without appending a 1 to the end, to have EQ load the UI without saving positions. Learn more [here](How-Do-i-install-a-Interface).
+**A:** Your settings are saved in your [UI .ini file](#Duplicating-your-UI-Settings-for-New-Characters ) so there's a couple ways you can reset these values. You can edit the file yourself and change the coordinates of the specific UI element that is off screen, and then reload your UI. You could delete the file and the game will generate a new one upon next login. The simplest method is to simply reload your UI without using the file and tell EQ to reset all the windows. You can type /loadskin uiname without appending a 1 to the end, to have EQ load the UI without saving positions. Learn more [here](#How-Do-i-install-a-Interface).
 
 ## Suggestions Feedback and Help
 
