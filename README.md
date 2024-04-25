@@ -449,6 +449,12 @@ These are new maps made to work with ZlizEQMap and you'll find your location and
 
 - https://www.project1999.com/forums/showthread.php?t=386944
 
+- Full Download https://drive.google.com/file/d/1pL1ZO3XK0YnD_R0vHnJXfM5tPvJ-oow5/view?usp=sharing
+- List of complete maps https://docs.google.com/document/d/1VJxxSNRf5iNO10NxSkjl3zRJMcdNfARie30ZRSPSF9I/edit?usp=sharing
+- About Keilly's Maps https://docs.google.com/document/d/1BR7wYrMjGYglFul0587bf5G08lQGsAGxQGn7_4hKuDw/edit?usp=sharing
+- Release Notes https://docs.google.com/document/d/10UuQP3bryrX8Sv5S0x9BH6hJttRCLtKWPy8riOgwRu8/edit?usp=sharing
+- How to use Keilly's Maps in ZlizEQMap https://docs.google.com/document/d/17lQBWhthpMA9JGI9GfKN2wCRlaR1a1HKEMyhJtrVnnQ/edit?usp=sharing
+
 #### EQ Tell Notifier
 
 Desktop notifications for tells received in game.
