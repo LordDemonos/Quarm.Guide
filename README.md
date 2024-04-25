@@ -163,7 +163,7 @@ It could also be caused when Directx 9c or a Visual C runtime is not installed. 
 
 - [Visual C 2015 runtime](https://www.microsoft.com/en-us/download/details.aspx?id=53587) - download the 32bit version
 - [Directx 9c](https://www.microsoft.com/en-us/download/details.aspx?id=8109)
-- Could also be that proper [AV exclusions](https://wiki.takp.info/index.php/Set_Windows_Defender_Exclusion_on_Windows_10) are not set.
+- Could also be that proper [antivirus exclusions](#prerequisite-2-required-excluding-your-takp-installation) are not set.
 
 #### Set Compatibility
 
