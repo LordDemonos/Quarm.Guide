@@ -18,8 +18,22 @@
 5. [Part 3: Installing Optional Textures and Effects](#part-3-installing-optional-textures-and-effects)
 6. [Part 4: Installing Optional 3rd Party Programs](#part-4-installing-optional-3rd-party-programs)
 7. [About Project Quarm](#about-project-quarm)
-8. [FAQ, Troubleshooting, and Obscure Situations](#faq-troubleshooting-and-obscure-situations)
-9. [Suggestions Feedback and Help](#suggestions-feedback-and-help)
+   - [About Project Quarm](#about-project-quarm)
+   - [Main Ruleset](#main-ruleset)
+   - [Optional Ruleset](#optional-ruleset)
+   - [Gameplay Changes](#gameplay-changes)
+   - [Timeline](#timeline)
+   - [Legacy Items](#legacy-items)
+   - [Private Guild Instances and Quakes](#private-guild-instances-and-quakes)
+   - [Planes](#planes)
+   - [Mule Accounts](#mule-accounts)
+   - [Elective Services Fees](#elective-services-fees)
+   - [Events](#events)
+   - [Server Downtime](#server-downtime)
+   - [IP Exemption](#ip-exemption)
+   - [Rules](#rules)
+9. [FAQ, Troubleshooting, and Obscure Situations](#faq-troubleshooting-and-obscure-situations)
+10. [Suggestions Feedback and Help](#suggestions-feedback-and-help)
 
 ## A Brief Introduction to Project Quarm
 
@@ -462,7 +476,7 @@ I don't use this with EQ but I need to mention it alongside Lossless Scaling. I 
 - One-Box Policy, enforced by IP & manual CSR intervention. [#petitions](https://discord.com/channels/1133452007412334643/1153470935421157396)
 - Era restrictions apply to prevent out-of-era mechanics. This is done selectively.
 - MGBs at level 1, and other 'TAKP-like' features are enabled selectively. For example, Monk AC is in its 'pre-nerf' state.
-- Selective Clientside Quality of Life - Mouse Wheel Camera, Buff Timers, Auto-Stand on Cast. Additional QOL have been added through [Zeal](#step-4-installing-zeal)
+- Selective Clientside Quality of Life - Mouse Wheel Camera, Buff Timers, Auto-Stand on Cast. Additional QOL have been added through [Zeal](#step-4-installing-zeal).
 
 ### Optional Self Imposed Rulesets
 
@@ -692,7 +706,7 @@ The following items are not traditionally legacy items in EverQuest, but have se
 - Glowing Black Stone (15) (Staying indefinitely)
 - Robe of the Oracle (25) (Staying Indefinitely - Changes to Standard in Kunark)
 
-### Private Guild Instances Are Available, Quakes Return!
+### Private Guild Instances and Quakes
 
 Due to overwhelming player feedback about casual accessibility, and my own intuition on the subject, we've overhauled how raid rotations work - by scrapping them and replacing them with private guild instances. Don't worry, competition is still available via an overhauled Earthquake system!
 
@@ -727,7 +741,7 @@ The current zones considered to be raid zones are:
 
 On an earthquake triggering, everyone in the zone is evacuated to the zone-in to ensure fair competition. If you wish to avoid the evac, position yourself outside of the zone. Earthquake timers are now visible to guild leaders and officers ahead of their trigger time. No more batphones. Typing '#showquake' will allow a guild officer or leader to view the next earthquake time. Earthquakes no longer have guild engage requirements due to the rule 9.x and 10.x suspension during the three hour period, and thus can be pickup grouped.
 
-### Planes and Guild Instanced Books
+### Planes
 
 #### The Plane of Fear, The Plane of Sky, and The Plane of Hate are all open! 
 
@@ -967,7 +981,7 @@ You can get ceremonially married again in the East Commonlands Tunnel! Doing so 
 
 As a reminder, this is also April 1st. Please expect shenanigans in the game world for a limited time. If you manage to find the 'pranks', know they are temporary for the event, and will be removed after the event. But I intend to fully cause at least ONE (1) prank. Maybe several. Who knows.
 
-#### Bloodied Kithicor - 04/XX/2024
+#### Bloodied Rivervale - 04/XX/2024
 
 #### King's Court Casino & Kerafyrm - Planes of Power Era [Source: Secrets](https://discord.com/channels/1133452007412334643/1137470588366115049/1137471362315857950)
 
