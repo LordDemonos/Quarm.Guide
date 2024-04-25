@@ -1006,55 +1006,41 @@ In order to make an IP exemption, make sure both accounts and characters have be
 
 ### Rules
 
-Rule 0: Actively antagonizing the management will result in whatever cruel breed of nonsense they feel like at the time.
-
-Rule 1: If you have to ask if you can do it or not, just don't do it. This will likely resolve all of the below rules, but just in case, they're left here for your discretion.
-
-Rule 2: AFK Killing, Healing or otherwise causing progression is not allowed.
-Rule 2.1: All forms of automation software are not allowed and will be actioned the same as rule 3.
-2.2 Bards are exempt from this rule when pulsing a utility or party beneficial song. Pulsing refers to the mechanic of letting a song play automatically through use of in-game mechanics. Detrimental bard songs are not exempt from Rule 2. If the spell causes progression directly against a hostile creature on pulse, causes damage passively against another creature on pulse, or prevents progression of other players (such as Song of Highsun), the song is considered to be a violation of this rule. In the case of a new song type being abused, Customer Support Representatives may enforce this rule selectively on cases they feel to be an egregious violation of the spirit of Rule 2.2.
-Rule 2.3: Melody is not exempt from Rule 2.2.
-
-Rule 3: Any form of cheating - be it active hacks, or passive hacks - are not tolerated. Any software hooking, reading memory from, or otherwise interacting with the game client is also NOT TOLERATED. Macroquest, ShowEQ, Cheat Engine, Debuggers, EQBC, ect WILL GET YOU BANNED!
-Rule 3.1: We may selectively approve third-party programs that modify, read memory, or interact with the game. Those allowed will be listed in [#server-files](https://discord.com/channels/1133452007412334643/1135981619858128998) .
-
-Rule 4: Multiboxing of any nature is not allowed for player characters.
-Rule 4.1: Multiboxing on accounts with IP exemptions will result in all accounts with that exemption getting banned without appeal.
-Rule 4.2: 'Mule' flagged accounts made with #makemule are not considered player characters and are exempt from Rule 4.0. However, you are limited to one mule per player. This is enforced by IP and CSR action will be taken as if it were a Rule 4.1 violation.
-
-Rule 5: We have a zero tolerance policy when it comes to hate speech. For clarification, this includes any form of discrimination - such as racism, sexism, sexualization of minors, xenophobia, theophobia, homophobia, transphobia, etc. 
-Rule 5.1: Death threats and suggesting self-harm, suicide and/or homicide are not allowed.
-Rule 5.2: Sexually explicit content and/or discussion is not allowed.
-Rule 5.3: Discussing fetishes and/or posting fetish or fetish-adjacent images is not allowed. 
-Rule 5.4: Lying to, harassing and/or deceiving any staff or contributor is not allowed.
-Rule 5.5: If it breaks the Discord TOS, it's not allowed on our discord.
-Rule 5.6: Discussing politics or religion is not allowed.
-
-Rule 6: Report exploits via Private Message ONLY to Management. Abusing unreported exploits is not allowed.
-
-Rule 7: Ping any staff member at your own risk. If it's important enough that it's necessary, so be it. This includes DMs, we have day jobs so unless the server is on fire it probably doesn't need to be a DM.
-
-Rule 8: Account sharing will result in the loss of the accounts ability to file petitions and appeals to staff decisions.
-Rule 8.1: Any Suspension or Ban directed at a shared account will also be applied to all accounts of users who have accessed that account recently.
-Rule 8.2: Ban or suspension evasion is a bannable offense.
-
-Rule 9: Ninja looting is not allowed. Ninja looting is defined as taking an item from a corpse in violation of any pre-agreed upon loot arrangement while the corpse is locked. If there was no looting agreement ahead of time it does not qualify as ninja looting. Items taken while a corpse is unlocked is not ninja looting.
-Rule 9.1: Kill stealing will not be tolerated. Kill Stealing is defined as the killing of an NPC for any reason that is already fighting or pursuing another player or group that is prepared to engage that same NPC without that group's specific permission.
-Rule 9.2: Player to player agreements outside the scope of rule 9 will not be enforced by staff.
-Rule 9.3: Intentional griefing and/or training is not allowed.
-
-Rule 10: Please respect raid and camp rules. Camp rules are listed in #⁠camp_rules. Raid rules are located in ⁠⁠[#raid-rules](https://discord.com/channels/1133452007412334643/1136033679882326106).
-
-Rule 11: This space is intentionally left blank.
-
-Rule 12: Zone monopolization is not allowed. This is subjective to the Project Quarm staff as to what they deem zone monopolization, but generally it includes not reasonably sharing NPC spawns in zones, or mass pulling zones where other experience groups are participating in content. Bards included.
-
-Rule 13: RMT is not allowed. RMT is defined as any sort of arrangement that involves any form of in-game resource, asset, item, character, guild or anything otherwise represented in the database being exchanged for anything not represented in the database. Soliciting RMT is not allowed. Facilitating RMT is not allowed. Discussing RMT is not allowed. Proxy forms of RMT such as casinos, giveaways of donated items, and trading items for outside of game services are not allowed. Joking about RMT is not allowed.
-Rule 13.1: DKP systems are generally considered exempt from Rule 13 so long as the DKP can only be acquired via in game activities.
-Rule 13.2: Providing game-related services in exchange for anything not represented in the database falls under the scope of Rule 13.
-Rule 13.3: Providing non-game related services in exchange for anything represented in the database falls under the scope of Rule 13.
-
-Rule 14: We don't allow discussion of actions taken against rule violators. Please do not discuss action taken against any players, including yourself for violations of these rules. Any violation appeals MUST be handled through the ⁠petitions channel.
+- Rule 0: Actively antagonizing the management will result in whatever cruel breed of nonsense they feel like at the time.
+- Rule 1: If you have to ask if you can do it or not, just don't do it. This will likely resolve all of the below rules, but just in case, they're left here for your discretion.
+- Rule 2: AFK Killing, Healing or otherwise causing progression is not allowed.
+- Rule 2.1: All forms of automation software are not allowed and will be actioned the same as rule 3.
+- Rule 2.2 Bards are exempt from this rule when pulsing a utility or party beneficial song. Pulsing refers to the mechanic of letting a song play automatically through use of in-game mechanics. Detrimental bard songs are not exempt from Rule 2. If the spell causes progression directly against a hostile creature on pulse, causes damage passively against another creature on pulse, or prevents progression of other players (such as Song of Highsun), the song is considered to be a violation of this rule. In the case of a new song type being abused, Customer Support Representatives may enforce this rule selectively on cases they feel to be an egregious violation of the spirit of Rule 2.2.
+- Rule 2.3: Melody is not exempt from Rule 2.2.
+- Rule 3: Any form of cheating - be it active hacks, or passive hacks - are not tolerated. Any software hooking, reading memory from, or otherwise interacting with the game client is also NOT TOLERATED. Macroquest, ShowEQ, Cheat Engine, Debuggers, EQBC, ect WILL GET YOU BANNED!
+- Rule 3.1: We may selectively approve third-party programs that modify, read memory, or interact with the game. Those allowed will be listed in [#server-files](https://discord.com/channels/1133452007412334643/1135981619858128998) .
+- Rule 4: Multiboxing of any nature is not allowed for player characters.
+- Rule 4.1: Multiboxing on accounts with IP exemptions will result in all accounts with that exemption getting banned without appeal.
+- Rule 4.2: 'Mule' flagged accounts made with #makemule are not considered player characters and are exempt from Rule 4.0. However, you are limited to one mule per player. This is enforced by IP and CSR action will be taken as if it were a Rule 4.1 violation.
+- Rule 5: We have a zero tolerance policy when it comes to hate speech. For clarification, this includes any form of discrimination - such as racism, sexism, sexualization of minors, xenophobia, theophobia, homophobia, transphobia, etc. 
+- Rule 5.1: Death threats and suggesting self-harm, suicide and/or homicide are not allowed.
+- Rule 5.2: Sexually explicit content and/or discussion is not allowed.
+- Rule 5.3: Discussing fetishes and/or posting fetish or fetish-adjacent images is not allowed. 
+- Rule 5.4: Lying to, harassing and/or deceiving any staff or contributor is not allowed.
+- Rule 5.5: If it breaks the Discord TOS, it's not allowed on our discord.
+- Rule 5.6: Discussing politics or religion is not allowed.
+- Rule 6: Report exploits via Private Message ONLY to Management. Abusing unreported exploits is not allowed.
+- Rule 7: Ping any staff member at your own risk. If it's important enough that it's necessary, so be it. This includes DMs, we have day jobs so unless the server is on fire it probably doesn't need to be a DM.
+- Rule 8: Account sharing will result in the loss of the accounts ability to file petitions and appeals to staff decisions.
+- Rule 8.1: Any Suspension or Ban directed at a shared account will also be applied to all accounts of users who have accessed that account recently.
+- Rule 8.2: Ban or suspension evasion is a bannable offense.
+- Rule 9: Ninja looting is not allowed. Ninja looting is defined as taking an item from a corpse in violation of any pre-agreed upon loot arrangement while the corpse is locked. If there was no looting agreement ahead of time it does not qualify as ninja looting. Items taken while a corpse is unlocked is not ninja looting.
+- Rule 9.1: Kill stealing will not be tolerated. Kill Stealing is defined as the killing of an NPC for any reason that is already fighting or pursuing another player or group that is prepared to engage that same NPC without that group's specific permission.
+- Rule 9.2: Player to player agreements outside the scope of rule 9 will not be enforced by staff.
+- Rule 9.3: Intentional griefing and/or training is not allowed.
+- Rule 10: Please respect raid and camp rules. Camp rules are listed in #⁠camp_rules. Raid rules are located in ⁠⁠[#raid-rules](https://discord.com/channels/1133452007412334643/1136033679882326106).
+- Rule 11: This space is intentionally left blank.
+- Rule 12: Zone monopolization is not allowed. This is subjective to the Project Quarm staff as to what they deem zone monopolization, but generally it includes not reasonably sharing NPC spawns in zones, or mass pulling zones where other experience groups are participating in content. Bards included.
+- Rule 13: RMT is not allowed. RMT is defined as any sort of arrangement that involves any form of in-game resource, asset, item, character, guild or anything otherwise represented in the database being exchanged for anything not represented in the database. Soliciting RMT is not allowed. Facilitating RMT is not allowed. Discussing RMT is not allowed. Proxy forms of RMT such as casinos, giveaways of donated items, and trading items for outside of game services are not allowed. Joking about RMT is not allowed.
+- Rule 13.1: DKP systems are generally considered exempt from Rule 13 so long as the DKP can only be acquired via in game activities.
+- Rule 13.2: Providing game-related services in exchange for anything not represented in the database falls under the scope of Rule 13.
+- Rule 13.3: Providing non-game related services in exchange for anything represented in the database falls under the scope of Rule 13.
+- Rule 14: We don't allow discussion of actions taken against rule violators. Please do not discuss action taken against any players, including yourself for violations of these rules. Any violation appeals MUST be handled through the ⁠petitions channel.
 
 
 ## FAQ, Troubleshooting, and Obscure Situations
