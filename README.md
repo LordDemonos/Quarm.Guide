@@ -61,9 +61,9 @@ Before you can download and install the game, you'll need to create an account o
 3. Click "Create Login Server Account" and create a game account.
 
 ### Step 2: Download the Game Client
-1. Visit the Getting Started page on the TAKP wiki: [Getting Started](https://wiki.takp.info/index.php?title=Getting_Started)
-2. Click on the "Getting Started with Windows" section.
-3. Download the recommended 2.2 client [here](https://drive.google.com/file/d/1qoBktDeJMJKPBr-EZxub1vspJhz11i1y).
+1. Visit the Getting Started page on the TAKP wiki [Getting Started](https://wiki.takp.info/index.php?title=Getting_Started)
+2. Click on the [Getting Started with Windows](https://wiki.takp.info/index.php/Getting_Started_on_Windows) section.
+3. Download the recommended 2.2 client [Download Here](https://drive.google.com/file/d/1qoBktDeJMJKPBr-EZxub1vspJhz11i1y).
 
 ### Step 3: Converting your TAKP client to Quarm
 1. Join the [Project Quarm Discord](https://discord.gg/3nDQ9AkUz8).
@@ -71,8 +71,6 @@ Before you can download and install the game, you'll need to create an account o
 3. Download the `eqgame.dll` file from the following message [#server-files](https://discord.com/channels/1133452007412334643/1135981619858128998/1170491429253034047). This is the latest stable release.
    An experimental release of `eqgame.dll` can be found under [#zeal-discussions](https://discord.com/channels/1133452007412334643/1210670176077348934/1227704216655761499).
 5. Extract the `eqgame.dll` file to your TAKP folder (where you installed the game client).
-
-#### Source: [LevelUpLarry](https://www.youtube.com/watch?v=u83_FICd97c)
 
 ### Step 4: Installing Zeal
 
