@@ -1,4 +1,4 @@
-# EverQuest Project Quarm Getting Started Guide (Updated: April 25, 2024)
+# EverQuest Project Quarm Getting Started Guide (Updated: April 26, 2024)
 ##### By Xanax/Xantagonist < Former Glory >
 
 ## Table of Contents
@@ -1166,10 +1166,10 @@ The current zones considered to be raid zones are:
 ### How do I change my resolution?
 **A:** In your `eqclient.ini` you can find the [VideoMode] section. Change this to match your desktop's settings. 
 
-`[VideoMode] 
-Width=1920
-Height=1080
-(match your display settings with the proper height and width prior to launching the game)`
+- [VideoMode] 
+- Width=1920
+- Height=1080
+- (match your display settings with the proper height and width prior to launching the game)
 
 ### How do I run the game full screen?
 **A:** You want to run the game in windowed mode first. In your `eqclient.ini` set this option `WindowedMode=TRUE`. Find [VideoMode] and set it to your desired resolution. When you are logged into EverQuest, press SHIFT + Enter to switch between windowed and fullscreen modes. If you are still having problems, see the 3rd party programs section for LosslessScaling.
