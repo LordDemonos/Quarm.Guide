@@ -63,7 +63,7 @@ Before you can download and install the game, you'll need to create an account o
 ### Step 2: Download the Game Client
 1. Visit the Getting Started page on the TAKP wiki: [Getting Started](https://wiki.takp.info/index.php?title=Getting_Started)
 2. Click on the "Getting Started with Windows" section.
-3. Download the stable 2.1 version of the game client [here](https://www.dropbox.com/s/bppy4ebt7vl7hwk/TAKP%20PC%20V2.1c.zip?dl=0), or use the latest 2.2 version [here](https://drive.google.com/file/d/1qoBktDeJMJKPBr-EZxub1vspJhz11i1y).
+3. Download the recommended 2.2 client [here](https://drive.google.com/file/d/1qoBktDeJMJKPBr-EZxub1vspJhz11i1y).
 
 ### Step 3: Converting your TAKP client to Quarm
 1. Join the [Project Quarm Discord](https://discord.gg/3nDQ9AkUz8).
@@ -200,7 +200,7 @@ Under Compatibility, select "Run this program in compatibility mode for Windows 
 
 I wrote this guide because half of my guild seems to crash when they zone in and out of the planes. Everyone is on different pieces and versions of this game. Meanwhile I've thrown most of this guide into 3 different game folders and they all work well, only crashing occasionally when I drop to character select, or if I change my audio output source. Here's what I'm using:
 
-1. 2.1 version of TAKP was recommended back in October and I've stuck with it. Its listed as Stable, not Latest.
+1. 2.2 version of TAKP.
 2. Secrets's experimental .dll from zeal-discussions.
 3. Excluded TAKP folder from antivirus scanning.
 4. Always running the latest Zeal unless it contains a specific bug I want to avoid. Always keep previous versions backed up.
@@ -209,7 +209,7 @@ I wrote this guide because half of my guild seems to crash when they zone in and
 7. Running program in compatibility mode for Windows XP (Service Pack 2).
 8. Also running several muted sound files, EQ Basic 1.1, KaichoFX Spell Effects, and the game looks absolutely amazing!
 
-If you ask me, the first 3 are the biggest contributors to stability. A lot of people seem to need the dgVoodoo fix though, especially if they have integrated graphics, so thats also important. Hopefully we can lessen these crashes and work towards fixing the rest over time.
+If you ask me, 2 & 3 are the biggest contributors to stability. A lot of people seem to need the dgVoodoo fix though, especially if they have integrated graphics, so thats also important. Hopefully we can lessen these crashes and work towards fixing the rest over time.
 
 ## Part 2: After Installing the Main Game
 
