@@ -45,7 +45,9 @@ If you want to learn more about Project Quarm specific features and rules, head 
 
 ## Part 1: Installing the Main Game
 
-#### Backup Warning - Anytime you change something or overwrite a file, backup that file, backup the whole TAKP folder if you want. It's easy and fast and I'm not going to remind you to backup files after every step. - Backup Warning
+#### Important Backup Reminder
+
+Whenever you make changes or overwrite files, it's crucial to create backups to prevent data loss. We strongly recommend backing up the entire TAKP folder or any modified files before proceeding with any alterations. Creating backups is a quick and easy process that can save you from potential headaches down the line. While we won't remind you to back up files after every step, it's a best practice to develop a habit of regularly backing up your data.
 
 ### Step 1: Create a TAKP Forum Account
 Before you can download and install the game, you'll need to create an account on the TAKP forums.
