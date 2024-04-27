@@ -191,14 +191,14 @@ It could also be caused when Directx 9c or a Visual C runtime is not installed. 
 - [Directx 9c](https://www.microsoft.com/en-us/download/details.aspx?id=8109)
 - Could also be that proper [antivirus exclusions](#prerequisite-2-required-excluding-your-takp-installation) are not set.
 
-### Step 7: Launch the game
-
-Run the eqgame.exe to launch the game.
-
 #### Set Compatibility
 
 Navigate to your TAKP folder and find `eqgame.exe`. Right click and select Properties. 
 Under Compatibility, select "Run this program in compatibility mode for Windows XP (Service Pack 2)". 
+
+### Step 7: Launch the game
+
+Run the eqgame.exe to launch the game.
 
 ### Xanax's Checklist for Minimal Crashes
 
