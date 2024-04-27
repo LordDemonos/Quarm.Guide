@@ -64,6 +64,7 @@ Before you can download and install the game, you'll need to create an account o
 1. Visit the Getting Started page on the TAKP wiki [Getting Started](https://wiki.takp.info/index.php?title=Getting_Started)
 2. Click on the [Getting Started with Windows](https://wiki.takp.info/index.php/Getting_Started_on_Windows) section.
 3. Download the recommended 2.2 client [Download Here](https://drive.google.com/file/d/1qoBktDeJMJKPBr-EZxub1vspJhz11i1y).
+4. Unzip the client zip into its own folder on the root of your C drive (or other drive letter), do not put this under under the \Program Files or \Program Files (x86) folders. Run the eqgame.exe to launch the game. 
 
 ### Step 3: Converting your TAKP client to Quarm
 1. Join the [Project Quarm Discord](https://discord.gg/3nDQ9AkUz8).
