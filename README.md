@@ -225,53 +225,67 @@ In Windows, the `eqclient.ini` is located within your EverQuest directory, where
 
 Some commonly changed settings include:
 
-- WindowedMode=TRUE/FALSE - This line must be typed out at the top but below [Defaults].
-- NewUI=TRUE/FALSE - Our client still has the old pre-Luclin UI for nostalgia mode.
-- Log=TRUE/FALSE - Setting this true will automatically turn your log file on when entering the game.
-- CombatMusic=TRUE/FALSE - Enable or disable melee combat music.
+- WindowedMode=TRUE/FALSE - This line must be typed out at the top but below [Defaults]. **Recommended set to FALSE**
+- NewUI=TRUE/FALSE - Our client still has the old pre-Luclin UI for nostalgia mode. **Recommended set to TRUE**
+- Log=TRUE/FALSE - Setting this true will automatically turn your log file on when entering the game. **Set to FALSE by default. Still seems to create chat logs though.**
+- CombatMusic=TRUE/FALSE - Enable or disable melee combat music. **Recommended set to FALSE**
 - ChannelAutoJoin=alliance - The Alliance channel is used as the global chat channel for the server.
-- TargetGroupBuff=1 - This will allow you to buff groups with group buff spells from outside the group by targeting a member of the group.
-- AttackOnAssist=FALSE - This will allow you to assist another player without automatically enabling auto attack.
+- ChatKeepAlive=1 - Keeps the above chat channel from disconnecting by periodically sending communciatin to it.
+- TargetGroupBuff=1 - This will allow you to buff groups with group buff spells from outside the group by targeting a member of the group. **Default set to 1**
+- AttackOnAssist=FALSE - This will allow you to assist another player without automatically enabling auto attack. 
 - MaxFPS= - This is the framerate you limit the foreground client window to. If this is set too high, it may consume too many system resources. Typically 60 is a good number to start with and adjust if necessary. A setting of 0 disables the limit.
 - MaxBGFPS= - This is the framerate you limit the background client windows to. You don't want this too low, since it will affect autofollow ability. But, if you have it too high, it may consume too many system resources. 60 is typically good. A setting of 0 disables the limit.
 - MouseRightHanded=1 - Switches mouse button orientation.
 - MaxMouseLookFPS= - Allows you to set the mouselook FPS to help with mouselook slowness. If your mouselook is too slow, try adjusting this to 60 or 45. A setting of 0 disables the limit.
 - AllLuclinPcModelsOff=TRUE - This disables Luclin models. This also allows use of the famous horse bug that existed on AK where you don't have the limitations of horse speed up/down that you do with Luclin models on.
+- UISkin= - Sets your default UI skin. **I changed this value and it did nothing. Change in game.**
 - [VideoMode]:
 
-`Width=1920
-Height=1080
-(match your display settings with the proper height and width prior to launching the game)`
+- Width=1920
+- Height=1080
+- RefreshRate=60
+- (match your display settings with the proper height and width prior to launching the game)`
 
 - Velious armor textures:
 
-`LoadVeliousArmorsWithLuclin=TRUE
-LoadArmor17=TRUE
-LoadArmor18=TRUE
-LoadArmor19=TRUE
-LoadArmor20=TRUE
-LoadArmor21=TRUE
-LoadArmor22=TRUE
-LoadArmor23=TRUE`
+- AllLuclinPcModelsOff=FALSE - Default to this, but the next value actually disabled them.
+- LoadVeliousArmorsWithLuclin=TRUE
+- LoadArmor17=TRUE
+- LoadArmor18=TRUE
+- LoadArmor19=TRUE
+- LoadArmor20=TRUE
+- LoadArmor21=TRUE
+- LoadArmor22=TRUE
+- LoadArmor23=TRUE
 
 Velious armor textures are not enabled by default as they can cause an issue with Vah Shir armor not displaying. Most players would probably prefer them on however. [Source: wiki.takp](https://wiki.takp.info/index.php/Getting_Started_on_Windows)
 
-There are some other flags that seem to be unique to Project Quarm [Source: #tech-help](https://discord.com/channels/1133452007412334643/1133453502182596729/1177702642173087864).
+There are some other flags that seem to be unique to Project Quarm [Source: #tech-help](https://discord.com/channels/1133452007412334643/1133453502182596729/1177702642173087864). Some of these will only appear if you're using the latest .dll and only after logging into the game once. 
 
-- `EnableBrownSkeletonHack=FALSE` - We had problems getting the correct skeleton models at first and some people like the brown ones. You can set this to TRUE or you can go find skeleton model replacements under Part 3. 
-- `EnableExtendedNameplateDistance=TRUE` - Added after the 10/8/2023 .dll update that extended the nameplate distance.
-- `EnableClassicMusic=FALSE` - Changes the music from old to new.
+- [Options]
+- MaxFPS=60 - These are similar to the ones above. Your goal is to set them as high as you can to match your display's refresh rate.
+- MaxBGFPS=60
+- MaxMouseLookFPS=60
+- WindowedMode=TRUE
+- MouseRightHanded=1
+- NoFPSLimiter=0 - **This option will only work with the very latest experiemental .dll and this is half the fix for the 3rd person stutters you previously experienced in older versions of Quarm. SET TO 0**
+
+- EnableBrownSkeletonHack=FALSE - We had problems getting the correct skeleton models at first and some people like the brown ones. You can set this to TRUE or you can go find skeleton model replacements under Part 3. 
+- EnableExtendedNameplateDistance=TRUE - Added after the 10/8/2023 .dll update that extended the nameplate distance.
+- EnableClassicMusic=FALSE - Changes the music from old to new.
 
 Zeal also has a number of `eqclient.ini` values that are saved here and this list will likely grow over time. 
 
 - MouseSmoothing=TRUE - This fixes the jittery 3rd person camera movement that is exclusive to the TAKP client. The mouse sensitivity values below are all extensions of this. Make sure they're never set to 0 or else your camera will not move on that axis.
 - MouseSensitivityX=0.300000
 - MouseSensitivityY=0.300000
+- Fov=45.000000
 - ChatTimestamps=TRUE - Zeal feature that adds chat timestamps in HH:MM:SS. 
 - MouseSensitivityX3rd=0.300000
 - MouseSensitivityY3rd=0.300000
 - Camera3StrafeEnabled=TRUE 
 - Camera4StrafeEnabled=TRUE
+- PanDelay=20
 - CycleToZealCamEnabled=TRUE
 - Bluecon=TRUE - When a mob cons dark blue the text is difficult to read on a black background. This will add a new value to the Options - Color tab with a value of 70.
 - ZealInput=TRUE - toggles the zeal input setup for any input in game, giving you a more modern input (ctrl+c, ctrl+v, left, right, shift left+right for highlighting, home, end ect).
