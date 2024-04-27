@@ -10,6 +10,7 @@
     - [Step 4: Installing Zeal](#step-4-installing-zeal)
     - [Step 5: dgVoodoo2](#step-5-dgvoodoo2)
     - [Step 6: Issues Running the Game](#step-6-issues-running-the-game)
+    - [Step 7: Launch the Game](#step-7-launch-the-game)
 3. [Xanax's Checklist for Minimal Crashes](#xanaxs-checklist-for-minimal-crashes)
 4. [Part 2: After Installing the Main Game](#part-2-after-installing-the-main-game)
     - [Step 1: Understanding your EQClient.ini](#step-1-understanding-your-eqclientini)
@@ -64,7 +65,7 @@ Before you can download and install the game, you'll need to create an account o
 1. Visit the Getting Started page on the TAKP wiki [Getting Started](https://wiki.takp.info/index.php?title=Getting_Started)
 2. Click on the [Getting Started with Windows](https://wiki.takp.info/index.php/Getting_Started_on_Windows) section.
 3. Download the recommended 2.2 client [Download Here](https://drive.google.com/file/d/1qoBktDeJMJKPBr-EZxub1vspJhz11i1y).
-4. Unzip the client zip into its own folder on the root of your C drive (or other drive letter), do not put this under under the \Program Files or \Program Files (x86) folders. Run the eqgame.exe to launch the game. 
+4. Unzip the client zip into its own folder on the root of your C drive (or other drive letter), do not put this under under the \Program Files or \Program Files (x86) folders. 
 
 ### Step 3: Converting your TAKP client to Quarm
 1. Join the [Project Quarm Discord](https://discord.gg/3nDQ9AkUz8).
@@ -189,6 +190,10 @@ It could also be caused when Directx 9c or a Visual C runtime is not installed. 
 - [Visual C 2015 runtime](https://www.microsoft.com/en-us/download/details.aspx?id=53587) - download the 32bit version
 - [Directx 9c](https://www.microsoft.com/en-us/download/details.aspx?id=8109)
 - Could also be that proper [antivirus exclusions](#prerequisite-2-required-excluding-your-takp-installation) are not set.
+
+### Step 7: Launch the game
+
+Run the eqgame.exe to launch the game.
 
 #### Set Compatibility
 
