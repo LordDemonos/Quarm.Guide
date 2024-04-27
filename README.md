@@ -159,7 +159,7 @@ If you are already using a custom user interface, you can determine which UI ele
 
 [dgVoodoo2](http://dege.freeweb.hu/dgVoodoo2/dgVoodoo2/) is a set of implementations of old graphics APIs for Windows 7 and later versions. If you are still having problems with intermittent game crashes, this may help.
 
-1. Download the latest version [here](http://dege.freeweb.hu/dgVoodoo2/dgVoodoo2/). Open the zip file and extract only dgVoodooCpl to the root of your TAKP folder.
+1. Download the latest version [here](http://dege.freeweb.hu/dgVoodoo2/dgVoodoo2/). Open the zip file and extract only dgVoodooCpl.exe to the root of your TAKP folder.
 2. For Windows, inside the zip file, under /MS/x86/ copy all four .dll files to the root of your TAKP folder, overwriting any older files found.
 
     `D3D8.dll` `D3D9.dll` `D3Dlmm.dll` `DDraw.dll`
