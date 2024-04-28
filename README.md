@@ -7,7 +7,7 @@
     - [Step 1: Create a TAKP Forum Account](#step-1-create-a-takp-forum-account)
     - [Step 2: Download the Game Client](#step-2-download-the-game-client)
     - [Step 3: Converting your TAKP client to Quarm](#step-3-converting-your-takp-client-to-quarm)
-    - [Step 4: Installing Zeal](#step-4-installing-zeal)
+    - [Step 4: Installing Zeal](#step-4-installing-zeal-)
     - [Step 5: dgVoodoo2](#step-5-dgvoodoo2)
     - [Step 6: Issues Running the Game](#step-6-issues-running-the-game)
     - [Step 7: Launch the Game](#step-7-launch-the-game)
