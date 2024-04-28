@@ -86,6 +86,8 @@ Make sure `Sound=TRUE` is listed in your `eqclient.ini`. Zeal uses the EverQuest
 #### Prerequisite 2. (Required) Excluding your TAKP Installation
 Excluding your TAKP installation from being scanned by your antivirus software can also help reduce load times, zoning times, and eliminates stuttering when opening your bags. This is highly recommended and is a prerequisite for downloading Zeal, as explained below.
 
+There are two methods to excluding your TAKP installation, manually or using a Powershell command. 
+
 ##### Windows 10
 
  Instructions for performing the above through Windows Settings panel:
@@ -119,6 +121,8 @@ Excluding your TAKP installation from being scanned by your antivirus software c
 - Select the folder that you currently have (or intend to have) the TAKP files extracted into and run from when you play.
 
 ##### Powershell
+
+(Optional Method)
 
 Open administrative PowerShell and type in the below, replace the C:\TAKPv22 folder path with where you unzipped the game files.
 
