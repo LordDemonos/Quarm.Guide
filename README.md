@@ -542,6 +542,8 @@ I was hesitant to make a list as they seem to pop up and go stagnant pretty quic
 
 ## About Project Quarm ![Secrets](/img/Secrets.jpg)
 
+[Follow SecretsPast on Twitch](https://www.twitch.tv/secretspast)
+
 ### Main Ruleset
 
 - Time-Locked Progression Server - 9 Months of Classic, 9 Months of Kunark, 9 Months of Velious, 9 Months of Luclin, Planes of Power final expansion.
