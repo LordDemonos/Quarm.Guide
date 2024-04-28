@@ -271,7 +271,7 @@ Some commonly changed settings include:
 
 - Velious armor textures:
 
-- AllLuclinPcModelsOff=FALSE - Default to this, but the next value actually disabled them.
+- AllLuclinPcModelsOff=FALSE
 - LoadVeliousArmorsWithLuclin=TRUE
 - LoadArmor17=TRUE
 - LoadArmor18=TRUE
