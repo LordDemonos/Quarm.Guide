@@ -335,7 +335,7 @@ There are several sources to download new User Interface packages, such as [qqui
 
 4. Unzip all of the files from your download into the folder "BARD"
 
-5. Login to EverQuest. In game, type `/loadskin BARD`. This will select the BARD UI and load it. The screen will look like your zoning for a moment, then load your new UI modifications. Typing `/loadskin BARD 1`, the 1 is optional-- it will keep your current window positions.
+5. Login to EverQuest. In game, type `/loadskin BARD`. This will select the BARD UI and load it. The screen will look like your zoning for a moment, then load your new UI modifications. Typing `/loadskin BARD 1`, the 1 is optional-- it will keep your current window positions. Press ALT + O to open the options menu. Navigate to Genearal and select Load UI Skin. Select `BARD` for now and click Load Skin.  
 
 *The default folder CAN NOT be altered in any way. Any changes made to this folder are overwritten  at start up of the game.
 
