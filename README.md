@@ -430,9 +430,9 @@ To install KaichoFX, download the zip file from the above link. Rename your curr
 This link provides edited sound files to change the volumes of certain annoying sounds like rain and wind/snow. Scroll down to locate khanable's post.
 
 - [TAK Project Forum Link](https://www.takproject.net/forums/index.php?threads%2Fwindows-10-ambient-noise-too-loud.8234%2F)
-- [EMT_0% Volume](https://www.dropbox.com/s/wv4i1sme0uxb422/EMT_0%.zip?dl=0) (set to 0.0 - music works, NO environment sounds)
-- [EMT_25% Volume](https://www.dropbox.com/s/lz853tlc3of4xt5/EMT_25%.zip?dl=0) (set to 0.25 - music works, 25% volume on environment sounds)
-- [EMT_50% Volume](https://www.dropbox.com/s/nn5f4elgdbpc07c/EMT_50%.zip?dl=0) (set to 0.50 - music works, 50% volume on environment sounds)
+- [EMT_0% Volume](https://www.dropbox.com/s/wv4i1sme0uxb422/EMT_0%25.zip?dl=0) (set to 0.0 - music works, NO environment sounds)
+- [EMT_25% Volume](https://www.dropbox.com/s/lz853tlc3of4xt5/EMT_25%25.zip?dl=0)) (set to 0.25 - music works, 25% volume on environment sounds)
+- [EMT_50% Volume](https://www.dropbox.com/s/nn5f4elgdbpc07c/EMT_50%25.zip?dl=0)) (set to 0.50 - music works, 50% volume on environment sounds)
 
 To install, open your TAKP folder, sort by type. Locate all the EMT files. Move them into a folder to have a backup. Extract the .zip file into your TAKP directory. Log out/back in.
 
