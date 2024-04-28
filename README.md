@@ -244,7 +244,7 @@ I wrote this guide because half of my guild seems to crash when they zone in and
 
 If you ask me, 2 & 3 are the biggest contributors to stability. A lot of people seem to need the dgVoodoo fix though, especially if they have integrated graphics, so thats also important. Hopefully we can lessen these crashes and work towards fixing the rest over time.
 
-## Part 2: After Installing the Main Game - [Video Guide for Part 2&3 HERE](https://www.youtube.com/watch?v=tmU_5kBZbu8)
+## Part 2: After Installing the Main Game <br> [Video Guide for Part 2&3 HERE](https://www.youtube.com/watch?v=tmU_5kBZbu8)
 
 ### Step 1: Understanding your EQClient.ini
 
@@ -386,7 +386,7 @@ Once created, you can even right click your spellbook to choose one of your spel
 
 Screenshots can be taken by pressing PRINT SCREEN within the game, and can be changed within the Options. These are saved in your TAKP folder as `EQ000001.bmp` for example. 
 
-## Part 3: Installing Optional Textures and Effects - [Video Guide for Part 2&3 HERE](https://www.youtube.com/watch?v=tmU_5kBZbu8)
+## Part 3: Installing Optional Textures and Effects <br> [Video Guide for Part 2&3 HERE](https://www.youtube.com/watch?v=tmU_5kBZbu8)
 
 You can install various texture packs and visual effects to enhance the game's appearance.
 
