@@ -198,7 +198,31 @@ Under Compatibility, select "Run this program in compatibility mode for Windows 
 
 ### Step 7: Launch the game
 
-Run the eqgame.exe to launch the game.
+Run the `eqgame.exe` to launch the game. Click through the next few pages. You can choose to click on or off the luclin models here which is easier than changing it in your `eqclient.ini`. I do not recommend changing anything on the final screen though. 
+
+![first1](/img//step7/first1.png)![first2](/img//step7/first2.png)![first3](/img//step7/first3.png)![first4](/img/step7/first4.png)
+
+Once you are at the login screen, exit back out of the game and close it. In your TAKP folder, open your `eqclient.ini` and change the following settings.
+
+- AttacOnAssist=FALSE (Optional, but Recommended)
+- CombatMusic=FALSE (Unless you prefer immersion)
+- EnableExtendedNameplateDistance=TRUE (Mandatory to see nameplates further than you can throw)
+- [VideoMode]
+- Width=1920
+- Height=1080
+- [Options]
+- MaxBGFPS=60
+- NoFPSLimiter=0 - **This option will only work with the very latest experiemental .dll and this is half the fix for the 3rd person stutters you previously experienced in older versions of Quarm. SET TO 0**
+
+You can now run `eqgame.exe` again and log into the game. Once you log into your character, you will be looking at the default "NewUI". Press ALT + O to open the options menu. Navigate to Genearal and select Load UI Skin. Select `duxaUI` for now and click Load Skin. This will allow you to open options again with ALT + O and modify the new Zeal settings as well. 
+
+![loadui](/img/step7/loadui.png)
+
+Below are some recommended Zeal specific changes you should consider before you start your adventure. 
+
+![zeal1](/img/step7/zeal1.png)![zeal2](/img/step7/zeal2.png)![zeal3](/img/step7/zeal3png)![zeal4](/img/step7/zeal4.png)![zeal5](/img/step7/zeal5.png)
+
+Ths concludes part 1 of the guide.
 
 ### Xanax's Checklist for Minimal Crashes
 
@@ -239,8 +263,7 @@ Some commonly changed settings include:
 - MaxMouseLookFPS= - Allows you to set the mouselook FPS to help with mouselook slowness. If your mouselook is too slow, try adjusting this to 60 or 45. A setting of 0 disables the limit.
 - AllLuclinPcModelsOff=TRUE - This disables Luclin models. This also allows use of the famous horse bug that existed on AK where you don't have the limitations of horse speed up/down that you do with Luclin models on.
 - UISkin= - Sets your default UI skin. **I changed this value and it did nothing. Change in game.**
-- [VideoMode]:
-
+- [VideoMode]
 - Width=1920
 - Height=1080
 - RefreshRate=60
