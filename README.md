@@ -12,10 +12,10 @@
     - [Step 6: Issues Running the Game](#step-6-issues-running-the-game)
     - [Step 7: Launch the Game](#step-7-launch-the-game)
 3. [Xanax's Checklist for Minimal Crashes](#xanaxs-checklist-for-minimal-crashes)
-4. [Part 2: After Installing the Main Game](#part-2-after-installing-the-main-game)
+4. [Part 2: After Installing the Main Game](#part-2-after-installing-the-main-game---video-guide-for-part-2&3-here)
     - [Step 1: Understanding your EQClient.ini](#step-1-understanding-your-eqclientini)
     - [Step 2: Controlling your User Interface](#step-2-controlling-your-user-interface)
-    - [Step 3: Characters, Logs, Spell Sets, and Screenshots](#step-3-characters-logs-spell-sets-and-screenshots)
+    - [Step 3: Characters, Logs, Spell Sets, and Screenshots](#step-3-characters-logs-spell-sets-and-screenshots---video-guide-for-part-2&3-here)
 5. [Part 3: Installing Optional Textures and Effects](#part-3-installing-optional-textures-and-effects)
 6. [Part 4: Installing Optional 3rd Party Programs](#part-4-installing-optional-3rd-party-programs)
 7. [Part 5: Third Party Websites](#part-5-third-party-websites)
@@ -244,7 +244,7 @@ I wrote this guide because half of my guild seems to crash when they zone in and
 
 If you ask me, 2 & 3 are the biggest contributors to stability. A lot of people seem to need the dgVoodoo fix though, especially if they have integrated graphics, so thats also important. Hopefully we can lessen these crashes and work towards fixing the rest over time.
 
-## Part 2: After Installing the Main Game
+## Part 2: After Installing the Main Game - [Video Guide for Part 2&3 HERE](https://www.youtube.com/watch?v=tmU_5kBZbu8)
 
 ### Step 1: Understanding your EQClient.ini
 
@@ -358,7 +358,7 @@ Inevitably you'll create multiple characters during your time on Project Quarm. 
 
 `UI_Xanax_pq.proj.ini` Copy, Paste `UI_Xanax_pq.proj - Copy.ini` rename to `UI_Xantagonist_pq.proj.ini`
 
-### Step 3: Characters, Logs, Spell Sets, and Screenshots
+### Step 3: Characters, Logs, Spell Sets, and Screenshots - [Video Guide for Part 2&3 HERE](https://www.youtube.com/watch?v=tmU_5kBZbu8)
 
 #### Character ini for Friends Abilities Socials and Macro Settings
 
