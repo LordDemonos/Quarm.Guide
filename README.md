@@ -220,7 +220,7 @@ You can now run `eqgame.exe` again and log into the game. Once you log into your
 
 Below are some recommended Zeal specific changes you should consider before you start your adventure. 
 
-![zeal1](/img/step7/zeal1.png)![zeal2](/img/step7/zeal2.png)![zeal3](/img/step7/zeal3png)![zeal4](/img/step7/zeal4.png)![zeal5](/img/step7/zeal5.png)
+![zeal1](/img/step7/zeal1.png)![zeal2](/img/step7/zeal2.png)![zeal3](/img/step7/zeal3.png)![zeal4](/img/step7/zeal4.png)![zeal5](/img/step7/zeal5.png)
 
 Ths concludes part 1 of the guide.
 
