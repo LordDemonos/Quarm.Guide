@@ -15,8 +15,8 @@
 4. [Part 2: After Installing the Main Game](#part-2-after-installing-the-main-game---video-guide-for-part-23-here)
     - [Step 1: Understanding your EQClient.ini](#step-1-understanding-your-eqclientini)
     - [Step 2: Controlling your User Interface](#step-2-controlling-your-user-interface)
-    - [Step 3: Characters, Logs, Spell Sets, and Screenshots](#step-3-characters-logs-spell-sets-and-screenshots---video-guide-for-part-23-here)
-5. [Part 3: Installing Optional Textures and Effects](#part-3-installing-optional-textures-and-effects)
+    - [Step 3: Characters, Logs, Spell Sets, and Screenshots](#step-3-characters-logs-spell-sets-and-screenshots)
+5. [Part 3: Installing Optional Textures and Effects](#part-3-installing-optional-textures-and-effects---video-guide-for-part-23-here)
 6. [Part 4: Installing Optional 3rd Party Programs](#part-4-installing-optional-3rd-party-programs)
 7. [Part 5: Third Party Websites](#part-5-third-party-websites)
 8. [About Project Quarm](#about-project-quarm-)
@@ -358,7 +358,7 @@ Inevitably you'll create multiple characters during your time on Project Quarm. 
 
 `UI_Xanax_pq.proj.ini` Copy, Paste `UI_Xanax_pq.proj - Copy.ini` rename to `UI_Xantagonist_pq.proj.ini`
 
-### Step 3: Characters, Logs, Spell Sets, and Screenshots - [Video Guide for Part 2&3 HERE](https://www.youtube.com/watch?v=tmU_5kBZbu8)
+### Step 3: Characters, Logs, Spell Sets, and Screenshots
 
 #### Character ini for Friends Abilities Socials and Macro Settings
 
@@ -386,7 +386,7 @@ Once created, you can even right click your spellbook to choose one of your spel
 
 Screenshots can be taken by pressing PRINT SCREEN within the game, and can be changed within the Options. These are saved in your TAKP folder as `EQ000001.bmp` for example. 
 
-## Part 3: Installing Optional Textures and Effects
+## Part 3: Installing Optional Textures and Effects - [Video Guide for Part 2&3 HERE](https://www.youtube.com/watch?v=tmU_5kBZbu8)
 
 You can install various texture packs and visual effects to enhance the game's appearance.
 
