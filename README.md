@@ -36,7 +36,7 @@
 9. [FAQ, Troubleshooting, and Obscure Situations](#faq-troubleshooting-and-obscure-situations)
 10. [Suggestions Feedback and Additional Help](#suggestions-feedback-and-help)
 
-## A Brief Introduction to Project Quarm
+## A Brief Introduction to Project Quarm ![Quarm](/img/Quarm.png)
 
 Welcome to [Project Quarm](https://projectquarm.com/), a 1-Box EverQuest emulated server based on the [TAKProject](https://www.takproject.net/) codebase! We are currently in the [Classic 1.6](#classic-1x-october-1st-2023) era with Kunark Pre-release coming June 1st.
 
@@ -74,7 +74,7 @@ Before you can download and install the game, you'll need to create an account o
    An experimental release of `eqgame.dll` can be found under [#zeal-discussions](https://discord.com/channels/1133452007412334643/1210670176077348934/1227704216655761499).
 5. Extract the `eqgame.dll` file to your TAKP folder (where you installed the game client).
 
-### Step 4: Installing Zeal
+### Step 4: Installing Zeal ![Zeal](/img/Zeal.png)
 
 Zeal is used to add additional functionality to EverQuest. Main additions include 3rd person camera smoothing fix, better tab targeting, spell sets, and melody. A full list of features can be found in the [readme](https://github.com/iamclint/Zeal/blob/master/README.md). *The readme is based on latest commits not latest release build.*
 
@@ -494,7 +494,7 @@ I don't use this with EQ but I need to mention it alongside Lossless Scaling. I 
 
 - https://github.com/Codeusa/Borderless-Gaming/releases
 
-## About Project Quarm
+## About Project Quarm ![Secrets](/img/Secrets.jpg)
 
 ### Main Ruleset
 
