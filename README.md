@@ -3,7 +3,7 @@
 
 ## Table of Contents
 1. [A Brief Introduction to Project Quarm](#a-brief-introduction-to-project-quarm)
-2. [Part 1: Installing the Main Game](#part-1-installing-the-main-game)
+2. [Part 1: Installing the Main Game](#part-1-installing-the-main-game-)
     - [Step 1: Create a TAKP Forum Account](#step-1-create-a-takp-forum-account)
     - [Step 2: Download the Game Client](#step-2-download-the-game-client)
     - [Step 3: Converting your TAKP client to Quarm](#step-3-converting-your-takp-client-to-quarm)
@@ -19,7 +19,7 @@
 5. [Part 3: Installing Optional Textures and Effects](#part-3-installing-optional-textures-and-effects)
 6. [Part 4: Installing Optional 3rd Party Programs](#part-4-installing-optional-3rd-party-programs)
 7. [Part 5: Third Party Websites](#part-5-third-party-websites)
-8. [About Project Quarm](#about-project-quarm)
+8. [About Project Quarm](#about-project-quarm-)
    - [Main Ruleset](#main-ruleset)
    - [Optional Ruleset](#optional-ruleset)
    - [Gameplay Changes](#gameplay-changes)
