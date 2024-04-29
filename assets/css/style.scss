@@ -24,6 +24,15 @@ header h1 {
     text-shadow: 0 0 5px $orange-red; // Add glow effect to H1 H2 text
 }
 
+#downloads .btn {
+    display: inline-block;
+    text-align: center;
+    margin: 0;
+    color: $orange-red; // Set button text color to orange-red
+    text-shadow: 0 0 5px $orange-red; // Add glow effect to H1 H2 text
+}
+
+
 body {
   margin:0;
   padding:0;
