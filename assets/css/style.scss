@@ -2,12 +2,11 @@
 ---
 @import "{{ site.theme }}";
 
-.site-header a {
-  color: #e06666; // Rosy pink/red color
-}
+// Hacker theme styles
+$header-bg-color: #e06666; // Rosy pink/red color
+$header-bg-color-secondary: #d64a4a;
+$section-headings-color: #e06666;
+$body-link-color: #e06666;
 
-body {
-  background-color: #111;
-  background-image: linear-gradient(#2a2a2a 50%, transparent 50%);
-  background-size: 50px 50px;
-}
+$canvas-bg: #111; // Darker background
+$canvas-pattern: linear-gradient(to right, #222 50%, transparent 50%); // Darker pattern
