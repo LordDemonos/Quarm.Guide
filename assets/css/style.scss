@@ -22,9 +22,9 @@ a {
   color: #e06666 !important;
 }
 
-.main-content ul li:before {
+.main-content ul li::before {
   color: #e06666 !important;
-  content: "-"; // Change the content to a dash
+  content: "-";
 }
 
 pre {
@@ -32,7 +32,8 @@ pre {
   color: #e06666 !important;
 }
 
-.main-content hr {
+.main-content > hr {
   border-color: #e06666 !important;
-  background-color: #e06666 !important; // Add background color for better visibility
+  background-color: #e06666 !important;
+  height: 5px !important;
 }
