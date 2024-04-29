@@ -22,6 +22,15 @@ a {
   color: #e06666 !important;
 }
 
+code.highlighter-rouge {
+  background:rgba(0,0,0,0.9);
+  border:1px solid rgba(255,255,255,0.15);
+  padding:0px 3px;
+  margin:0px -3px;
+  color:#aa759f;
+  border-radius:2px
+}
+
 ul li {
   list-style-image:url("/assets/images/bullet-red.png")
 }
