@@ -27,8 +27,8 @@ a {
   color: $orange-red !important; // Set link colors to orange-red
 }
 
-.main-content ul li::before {
-  content: url("/assets/images/bullet-red.png") !important; // Replace with a red bullet image
+ul li {
+  list-style-image:url("/assets/images/bullet-red.png")
 }
 
 pre {
