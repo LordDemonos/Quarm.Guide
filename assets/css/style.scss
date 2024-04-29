@@ -2,40 +2,35 @@
 ---
 @import "{{ site.theme }}";
 
-// Change header text color
-.site-title, .site-title:visited {
-  color: #e06666;
-}
-
-// Change header background color
+// Override inline styles
 .site-header {
-  background-color: #e06666;
-  border-top: 5px solid #d64a4a;
-  border-bottom: 1px solid #d64a4a;
+  background-color: #e06666 !important;
+  border-top: 5px solid #d64a4a !important;
+  border-bottom: 1px solid #d64a4a !important;
+  color: #e06666 !important;
 }
 
-// Change section headings color
+.site-title, .site-title:visited {
+  color: #e06666 !important;
+}
+
 h1, h2, h3, h4, h5, h6 {
-  color: #e06666;
+  color: #e06666 !important;
 }
 
-// Change link color
 a {
-  color: #e06666;
+  color: #e06666 !important;
 }
 
-// Change dash color
 .main-content li:before {
-  color: #e06666;
+  color: #e06666 !important;
 }
 
-// Change code block color
 pre {
-  background-color: #111;
-  color: #e06666;
+  background-color: #111 !important;
+  color: #e06666 !important;
 }
 
-// Change top dashed line color
 .main-content hr {
-  border-color: #e06666;
+  border-color: #e06666 !important;
 }
