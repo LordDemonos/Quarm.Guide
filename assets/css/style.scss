@@ -22,9 +22,9 @@ a {
   color: #e06666 !important;
 }
 
-.main-content ul li::before {
+.main-content ul li::marker {
   color: #e06666 !important;
-  content: "-";
+  content: "- " !important; // Add space after dash
 }
 
 pre {
