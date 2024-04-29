@@ -19,10 +19,7 @@ $dark-gray: #333; // Dark gray color for contrast
   color: $orange-red !important; 
 }
 
-header h1:before {
-    content: ""; /* Set content to an empty string to remove the ./ prefix */
-    font-size: 24px;
-}
+
 
 header h1 {
     margin-left: 1px;
