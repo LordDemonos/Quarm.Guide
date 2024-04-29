@@ -2,11 +2,26 @@
 ---
 @import "{{ site.theme }}";
 
-// Hacker theme styles
-$header-bg-color: #e06666; // Rosy pink/red color
-$header-bg-color-secondary: #d64a4a;
-$section-headings-color: #e06666;
-$body-link-color: #e06666;
+// Change header text color
+.site-header {
+  background-color: #e06666;
+  border-top: 5px solid #d64a4a;
+  border-bottom: 1px solid #d64a4a;
+}
 
-$canvas-bg: #111; // Darker background
-$canvas-pattern: linear-gradient(to right, #222 50%, transparent 50%); // Darker pattern
+// Change section headings color
+h1, h2, h3, h4, h5, h6 {
+  color: #e06666;
+}
+
+// Change link color
+a {
+  color: #e06666;
+}
+
+// Darken background texture
+body {
+  background-color: #111;
+  background-image: linear-gradient(#222 50%, transparent 50%);
+  background-size: 50px 50px;
+}
