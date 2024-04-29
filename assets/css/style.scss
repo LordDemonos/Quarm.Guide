@@ -22,9 +22,8 @@ a {
   color: #e06666 !important;
 }
 
-.main-content ul li::marker {
-  color: #e06666 !important;
-  content: "- " !important; // Add space after dash
+.main-content ul li::before {
+  content: url("/assets/images/bullet-red.png") !important; // Replace with a red bullet image
 }
 
 pre {
@@ -32,8 +31,13 @@ pre {
   color: #e06666 !important;
 }
 
-.main-content > hr {
-  border-color: #e06666 !important;
-  background-color: #e06666 !important;
-  height: 5px !important;
+header {
+  background: rgba(230, 102, 102, 0.1) !important; // Set header background color
+  border-bottom: 1px solid #e06666 !important; // Set header bottom border color
+}
+
+body {
+  background-color: #111 !important;
+  background-image: linear-gradient(#222 50%, transparent 50%) !important;
+  background-size: 50px 50px !important;
 }
