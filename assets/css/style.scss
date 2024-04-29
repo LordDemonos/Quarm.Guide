@@ -4,7 +4,9 @@
 @import "{{ site.theme }}";
 
 // Define custom color variables
-$orange-red: #e06666; // Orange-red color
+$light-orange-red: #f4a9a8; // Lighter shade of orange-red for easy reading
+$orange-red: #e06666; // Standard shade of orange-red for regular headings
+$dark-orange-red: #b84d4d; // Darker shade of orange-red for bold headings
 $dark-gray: #333; // Dark gray color for contrast
 
 // Override inline styles
@@ -31,7 +33,7 @@ body {
 
 
 h1 {
-  color: $lighter-accent !important; // Set H1 color to the lighter accent color for vibrancy
+  color: $dark-orange-red !important; // Set H1 color to dark orange-red for boldness
 }
 
 h2 {
@@ -39,7 +41,7 @@ h2 {
 }
 
 h3, h4, h5, h6 {
-  color: $darker-accent !important; // Set H3 color to the darker accent color for softness
+    color: $light-orange-red !important; // Set H3 color to light orange-red for easy reading
 }
 
 a {
