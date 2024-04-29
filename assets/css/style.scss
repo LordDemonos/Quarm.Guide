@@ -24,14 +24,15 @@ header h1 {
     text-shadow: 0 0 5px $orange-red; // Add glow effect to H1 H2 text
 }
 
-#downloads .btn {
-    display: inline-block;
-    text-align: center;
-    margin: 0;
-    color: $orange-red; // Set button text color to orange-red
-    text-shadow: 0 0 5px $orange-red; // Add glow effect to H1 H2 text
+.btn {
+    background-image: -webkit-linear-gradient(top, rgba(242, 151, 141, 0.3), rgba(236, 106, 94, 0.3) 50%, rgba(230, 102, 102, 0.3) 50%, rgba(230, 102, 102, 0.3));
+    background-color: initial;
+    border-color: $dark-orange-red rgba(143, 131, 113, 0.7) rgba(143, 131, 113, 0.7);
+    color: rgba(253, 251, 247, 0.8);
+    text-decoration-color: initial;
+    text-shadow: rgba(0, 0, 0, 0.75) 0px -1px 0px;
+    box-shadow: rgba(3, 6, 7, 0.05) 0px 1px 0px inset;
 }
-
 
 body {
   margin:0;
