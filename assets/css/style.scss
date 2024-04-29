@@ -2,3 +2,8 @@
 ---
 
 @import "{{ site.theme }}";
+
+// Overriding the default text color
+.text-body {
+  color: #e06666; // Rosy pink/red color
+}
