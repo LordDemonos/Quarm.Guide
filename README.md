@@ -1,4 +1,5 @@
-##### By Xanax/Xantagonist < Former Glory >
+<!-- # Everquest Project Quarm Getting Started Guide -->
+<!-- ##### By Xanax/Xantagonist < Former Glory > -->
 
 ## Table of Contents
 1. [A Brief Introduction to Project Quarm](#a-brief-introduction-to-project-quarm)
