@@ -27,6 +27,15 @@ a {
   color: $orange-red !important; // Set link colors to orange-red
 }
 
+code.highlighter-rouge {
+  background:rgba(0,0,0,0.9);
+  border:1px solid rgba(255,255,255,0.15);
+  padding:0px 3px;
+  margin:0px -3px;
+  color:#e06666;
+  border-radius:2px
+}
+
 ul li {
   list-style-image:url("/assets/images/bullet-red.png")
 }
