@@ -4,27 +4,27 @@
 @import "{{ site.theme }}";
 
 // Define custom color variables
-$redish-pink: #ff69b4; // Reddish-pink color
+$orange-red: #e06666; // Orange-red color
 $dark-gray: #333; // Dark gray color for contrast
 
 // Override inline styles
 .site-header {
-  background-color: darken($redish-pink, 10%) !important; // Darken the reddish-pink color for the header background
-  border-top: 5px solid darken($redish-pink, 20%) !important; // Darken the reddish-pink color for the border
-  border-bottom: 1px solid darken($redish-pink, 20%) !important; // Darken the reddish-pink color for the border
-  color: $redish-pink !important; // Set the text color to reddish-pink
+  background-color: $orange-red !important; // Keep the header background as orange-red
+  border-top: 5px solid darken($orange-red, 10%) !important; // Darken the border for contrast
+  border-bottom: 1px solid darken($orange-red, 10%) !important; // Darken the border for contrast
+  color: $orange-red !important; // Set the text color to orange-red
 }
 
 .site-title, .site-title:visited {
-  color: $redish-pink !important; // Set the site title color to reddish-pink
+  color: $orange-red !important; // Set the site title color to orange-red
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: $redish-pink !important; // Set heading colors to reddish-pink
+  color: $orange-red !important; // Set heading colors to orange-red
 }
 
 a {
-  color: $redish-pink !important; // Set link colors to reddish-pink
+  color: $orange-red !important; // Set link colors to orange-red
 }
 
 .main-content ul li::before {
@@ -33,9 +33,9 @@ a {
 
 pre {
   background-color: $dark-gray !important; // Set the background color of code blocks to dark gray
-  color: $redish-pink !important; // Set the text color of code blocks to reddish-pink
+  color: $orange-red !important; // Set the text color of code blocks to orange-red
 }
 
 header {
-  border-bottom: 1px solid $redish-pink !important; // Set header bottom border color to reddish-pink
+  border-bottom: 1px solid darken($orange-red, 10%) !important; // Darken the header bottom border for contrast
 }
