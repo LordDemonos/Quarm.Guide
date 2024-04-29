@@ -15,6 +15,16 @@ $dark-gray: #333; // Dark gray color for contrast
   color: $orange-red !important; // Set the text color to orange-red
 }
 
+body {
+  margin:0;
+  padding:0;
+  background:#151515 url("../images/bkg.png") 0 0;
+  color:#eaeaea;
+  font-size:16px;
+  line-height:1.5;
+  font-family:Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace
+}
+
 .site-title, .site-title:visited {
   color: $orange-red !important; // Set the site title color to orange-red
 }
