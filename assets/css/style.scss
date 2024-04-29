@@ -8,6 +8,7 @@ $light-orange-red: #f4a9a8; // Lighter shade of orange-red for easy reading
 $orange-red: #e06666; // Standard shade of orange-red for regular headings
 $dark-orange-red: #c05656; // Darker shade of orange-red for bold headings
 $purple: #8a63d2; // Complementary purple color for links
+$neon-red: #ff0000; // Vibrant neon-red color for code blocks
 $dark-gray: #333; // Dark gray color for contrast
 
 // Override inline styles
@@ -57,7 +58,7 @@ code.highlighter-rouge {
   border:1px solid rgba(255,255,255,0.15);
   padding:0px 3px;
   margin:0px -3px;
-  color:$orange-red;
+  color:$neon-red;
   border-radius:2px
 }
 
