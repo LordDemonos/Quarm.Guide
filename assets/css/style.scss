@@ -72,9 +72,14 @@ h3 {
   text-shadow: 0 0 5px $orange-red;
 }
 
-h4, h5, h6 {
+h4, h5, {
   color: $light-orange-red !important;
   text-shadow: 0 0 5px $orange-red;
+}
+
+h6 {
+  olor: $dark-orange-red !important;
+  text-shadow: 0 0 5px $dark-orange-red;
 }
 
 code.highlighter-rouge {
