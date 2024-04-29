@@ -29,8 +29,17 @@ body {
   color: $orange-red !important; // Set the site title color to orange-red
 }
 
-h1, h2, h3, h4, h5, h6 {
+
+h1 {
+  color: $lighter-accent !important; // Set H1 color to the lighter accent color for vibrancy
+}
+
+h2 {
   color: $orange-red !important; // Set heading colors to orange-red
+}
+
+h3, h4, h5, h6 {
+  color: $darker-accent !important; // Set H3 color to the darker accent color for softness
 }
 
 a {
@@ -42,7 +51,7 @@ code.highlighter-rouge {
   border:1px solid rgba(255,255,255,0.15);
   padding:0px 3px;
   margin:0px -3px;
-  color:#e06666;
+  color:$orange-red;
   border-radius:2px
 }
 
