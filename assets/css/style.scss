@@ -1,8 +1,13 @@
 ---
 ---
-
-@import 'jekyll-theme-hacker';
+@import "{{ site.theme }}";
 
 .site-header a {
   color: #e06666; // Rosy pink/red color
+}
+
+body {
+  background-color: #111;
+  background-image: linear-gradient(#2a2a2a 50%, transparent 50%);
+  background-size: 50px 50px;
 }
