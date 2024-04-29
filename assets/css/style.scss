@@ -7,6 +7,7 @@
   background-color: #e06666;
   border-top: 5px solid #d64a4a;
   border-bottom: 1px solid #d64a4a;
+  color: #e06666; // Change site header text color
 }
 
 // Change section headings color
@@ -17,6 +18,11 @@ h1, h2, h3, h4, h5, h6 {
 // Change link color
 a {
   color: #e06666;
+}
+
+// Change dash color
+.main-content li::before {
+  color: #e06666; // Change dash color
 }
 
 // Darken background texture
