@@ -13,23 +13,23 @@ $dark-gray: #333; // Dark gray color for contrast
 
 // Override inline styles
 .site-header {
-  background-color: $orange-red !important; // Keep the header background as orange-red
-  border-top: 5px solid darken($orange-red, 10%) !important; // Darken the border for contrast
-  border-bottom: 1px solid darken($orange-red, 10%) !important; // Darken the border for contrast
-  color: $orange-red !important; // Set the text color to orange-red
+  background-color: $orange-red !important;
+  border-top: 5px solid darken($orange-red, 10%) !important; 
+  border-bottom: 1px solid darken($orange-red, 10%) !important; 
+  color: $orange-red !important; 
 }
 
 header h1 {
     color: $dark-orange-red;
-    text-shadow: 0 0 5px $dark-orange-red; // Add glow effect to H1 H2 text
+    text-shadow: 0 0 5px $dark-orange-red; 
 }
 
 #downloads .btn {
     display: inline-block;
     text-align: center;
     margin: 0;
-    color: $neon-red; // Set button text color to orange-red
-    text-shadow: 0 0 5px $neon-red; // Add glow effect to H1 H2 text
+    color: $dark-orange-red; 
+    text-shadow: 0 0 5px $dark-orange-red; 
 }
 
 body {
@@ -43,32 +43,32 @@ body {
 }
 
 .site-title, .site-title:visited {
-  color: $orange-red !important; // Set the site title color to orange-red
+  color: $orange-red !important;
 }
 
 a {
-  color: $purple; // Set link color to purple
-  text-shadow: 0 0 5px $purple; // Add glow effect to a text
+  color: $purple;
+  text-shadow: 0 0 5px $purple;
 }
 
 h1, h2 {
-  color: $dark-orange-red !important; // Set H1 color to dark orange-red for boldness
-  text-shadow: 0 0 5px $dark-orange-red; // Add glow effect to H1 H2 text
+  color: $dark-orange-red !important;
+  text-shadow: 0 0 5px $dark-orange-red;
 }
 
 h3 {
-  color: $orange-red !important; // Set H3 color to light orange-red for easy reading
-  text-shadow: 0 0 5px $orange-red; // Add glow effect to H# text
+  color: $orange-red !important;
+  text-shadow: 0 0 5px $orange-red;
 }
 
 h4, h6 {
-  color: $light-orange-red !important; // Set H4-H6 color to standard orange-red
-  text-shadow: 0 0 5px $orange-red; // Add glow effect to H4 H5 H6 text
+  color: $light-orange-red !important;
+  text-shadow: 0 0 5px $orange-red;
 }
 
 h5, {
-  color: $neon-red !important; // Set H4-H6 color to standard orange-red
-  text-shadow: 0 0 5px $neon-red; // Add glow effect to H4 H5 H6 text
+  color: $neon-red !important;
+  text-shadow: 0 0 5px $neon-red;
 }
 
 code.highlighter-rouge {
