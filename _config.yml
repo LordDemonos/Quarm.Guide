@@ -9,6 +9,6 @@ show_downloads: true ["true" or "false" (unquoted) to indicate whether to provid
 google_analytics: [G-45V9SRWF6W]
 
 github:
-  zip_url: http://example.com/download.zip
-  tar_url: http://example.com
+  zip_url: https://www.pqdi.cc/
+  tar_url: https://www.eqtunnelauctions.com/
   another_url: another value
