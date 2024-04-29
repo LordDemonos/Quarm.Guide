@@ -32,6 +32,11 @@ header h1 {
     text-shadow: 0 0 5px $dark-orange-red; 
 }
 
+.btn-github .icon {
+    opacity: 0.6;
+    background: url(/assets/images/blacktocat.png) 0 0 no-repeat;
+}
+
 body {
   margin:0;
   padding:0;
