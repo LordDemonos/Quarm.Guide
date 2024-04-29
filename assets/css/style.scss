@@ -17,7 +17,6 @@ $dark-gray: #333; // Dark gray color for contrast
   border-top: 5px solid darken($orange-red, 10%) !important; // Darken the border for contrast
   border-bottom: 1px solid darken($orange-red, 10%) !important; // Darken the border for contrast
   color: $orange-red !important; // Set the text color to orange-red
-  text-shadow: 0 0 5px $orange-red; // Add glow effect to H4 H5 H6 text
 }
 
 body {
