@@ -1,4 +1,8 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+@import 'jekyll-theme-hacker';
+
+.site-header a {
+  color: #e06666; // Rosy pink/red color
+}
