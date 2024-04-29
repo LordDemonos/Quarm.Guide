@@ -19,6 +19,11 @@ $dark-gray: #333; // Dark gray color for contrast
   color: $orange-red !important; // Set the text color to orange-red
 }
 
+header h1 {
+    color: $dark-orange-red;
+    text-shadow: 0 0 5px $orange-red; // Add glow effect to H1 H2 text
+}
+
 body {
   margin:0;
   padding:0;
