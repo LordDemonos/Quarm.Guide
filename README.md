@@ -1,7 +1,7 @@
 <!-- # Everquest Project Quarm Getting Started Guide -->
 <!-- ##### By Xanax/Xantagonist < Former Glory > -->
 
-## Table of Contents
+# Table of Contents
 1. [A Brief Introduction to Project Quarm](#a-brief-introduction-to-project-quarm)
 2. [Part 1: Installing the Main Game](#part-1-installing-the-main-game--video-guide-for-part-1-here)
     - [Step 1: Create a TAKP Forum Account](#step-1-create-a-takp-forum-account)
@@ -37,7 +37,7 @@
 9. [FAQ, Troubleshooting, and Obscure Situations](#faq-troubleshooting-and-obscure-situations)
 10. [Suggestions Feedback and Additional Help](#suggestions-feedback-and-help)
 
-## A Brief Introduction to Project Quarm ![Quarm](/img/Quarm.png)
+# A Brief Introduction to Project Quarm ![Quarm](/img/Quarm.png)
 
 Welcome to [Project Quarm](https://projectquarm.com/), a 1-Box EverQuest emulated server based on the [TAKProject](https://www.takproject.net/) codebase! We are currently in the [Classic 1.6](#classic-1x-october-1st-2023) era with Kunark Pre-release coming June 1st.
 
@@ -49,7 +49,7 @@ If you want to learn more about Project Quarm specific features and rules, head 
 
 Whenever you make changes or overwrite files, it's crucial to create backups to prevent data loss. We strongly recommend backing up the entire TAKP folder or any modified files before proceeding with any alterations. Creating backups is a quick and easy process that can save you from potential headaches down the line. While we won't remind you to back up files after every step, it's a best practice to develop a habit of regularly backing up your data.
 
-## Part 1: Installing the Main Game <br> [Video Guide for Part 1 HERE](https://www.youtube.com/watch?v=aM0MX67me5Y)
+# Part 1: Installing the Main Game <br> [Video Guide for Part 1 HERE](https://www.youtube.com/watch?v=aM0MX67me5Y)
 
 ### Step 1: Create a TAKP Forum Account
 Before you can download and install the game, you'll need to create an account on the TAKP forums.
@@ -229,7 +229,7 @@ Below are some recommended Zeal specific changes you should consider before you 
 
 Ths concludes part 1 of the guide.
 
-### Xanax's Checklist for Minimal Crashes
+## Xanax's Checklist for Minimal Crashes
 
 I wrote this guide because half of my guild seems to crash when they zone in and out of the planes. Everyone is on different pieces and versions of this game. Meanwhile I've thrown most of this guide into 3 different game folders and they all work well, only crashing occasionally when I drop to character select, or if I change my audio output source. Here's what I'm using:
 
@@ -244,7 +244,7 @@ I wrote this guide because half of my guild seems to crash when they zone in and
 
 If you ask me, 2 & 3 are the biggest contributors to stability. A lot of people seem to need the dgVoodoo fix though, especially if they have integrated graphics, so thats also important. Hopefully we can lessen these crashes and work towards fixing the rest over time.
 
-## Part 2: After Installing the Main Game <br> [Video Guide for Part 2&3 HERE](https://www.youtube.com/watch?v=tmU_5kBZbu8)
+# Part 2: After Installing the Main Game <br> [Video Guide for Part 2&3 HERE](https://www.youtube.com/watch?v=tmU_5kBZbu8)
 
 ### Step 1: Understanding your EQClient.ini
 
@@ -386,7 +386,7 @@ Once created, you can even right click your spellbook to choose one of your spel
 
 Screenshots can be taken by pressing PRINT SCREEN within the game, and can be changed within the Options. These are saved in your TAKP folder as `EQ000001.bmp` for example. 
 
-## Part 3: Installing Optional Textures and Effects <br> [Video Guide for Part 2&3 HERE](https://www.youtube.com/watch?v=tmU_5kBZbu8)
+# Part 3: Installing Optional Textures and Effects <br> [Video Guide for Part 2&3 HERE](https://www.youtube.com/watch?v=tmU_5kBZbu8)
 
 You can install various texture packs and visual effects to enhance the game's appearance.
 
@@ -456,7 +456,7 @@ After following these steps, the Old Skeleton Models will be installed and appli
 
 Sources: [ItsKensterrr](https://www.youtube.com/watch?v=spMp-f7S7FA) | [ItsKensterrr](https://www.youtube.com/watch?v=zvhGnkbRW9g)
 
-## Part 4: Installing Optional 3rd Party Programs
+# Part 4: Installing Optional 3rd Party Programs
 
 These programs add functionality not found in the game client by reading your EverQuest player log files. Programs that use hooks to inject code into the game are now allowed, with the one exception being Zeal.
 
@@ -540,7 +540,7 @@ I was hesitant to make a list as they seem to pop up and go stagnant pretty quic
 
 - [AllaQUARM](https://eqtunnelauctions.com/alla/) Quarm's version of Allakhazam, also pulls from the database like PQDI. 
 
-## About Project Quarm ![Secrets](/img/Secrets.jpg)
+# About Project Quarm ![Secrets](/img/Secrets.jpg)
 
 [Follow SecretsPast on Twitch](https://www.twitch.tv/secretspast)
 
@@ -1181,7 +1181,7 @@ The current zones considered to be raid zones are:
 **Raid Rotations**
 * Are dead. 🙂
 
-## FAQ, Troubleshooting, and Obscure Situations
+# FAQ, Troubleshooting, and Obscure Situations
 
 - [Where can I learn more about Project Quarm?](#where-can-i-learn-more-about-project-quarm)
 - [When I use my mouse wheel to scroll backwards, I do not see my character in 3rd person. How do I enable Mouse Look?](#when-i-use-my-mouse-wheel-to-scroll-backwards-i-do-not-see-my-character-in-3rd-person-how-do-i-enable-mouse-look)
@@ -1511,7 +1511,7 @@ If you have no mouse pointer after this more than likely the X,Y or the CX,CY va
 
 Delete these from your main TAKP folder. Midis will be restored and they are not as loud and "sound much better".
 
-## Suggestions Feedback and Additional Help
+# Suggestions Feedback and Additional Help
 
 #### [Project Quarm Discord #zeal-discussions](https://discord.com/channels/1133452007412334643/1210670176077348934) | [Project Quarm Discord #tech-help](https://discord.com/channels/1133452007412334643/1133453502182596729) | [Project Quarm Discord #ui-discussion](https://discord.com/channels/1133452007412334643/1162826324092657757) | [Project Quarm Discord #petitions](https://discord.com/channels/1133452007412334643/1153470935421157396)
 
