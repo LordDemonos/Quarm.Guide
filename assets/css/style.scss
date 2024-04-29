@@ -1,46 +1,41 @@
 ---
 ---
+
 @import "{{ site.theme }}";
+
+// Define custom color variables
+$redish-pink: #ff69b4; // Reddish-pink color
+$dark-gray: #333; // Dark gray color for contrast
 
 // Override inline styles
 .site-header {
-  background-color: #e06666 !important;
-  border-top: 5px solid #d64a4a !important;
-  border-bottom: 1px solid #d64a4a !important;
-  color: #e06666 !important;
+  background-color: darken($redish-pink, 10%) !important; // Darken the reddish-pink color for the header background
+  border-top: 5px solid darken($redish-pink, 20%) !important; // Darken the reddish-pink color for the border
+  border-bottom: 1px solid darken($redish-pink, 20%) !important; // Darken the reddish-pink color for the border
+  color: $redish-pink !important; // Set the text color to reddish-pink
 }
 
 .site-title, .site-title:visited {
-  color: #e06666 !important;
+  color: $redish-pink !important; // Set the site title color to reddish-pink
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #e06666 !important;
+  color: $redish-pink !important; // Set heading colors to reddish-pink
 }
 
 a {
-  color: #e06666 !important;
+  color: $redish-pink !important; // Set link colors to reddish-pink
 }
 
-code.highlighter-rouge {
-  background:rgba(0,0,0,0.9);
-  border:1px solid rgba(255,255,255,0.15);
-  padding:0px 3px;
-  margin:0px -3px;
-  color:#aa759f;
-  border-radius:2px
-}
-
-ul li {
-  list-style-image:url("/assets/images/bullet-red.png")
+.main-content ul li::before {
+  content: url("/assets/images/bullet-red.png") !important; // Replace with a red bullet image
 }
 
 pre {
-  background-color: #111 !important;
-  color: #e06666 !important;
+  background-color: $dark-gray !important; // Set the background color of code blocks to dark gray
+  color: $redish-pink !important; // Set the text color of code blocks to reddish-pink
 }
 
 header {
-  border-bottom: 1px solid #e06666 !important; // Set header bottom border color
+  border-bottom: 1px solid $redish-pink !important; // Set header bottom border color to reddish-pink
 }
-
