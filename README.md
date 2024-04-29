@@ -1,5 +1,4 @@
 # EverQuest Project Quarm Getting Started Guide <br/> (Updated: April 29, 2024)
-##### By Xanax/Xantagonist < Former Glory >
 
 ## Table of Contents
 1. [A Brief Introduction to Project Quarm](#a-brief-introduction-to-project-quarm)
