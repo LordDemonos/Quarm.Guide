@@ -59,13 +59,13 @@ h5, {
 }
 
 code.highlighter-rouge {
-  background:rgba(0,0,0,0.9);
-  border:1px solid rgba(255,255,255,0.15);
-  padding:0px 3px;
-  margin:0px -3px;
-  color:$neon-red;
-  border-radius:2px
-  text-shadow: 0 0 5px $neon-red; // Add glow effect to H4 H5 H6 text
+  background: rgba(0, 0, 0, 0.9);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  padding: 0px 3px;
+  margin: 0px -3px;
+  color: $neon-red;
+  border-radius: 2px;
+  text-shadow: 0 0 5px $neon-red; // Add glow effect to text within code blocks
 }
 
 ul li {
