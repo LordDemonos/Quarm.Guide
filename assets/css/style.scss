@@ -36,20 +36,16 @@ a {
   color: $purple; // Set link color to purple
 }
 
-h1 {
+h1, h2 {
   color: $dark-orange-red !important; // Set H1 color to dark orange-red for boldness
 }
 
-h2 {
-  color: $orange-red !important; // Set H2 color to standard orange-red
-}
-
 h3 {
-  color: $light-orange-red !important; // Set H3 color to light orange-red for easy reading
+  color: $orange-red !important; // Set H3 color to light orange-red for easy reading
 }
 
 h4, h5, h6 {
-  color: $orange-red !important; // Set H4-H6 color to standard orange-red
+  color: $light-orange-red !important; // Set H4-H6 color to standard orange-red
 }
 
 code.highlighter-rouge {
