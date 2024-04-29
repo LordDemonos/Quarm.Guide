@@ -6,7 +6,7 @@
 <!-- ##### By Xanax/Xantagonist < Former Glory > -->
 
 ## Table of Contents
-1. [A Brief Introduction to Project Quarm](#a-brief-introduction-to-project-quarm)
+1. [A Brief Introduction to Project Quarm](#a-brief-introduction-to-project-quarm-)
 2. [Part 1: Installing the Main Game](#part-1-installing-the-main-game--video-guide-for-part-1-here)
     - [Step 1: Create a TAKP Forum Account](#step-1-create-a-takp-forum-account)
     - [Step 2: Download the Game Client](#step-2-download-the-game-client)
