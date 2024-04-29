@@ -7,6 +7,7 @@
 $light-orange-red: #f4a9a8; // Lighter shade of orange-red for easy reading
 $orange-red: #e06666; // Standard shade of orange-red for regular headings
 $dark-orange-red: #b84d4d; // Darker shade of orange-red for bold headings
+$purple: #8a63d2; // Complementary purple color for links
 $dark-gray: #333; // Dark gray color for contrast
 
 // Override inline styles
@@ -31,21 +32,24 @@ body {
   color: $orange-red !important; // Set the site title color to orange-red
 }
 
+a {
+  color: $purple; // Set link color to purple
+}
 
 h1 {
   color: $dark-orange-red !important; // Set H1 color to dark orange-red for boldness
 }
 
 h2 {
-  color: $orange-red !important; // Set heading colors to orange-red
+  color: $orange-red !important; // Set H2 color to standard orange-red
 }
 
-h3, h4, h5, h6 {
-    color: $light-orange-red !important; // Set H3 color to light orange-red for easy reading
+h3 {
+  color: $light-orange-red !important; // Set H3 color to light orange-red for easy reading
 }
 
-a {
-  color: $orange-red !important; // Set link colors to orange-red
+h4, h5, h6 {
+  color: $orange-red !important; // Set H4-H6 color to standard orange-red
 }
 
 code.highlighter-rouge {
