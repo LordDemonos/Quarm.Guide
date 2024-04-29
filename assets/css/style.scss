@@ -38,6 +38,7 @@ a {
 
 h1, h2 {
   color: $dark-orange-red !important; // Set H1 color to dark orange-red for boldness
+  text-shadow: 0 0 5px $orange-red; // Add glow effect to H1 text
 }
 
 h3 {
