@@ -2,19 +2,40 @@
 ---
 @import "{{ site.theme }}";
 
-// Override theme color variables
-$header-bg-color: #e06666;
-$header-bg-color-secondary: #d64a4a;
-$section-headings-color: #e06666;
-$body-link-color: #e06666;
-$code-bg-color: #111;
-$code-text-color: #e06666;
-$hr-border-color: #e06666;
-$list-side-color: #e06666;
+// Change header text color
+.site-title, .site-title:visited {
+  color: #e06666;
+}
 
-// Darken background texture
-body {
+// Change header background color
+.site-header {
+  background-color: #e06666;
+  border-top: 5px solid #d64a4a;
+  border-bottom: 1px solid #d64a4a;
+}
+
+// Change section headings color
+h1, h2, h3, h4, h5, h6 {
+  color: #e06666;
+}
+
+// Change link color
+a {
+  color: #e06666;
+}
+
+// Change dash color
+.main-content li:before {
+  color: #e06666;
+}
+
+// Change code block color
+pre {
   background-color: #111;
-  background-image: linear-gradient(#222 50%, transparent 50%);
-  background-size: 50px 50px;
+  color: #e06666;
+}
+
+// Change top dashed line color
+.main-content hr {
+  border-color: #e06666;
 }
