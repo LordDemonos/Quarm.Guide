@@ -48,9 +48,14 @@ h3 {
   text-shadow: 0 0 5px $orange-red; // Add glow effect to H# text
 }
 
-h4, h5, h6 {
+h4, h6 {
   color: $light-orange-red !important; // Set H4-H6 color to standard orange-red
   text-shadow: 0 0 5px $orange-red; // Add glow effect to H4 H5 H6 text
+}
+
+h5, {
+  color: $neon-red !important; // Set H4-H6 color to standard orange-red
+  text-shadow: 0 0 5px $neon-red; // Add glow effect to H4 H5 H6 text
 }
 
 code.highlighter-rouge {
@@ -60,6 +65,7 @@ code.highlighter-rouge {
   margin:0px -3px;
   color:$neon-red;
   border-radius:2px
+  text-shadow: 0 0 5px $neon-red; // Add glow effect to H4 H5 H6 text
 }
 
 ul li {
