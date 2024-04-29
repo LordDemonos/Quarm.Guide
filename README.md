@@ -1,3 +1,7 @@
+<!-- [![GitHub issues](https://img.shields.io/github/issues/LordDemonos/Quarm.Guide)](https://github.com/LordDemonos/Quarm.Guide/issues) -->
+<!-- [![GitHub stars](https://img.shields.io/github/stars/LordDemonos/Quarm.Guide)](https://github.com/LordDemonos/Quarm.Guide/stargazers) -->
+<!-- [![GitHub contributors](https://img.shields.io/github/contributors/LordDemonos/Quarm.Guide)](https://github.com/LordDemonos/Quarm.Guide/graphs/contributors) -->
+
 <!-- # Everquest Project Quarm Getting Started Guide -->
 <!-- ##### By Xanax/Xantagonist < Former Glory > -->
 
