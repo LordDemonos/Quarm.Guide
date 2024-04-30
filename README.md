@@ -1114,7 +1114,7 @@ There is a second way to end the tomb, but it won't be until the Planes are full
 
 ### Server Downtime
 
-Server Downtimes typically happen when the CSR team has available time. Announcements are posted in-game as well as [#server-status-downtime}(https://discord.com/channels/1133452007412334643/1160202360346378250). Server downtimes are typically concluded in about 5 minutes when everything goes according to plan.
+Server Downtimes typically happen when the CSR team has available time. Announcements are posted in-game as well as [#server-status-downtime](https://discord.com/channels/1133452007412334643/1160202360346378250). Server downtimes are typically concluded in about 5 minutes when everything goes according to plan.
 
 TAKP Login Server downtimes typically happen every Wednesday and last for about 15 minutes. During this time you will be unable to log in and the server will appear offline. If you are already in game your service should not be affected. 
 
