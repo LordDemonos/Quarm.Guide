@@ -62,8 +62,7 @@ body {
 .anchor-link-icon {
   margin-right: 5px;
   vertical-align: middle;
-  color: $purple !important;
-  text-shadow: 0 0 5px $dark-purple !important;
+  filter: drop-shadow(0 0 5px $dark-purple); /* Apply a drop shadow filter with the $dark-purple color */
 }
 
 a {
@@ -72,7 +71,7 @@ a {
 }
 
 h1, h2 {
-  color: $dark-orange-red ;
+  color: $dark-orange-red !important;
   text-shadow: 0 0 5px $dark-orange-red;
 }
 
