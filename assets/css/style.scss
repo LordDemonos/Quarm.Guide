@@ -39,8 +39,9 @@ header h1 {
 }
 
 .btn-github .icon {
-  opacity: 0.6;
-  background: url(/assets/images/blacktocat.png) 0 0 no-repeat;
+    opacity: 0.6;
+    background: url(/assets/images/blacktocat.png) 0 0 no-repeat;
+    filter: drop-shadow(0 0 5px $purple); /* Apply a drop shadow filter with the $purple color */
 }
 
 body {
