@@ -19,9 +19,6 @@ document.addEventListener('DOMContentLoaded', function() {
         // Add margin to the right of the icon for spacing
         iconContainer.style.marginRight = '5px';
         
-        // Add margin to the right of the icon for spacing
-        iconContainer.style.marginRight = '5px';
-        
         // Add a click event listener to the container to scroll to the heading
         iconContainer.addEventListener('click', function() {
             // Get the ID of the heading
