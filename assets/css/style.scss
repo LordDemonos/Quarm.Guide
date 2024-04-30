@@ -141,6 +141,11 @@ header {
 #back-to-top-btn a {
   color: inherit;
   text-decoration: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
 }
 
 #back-to-top-btn svg {
