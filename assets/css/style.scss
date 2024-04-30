@@ -27,7 +27,7 @@ header h1:before {
 
 header h1 {
     margin-left: 1px;
-    color: $dark-orange-red;
+    color: $dark-orange-red !important;
     text-shadow: 0 0 5px $dark-orange-red; 
 }
 
