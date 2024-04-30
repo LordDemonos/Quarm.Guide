@@ -116,7 +116,7 @@ header {
 
 #back-to-top-btn {
   position: fixed;
-  bottom: 10px;
+  bottom: 20px;
   right: 20px;
   z-index: 99;
   font-size: 18px;
@@ -126,6 +126,8 @@ header {
   color: white;
   cursor: pointer;
   opacity: 0.5;
+  padding: -1px; /* Adjust the padding to make the button smaller */
+  border-radius: 15%;
   transition: opacity 0.3s ease;
 }
 
