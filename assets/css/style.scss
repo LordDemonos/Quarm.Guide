@@ -67,24 +67,12 @@ body {
 }
 
 a {
-  color: $purple !important;
-  text-shadow: 0 0 5px $purple !important;
-}
-
-h1 > a.anchor-link-icon,
-h2 > a.anchor-link-icon,
-h3 > a.anchor-link-icon,
-h4 > a.anchor-link-icon,
-h5 > a.anchor-link-icon,
-h6 > a.anchor-link-icon {
-  margin-right: 5px;
-  vertical-align: middle;
-  color: $dark-purple !important;
-  text-shadow: 0 0 5px $neon-red !important;
+  color: $purple ;
+  text-shadow: 0 0 5px $purple ;
 }
 
 h1, h2 {
-  color: $dark-orange-red !important;
+  color: $dark-orange-red ;
   text-shadow: 0 0 5px $dark-orange-red;
 }
 
