@@ -134,7 +134,7 @@ header {
   svg {
     transform: translateY(-1.5px) translateX(-1.5px);
     fill: $purple; /* Set the color to the defined purple */
-    filter: drop-shadow(0 0 5px $neon-red); /* Apply a shadow effect */
+    filter: drop-shadow(0 0 5px $purple); /* Apply a shadow effect */
   }
 }
 
