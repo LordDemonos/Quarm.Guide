@@ -130,11 +130,9 @@ header {
   height: 20px;
   border-radius: 50%; /* Ensure border-radius is 50% to create a circle */
   transition: opacity 0.3s ease;
-}
 
   svg {
-    /* Apply transformations to move the drawn elements */
-    transform: translateY(1px) translateX(-1px); /* Adjust the translation values as needed */
+    transform: translateY(1px) translateX(-1px);
   }
 }
 
