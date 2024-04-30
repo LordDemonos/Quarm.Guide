@@ -7,17 +7,18 @@ document.addEventListener('DOMContentLoaded', function() {
         // Create the link icon
         const linkIcon = document.createElement('img');
         linkIcon.src = '{{ site.baseurl }}/assets/images/blacktocat.png'; // Update the path to your custom PNG icon
-        linkIcon.alt = 'linkme'; // Add alt text for accessibility if needed
+        linkIcon.alt = ''; // Add alt text for accessibility if needed
         linkIcon.classList.add('anchor-link-icon');
         
         // Append the icon to the container
         iconContainer.appendChild(linkIcon);
         
-        // Insert the container before the heading
+        // Insert the container before the heading text
         heading.parentNode.insertBefore(iconContainer, heading);
         
         // Add margin to the right of the icon for spacing
         iconContainer.style.marginRight = '5px';
+        iconContainer.style.display = 'inline-block'; // Ensure the container and icon appear on the same line
         
         // Add a click event listener to the container to scroll to the heading
         iconContainer.addEventListener('click', function() {
@@ -28,5 +29,3 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     });
 });
-
-
