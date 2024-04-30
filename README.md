@@ -72,7 +72,7 @@
    - [Rules](#rules)
    - [Raid Rules](#raid-rules)
 10. [FAQ, Troubleshooting, and Obscure Situations](#faq-troubleshooting-and-obscure-situations)
-11. [Suggestions Feedback and Additional Help](#suggestions-feedback-and-help)
+11. [Suggestions Feedback and Additional Help](#suggestions-feedback-and-additional-help)
 
 ## A Brief Introduction to Project Quarm ![Quarm](/img/Quarm.png)
 
