@@ -126,8 +126,9 @@ header {
   color: white;
   cursor: pointer;
   opacity: 0.5;
-  padding: -1px; /* Adjust the padding to make the button smaller */
-  border-radius: 15%;
+  width: 10px; /* Set the width and height to create a circle */
+  height: 10px;
+  border-radius: 50%; /* Ensure border-radius is 50% to create a circle */
   transition: opacity 0.3s ease;
 }
 
