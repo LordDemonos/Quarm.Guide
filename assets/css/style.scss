@@ -132,6 +132,12 @@ header {
   transition: opacity 0.3s ease;
 }
 
+  svg {
+    /* Apply transformations to move the drawn elements */
+    transform: translateY(1px) translateX(-1px); /* Adjust the translation values as needed */
+  }
+}
+
 #back-to-top-btn:hover {
   opacity: 1;
 }
