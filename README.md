@@ -409,7 +409,7 @@ To install Classic HD Textures, first make sure you're downloading the [The Al'K
 EQ Basic is a FULL graphics overhaul of Everquest, specifically for P99 Green/Blue (Classic, Kunark, Velious). This includes all zones, objects, character models, equipment(Including epics), mobs and spell effects! 
 
 - [Source](https://www.reddit.com/r/project1999/comments/10rz5r0/eq_basic_v11_an_eq_graphics_overhaul_project/)
-- [Download](https://drive.google.com/file/d/1PbP9Pwnjkaw4-cgN7_as8SL8PAKQlYGB/view)
+- [Download](https://drive.google.com/file/d/1PbP9Pwnjkaw4-cgN7_as8SL8PAKQlYGB/view) [Quarm Fixes](https://drive.google.com/file/d/1mi4EscvQPlNFDz4oGoS_egAN9YNzQYBM/view)
 
 To install EQ Basic 1.1 download and extract the `.7z` archive to your TAKP folder, overwriting files when prompted.
 
