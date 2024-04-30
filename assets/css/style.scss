@@ -38,9 +38,35 @@ header h1 {
     text-shadow: 0 0 5px $purple; 
 }
 
+.btn-github {
+  position: relative; /* Ensure the parent container has a positioning context */
+}
+
 .btn-github .icon {
-    opacity: 0.6;
-    background: url(/assets/images/blacktocat.png) 0 0 no-repeat;
+  opacity: 0.6;
+  background: url(/assets/images/blacktocat.png) 0 0 no-repeat;
+}
+
+.btn-github::after {
+  content: ''; /* Create a pseudo-element for the glowing effect */
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border-radius: inherit;
+  background: $purple; /* Use the $purple color for the glowing effect */
+  box-shadow: 0 0 10px 5px $purple; /* Adjust the size and color of the glow */
+  animation: glow 2s infinite alternate; /* Adjust animation duration and timing */
+}
+
+@keyframes glow {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
 }
 
 body {
