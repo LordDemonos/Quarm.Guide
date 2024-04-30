@@ -62,8 +62,8 @@ body {
 .anchor-link-icon {
   margin-right: 5px;
   vertical-align: middle;
-  color: $purple; /* Use the $purple variable for the icon color */
-  text-shadow: 0 0 5px $dark-purple; /* Add a text shadow effect using a darker shade of purple */
+  color: $purple !important;
+  text-shadow: 0 0 5px $dark-purple !important;
 }
 
 a {
