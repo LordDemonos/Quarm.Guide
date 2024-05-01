@@ -156,25 +156,3 @@ header {
   color: inherit;
   text-decoration: none;
 }
-
-// Search Bar Styles
-.search-input {
-  background-color: none;
-  border: 1px solid $dark-orange-red;
-  border-radius: 5px;
-  padding: 5px 10px;
-  color: inherit;
-
-  // Option 1: Using a shadow (adjust blur and spread as needed)
-  box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
-
-  // Option 2: Using a glow (adjust blur and spread as needed)
-  // text-shadow: 0 0 5px rgba($dark-red-orange, 0.7);
-}
-
-// Highlight Styles
-.highlight {
-  background-color: rgba($dark-orange-red, 0.2);
-  padding: 1px 2px;
-}
-
