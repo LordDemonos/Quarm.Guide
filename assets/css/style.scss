@@ -17,6 +17,10 @@ $dark-gray: #333; // Dark gray color for contrast
   text-shadow: 0 0 5px black; // Adjust the shadow size as needed
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 // Override inline styles
 .site-header {
   background-color: $orange-red !important;
