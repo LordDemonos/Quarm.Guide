@@ -29,6 +29,7 @@
         - [How Do I install an Interface?](#how-do-i-install-an-interface)
         - [Where should my files be saved?](#where-should-my-files-be-saved)
         - [Duplicating your UI Settings for New Characters](#duplicating-your-ui-settings-for-new-characters)
+        - [Where to get Quarm User Interfaces](#where-to-get-quarm-user-interfaces)
     - [Step 3: Characters, Logs, Spell Sets, and Screenshots](#step-3-characters-logs-spell-sets-and-screenshots)
         - [Character ini for Friends Abilities Socials and Macro Settings](#character-ini-for-friends-abilities-socials-and-macro-settings)
         - [Chat Logs](#chat-logs)
@@ -394,6 +395,25 @@ The should be saved in a single level folder. One of the most common reason that
 Inevitably you'll create multiple characters during your time on Project Quarm. However you do not have to choose a UI and move every window for each character. You can easily copy all of your UI positions by understanding your UI log files. In your TAKP folder you will find files with the naming convention `UI_charactername_pq.proj.ini`. If you identify the one for your main character, the one who has their UI set and all the window positions perfect, you can simply make a copy of this file and rename it to the name of your second character. When you log into the new character, your UI and window positions should now match your first character. 
 
 `UI_Xanax_pq.proj.ini` Copy, Paste `UI_Xanax_pq.proj - Copy.ini` rename to `UI_Xantagonist_pq.proj.ini`
+
+#### Where to get Quarm User Interfaces
+
+Its tricky searching around Project Quarm's Discord but I can provide a list that will get you started.
+
+#ui-discussion (https://discord.com/channels/1133452007412334643/1162826324092657757)
+
+NillipussUI = ⁠⁠[#ui-discussion](https://discord.com/channels/1133452007412334643/1162826324092657757/1224809011392807003)
+Custom Nillipus Setup = Newborn: ⁠[#ui-discussion](⁠https://discord.com/channels/1133452007412334643/1162826324092657757/1210675276699148370)
+LeeWong's Custom UI's [Black Edition] = ⁠[#ui-discussion]⁠(https://discord.com/channels/1133452007412334643/1162826324092657757/1175527533375144047)
+EQ Graphics Overhaul Project = ⁠[#ui-discussion]⁠(https://discord.com/channels/1133452007412334643/1162826324092657757/1209541926538313789)
+QQQuarm qqui = [#ui-discussion](⁠https://discord.com/channels/1133452007412334643/1162826324092657757/1192162645764218962)
+QQUI Velious UI Edit p99 - [#ui-discussion](⁠⁠https://discord.com/channels/1133452007412334643/1162826324092657757/1166400636913455236)
+CalmetharED for Quarm - [#ui-discussion](https://www.eqinterface.com/downloads/fileinfo.php?id=6959)
+Murmurs / Franken UI - ⁠[#ui-discussion](⁠https://discord.com/channels/1133452007412334643/1162826324092657757/1228748380310733022)
+
+Other Quarm UIs from EQInterface - [EQ Interfaces for Quarm TAKP/P2002](https://www.eqinterface.com/downloads/index.php?cid=115&dp=0&sh=full&so=desc&sb=lastupdate)
+
+[Credits to Kyinen](https://discord.com/channels/1133452007412334643/1162826324092657757/1228694493117681686)
 
 ### Step 3: Characters, Logs, Spell Sets, and Screenshots
 
