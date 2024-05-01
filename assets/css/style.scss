@@ -12,6 +12,11 @@ $neon-red: #BE0A00; // Vibrant neon-red color for code blocks
 $dark-purple: #6a1b9a; /* Replace with a darker shade of your purple color */
 $dark-gray: #333; // Dark gray color for contrast
 
+// Define a mixin to add the black glow effect
+@mixin text-glow {
+  text-shadow: 0 0 5px black; // Adjust the shadow size as needed
+}
+
 // Override inline styles
 .site-header {
   background-color: $orange-red !important;
@@ -49,10 +54,13 @@ body {
   margin:0;
   padding:0;
   background:#151515 url("/assets/images/bkg.png") 0 0;
-  color:#eaeaea;
   font-size:16px;
   line-height:1.5;
   font-family:Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace
+  color: #ffffff; // Set regular text color to white
+  p, span, li, td { // Target paragraphs, spans, list items, table cells, etc.
+    @include text-glow; // Apply the text-glow mixin
+  }
 }
 
 .site-title, .site-title:visited {
