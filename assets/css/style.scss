@@ -57,9 +57,9 @@ body {
   font-size:16px;
   line-height:1.5;
   font-family:Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace
-  color: #ffffff; // Set regular text color to white
-  p, span, li, td { // Target paragraphs, spans, list items, table cells, etc.
-    @include text-glow; // Apply the text-glow mixin
+  color: #ffffff;
+  p, span, li, td { 
+    @include text-glow; 
   }
 }
 
