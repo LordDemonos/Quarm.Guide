@@ -400,18 +400,17 @@ Inevitably you'll create multiple characters during your time on Project Quarm. 
 
 Its tricky searching around Project Quarm's Discord but I can provide a list that will get you started.
 
-#ui-discussion (https://discord.com/channels/1133452007412334643/1162826324092657757)
+- [#ui-discussion](https://discord.com/channels/1133452007412334643/1162826324092657757)
 
-- NillipussUI - ⁠⁠[#ui-discussion](https://discord.com/channels/1133452007412334643/1162826324092657757/1224809011392807003)
-- Custom Nillipus Setup Newborn - ⁠[#ui-discussion](⁠https://discord.com/channels/1133452007412334643/1162826324092657757/1210675276699148370)
-- LeeWong's Custom UI's Black Edition - ⁠[#ui-discussion]⁠(https://discord.com/channels/1133452007412334643/1162826324092657757/1175527533375144047)
-- EQ Graphics Overhaul Project - ⁠[#ui-discussion]⁠(https://discord.com/channels/1133452007412334643/1162826324092657757/1209541926538313789)
-- QQQuarm qqui - [#ui-discussion](⁠https://discord.com/channels/1133452007412334643/1162826324092657757/1192162645764218962)
-- QQUI Velious UI Edit p99 - [#ui-discussion](⁠⁠https://discord.com/channels/1133452007412334643/1162826324092657757/1166400636913455236)
-- CalmetharED for Quarm - [#ui-discussion](https://www.eqinterface.com/downloads/fileinfo.php?id=6959)
-- Murmurs / Franken UI - ⁠[#ui-discussion](⁠https://discord.com/channels/1133452007412334643/1162826324092657757/1228748380310733022)
+- - NillipussUI - [ui-discussion](https://discord.com/channels/1133452007412334643/1162826324092657757/1224809011392807003)
+- Custom Nillipus Setup Newborn - [ui-discussion](https://discord.com/channels/1133452007412334643/1162826324092657757/1210675276699148370)
+- LeeWong's Custom UI's Black Edition - [ui-discussion](https://discord.com/channels/1133452007412334643/1162826324092657757/1175527533375144047)
+- EQ Graphics Overhaul Project - [ui-discussion](https://discord.com/channels/1133452007412334643/1162826324092657757/1209541926538313789)
+- QQUI Velious UI Edit p99 - [ui-discussion](⁠⁠https://discord.com/channels/1133452007412334643/1162826324092657757/1166400636913455236)
+- CalmetharED for Quarm - [ui-discussion](https://www.eqinterface.com/downloads/fileinfo.php?id=6959)
+- Murmurs / Franken UI - ⁠[ui-discussion](⁠https://discord.com/channels/1133452007412334643/1162826324092657757/1228748380310733022)
 
-Other Quarm UIs from EQInterface - [EQ Interfaces for Quarm TAKP/P2002](https://www.eqinterface.com/downloads/index.php?cid=115&dp=0&sh=full&so=desc&sb=lastupdate)
+- Other Quarm UIs from EQInterface - [EQ Interfaces for Quarm TAKP/P2002](https://www.eqinterface.com/downloads/index.php?cid=115&dp=0&sh=full&so=desc&sb=lastupdate)
 
 [Credits to Kyinen](https://discord.com/channels/1133452007412334643/1162826324092657757/1228694493117681686)
 
