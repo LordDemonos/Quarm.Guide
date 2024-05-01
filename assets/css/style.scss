@@ -72,32 +72,32 @@ p, span, li, td {
 .anchor-link-icon {
   margin-right: 5px;
   vertical-align: middle;
-  filter: drop-shadow(0 0 5px $purple); /* Apply a drop shadow filter with the $dark-purple color */
+  filter: drop-shadow(0 0 7px $purple); /* Apply a drop shadow filter with the $dark-purple color */
 }
 
 a {
   color: $purple ;
-  text-shadow: 0 0 5px $purple ;
+  text-shadow: 0 0 7px $purple ;
 }
 
 h1, h2 {
   color: $dark-orange-red !important;
-  text-shadow: 0 0 5px $dark-orange-red;
+  text-shadow: 0 0 7px $dark-orange-red;
 }
 
 h3 {
   color: $orange-red !important;
-  text-shadow: 0 0 5px $orange-red;
+  text-shadow: 0 0 7px $orange-red;
 }
 
 h4, h5, {
   color: $light-orange-red !important;
-  text-shadow: 0 0 5px $orange-red;
+  text-shadow: 0 0 7px $orange-red;
 }
 
 h6 {
   color: $dark-orange-red !important;
-  text-shadow: 0 0 5px $dark-orange-red;
+  text-shadow: 0 0 7px $dark-orange-red;
 }
 
 code.highlighter-rouge {
@@ -107,7 +107,7 @@ code.highlighter-rouge {
   margin: 0px -3px;
   color: $neon-red;
   border-radius: 2px;
-  text-shadow: 0 0 5px $neon-red; // Add glow effect to text within code blocks
+  text-shadow: 0 0 7px $neon-red; // Add glow effect to text within code blocks
 }
 
 ul li {
