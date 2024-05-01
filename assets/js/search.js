@@ -1,5 +1,6 @@
-// assets/js/search.js
+// Your existing JavaScript code...
 
+// Search functionality
 // Extract text content from markdown file
 var content = document.getElementById('main_content').innerText.toLowerCase();
 
@@ -15,34 +16,63 @@ words.forEach((word, index) => {
   index[word].push(index);
 });
 
-// Function to highlight matches in sidebar
+// Function to highlight matches in sidebar (or content for your case)
 function highlightMatches(query) {
   var matches = index[query.toLowerCase()];
   if (matches) {
-    // Highlight matches in sidebar
+    var contentElement = document.getElementById('main_content');
+    
+    // Remove previous highlights
+    contentElement.innerHTML = contentElement.innerHTML.replace(/<span class="highlight">([^<]+)<\/span>/g, '$1');
+    
     matches.forEach((match) => {
-      // Highlight corresponding section in sidebar
-      // You may need to adjust this based on your sidebar structure
-      // Example: document.getElementById('sidebar').children[match].classList.add('highlight');
+      // Wrap matching words in span with "highlight" class
+      var regex = new RegExp(query, 'gi'); // Case-insensitive global search
+      contentElement.innerHTML = contentElement.innerHTML.replace(regex, '<span class="highlight">$&</span>');
     });
+  } else {
+    // Remove previous highlights if no match
+    var contentElement = document.getElementById('main_content');
+    contentElement.innerHTML = contentElement.innerHTML.replace(/<span class="highlight">([^<]+)<\/span>/g, '$1');
   }
 }
+
+// Track current highlighted match and element
+var currentMatchIndex = -1;
+var currentHighlightElement = null;
 
 // Function to handle search input
 document.getElementById('search-input').addEventListener('input', function() {
   var query = this.value.trim();
   highlightMatches(query);
+
+  // Update currentMatchIndex based on matches
+  currentMatchIndex = matches ? 0 : -1;
 });
 
 // Function to handle keyboard shortcuts for navigation
 document.addEventListener('keydown', function(event) {
-  if (event.key === 'Enter') {
-    // Move to the next match
-    // Implement logic to navigate through matches
-  } else if (event.key === 'Tab') {
-    // Cycle through matches
-    // Implement logic to cycle through matches
+  if (event.key === 'Enter' && currentMatchIndex > -1) {
+    // Scroll to the content section corresponding to the current match
+    var contentElement = document.getElementById('main_content').children[currentMatchIndex];
+    contentElement.scrollIntoView({ behavior: 'smooth' });
+
+    // Optionally, uncomment to cycle through matches with repeated Enter press
+    // currentMatchIndex++;
+  } else if (event.key === 'Tab' && currentHighlightElement) {
+    // Remove highlight from current element
+    currentHighlightElement.classList.remove('highlight');
+
+    // Find the next sibling with "highlight" class (assuming elements listed sequentially)
+    var nextHighlight = currentHighlightElement.nextElementSibling;
+    if (nextHighlight && nextHighlight.classList.contains('highlight')) {
+      currentHighlightElement = nextHighlight;
+    } else {
+      // If no next highlight, loop back to the first one
+      currentHighlightElement = document.querySelector('#main_content li.highlight');
+    }
+
+    // Add highlight to the new element
+    currentHighlightElement.classList.add('highlight');
   }
 });
-
-
