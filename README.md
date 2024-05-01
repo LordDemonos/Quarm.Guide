@@ -194,7 +194,7 @@ However Zeal does not come with user interface files for every Zeal feature and 
 
 ![uierrors](/img/step4/uierrors.png)
 
-If you are following this guide, you can download a replacement UI from various sources such as [qqui Calmethar](https://www.eqinterface.com/downloads/fileinfo.php?id=6959), [eqinterface.com](https://eqinterface.com/downloads/index.php?cid=115&dp=0&sh=full&so=desc&sb=lastupdate), or from [#ui-discussion](https://discord.com/channels/1133452007412334643/1162826324092657757). Just make sure to check the date and description for Zeal additions.
+There are several EQ User Interfaces that have been modified to work with Project Quarm and Zeal. A list of these can be found down under [Where to get Quarm User Interfaces](#where-to-get-quarm-user-interfaces). If you are looking for something simple and quick to get started with, I have compressed a more complete collection of duxaUI files, the default UI for Quarm/TAKP clients, found [here](https://quarm.guide/duxaUI.7z). 
 
 If you are already using a custom user interface, you can determine which UI elements are missing Zeal features and causing errors by analyzing the `UIErrors.txt file` found within the root of your TAKP folder. An easy fix is to download another UI that has everything working such as [qqui Calmethar](https://www.eqinterface.com/downloads/fileinfo.php?id=6959), and just move the files you need into the UI folder you are using. Most user interfaces can be pieced together from different sources to achieve the look and feel you prefer.
 
@@ -402,14 +402,14 @@ Its tricky searching around Project Quarm's Discord but I can provide a list tha
 
 #ui-discussion (https://discord.com/channels/1133452007412334643/1162826324092657757)
 
-NillipussUI = ⁠⁠[#ui-discussion](https://discord.com/channels/1133452007412334643/1162826324092657757/1224809011392807003)
-Custom Nillipus Setup = Newborn: ⁠[#ui-discussion](⁠https://discord.com/channels/1133452007412334643/1162826324092657757/1210675276699148370)
-LeeWong's Custom UI's [Black Edition] = ⁠[#ui-discussion]⁠(https://discord.com/channels/1133452007412334643/1162826324092657757/1175527533375144047)
-EQ Graphics Overhaul Project = ⁠[#ui-discussion]⁠(https://discord.com/channels/1133452007412334643/1162826324092657757/1209541926538313789)
-QQQuarm qqui = [#ui-discussion](⁠https://discord.com/channels/1133452007412334643/1162826324092657757/1192162645764218962)
-QQUI Velious UI Edit p99 - [#ui-discussion](⁠⁠https://discord.com/channels/1133452007412334643/1162826324092657757/1166400636913455236)
-CalmetharED for Quarm - [#ui-discussion](https://www.eqinterface.com/downloads/fileinfo.php?id=6959)
-Murmurs / Franken UI - ⁠[#ui-discussion](⁠https://discord.com/channels/1133452007412334643/1162826324092657757/1228748380310733022)
+- NillipussUI - ⁠⁠[#ui-discussion](https://discord.com/channels/1133452007412334643/1162826324092657757/1224809011392807003)
+- Custom Nillipus Setup Newborn - ⁠[#ui-discussion](⁠https://discord.com/channels/1133452007412334643/1162826324092657757/1210675276699148370)
+- LeeWong's Custom UI's Black Edition - ⁠[#ui-discussion]⁠(https://discord.com/channels/1133452007412334643/1162826324092657757/1175527533375144047)
+- EQ Graphics Overhaul Project - ⁠[#ui-discussion]⁠(https://discord.com/channels/1133452007412334643/1162826324092657757/1209541926538313789)
+- QQQuarm qqui - [#ui-discussion](⁠https://discord.com/channels/1133452007412334643/1162826324092657757/1192162645764218962)
+- QQUI Velious UI Edit p99 - [#ui-discussion](⁠⁠https://discord.com/channels/1133452007412334643/1162826324092657757/1166400636913455236)
+- CalmetharED for Quarm - [#ui-discussion](https://www.eqinterface.com/downloads/fileinfo.php?id=6959)
+- Murmurs / Franken UI - ⁠[#ui-discussion](⁠https://discord.com/channels/1133452007412334643/1162826324092657757/1228748380310733022)
 
 Other Quarm UIs from EQInterface - [EQ Interfaces for Quarm TAKP/P2002](https://www.eqinterface.com/downloads/index.php?cid=115&dp=0&sh=full&so=desc&sb=lastupdate)
 
