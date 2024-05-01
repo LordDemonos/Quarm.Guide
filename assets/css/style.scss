@@ -56,12 +56,14 @@ body {
   background:#151515 url("/assets/images/bkg.png") 0 0;
   font-size:16px;
   line-height:1.5;
-  font-family:Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace
+  font-family:Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace; // Add semicolon here
   color: #ffffff;
-  p, span, li, td { 
-    @include text-glow; 
-  }
 }
+
+p, span, li, td { 
+  @include text-glow; 
+}
+
 
 .site-title, .site-title:visited {
   color: $orange-red !important;
