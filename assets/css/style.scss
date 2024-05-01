@@ -14,7 +14,7 @@ $dark-gray: #333; // Dark gray color for contrast
 
 // Define a mixin to add the black glow effect
 @mixin text-glow {
-  text-shadow: 0 0 7px black; // Adjust the shadow size as needed
+  text-shadow: 0 0 5px black; // Adjust the shadow size as needed
 }
 
 // Override inline styles
@@ -33,7 +33,7 @@ header h1:before {
 header h1 {
     margin-left: 1px;
     color: $dark-orange-red !important;
-    text-shadow: 0 0 7px $dark-orange-red; 
+    text-shadow: 0 0 5px $dark-orange-red; 
 }
 
 #downloads .btn {
@@ -41,13 +41,13 @@ header h1 {
     text-align: center;
     margin: 0;
     color: $purple; 
-    text-shadow: 0 0 7px $purple; 
+    text-shadow: 0 0 5px $purple; 
 }
 
 .btn-github .icon {
     opacity: 0.6;
     background: url(/assets/images/blacktocat.png) 0 0 no-repeat;
-    filter: drop-shadow(0 0 7px $purple); /* Apply a drop shadow filter with the $purple color */
+    filter: drop-shadow(0 0 5px $purple); /* Apply a drop shadow filter with the $purple color */
 }
 
 body {
@@ -72,32 +72,32 @@ p, span, li, td {
 .anchor-link-icon {
   margin-right: 5px;
   vertical-align: middle;
-  filter: drop-shadow(0 0 7px $purple); /* Apply a drop shadow filter with the $dark-purple color */
+  filter: drop-shadow(0 0 5px $purple); /* Apply a drop shadow filter with the $dark-purple color */
 }
 
 a {
   color: $purple ;
-  text-shadow: 0 0 7px $purple ;
+  text-shadow: 0 0 5px $purple ;
 }
 
 h1, h2 {
   color: $dark-orange-red !important;
-  text-shadow: 0 0 7px $dark-orange-red;
+  text-shadow: 0 0 5px $dark-orange-red;
 }
 
 h3 {
   color: $orange-red !important;
-  text-shadow: 0 0 7px $orange-red;
+  text-shadow: 0 0 5px $orange-red;
 }
 
 h4, h5, {
   color: $light-orange-red !important;
-  text-shadow: 0 0 7px $orange-red;
+  text-shadow: 0 0 5px $orange-red;
 }
 
 h6 {
   color: $dark-orange-red !important;
-  text-shadow: 0 0 7px $dark-orange-red;
+  text-shadow: 0 0 5px $dark-orange-red;
 }
 
 code.highlighter-rouge {
@@ -107,7 +107,7 @@ code.highlighter-rouge {
   margin: 0px -3px;
   color: $neon-red;
   border-radius: 2px;
-  text-shadow: 0 0 7px $neon-red; // Add glow effect to text within code blocks
+  text-shadow: 0 0 5px $neon-red; // Add glow effect to text within code blocks
 }
 
 ul li {
