@@ -18,7 +18,7 @@ $dark-gray: #333; // Dark gray color for contrast
 }
 
 html {
-  scroll-behavior: smooth;
+  scroll-behavior: smooth !important;
 }
 
 // Override inline styles
