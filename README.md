@@ -1573,7 +1573,7 @@ Delete these from your main TAKP folder. Midis will be restored and they are not
 
 Still reading? I'd like to expand this guide and keep it maintained. What I need from you are more questions to populate the FAQ at the bottom. I need to install Visual Studio and document steps to attaching the game to it to log the data that Secrets and Salty need when the game crashes or bugs out. I'd like to host a fully updated ZlizEQMap [zonedata file](https://github.com/hada79/ZlizEQMap/blob/master/ZoneData/ZoneData-The%20Al'Kabor%20Project.txt) but this one isn't updated for Quarm. I have some other ideas too. Please submit suggestions/help/feedback to me via DM on X or Discord. Feel free to ask `Xanax/Xantagonist <Former Glory>` any questions, anywhere you find me in game! 
 
-#### @LordDemonos on [X](https://twitter.com/home)
+#### @LordDemonos on [X](https://twitter.com/LordDemonos)
 #### lorddemonos on [Discord](https://discord.com/)
 #### Special Thanks to `Zephon <Mayhem>` `Manie <Erud's Crossing Guard>` `Gamjee` `Calmethar.` `Talodar` `Salty`
 
