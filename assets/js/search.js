@@ -10,10 +10,15 @@ var words = content.split(/\s+/);
 // Create an index of words and their positions
 var index = {};
 words.forEach((word, index) => {
-  if (!index[word]) {
-    index[word] = [];
-  }
+  // Option 1 (Default value for index[word]):
+  index[word] = index[word] || []; // Assign empty array if word doesn't exist
   index[word].push(index);
+
+  // Option 2 (Check for undefined before pushing):
+  // if (typeof index[word] === 'undefined') {
+  //   index[word] = [];
+  // }
+  // index[word].push(index);
 });
 
 // Function to highlight matches in sidebar (or content for your case)
