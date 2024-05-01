@@ -13,4 +13,13 @@ window.onload = function() {
     e.preventDefault();
     window.scrollTo({ top: 0, behavior: 'smooth' });
   });
+
+  // Add this code to enable smooth scrolling for all scrolling behaviors
+  if ('scrollBehavior' in document.documentElement.style) {
+    // Modern browsers that support the scroll-behavior CSS property
+    document.documentElement.style.scrollBehavior = 'smooth';
+  } else {
+    // Older browsers that don't support the scroll-behavior CSS property
+    // You can add a polyfill or fallback here, if needed
+  }
 };
