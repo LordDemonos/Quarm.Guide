@@ -21,6 +21,10 @@
         </a>
         <h2>{{ site.description | default: site.github.project_tagline }}</h2>
 
+         <div class="terminal-search">
+          <input type="text" placeholder="Search..." id="search-input">
+        </div>
+
         <section id="downloads">
           {% if site.show_downloads %}
             <a href="{{ site.github.zip_url }}" class="btn">pqdi.cc</a>
