@@ -6,7 +6,7 @@ document.addEventListener('mousewheel', function(event) {
   // Increase the multiplier (e.g., 0.5 or higher) to make scrolling slower, providing a smoother and more controlled scrolling experience for users.
   // Decrease the multiplier (e.g., 0.1 or lower) to make scrolling faster, allowing users to navigate through content more quickly but potentially sacrificing smoothness.
   const deltaY = event.deltaY * 0.1; // Adjust the scroll speed
-  const smooth = 0.5; // Lower value for smoother scrolling
+  const smooth = 1; // Lower value for smoother scrolling
 
   window.scrollBy({
     left: 0,
