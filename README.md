@@ -494,7 +494,7 @@ To install, open your TAKP folder, sort by type. Locate all the EMT files. Move 
 
 #### Old Skeleton Models
 
-Simple tool for patching `gequip5.s3d` and `global6_chr.s3d` to enable classic EverQuest skeletons.
+Simple tool for patching `gequip5.s3d` and `global6_chr.s3d` to enable classic EverQuest skeletons. ItsKensterr has provided the [patched files here](https://drive.google.com/file/d/1xoypYSaO6RMKRKVICEqk7kYK4pcbZc8l/view), so you can easily drop into your TAKP installation folder. I still want to provide their original project below.
 
 - [GitHub Link](https://github.com/nickgal/EqSkelePatcher/releases)
 
