@@ -157,7 +157,10 @@ header {
   text-decoration: none;
 }
 
-// assets/css/styles.scss
+.highlight {
+  background-color: yellow;
+  padding: 0.2em;
+}
 
 .terminal-search {
   position: fixed;
