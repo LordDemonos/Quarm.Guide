@@ -1275,6 +1275,7 @@ The current zones considered to be raid zones are:
 - [Are there hell levels?](#are-there-hell-levels)
 - [Do pets take a portion of experience?](#do-pets-take-a-portion-of-experience)
 - [How do I turn off the loud music at character select or character creation?](#how-do-i-turn-off-the-loud-music-at-character-select-or-character-creation)
+- [How does viewport work?](#how-does-viewport-work)
 
 
 ### Where can I learn more about Project Quarm?
@@ -1566,6 +1567,45 @@ If you have no mouse pointer after this more than likely the X,Y or the CX,CY va
 - deaththeme.mp3
 
 Delete these from your main TAKP folder. Midis will be restored and they are not as loud and "sound much better".
+
+### How does viewport work?
+**A:**
+
+There are a few resources on adjusting the screen area insted of the resolution, to better format your EverQuest viewing experience. I think [Cairenn on eqinterface](https://www.eqinterface.com/forums/showthread.php?t=4180) explained its usage the best. 
+
+When you type the /viewport command, it tells you it wants 4 numbers: x, y, w, and h.
+
+x = where you want the viewing area to start from the left of the screen
+y = where you want the viewing area to start from the top of the screen
+
+So, 0, 0 would mean that it starts in the very top farthest left corner of your screen.
+
+w = how wide you want the viewing area to be from x
+h = how high you want the viewing area to be from y
+
+So, 1280x1024 means that your viewing area would be 1280 pixels wide and 1024 pixels high.
+
+Put it together, and you get:
+/viewport 0 0 1280 1024
+
+This is telling your computer to start drawing the viewing area at the top left corner and to make it 1280 wide and 1024 high.
+
+If you put in a viewport of /viewport 0 0 1000 750, it would be telling your computer that it wants it to start drawing the viewing area at the top left corner, but to only make it 1000 pixels wide and 750 pixels high. This would let you put stuff down the right-hand side of the screen and across the bottom, without them hiding the viewing area at all.
+
+Now, say you wanted to put some stuff down the left-hand side of the screen, and across the top, but again, you don't want to have it hide stuff on the screen. Let's say that the items you are putting down the right-hand side are 20 pixels wide, and the ones across the top are 24 pixels high. What you would type is:
+/viewport 20 24
+
+That tells it to move over 20 pixels and down 24. But you still need the last two numbers, right?
+
+You figure that out by taking the width and height of your screen and subtracting the two amounts above.
+
+So, if you have a viewing area that is 1280 wide by 1024 high, you would go:
+1280 wide minus 20 (the amount you are moving it over) = 1260
+and
+1024 high minus 24 (the amount you have moved it down) = 1000
+
+Which means that your complete command line would be
+/viewport 20 24 1260 1000
 
 ## Suggestions Feedback and Additional Help
 
