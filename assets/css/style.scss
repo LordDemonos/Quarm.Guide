@@ -157,30 +157,4 @@ header {
   text-decoration: none;
 }
 
-.highlight {
-  background-color: yellow;
-  padding: 0.2em;
-}
 
-.terminal-search {
-  position: fixed;
-  top: 20px;
-  right: 20px;
-}
-
-.terminal-search input[type="text"] {
-  background-color: transparent;
-  border: none;
-  border-bottom: 2px solid #FF281B; /* Red-orange border for the input field */
-  color: white;
-  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
-  font-size: 16px;
-  padding: 5px 10px;
-  width: 200px;
-  transition: border-color 0.3s ease; /* Add transition effect for border color */
-}
-
-.terminal-search input[type="text"]:focus {
-  border-color: #FF281B; /* Red-orange border color when input is focused */
-  outline: none;
-}
