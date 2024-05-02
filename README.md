@@ -546,6 +546,10 @@ ZlizEQMap is a map tool mainly designed for servers that emulate old versions of
 
 - [GitHub Link](https://github.com/hada79/ZlizEQMap)
 
+ This resource is Luclin + PoP maps & data to be used with the ZlizEQMap program.
+
+- [ZlizEQMap Luclin PoP Map Pack 1.1.2](https://www.takproject.net/forums/index.php?resources/zlizeqmap-luclin-pop-map-pack.12/)
+
 #### Keilly's Supplemental Maps for ZlizEQMap
 
 These are new maps made to work with ZlizEQMap and you'll find your location and coordinates will be more accurate using these over the EQAtlas maps. Maps are for the most part larger than the ones from EQAtlas used in ZlizEQMap, and are best suited for use on a second monitor.
