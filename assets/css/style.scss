@@ -72,17 +72,6 @@ p, span, li, td {
 .anchor-link-icon {
   margin-right: 5px;
   vertical-align: middle;
-  opacity: 0;
-  transition: opacity 0.3s ease;
-}
-
-h1:hover > a.anchor-link-icon,
-h2:hover > a.anchor-link-icon,
-h3:hover > a.anchor-link-icon,
-h4:hover > a.anchor-link-icon,
-h5:hover > a.anchor-link-icon,
-h6:hover > a.anchor-link-icon {
-  opacity: 1;
   color: $purple;
   text-shadow: 0 0 5px $dark-purple;
 }
