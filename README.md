@@ -546,7 +546,7 @@ ZlizEQMap is a map tool mainly designed for servers that emulate old versions of
 
 - [GitHub Link](https://github.com/hada79/ZlizEQMap)
 
- This resource is Luclin + PoP maps & data to be used with the ZlizEQMap program.
+This resource is Luclin + PoP maps & data to be used with the ZlizEQMap program.
 
 - [ZlizEQMap Luclin PoP Map Pack 1.1.2](https://www.takproject.net/forums/index.php?resources/zlizeqmap-luclin-pop-map-pack.12/)
 
