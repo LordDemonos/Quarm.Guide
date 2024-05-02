@@ -69,11 +69,18 @@ p, span, li, td {
   color: $orange-red !important;
 }
 
+
 .anchor-link-icon {
   margin-right: 5px;
   vertical-align: middle;
-  color: $purple;
-  text-shadow: 0 0 5px $dark-purple;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.anchor-link-icon.show {
+  opacity: 1;
+  color: $purple; /* Replace with your SCSS variable for purple color */
+  text-shadow: 0 0 5px $dark-purple; /* Replace with your SCSS variable for dark purple color */
 }
 
 a {
