@@ -6,18 +6,15 @@ document.addEventListener('DOMContentLoaded', function() {
     linkIcon.href = '#' + heading.id;
     linkIcon.innerHTML = '<svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-link"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg>';
     linkIcon.classList.add('anchor-link-icon');
-    linkIcon.style.opacity = '0'; // Set initial opacity to 0 (hidden)
 
     heading.prepend(linkIcon);
 
     heading.addEventListener('mouseenter', function() {
-      linkIcon.style.opacity = '1'; // Show the anchor link icon on hover
-      linkIcon.style.color = '#8a63d2'; // Replace with your desired purple color
-      linkIcon.style.textShadow = '0 0 5px #6a1b9a'; // Replace with your desired text shadow color
+      linkIcon.classList.add('show');
     });
 
     heading.addEventListener('mouseleave', function() {
-      linkIcon.style.opacity = '0'; // Hide the anchor link icon when moving away from the heading
+      linkIcon.classList.remove('show');
     });
   });
 });
