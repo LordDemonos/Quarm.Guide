@@ -72,13 +72,10 @@ p, span, li, td {
 .anchor-link-icon {
   margin-right: 5px;
   vertical-align: middle;
-  color: $purple;
-  text-shadow: 0 0 5px $dark-purple;
-  opacity: 0; /* Initially hide the anchor link icon */
-  transition: opacity 0.3s ease; /* Add a smooth transition effect */
+  opacity: 0;
+  transition: opacity 0.3s ease;
 }
 
-/* Show the anchor link icon when the corresponding heading is hovered over */
 h1:hover > a.anchor-link-icon,
 h2:hover > a.anchor-link-icon,
 h3:hover > a.anchor-link-icon,
@@ -86,6 +83,8 @@ h4:hover > a.anchor-link-icon,
 h5:hover > a.anchor-link-icon,
 h6:hover > a.anchor-link-icon {
   opacity: 1;
+  color: $purple;
+  text-shadow: 0 0 5px $dark-purple;
 }
 
 a {
