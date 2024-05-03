@@ -5,31 +5,37 @@ layout: "null"
 // Import the base styles
 @import "git-wiki-style.scss";
 
-// Define your color variables
+// Define color variables for light mode
 $light-orange-red: #e06666;
-$orange-red: #FF5349;
-$dark-orange-red: #FF281B;
-$purple: #8a63d2;
-$neon-red: #BE0A00;
-$dark-purple: #6a1b9a;
-$dark-gray: #333;
+$light-orange-red: #FF5349;
+$light-dark-orange-red: #FF281B;
+$light-purple: #8a63d2;
+$light-neon-red: #BE0A00;
+$light-dark-purple: #6a1b9a;
+$light-dark-gray: #333;
 
-// Default styles (applied to both light and dark mode)
-body {
-  a {
-    color: $dark-gray;
-  }
-}
+// Define color variables for dark mode
+$dark-orange-red: #FF281B;
+$dark-orange-red: #e06666;
+$dark-dark-orange-red: #FF5349;
+$dark-purple: #6a1b9a;
+$dark-neon-red: #BE0A00;
+$dark-dark-purple: #8a63d2;
+$dark-dark-gray: #eee;
 
 // Light mode styles
 @media (prefers-color-scheme: light) {
   body {
+    a {
+      color: $light-dark-gray;
+    }
+
     h1, h2 {
-      color: $dark-orange-red !important;
+      color: $light-dark-orange-red !important;
     }
 
     h3 {
-      color: $orange-red !important;
+      color: $light-orange-red !important;
     }
 
     h4, h5 {
@@ -37,11 +43,11 @@ body {
     }
 
     h6 {
-      color: $dark-orange-red !important;
+      color: $light-dark-orange-red !important;
     }
 
     code.highlighter-rouge {
-      color: $neon-red;
+      color: $light-neon-red;
     }
   }
 }
@@ -50,28 +56,28 @@ body {
 @media (prefers-color-scheme: dark) {
   body {
     a {
-      color: $purple;
-      text-shadow: 0 0 5px $purple;
+      color: $dark-purple;
+      text-shadow: 0 0 5px $dark-purple;
     }
 
     h1, h2 {
-      color: $dark-orange-red !important;
-      text-shadow: 0 0 5px $dark-orange-red;
+      color: $dark-dark-orange-red !important;
+      text-shadow: 0 0 5px $dark-dark-orange-red;
     }
 
     h3 {
-      color: $orange-red !important;
-      text-shadow: 0 0 5px $orange-red;
+      color: $dark-orange-red !important;
+      text-shadow: 0 0 5px $dark-orange-red;
     }
 
     h4, h5 {
-      color: $light-orange-red !important;
-      text-shadow: 0 0 5px $orange-red;
+      color: $dark-orange-red !important;
+      text-shadow: 0 0 5px $dark-orange-red;
     }
 
     h6 {
-      color: $dark-orange-red !important;
-      text-shadow: 0 0 5px $dark-orange-red;
+      color: $dark-dark-orange-red !important;
+      text-shadow: 0 0 5px $dark-dark-orange-red;
     }
 
     code.highlighter-rouge {
@@ -79,9 +85,9 @@ body {
       border: 1px solid rgba(255, 255, 255, 0.15);
       padding: 0px 3px;
       margin: 0px -3px;
-      color: $neon-red;
+      color: $dark-neon-red;
       border-radius: 2px;
-      text-shadow: 0 0 5px $neon-red;
+      text-shadow: 0 0 5px $dark-neon-red;
     }
   }
 }
