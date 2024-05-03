@@ -98,7 +98,9 @@ defaults:
     values:
       layout: "git-wiki-blog"
 sass:
-    style: compressed
+  sass_dir: _sass
+  style: compressed
+
 plugins:
   - jekyll-avatar
   - jekyll-coffeescript
