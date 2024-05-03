@@ -14,51 +14,33 @@ $neon-red: #BE0A00;
 $dark-purple: #6a1b9a;
 $dark-gray: #333;
 
-// Default styles (applied to both light and dark mode)
-body {
-  a {
-    color: $dark-gray;
-  }
-
-  // Add your other default styles here
-}
-
-// Dark mode styles
-@media (prefers-color-scheme: dark) {
+// Light mode styles
+@media (prefers-color-scheme: light) {
   body {
     a {
-      color: $purple;
-      text-shadow: 0 0 5px $purple;
+      color: $dark-gray;
     }
 
     h1, h2 {
       color: $dark-orange-red !important;
-      text-shadow: 0 0 5px $dark-orange-red;
     }
 
     h3 {
       color: $orange-red !important;
-      text-shadow: 0 0 5px $orange-red;
     }
 
     h4, h5 {
       color: $light-orange-red !important;
-      text-shadow: 0 0 5px $orange-red;
     }
 
     h6 {
       color: $dark-orange-red !important;
-      text-shadow: 0 0 5px $dark-orange-red;
     }
 
     code.highlighter-rouge {
-      background: rgba(0, 0, 0, 0.9);
-      border: 1px solid rgba(255, 255, 255, 0.15);
-      padding: 0px 3px;
-      margin: 0px -3px;
       color: $neon-red;
-      border-radius: 2px;
-      text-shadow: 0 0 5px $neon-red;
     }
   }
 }
+
+// Dark mode styles (leave them empty to inherit from the theme's default dark mode styles)
