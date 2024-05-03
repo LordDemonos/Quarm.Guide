@@ -1,4 +1,5 @@
-remote_theme: Drassil/git-wiki-theme@master
+# remote_theme: Drassil/git-wiki-theme@master
+remote_theme: benbalter/retlab
 # (string) Title of your wiki
 title: "git-wiki-skeleton"
 # (string) if you've installed your wiki in subfolder, you must change this configuration
