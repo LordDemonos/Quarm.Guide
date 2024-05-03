@@ -15,9 +15,12 @@ $dark-purple: #6a1b9a;
 $dark-gray: #333;
 
 // Light mode styles
-body {
-  background-color: #fff;
-  color: $dark-gray;
+.light-mode {
+  // Add your light mode styles here
+  // Target specific elements using their classes or HTML tags
+  body {
+    color: $dark-gray;
+  }
 }
 
 // Dark mode styles
