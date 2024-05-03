@@ -4,7 +4,7 @@
 
 <!-- # Everquest Project Quarm Getting Started Guide -->
 <!-- ##### By Xanax/Xantagonist < Former Glory > -->
-## Updated May 2nd 2024
+## Updated May 3rd 2024
 
 ## Table of Contents
 1. [A Brief Introduction to Project Quarm](#a-brief-introduction-to-project-quarm-)
@@ -115,7 +115,7 @@ Before you can download and install the game, you'll need to create an account o
 
 ### Step 4: Installing Zeal ![Zeal](/img/Zeal.png)
 
-Zeal is used to add additional functionality to EverQuest. Main additions include 3rd person camera smoothing fix, better tab targeting, spell sets, and melody. A full list of features can be found in the [readme](https://github.com/iamclint/Zeal/blob/master/README.md). *The readme is based on latest commits not latest release build.*
+Zeal is used to add additional functionality to EverQuest. Main additions include 3rd person camera smoothing fix, better tab targeting, spell sets, and melody. A full list of features can be found in the [readme](https://github.com/iamclint/Zeal/blob/master/README.md). *The readme is based on latest commits not latest the release build.*
 
 #### Prerequisite 1. (Required) Enable sound in your eqclient.ini
 
@@ -124,7 +124,7 @@ Make sure `Sound=TRUE` is listed in your `eqclient.ini`. Zeal uses the EverQuest
 #### Prerequisite 2. (Required) Excluding your TAKP Installation
 Excluding your TAKP installation from being scanned by your antivirus software can also help reduce load times, zoning times, and eliminates stuttering when opening your bags. This is highly recommended and is a prerequisite for downloading Zeal, as explained below.
 
-There are two methods to excluding your TAKP installation, manually or using a Powershell command. 
+There are two methods to exclude your TAKP installation, manually or using a Powershell command. 
 
 ##### Windows 10
 
@@ -255,9 +255,9 @@ Once you are at the login screen, exit back out of the game and close it. In you
 - Height=1080
 - [Options]
 - MaxBGFPS=60
-- NoFPSLimiter=0 - **This option will only work with the very latest experiemental .dll and this is half the fix for the 3rd person stutters you previously experienced in older versions of Quarm. SET TO 0**
+- NoFPSLimiter=0 - **This option will only work with the very latest experimental .dll and this is half the fix for the 3rd person stutters you previously experienced in older versions of Quarm. SET TO 0**
 
-You can now run `eqgame.exe` again and log into the game. Once you log into your character, you will be looking at the default "NewUI". Press ALT + O to open the options menu. Navigate to Genearal and select Load UI Skin. Select `duxaUI` for now and click Load Skin. This will allow you to open options again with ALT + O and modify the new Zeal settings as well. 
+You can now run `eqgame.exe` again and log into the game. Once you log into your character, you will be looking at the default "NewUI". Press ALT + O to open the options menu. Navigate to General and select Load UI Skin. Select `duxaUI` for now and click Load Skin. This will allow you to open options again with ALT + O and modify the new Zeal settings as well. 
 
 ![loadui](/img/step7/loadui.png)
 
@@ -265,7 +265,7 @@ Below are some recommended Zeal specific changes you should consider before you 
 
 ![zeal1](/img/step7/zeal1.png)![zeal2](/img/step7/zeal2.png)![zeal3](/img/step7/zeal3.png)![zeal4](/img/step7/zeal4.png)![zeal5](/img/step7/zeal5.png)
 
-Ths concludes part 1 of the guide.
+This concludes part 1 of the guide.
 
 ### Xanax's Checklist for Minimal Crashes
 
@@ -297,7 +297,7 @@ Some commonly changed settings include:
 - Log=TRUE/FALSE - Setting this true will automatically turn your log file on when entering the game. **Set to FALSE by default. Still seems to create chat logs though.**
 - CombatMusic=TRUE/FALSE - Enable or disable melee combat music. **Recommended set to FALSE**
 - ChannelAutoJoin=alliance - The Alliance channel is used as the global chat channel for the server.
-- ChatKeepAlive=1 - Keeps the above chat channel from disconnecting by periodically sending communciatin to it.
+- ChatKeepAlive=1 - Keeps the above chat channel from disconnecting by periodically sending communication to it.
 - TargetGroupBuff=1 - This will allow you to buff groups with group buff spells from outside the group by targeting a member of the group. **Default set to 1**
 - AttackOnAssist=FALSE - This will allow you to assist another player without automatically enabling auto attack. 
 - MaxFPS= - This is the framerate you limit the foreground client window to. If this is set too high, it may consume too many system resources. Typically 60 is a good number to start with and adjust if necessary. A setting of 0 disables the limit.
@@ -334,7 +334,7 @@ There are some other flags that seem to be unique to Project Quarm [Source: #tec
 - MaxMouseLookFPS=60
 - WindowedMode=TRUE
 - MouseRightHanded=1
-- NoFPSLimiter=0 - **This option will only work with the very latest experiemental .dll and this is half the fix for the 3rd person stutters you previously experienced in older versions of Quarm. SET TO 0**
+- NoFPSLimiter=0 - **This option will only work with the very latest experimental .dll and this is half the fix for the 3rd person stutters you previously experienced in older versions of Quarm. SET TO 0**
 
 - EnableBrownSkeletonHack=FALSE - We had problems getting the correct skeleton models at first and some people like the brown ones. You can set this to TRUE or you can go find skeleton model replacements under Part 3. 
 - EnableExtendedNameplateDistance=TRUE - Added after the 10/8/2023 .dll update that extended the nameplate distance.
@@ -372,19 +372,19 @@ There are several sources to download new User Interface packages, such as [qqui
 
 1. Download your chosen interface.
 
-2. Find the folder in your EverQuest directiory UIFILES inside there will be a folder Default*.
+2. Find the folder in your EverQuest directory UIFILES inside there will be a folder Default*.
 
 3. Create another folder beside Default, for our example we will call it "BARD" (You can not have spaces in the name). If the file you downloaded already contains a folder, you should skip this step. 
 
 4. Unzip all of the files from your download into the folder "BARD"
 
-5. Login to EverQuest. In game, type `/loadskin BARD`. This will select the BARD UI and load it. The screen will look like your zoning for a moment, then load your new UI modifications. Typing `/loadskin BARD 1`, the 1 is optional-- it will keep your current window positions. Press ALT + O to open the options menu. Navigate to Genearal and select Load UI Skin. Select `BARD` for now and click Load Skin.  
+5. Login to EverQuest. In game, type `/loadskin BARD`. This will select the BARD UI and load it. The screen will look like your zoning for a moment, then load your new UI modifications. Typing `/loadskin BARD 1`, the 1 is optional-- it will keep your current window positions. Press ALT + O to open the options menu. Navigate to General and select Load UI Skin. Select `BARD` for now and click Load Skin.  
 
 *The default folder CAN NOT be altered in any way. Any changes made to this folder are overwritten  at start up of the game.
 
 #### Where should my files be saved?
 
-The should be saved in a single level folder. One of the most common reason that UI's wont load is that there is a sub-folder inside the Custom UI Folder. Here are two pictures one showing the wrong way, and one showing the correct way. 
+They should be saved in a single level folder. One of the most common reasons that UIs wont load is that there is a sub-folder inside the Custom UI Folder. Here are two pictures, one showing the wrong way, and one showing the correct way. 
 
 ![wrong-way](/img/step2/wrong-way.jpg) ![correct-way](/img/step2/correct-way.jpg)
 
@@ -1575,7 +1575,7 @@ Delete these from your main TAKP folder. Midis will be restored and they are not
 ### How does viewport work?
 **A:**
 
-There are a few resources on adjusting the screen area insted of the resolution, to better format your EverQuest viewing experience. I think [Cairenn on eqinterface](https://www.eqinterface.com/forums/showthread.php?t=4180) explained its usage the best. 
+There are a few resources on adjusting the screen area instead of the resolution, to better format your EverQuest viewing experience. I think [Cairenn on eqinterface](https://www.eqinterface.com/forums/showthread.php?t=4180) explained its usage the best. 
 
 When you type the /viewport command, it tells you it wants 4 numbers: x, y, w, and h.
 
