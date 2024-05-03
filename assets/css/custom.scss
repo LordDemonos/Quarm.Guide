@@ -1,3 +1,11 @@
+$light-orange-red: #e06666; // Lighter shade of orange-red for easy reading
+$orange-red: #FF5349; // Standard shade of orange-red for regular headings
+$dark-orange-red: #FF281B; // Darker shade of orange-red for bold headings
+$purple: #8a63d2; // Complementary purple color for links
+$neon-red: #BE0A00; // Vibrant neon-red color for code blocks
+$dark-purple: #6a1b9a; /* Replace with a darker shade of your purple color */
+$dark-gray: #333; // Dark gray color for contrast
+
 a {
   color: $purple ;
   text-shadow: 0 0 5px $purple ;
