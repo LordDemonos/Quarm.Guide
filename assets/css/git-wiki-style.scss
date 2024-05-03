@@ -14,49 +14,51 @@ $neon-red: #BE0A00;
 $dark-purple: #6a1b9a;
 $dark-gray: #333;
 
-// Light mode styles
-:root {
+// Default styles (applied to both light and dark mode)
+body {
   a {
     color: $dark-gray;
   }
 
-  // Add your other light mode styles here
+  // Add your other default styles here
 }
 
 // Dark mode styles
-:root.dark-mode {
-  a {
-    color: $purple;
-    text-shadow: 0 0 5px $purple;
-  }
+@media (prefers-color-scheme: dark) {
+  body {
+    a {
+      color: $purple;
+      text-shadow: 0 0 5px $purple;
+    }
 
-  h1, h2 {
-    color: $dark-orange-red !important;
-    text-shadow: 0 0 5px $dark-orange-red;
-  }
+    h1, h2 {
+      color: $dark-orange-red !important;
+      text-shadow: 0 0 5px $dark-orange-red;
+    }
 
-  h3 {
-    color: $orange-red !important;
-    text-shadow: 0 0 5px $orange-red;
-  }
+    h3 {
+      color: $orange-red !important;
+      text-shadow: 0 0 5px $orange-red;
+    }
 
-  h4, h5 {
-    color: $light-orange-red !important;
-    text-shadow: 0 0 5px $orange-red;
-  }
+    h4, h5 {
+      color: $light-orange-red !important;
+      text-shadow: 0 0 5px $orange-red;
+    }
 
-  h6 {
-    color: $dark-orange-red !important;
-    text-shadow: 0 0 5px $dark-orange-red;
-  }
+    h6 {
+      color: $dark-orange-red !important;
+      text-shadow: 0 0 5px $dark-orange-red;
+    }
 
-  code.highlighter-rouge {
-    background: rgba(0, 0, 0, 0.9);
-    border: 1px solid rgba(255, 255, 255, 0.15);
-    padding: 0px 3px;
-    margin: 0px -3px;
-    color: $neon-red;
-    border-radius: 2px;
-    text-shadow: 0 0 5px $neon-red;
+    code.highlighter-rouge {
+      background: rgba(0, 0, 0, 0.9);
+      border: 1px solid rgba(255, 255, 255, 0.15);
+      padding: 0px 3px;
+      margin: 0px -3px;
+      color: $neon-red;
+      border-radius: 2px;
+      text-shadow: 0 0 5px $neon-red;
+    }
   }
 }
