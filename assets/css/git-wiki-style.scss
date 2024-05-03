@@ -5,52 +5,12 @@ layout: "null"
 // Import the base styles
 @import "git-wiki-style.scss";
 
-// Define color variables for light mode
-$light-orange-red: #e06666;
-$light-orange-red: #FF5349;
-$light-dark-orange-red: #FF281B;
-$light-purple: #8a63d2;
-$light-neon-red: #BE0A00;
-$light-dark-purple: #6a1b9a;
-$light-dark-gray: #333;
-
 // Define color variables for dark mode
 $dark-orange-red: #FF281B;
-$dark-orange-red: #e06666;
-$dark-dark-orange-red: #FF5349;
-$dark-purple: #6a1b9a;
+$dark-purple: #8a63d2;
 $dark-neon-red: #BE0A00;
-$dark-dark-purple: #8a63d2;
-$dark-dark-gray: #eee;
 
-// Light mode styles
-@media (prefers-color-scheme: light) {
-  body {
-    a {
-      color: $light-dark-gray;
-    }
-
-    h1, h2 {
-      color: $light-dark-orange-red !important;
-    }
-
-    h3 {
-      color: $light-orange-red !important;
-    }
-
-    h4, h5 {
-      color: $light-orange-red !important;
-    }
-
-    h6 {
-      color: $light-dark-orange-red !important;
-    }
-
-    code.highlighter-rouge {
-      color: $light-neon-red;
-    }
-  }
-}
+// Light mode styles (leave empty to use default colors)
 
 // Dark mode styles
 @media (prefers-color-scheme: dark) {
@@ -61,8 +21,8 @@ $dark-dark-gray: #eee;
     }
 
     h1, h2 {
-      color: $dark-dark-orange-red !important;
-      text-shadow: 0 0 5px $dark-dark-orange-red;
+      color: $dark-orange-red !important;
+      text-shadow: 0 0 5px $dark-orange-red;
     }
 
     h3 {
@@ -76,8 +36,8 @@ $dark-dark-gray: #eee;
     }
 
     h6 {
-      color: $dark-dark-orange-red !important;
-      text-shadow: 0 0 5px $dark-dark-orange-red;
+      color: $dark-orange-red !important;
+      text-shadow: 0 0 5px $dark-orange-red;
     }
 
     code.highlighter-rouge {
