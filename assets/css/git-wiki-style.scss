@@ -5,49 +5,32 @@ layout: "null"
 // Import the base styles
 @import "git-wiki-style.scss";
 
-// Define color variables for dark mode
-$dark-orange-red: #FF281B;
-$dark-purple: #8a63d2;
-$dark-neon-red: #BE0A00;
+// Define color variables
+$orange-red: #FF281B;
+$purple: #8a63d2;
+$neon-red: #BE0A00;
 
 // Light mode styles (leave empty to use default colors)
 
 // Dark mode styles
-@media (prefers-color-scheme: dark) {
-  body {
-    a {
-      color: $dark-purple;
-      text-shadow: 0 0 5px $dark-purple;
-    }
+body.darkmode--activated {
+  background-color: #222; // Set a dark background color
+  color: #fff; // Set text color to white
 
-    h1, h2 {
-      color: $dark-orange-red !important;
-      text-shadow: 0 0 5px $dark-orange-red;
-    }
-
-    h3 {
-      color: $dark-orange-red !important;
-      text-shadow: 0 0 5px $dark-orange-red;
-    }
-
-    h4, h5 {
-      color: $dark-orange-red !important;
-      text-shadow: 0 0 5px $dark-orange-red;
-    }
-
-    h6 {
-      color: $dark-orange-red !important;
-      text-shadow: 0 0 5px $dark-orange-red;
-    }
-
-    code.highlighter-rouge {
-      background: rgba(0, 0, 0, 0.9);
-      border: 1px solid rgba(255, 255, 255, 0.15);
-      padding: 0px 3px;
-      margin: 0px -3px;
-      color: $dark-neon-red;
-      border-radius: 2px;
-      text-shadow: 0 0 5px $dark-neon-red;
-    }
+  a {
+    color: $purple !important;
+    text-shadow: 0 0 5px $purple;
   }
+
+  h1, h2, h3, h4, h5, h6 {
+    color: $orange-red !important;
+    text-shadow: 0 0 5px $orange-red;
+  }
+
+  code.highlighter-rouge {
+    color: $neon-red !important;
+    text-shadow: 0 0 5px $neon-red;
+  }
+
+  // Add more styles for other elements in dark mode
 }
