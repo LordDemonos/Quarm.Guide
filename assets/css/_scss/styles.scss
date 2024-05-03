@@ -1,8 +1,11 @@
----
-layout: "null"
----
+// main.scss
 
-@import "/assets/css/styles.scss";
+// Import Bootstrap or other dependencies if needed
+@import "bootstrap";
+
+// Import custom styles
+@import "styles";
+
 
 // Define custom color variables
 $light-orange-red: #e06666; // Lighter shade of orange-red for easy reading
