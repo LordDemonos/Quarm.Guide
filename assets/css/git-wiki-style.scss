@@ -2,10 +2,7 @@
 layout: "null"
 ---
 
-// Import the base styles
 @import "git-wiki-style.scss";
-
-// Define color variables
 $orange-red: #FF281B;
 $purple: #8a63d2;
 $neon-red: #BE0A00;
@@ -30,3 +27,4 @@ body.darkmode--activated {
     text-shadow: 0 0 5px $neon-red;
   }
 }
+-->
