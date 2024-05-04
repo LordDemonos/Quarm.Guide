@@ -19,17 +19,20 @@ body.darkmode--activated {
 
   a {
     color: $purple !important;
-    text-shadow: 0 0 5px $purple;
+    text-shadow: 0 0 5px $purple !important;
+    filter: invert(0) hue-rotate(0deg) !important; // Reset color inversion for links
   }
 
   h1, h2, h3, h4, h5, h6 {
     color: $orange-red !important;
-    text-shadow: 0 0 5px $orange-red;
+    text-shadow: 0 0 5px $orange-red !important;
+    filter: invert(0) hue-rotate(0deg) !important; // Reset color inversion for headings
   }
 
   code.highlighter-rouge {
     color: $neon-red !important;
-    text-shadow: 0 0 5px $neon-red;
+    text-shadow: 0 0 5px $neon-red !important;
+    filter: invert(0) hue-rotate(0deg) !important; // Reset color inversion for code blocks
   }
 
   // Add more styles for other elements in dark mode
