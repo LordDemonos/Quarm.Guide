@@ -10,30 +10,23 @@ $orange-red: #FF281B;
 $purple: #8a63d2;
 $neon-red: #BE0A00;
 
-// Light mode styles (leave empty to use default colors)
-
 // Dark mode styles
 body.darkmode--activated {
-  background-color: #222; // Set a dark background color
-  color: #fff; // Set text color to white
+  background-color: #222;
+  color: #fff;
 
   a {
     color: $purple !important;
-    text-shadow: 0 0 5px $purple !important;
-    filter: invert(0) hue-rotate(0deg) !important; // Reset color inversion for links
+    text-shadow: 0 0 5px $purple;
   }
 
   h1, h2, h3, h4, h5, h6 {
     color: $orange-red !important;
-    text-shadow: 0 0 5px $orange-red !important;
-    filter: invert(0) hue-rotate(0deg) !important; // Reset color inversion for headings
+    text-shadow: 0 0 5px $orange-red;
   }
 
   code.highlighter-rouge {
     color: $neon-red !important;
-    text-shadow: 0 0 5px $neon-red !important;
-    filter: invert(0) hue-rotate(0deg) !important; // Reset color inversion for code blocks
+    text-shadow: 0 0 5px $neon-red;
   }
-
-  // Add more styles for other elements in dark mode
 }
