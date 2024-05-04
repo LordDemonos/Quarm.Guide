@@ -3,28 +3,25 @@ layout: "null"
 ---
 
 @import "git-wiki-style.scss";
+
 $orange-red: #FF281B;
 $purple: #8a63d2;
 $neon-red: #BE0A00;
 
-// Dark mode styles
 body.darkmode--activated {
   background-color: #222;
   color: #fff;
 
   a {
-    color: $purple !important;
-    text-shadow: 0 0 5px $purple;
+    color: $purple;
   }
 
   h1, h2, h3, h4, h5, h6 {
-    color: $orange-red !important;
-    text-shadow: 0 0 5px $orange-red;
+    color: $orange-red;
   }
 
   code.highlighter-rouge {
-    color: $neon-red !important;
-    text-shadow: 0 0 5px $neon-red;
+    color: $neon-red;
   }
 }
 
