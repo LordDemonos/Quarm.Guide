@@ -1,6 +1,6 @@
-## Part 2: After Installing the Main Game
+# Part 2: After Installing the Main Game
 
-### Step 1: Understanding your EQClient.ini
+## Step 1: Understanding your EQClient.ini
 
 The `eqclient.ini` file contains a list of settings that can be changed to suit your preferences, many of which cannot be changed in-game through the options window.
 
@@ -78,13 +78,13 @@ Zeal also has a number of `eqclient.ini` values that are saved here and this lis
 - RightStrafeSpellbookAutostand=TRUE
 - PanDelay=20 - Zeal adds the ability to left click and hold to move the camera in 3rd person without moving the character. To prevent misclicks, you can add a delay to this functionality.
 
-### Step 2: Controlling your User Interface
+## Step 2: Controlling your User Interface
 
 The supported client comes with several additional custom UIs. To switch to one of these, run the slash command `/loadskin <ui> 1`. The 1 is optional-- it will keep your current window positions. Loading UIs via the options window will not work. [Source: wiki.takp](https://wiki.takp.info/index.php/Getting_Started_on_Windows#EQClient.ini_settings)
 
 There are several sources to download new User Interface packages, such as [qqui Calmethar](https://www.eqinterface.com/downloads/fileinfo.php?id=6959), [eqinterface.com](https://eqinterface.com/downloads/index.php?cid=115&dp=0&sh=full&so=desc&sb=lastupdate), or from [#ui-discussion](https://discord.com/channels/1133452007412334643/1162826324092657757). Just make sure to check the date and description for Zeal additions.
 
-#### How Do I install an Interface?
+### How Do I install an Interface?
 
 1. Download your chosen interface.
 
@@ -98,7 +98,7 @@ There are several sources to download new User Interface packages, such as [qqui
 
 *The default folder CAN NOT be altered in any way. Any changes made to this folder are overwritten  at start up of the game.
 
-#### Where should my files be saved?
+### Where should my files be saved?
 
 They should be saved in a single level folder. One of the most common reasons that UIs wont load is that there is a sub-folder inside the Custom UI Folder. Here are two pictures, one showing the wrong way, and one showing the correct way. 
 
@@ -106,13 +106,13 @@ They should be saved in a single level folder. One of the most common reasons th
 
 [Source: eqinterface](https://www.eqinterface.com/forums/faq.php?faq=install#faq_howto_install)
 
-#### Duplicating your UI Settings for New Characters
+### Duplicating your UI Settings for New Characters
 
 Inevitably you'll create multiple characters during your time on Project Quarm. However you do not have to choose a UI and move every window for each character. You can easily copy all of your UI positions by understanding your UI log files. In your TAKP folder you will find files with the naming convention `UI_charactername_pq.proj.ini`. If you identify the one for your main character, the one who has their UI set and all the window positions perfect, you can simply make a copy of this file and rename it to the name of your second character. When you log into the new character, your UI and window positions should now match your first character. 
 
 `UI_Xanax_pq.proj.ini` Copy, Paste `UI_Xanax_pq.proj - Copy.ini` rename to `UI_Xantagonist_pq.proj.ini`
 
-#### Where to get Quarm User Interfaces
+### Where to get Quarm User Interfaces
 
 Its tricky searching around Project Quarm's Discord but I can provide a list that will get you started.
 
@@ -130,17 +130,17 @@ Its tricky searching around Project Quarm's Discord but I can provide a list tha
 
 [Credits to Kyinen](https://discord.com/channels/1133452007412334643/1162826324092657757/1228694493117681686)
 
-### Step 3: Characters, Logs, Spell Sets, and Screenshots
+## Step 3: Characters, Logs, Spell Sets, and Screenshots
 
-#### Character ini for Friends Abilities Socials and Macro Settings
+### Character ini for Friends Abilities Socials and Macro Settings
 
 The above file duplication and renaming trick we used with our UI settings can be used for other saved settings as well. `charactername_pq.proj.ini` contains all of your friends, ignore, abilities, combat skills, and social macros. Any time you make a new character, you should consider duplicating this file as well and renaming the copy to your new character. The ability and macro copying is a mixed bag, but it's important not to lose your friends. 
 
-#### Chat Logs
+### Chat Logs
 
 Everything you see in your chat windows is written to a log file in your TAKP folder. Back in the original EQ days we would delete this every month because the file would get big and make the game act up. Everything you see in this file, the CSR team for Project Quarm can also see and is likely being logged on their end. `eqlog_charactername_pq.proj.txt` is the file that all your chat logs are written to. This can be helpful if you need to pull historical chat conversations, for example. 
 
-#### Spell Sets
+### Spell Sets
 
 Zeal has added the ability to make spell sets. Commands in game are as follows:
 
@@ -154,7 +154,7 @@ Zeal has added the ability to make spell sets. Commands in game are as follows:
 
 Once created, you can even right click your spellbook to choose one of your spell sets from a drop down menu. These values are saved in a new file called `charactername_spellsets.ini`. Within these you can then rename your spellsets or duplicate the file for someone playing the same class as you, for example. 
 
-#### Screenshots
+### Screenshots
 
 Screenshots can be taken by pressing PRINT SCREEN within the game, and can be changed within the Options. These are saved in your TAKP folder as `EQ000001.bmp` for example.
 
