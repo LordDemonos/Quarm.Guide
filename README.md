@@ -32,14 +32,14 @@ If you want to learn more about Project Quarm specific features and rules, head 
 <div style="text-align: center;">
     <h3>Third-Party Resources</h3>
     <div style="display: flex; justify-content: center;">
-        <div>
+        <div style="margin-right: 10px;">
             <ul style="list-style: none; padding: 0; margin: 0;">
                 <li style="text-align: center;"><a href="#">Resource 1</a> - Description for Resource 1</li>
                 <li style="text-align: center;"><a href="#">Resource 2</a> - Description for Resource 2</li>
                 <li style="text-align: center;"><a href="#">Resource 3</a> - Description for Resource 3</li>
             </ul>
         </div>
-        <div>
+        <div style="margin-left: 10px;">
             <ul style="list-style: none; padding: 0; margin: 0;">
                 <li style="text-align: center;"><a href="#">Resource 4</a> - Description for Resource 4</li>
                 <li style="text-align: center;"><a href="#">Resource 5</a> - Description for Resource 5</li>
@@ -48,5 +48,6 @@ If you want to learn more about Project Quarm specific features and rules, head 
         </div>
     </div>
 </div>
+
 
 
