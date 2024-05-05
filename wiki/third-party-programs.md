@@ -1,4 +1,4 @@
-# Installing Optional 3rd Party Programs
+## Installing Optional 3rd Party Programs
 
 These programs add functionality not found in the game client by reading your EverQuest player log files. Programs that use hooks to inject code into the game are now allowed, with the one exception being Zeal.
 
