@@ -22,11 +22,8 @@ If you want to learn more about Project Quarm specific features and rules, head 
     <div style="flex: 1; margin-left: 10px;">
         <h3>Video Guides</h3>
         <ul>
-            <li><a href="#">Video Guide 1</a> - Description for Video Guide 1</li>
-            <li><a href="#">Video Guide 2</a> - Description for Video Guide 2</li>
-            <li><a href="#">Video Guide 3</a> - Description for Video Guide 3</li>
-            <li><a href="#">Video Guide 4</a> - Description for Video Guide 4</li>
-            <li><a href="#">Video Guide 5</a> - Description for Video Guide 5</li>
+            <li><a href="https://www.youtube.com/watch?v=aM0MX67me5Y">Installing the Game</a> - Step by step instructions for installing Project Quarm</li>
+            <li><a href="https://www.youtube.com/watch?v=tmU_5kBZbu8">After Insatalling the Game</a> - Installing Textures, Spell Effects, and Modifying Files</li>
         </ul>
     </div>
 </div>
@@ -50,6 +47,3 @@ If you want to learn more about Project Quarm specific features and rules, head 
         </div>
     </div>
 </div>
-
-
-
