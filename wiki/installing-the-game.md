@@ -179,3 +179,5 @@ You can now run `eqgame.exe` again and log into the game. Once you log into your
 Below are some recommended Zeal specific changes you should consider before you start your adventure. 
 
 ![zeal1](./assets/images/step7/zeal1.png)![zeal2](./assets/images/step7/zeal2.png)![zeal3](./assets/images/step7/zeal3.png)![zeal4](./assets/images/step7/zeal4.png)![zeal5](./assets/images/step7/zeal5.png)
+
+This concludes the Installing the Game article. Please proceed to [After Installing the Game](after-installing-the-game).
