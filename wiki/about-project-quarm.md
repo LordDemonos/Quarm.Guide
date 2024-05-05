@@ -1,8 +1,8 @@
-## About Project Quarm ![Secrets](/img/Secrets.jpg)
+# About Project Quarm ![Secrets](./assets/images/Secrets.jpg)
 
 [Follow SecretsPast on Twitch](https://www.twitch.tv/secretspast)
 
-### Main Ruleset
+# Main Ruleset
 
 - Time-Locked Progression Server - 9 Months of Classic, 9 Months of Kunark, 9 Months of Velious, 9 Months of Luclin, Planes of Power final expansion.
 - Planes of Power may contain custom mechanics post-PoP, such as rotating hotzones.
@@ -11,12 +11,12 @@
 - MGBs at level 1, and other 'TAKP-like' features are enabled selectively. For example, Monk AC is in its 'pre-nerf' state.
 - Selective Clientside Quality of Life - Mouse Wheel Camera, Buff Timers, Auto-Stand on Cast. Additional QOL have been added through [Zeal](#step-4-installing-zeal).
 
-### Optional Self Imposed Rulesets
+## Optional Self Imposed Rulesets
 
 These three rulesets may be toggled on independently or all at once at Level 1 at any Priest of Discord. 
 The process of doing so resets your character and all of its data to as if it had just spawned in the game world, and prevents future ruleset toggling.
 
-#### Self Found
+### Self Found
 This is a gametype that restricts interactions with standard ruleset players. This is more akin to a "Group Self Found / Group Ironman" ruleset if enabled by itself.
 The following restrictions are imposed:
 - You cannot group or raid with players who are not also playing the Self Found ruleset.
@@ -31,7 +31,7 @@ The following restrictions are imposed:
 - You must engage a creature at 100% HP to receive experience or loot for yourself, your group or your raid, and deal at least 50% of the mob's health in damage to receive experience.
 - *NOTE: Normal damage rules additionally apply to the target for experience credit. The NPC regenerating to 100% HP will reset this flag.*
 
-#### Solo Only
+### Solo Only
 This is a gametype that restricts interactions with all other players, including other ruleset players. The restrictions here override the restrictions in Self Found if they would conflict. This is akin to a "Solo Self Found / Ironman" ruleset found in other games.
 The following restrictions are imposed:
 - You cannot group or raid with other players.
@@ -44,13 +44,13 @@ The following restrictions are imposed:
 - You must engage a creature at 100% HP to receive experience or loot for yourself and deal at least 50% of the mob's health in damage to receive experience. Normal damage rules additionally apply to the target for experience credit. The NPC regenerating to 100% HP will reset this flag.
 - You cannot loot items from 'opened' corpses. You must receive initial credit per the ruleset to loot the item(s) you wish to loot.
 
-#### Hardcore
+### Hardcore
 This is a gametype that will result in permanent deletion of your character upon your first death above the item loss level. This is also known as a "Permadeath" ruleset found in other games.
 There are no restrictions like the rulesets above have, but this may be toggled on in addition to the above two rulesets.
 - *NOTE: Characters who have hit a milestone under the hardcore ruleset that die will be broadcast to the entire server. Their corpse will instantly decay and the character will be reset.
 There will be no character recovery after a death.*
 
-### Gameplay Changes
+## Gameplay Changes
 
 - No 'Out of Group Range' exploit - a player who is physically out of range of other players may not receive an experience bonus as if they were in a group.
 - Tradeskill containers will delete nodrop items for everyone, including the player who placed it there.
@@ -73,7 +73,7 @@ The following zones have 'pull limits' and when you aggro a quantity of mobs ove
 - pojustice    Plane of Justice    40
 - potorment    Torment, the Plane of Pain    40
 
-#### Reduced Respawn Timers & Anti Kite 
+### Reduced Respawn Timers & Anti Kite 
 
 For launch, we will impose a limit on the amount of mobs that can be pulled in newbie zones to 4. Anti Kite code will be applied after 4 NPCs are pulled. This is to prevent folks from monopolizing zones with PBAOE classes early on.
 
@@ -83,11 +83,11 @@ Newbie zones are normally major cities with newbie yards, and adjacent stomping 
 
 This restriction will be removed after zones thin out or 7 days, whichever comes sooner. 
 
-### Timeline
+## Timeline
 
 Time-Locked Progression system, with 9 months between each expansion. Classic -> Kunark -> Velious -> Luclin -> Planes of Power. Incremental patches will occur every 3 months.
 
-#### Classic (1.x) (October 1st, 2023)
+### Classic (1.x) (October 1st, 2023)
 
 1.0 (Launch)
 - Paineel is in on launch. The Hole and The Warrens are closed.
@@ -111,12 +111,12 @@ Classic 1.6: April 1st, 2024 (2 months)
 - Bloody Kithicor / Firiona Vie / Lanys T'vyl GM event
 - Lustrous Russet Armor stops dropping.
 
-#### Pre-Kunark (1.9) (June 1st, 2024)
+### Pre-Kunark (1.9) (June 1st, 2024)
 
 Classic 1.9: June 1st, 2024 (1 month)
 - Special event: 1 month Kunark-Locked Iksar early access (Level Cap 50, some zones restricted)
 
-#### Kunark (2.x) (July 1st, 2024)
+### Kunark (2.x) (July 1st, 2024)
 
 Kunark 2.0 (July 1st, 2024))
 - Kunark is accessible.
@@ -138,7 +138,7 @@ Kunark 2.9: March 1st, 2025 (1 month)
 - Pre-Velious patch.
 - Gnomes appear, wanting help crafting a new feat of gnomish engineering that will allow their expedition to reach an island they saw in the distance...
 
-#### Velious (3.x): April 1st, 2025
+### Velious (3.x): April 1st, 2025
 
 Velious (3.0): April 1st, 2025 (3 months)
 - Velious opens.
@@ -164,7 +164,7 @@ Velious 3.9 December 1st (1 month)
 - Pre-Luclin milestone.
 - Vah Shir Beastlord & Vah Shir early access event up to Level 30, Luclin locked, select zones available
 
-#### Luclin (4.x): Jan 1st, 2026
+### Luclin (4.x): Jan 1st, 2026
 
 Luclin 4.0: Jan 1st, 2026 (3 months)
 - Beastlords enabled for all races
@@ -191,7 +191,7 @@ Luclin 4.6: July 1st, 2026 (3 months)
 Luclin 4.9:
 - None, see above
 
-#### The Planes of Power (5.x): (October 1st, 2026)
+### The Planes of Power (5.x): (October 1st, 2026)
 
 Planes 5.0: October 1st, 2026 (3 months)
 - Level Cap of 65.
@@ -212,7 +212,7 @@ Post Planes, 5.9 April 1st, 2027, (1 month)
 - Druzzil Ro 'door boss' fight
 - Project Superscalar work kicks into high gear.
 
-### Legacy Items
+## Legacy Items
 
 There are no longer permanent loot lockouts from legacy items. However, there will be an individual character-based loot lockout on all legacy items that are obtained through looting. The lockout is a month long.
 - *NOTE: This is so that if you lose a legacy item due to an untimely death and you lose your corpse, you are able to loot another one in a way that doesn't involve a CSR.*
@@ -239,7 +239,7 @@ The following items are not traditionally legacy items in EverQuest, but have se
 - Glowing Black Stone (15) (Staying indefinitely)
 - Robe of the Oracle (25) (Staying Indefinitely - Changes to Standard in Kunark)
 
-### Private Guild Instances and Quakes
+## Private Guild Instances and Quakes
 
 Due to overwhelming player feedback about casual accessibility, and my own intuition on the subject, we've overhauled how raid rotations work - by scrapping them and replacing them with private guild instances. Don't worry, competition is still available via an overhauled Earthquake system!
 
@@ -274,9 +274,9 @@ The current zones considered to be raid zones are:
 
 On an earthquake triggering, everyone in the zone is evacuated to the zone-in to ensure fair competition. If you wish to avoid the evac, position yourself outside of the zone. Earthquake timers are now visible to guild leaders and officers ahead of their trigger time. No more batphones. Typing '#showquake' will allow a guild officer or leader to view the next earthquake time. Earthquakes no longer have guild engage requirements due to the rule 9.x and 10.x suspension during the three hour period, and thus can be pickup grouped.
 
-### Planes
+## Planes
 
-#### The Plane of Fear, The Plane of Sky, and The Plane of Hate are all open! 
+### The Plane of Fear, The Plane of Sky, and The Plane of Hate are all open! 
 
 Please note that the following changes were made to the zones for Project Quarm:
 
@@ -286,7 +286,7 @@ Please note that the following changes were made to the zones for Project Quarm:
 - Quests are enabled in all open world / instanced versions of Sky, Hate and Fear.
 - Almost every Epic piece, outside of some select Sky pieces, will not drop in the Plane of Sky, Fear, or Hate.
 
-#### Fear:
+### Fear:
 
 - Slime Blood of Cazic Thule will drop in place of Skin of Cazic for all eras, however this item will be locked to Kunark.
 - The Golems in Fear are their 51/52 selves - they will not drop any loot until Kunark. This is normal, as they only would drop epic pieces. They do not death touch, which is era-accurate. Do not report this with a bug.
@@ -295,7 +295,7 @@ a dracoliche is its level 53 self, with Rotting Flesh & Dragon Roar. a dracolich
 - Class armor and Lustrous Russet drop indefinitely.
 - Irak & Wraith of a Shissar are Kunark gated.
 
-#### Hate:
+### Hate:
 
 - Mini-bosses are not present until Velious.
 - Innoruuk does not have his revamped loot table. Most of the loot that would drop off of minis have been moved to Innoruuk per classic timeline.
@@ -306,7 +306,7 @@ a dracoliche is its level 53 self, with Rotting Flesh & Dragon Roar. a dracolich
 - Most Kunark Epic Quest loot are otherwise unavailable until Kunark.
 - The Book of Souls is not up. For real, I'm not lying, I didn't pick up the book. It will return in Kunark.
 
-#### Sky:
+### Sky:
 
 - Open World: All boss creatures will be spawned upon an Earthquake occurring without any scripted encounters needing to be completed
 - Keys are no longer no rent, and will be added to the keyring.
@@ -315,7 +315,7 @@ a dracoliche is its level 53 self, with Rotting Flesh & Dragon Roar. a dracolich
 - You may only interact with the Key Master in Open World for the purpose of interacting with him as a merchant.
 - A huge thanks to Torven of EQEmulator for parsing a ton of information related to combat and flavor text ahead of launch in the Plane of Sky and giving it the proper TLC it deserves. Thanks to you, the information contained in the Plane of Sky will be preserved indefinitely
 
-#### Welcome to the Ruins of Old Paineel, also known as The Hole! 
+### Welcome to the Ruins of Old Paineel, also known as The Hole! 
 
 This zone is being released ahead of Kunark, which is a major departure from EQ's original timeline. It's our team's personal opinion that the items contained within The Hole aren't significantly powerful, and that releasing The Hole early is quite a treat for folks who are historically used to having to play it in Kunark.
 
@@ -332,25 +332,25 @@ This zone is being released ahead of Kunark, which is a major departure from EQ'
 #### Sky, Hate, Fear Raid Lockouts, Rules for Engagement
 Please visit ⁠[#raid-rules](https://discord.com/channels/1133452007412334643/1136033679882326106) to see the current raid rules, engagement and zone information about lockouts
 
-#### Guild Instance Books
+### Guild Instance Books
 
 The Guild Instance books and graveyards will be in the following locations:
 - Plane of Hate - Oasis of Marr, near the Fisher huts.
 - Graveyard: East of the instance book.
 
-![hate](/img/about/hate.jpg)
+![hate](./assets/images/about/hate.jpg)
 
 - Plane of Sky - East Freeport, ascending to the heavens behind where the Seafarer's Roost meets the East Freeport gates. Bring levitate!
 - Graveyard: Just outside the gates in East Freeport.
 
-![sky](/img/about/sky.jpg)  
+![sky](./assets/images/about/sky.jpg)  
 
 - Plane of Fear - To the left of the Plane of Fear portal.
 - Graveyard: Further left of the instance.
 
-![fear](/img/about/fear.jpg)
+![fear](./assets/images/about/fear.jpg)
 
-### Mule Accounts
+## Mule Accounts
 
 [Creating a mule](https://discord.com/channels/1133452007412334643/1135968760281432164/1208195978016854096) The #makemule command is now available in game. Running the command in game will give you further instructions for how to flag the account as a mule and will ask that you run an additional command for confirmation.
 
@@ -360,7 +360,7 @@ The character running the command must first be of appropriate level and no othe
 
 The mule account will be exempt from IP restrictions allowing you to run a game client and buy/sell/transfer items independent of your main account. Again, RUNNING THE COMMAND AND CONFIRMING WILL DELEVEL YOU TO 1 AND FLAG THE ENTIRE ACCOUNT AS A MULE ACCOUNT. BE CERTAIN OF YOUR INTENTIONS. @CSR WILL NOT REVOKE THIS FLAG UNDER ANY CIRCUMSTANCES, NOR ARE THEY EQUIPPED TO DEAL WITH ANY ISSUES THAT ARISE.
 
-### Elective Services Fees
+## Elective Services Fees
 
 The following is the current fees for elective character and account services. These services will only be handled under admin discretion. Limit 1 elective service per week.
 
@@ -372,11 +372,11 @@ The following is the current fees for elective character and account services. T
 - Restoring a deleted character (Character must be above level 10): All the currency you have
 - Promotion of Iksar Guild Leader character: 2000p (available during the Kunark pre-release)
 
-### Events
+## Events
 
 #### Halloween Event (Shard of Decay) — 10/23/2023
 
-![shard-of-decay](/img/about/shard_of_decay.png)
+![shard-of-decay](./assets/images/about/shard_of_decay.png)
 
 Lorisyn Oakwynd has ventured out to various haunting grounds to investigate a Lycanthropic plague brought on by Plaguebringer acolytes. 
 
@@ -423,7 +423,7 @@ Lastly, the main event reward will last up until the event ends. You may get ano
 
 Lorisyn, all of the blood and anomalies will disappear at the same time.
 
-#### Brell's Blessed Land - 11/17/2023
+### Brell's Blessed Land - 11/17/2023
 
 During the period before Frostfell, the land needs to be prepared for celebration and merriment. 
 The Shard of Decay has closed. Snow is falling on the ground in places where they shouldn't be, and the season of feasts is upon us.
@@ -441,7 +441,7 @@ Flying creatures include the following:
 
 `ghosts, gargoyles, specters, imps, harpies, pegasus, djinn, griffins, pixies, faeries, will-o-wisps, air elementals, wasps, bixies, drakes, reanimated hands, dragons, evil eyes, swordfish / fish / sharks (for meme factor) / phinigel (kedge descendents), whirling blades, bats, and aviaks`
 
-#### Domain of Frost AKA Halas — 12/19/2023
+### Domain of Frost AKA Halas — 12/19/2023
 
 A mysterious Wizard from an extraplanar realm - who is rumored to be a Dragon - has thawed for her yearly awakening, and has conjured a portal to a hidden planar pocket to a fragmented memory - belonging to none other than E'Ci of the Triumvirate of Water. 
 The strength of the Wizard rivals that of Veeshan's most trusted.
@@ -467,7 +467,7 @@ Go forth, brave Norrathians - and conquer the icy depths of the Domain for E'Ci,
 
 The graveyard for Domain of Frost now dispenses corpses in North Ro at the East Commonlands zoneline after 60 minutes.
 
-#### The Tower of Frost (AKA Oops, All Icebones) — 12/26/2023
+### The Tower of Frost (AKA Oops, All Icebones) — 12/26/2023
 
 The Tower of Frost is now available as a Level 8 to 25 undead zone featuring everyone's favorite friends: icebone skeletons. Big ones, small ones; some the size of your head.
 This zone is exactly what you think it is. It's all icebone skeletons. There is no loot to be found here beyond bone chips, a few scraps of cloth and rusty weapons. Trivial loot code is enabled here, too, so don't think of coming in here if you're not at an appropriate level.
@@ -478,7 +478,7 @@ This zone has the same experience bonus that the Domain of Frost has, and this z
 
 The graveyard on "Oops! All Icebones" now dispenses corpses in North Ro at the East Commonlands zoneline after 60 minutes instead of 1 minute.
 
-#### Erollisi Week - 02/13/2024
+### Erollisi Week - 02/13/2024
 
 Erollisi Marr has temporarily broken free of the Plane of Love, and has sent Priests of Order to ordain Norrathians in marriage.
 Couples from all across the land have gathered to partake in their own marriage ceremony. Seek out the Priest of Order in the East Commonlands Tunnel to begin the process!
@@ -506,7 +506,7 @@ This will last for approximately 2 weeks from Valentine's Day, despite being the
 
 In addition to the Erollisi Day Event, please enjoy a 5% experience bonus separate to the event to all forms of experience that also stacks with the event bonus. This 5% bonus will run until the event's conclusion.
 
-#### Bristlebane Week - 04/01/2024
+### Bristlebane Week - 04/01/2024
 
 On April 1st, in celebration of Bristlebane Week, we will also be running a week-long-event. We may opt to extend it to two and probably will 'forget' to turn off the event. That seems to be a running joke lately.
 
@@ -520,9 +520,9 @@ You can get ceremonially married again in the East Commonlands Tunnel! Doing so 
 
 As a reminder, this is also April 1st. Please expect shenanigans in the game world for a limited time. If you manage to find the 'pranks', know they are temporary for the event, and will be removed after the event. But I intend to fully cause at least ONE (1) prank. Maybe several. Who knows.
 
-#### Bloodied Rivervale - 04/XX/2024
+### Bloodied Rivervale - 04/XX/2024
 
-#### King's Court Casino & Kerafyrm - Planes of Power Era [Source: Secrets](https://discord.com/channels/1133452007412334643/1137470588366115049/1137471362315857950)
+### King's Court Casino & Kerafyrm - Planes of Power Era [Source: Secrets](https://discord.com/channels/1133452007412334643/1137470588366115049/1137471362315857950)
 
 - The King's Court Casino will be integrated as Post-PoP content. (When Quarm is defeated)
 - The Sleeper will reset every time he is awoken - until a custom, hidden event is activated in the Planes of Power.
@@ -533,17 +533,17 @@ So yes, Kerafyrm may go on his rampage. But there's a certain force that will ke
 
 There is a second way to end the tomb, but it won't be until the Planes are fully breached that the plan can be set into motion. Deicide has interesting connotations when it involves entities that shouldn't have that power.
 
-### Server Downtime
+## Server Downtime
 
 Server Downtimes typically happen when the CSR team has available time. Announcements are posted in-game as well as [#server-status-downtime](https://discord.com/channels/1133452007412334643/1160202360346378250). Server downtimes are typically concluded in about 5 minutes when everything goes according to plan.
 
 TAKP Login Server downtimes typically happen every Wednesday and last for about 15 minutes. During this time you will be unable to log in and the server will appear offline. If you are already in game your service should not be affected. 
 
-### IP Exemption
+## IP Exemption
 
 In order to make an IP exemption, make sure both accounts and characters have been created and have logged into the game at least once. You must then petition a CSR to perform the IP exemption here [#petitions](https://discord.com/channels/1133452007412334643/1153470935421157396). Please include your character name and account name in the petition for faster service. This process can take a few days depending on the volume of petitions being made. 
 
-### Rules
+## Rules
 
 - Rule 0: Actively antagonizing the management will result in whatever cruel breed of nonsense they feel like at the time.
 - Rule 1: If you have to ask if you can do it or not, just don't do it. This will likely resolve all of the below rules, but just in case, they're left here for your discretion.
