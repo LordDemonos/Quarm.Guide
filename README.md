@@ -6,17 +6,17 @@
 
 Some server highlights include: TLP through Planes of Power at 9 month intervals, instanced raid encounters, legacy items drop forever, hardcore and solo self found gameplay modes, custom content and events, and a ton of QOL features through [Zeal](https://github.com/iamclint/Zeal).
 
-If you want to learn more about Project Quarm specific features and rules, head over to the [About Project Quarm](#about-project-quarm) section.
+If you want to learn more about Project Quarm specific features and rules, head over to the [About Project Quarm](about-project-quarm) section.
 
 <div style="display: flex;">
     <div style="flex: 1; margin-right: 10px;">
         <h3>Written Guides</h3>
         <ul>
             <li><a href="{{ '/installing-the-game' | relative_url }}">Installing the Game</a> - Get started with Project Quarm here</li>
-            <li><a href="#">Guide 2</a> - Description for Guide 2</li>
-            <li><a href="#">Guide 3</a> - Description for Guide 3</li>
-            <li><a href="#">Guide 4</a> - Description for Guide 4</li>
-            <li><a href="#">Guide 5</a> - Description for Guide 5</li>
+            <li><a href="{{ '/after-installing-the-game' | relative_url }}">After Installing the Game</a> - Description for Guide 2</li>
+            <li><a href="{{ '/textures-and-effects' | relative_url }}">Textures and Effects</a> - Description for Guide 3</li>
+            <li><a href="{{ '/3rd-party-programs' | relative_url }}">3rd Party Programs</a> - Description for Guide 4</li>
+            <li><a href="{{ '/troubleshooting-faq' | relative_url }}">Troubleshooting FAQ</a> - Description for Guide 5</li>
         </ul>
     </div>
     <div style="flex: 1; margin-left: 10px;">
