@@ -28,7 +28,7 @@ Before you can download and install the game, you'll need to create an account o
    An experimental release of `eqgame.dll` can be found under [#zeal-discussions](https://discord.com/channels/1133452007412334643/1210670176077348934/1227704216655761499).
 5. Extract the `eqgame.dll` file to your TAKP folder (where you installed the game client).
 
-### Step 4: Installing Zeal ![Zeal](/assets/images/Zeal.png)
+### Step 4: Installing Zeal ![Zeal](./assets/images/Zeal.png)
 
 Zeal is used to add additional functionality to EverQuest. Main additions include 3rd person camera smoothing fix, better tab targeting, spell sets, and melody. A full list of features can be found in the [readme](https://github.com/iamclint/Zeal/blob/master/README.md). *The readme is based on latest commits not latest the release build.*
 
