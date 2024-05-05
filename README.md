@@ -1,4 +1,4 @@
-# Welcome to Quarm.Guide, the [Project Quarm](https://www.projectquarm.com) Wiki!
+# Welcome to [Quarm.Guide](https://quarm.guide), the [Project Quarm](https://www.projectquarm.com) Wiki!
 
 ## A Brief Introduction to Project Quarm ![Quarm](/img/Quarm.png)
 
