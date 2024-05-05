@@ -65,23 +65,3 @@ Lossless Scaling allows you to scale windowed games to full screen using the sta
 I don't use this with EQ but I need to mention it alongside Lossless Scaling. I use it with my 4k OLED monitor to remove the Windows border around games sometimes to prevent OLED burn-in. It's pricey on Steam but free on Github.
 
 - [GitHub Releases](https://github.com/Codeusa/Borderless-Gaming/releases)
-
-## Part 5: Third Party Websites
-
-I was hesitant to make a list as they seem to pop up and go stagnant pretty quickly. There's a couple Quarm specific sites you need to know about though.
-
-### Project Quarm Database Interface 
-
-- [pqdi.cc](https://www.pqdi.cc/) This site pulls data directly from the Project Quarm database, so everything is super accurate. Invaluable on your adventure.
-
-### EQTunnelAuctions
-
-- [eqtunnelauctions](https://www.eqtunnelauctions.com/) Allows you to look up items recently sold in the EC tunnel and compare price trends.
-
-### TAKP Wiki
-
-- [TAKP Wiki](https://wiki.takp.info/index.php/Main_Page) p99 Wiki is great for user content, but its not accurate to Quarm in many cases. TAKP Wiki doesn't have as much user content, but it's more accurate so keep that in mind.
-
-### AllaQUARM
-
-- [AllaQUARM](https://eqtunnelauctions.com/alla/) Quarm's version of Allakhazam, also pulls from the database like PQDI.
