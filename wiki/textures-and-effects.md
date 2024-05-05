@@ -1,8 +1,8 @@
-## Part 3: Installing Optional Textures and Effects <br> [Video Guide for Part 2&3 HERE](https://www.youtube.com/watch?v=tmU_5kBZbu8)
+# Installing Optional Textures and Effects
 
 You can install various texture packs and visual effects to enhance the game's appearance.
 
-#### Classic HD Textures
+### Classic HD Textures
 
 EQ Classic HD is an ongoing project by Cucumbers, Paulgiamatti, Sorn, and Zaela to graphically enhance, upscale, retexture, and reimagine classic EverQuest. They primarily deal with textures, but their package also corrects some minor transparency, particle, and model animation issues. 
 
@@ -11,7 +11,7 @@ EQ Classic HD is an ongoing project by Cucumbers, Paulgiamatti, Sorn, and Zaela 
 
 To install Classic HD Textures, first make sure you're downloading the [The Al'Kabor Project version](https://drive.google.com/file/d/0ByJldqMGux7CVUh6a2taTWlndmM/view?usp=sharing&resourcekey=0-CzMD3Z47SRVJ6NNjLXql5w). Open the downloaded zip file. The archive contains an installer and uninstaller you can use. Manually, you can extract or copy the .S3D files contained in the EQClassicHD folder to your EverQuest directory (overwrite if you left the old ones in). To uninstall, copy your backed up files back into your EverQuest directory and overwrite. Install and uninstall.bat can be deleted or ignored. 
 
-#### EQ Basic 1.1
+### EQ Basic 1.1
 
 EQ Basic is a FULL graphics overhaul of Everquest, specifically for P99 Green/Blue (Classic, Kunark, Velious). This includes all zones, objects, character models, equipment(Including epics), mobs and spell effects! 
 
@@ -20,7 +20,7 @@ EQ Basic is a FULL graphics overhaul of Everquest, specifically for P99 Green/Bl
 
 To install EQ Basic 1.1 download and extract the `.7z` archive to your TAKP folder, overwriting files when prompted.
 
-#### Old EQ Spell Gems/Particle Effects/Music
+### Old EQ Spell Gems/Particle Effects/Music
 
 This is everything you can do to get EQ back to as close to a classic feel as possible.
 
@@ -28,7 +28,7 @@ This is everything you can do to get EQ back to as close to a classic feel as po
 
 Various installation instructions for the different parts can be found within the Reddit link provided above.
 
-#### KaichoFX Spell Effects
+### KaichoFX Spell Effects
 
 Kaicho has been working on their passion project, creating new spell effects, particles, and animations for EverQuest. You can find an example during one of his streams [here](https://clips.twitch.tv/SuaveEnergeticGalagoMingLee-lhitQb6LALq3BUHv).
 
@@ -37,7 +37,7 @@ Kaicho has been working on their passion project, creating new spell effects, pa
 
 To install KaichoFX, download the zip file from the above link. Rename your current SpellEffects folder inside your EQ folder to something like "SpellEffectsBACKUP" to save original copies in case you want to revert back. Create a new folder called SpellEffects inside your EQ folder. Extract the KaichoFX files into your new SpellEffects folder.
 
-#### Sound File Fixes
+### Sound File Fixes
 
 This link provides edited sound files to change the volumes of certain annoying sounds like rain and wind/snow. Scroll down to locate khanable's post.
 
@@ -48,7 +48,7 @@ This link provides edited sound files to change the volumes of certain annoying 
 
 To install, open your TAKP folder, sort by type. Locate all the EMT files. Move them into a folder to have a backup. Extract the .zip file into your TAKP directory. Log out/back in.
 
-#### Old Skeleton Models
+### Old Skeleton Models
 
 Simple tool for patching `gequip5.s3d` and `global6_chr.s3d` to enable classic EverQuest skeletons. ItsKensterr has provided the [patched files here](https://drive.google.com/file/d/1xoypYSaO6RMKRKVICEqk7kYK4pcbZc8l/view), so you can easily drop into your TAKP installation folder. I still want to provide their original project below.
 
@@ -67,3 +67,5 @@ To install the Old Skeleton Models, follow these steps:
 After following these steps, the Old Skeleton Models will be installed and applied to the game.
 
 Sources: [ItsKensterrr](https://www.youtube.com/watch?v=spMp-f7S7FA) | [ItsKensterrr](https://www.youtube.com/watch?v=zvhGnkbRW9g)
+
+This concludes [Textures and Effects](textures-and-effects). Please proceed to [3rd Party Programs](3rd-party-programs).
