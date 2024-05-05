@@ -1,6 +1,6 @@
-# Part 2: After Installing the Main Game
+# After Installing the Main Game
 
-## Step 1: Understanding your EQClient.ini
+## Understanding your EQClient.ini
 
 The `eqclient.ini` file contains a list of settings that can be changed to suit your preferences, many of which cannot be changed in-game through the options window.
 
@@ -78,7 +78,7 @@ Zeal also has a number of `eqclient.ini` values that are saved here and this lis
 - RightStrafeSpellbookAutostand=TRUE
 - PanDelay=20 - Zeal adds the ability to left click and hold to move the camera in 3rd person without moving the character. To prevent misclicks, you can add a delay to this functionality.
 
-## Step 2: Controlling your User Interface
+## Controlling your User Interface
 
 The supported client comes with several additional custom UIs. To switch to one of these, run the slash command `/loadskin <ui> 1`. The 1 is optional-- it will keep your current window positions. Loading UIs via the options window will not work. [Source: wiki.takp](https://wiki.takp.info/index.php/Getting_Started_on_Windows#EQClient.ini_settings)
 
@@ -130,7 +130,7 @@ Its tricky searching around Project Quarm's Discord but I can provide a list tha
 
 [Credits to Kyinen](https://discord.com/channels/1133452007412334643/1162826324092657757/1228694493117681686)
 
-## Step 3: Characters, Logs, Spell Sets, and Screenshots
+## Characters, Logs, Spell Sets, and Screenshots
 
 ### Character ini for Friends Abilities Socials and Macro Settings
 
