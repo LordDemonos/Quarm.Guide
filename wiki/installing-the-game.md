@@ -57,11 +57,11 @@ There are two methods to exclude your TAKP installation, manually or using a Pow
 
 - Click Virus and Threat Protection.
 
-![Defenderexclusion3](./assets/images/Defenderexclusion3.png)
+![Defenderexclusion3](./assets/images/step4/Defenderexclusion3.png)
 
 - Under Virus and Threat Protection settings, click manage settings.
 
-![Defenderexclusion4](./assets/images/Defenderexclusion4.png)
+![Defenderexclusion4](./assets/images/step4/Defenderexclusion4.png)
 
 - Under exclusions, click Add or Remove Exclusions.
 
