@@ -1,4 +1,4 @@
-## FAQ, Troubleshooting, and Obscure Situations
+### FAQ, Troubleshooting, and Obscure Situations
 
 - [Where can I learn more about Project Quarm?](#where-can-i-learn-more-about-project-quarm)
 - [When I use my mouse wheel to scroll backwards, I do not see my character in 3rd person. How do I enable Mouse Look?](#when-i-use-my-mouse-wheel-to-scroll-backwards-i-do-not-see-my-character-in-3rd-person-how-do-i-enable-mouse-look)
@@ -39,19 +39,19 @@
 - [How does viewport work?](#how-does-viewport-work)
 
 
-### Where can I learn more about Project Quarm?
+#### Where can I learn more about Project Quarm?
 **A:** The main website projectquarm.com contains a link to the [Project Quarm Discord](https://discord.gg/3nDQ9AkUz8).
 
-### When I use my mouse wheel to scroll backwards, I do not see my character in 3rd person. How do I enable Mouse Look?
+#### When I use my mouse wheel to scroll backwards, I do not see my character in 3rd person. How do I enable Mouse Look?
 **A:** You may have disabled mouse look. While logged into the game, press F12 to enable/disable mouse look.
 
-### How do I make the chat text bigger in game?
+#### How do I make the chat text bigger in game?
 **A:** /chatfontsize 1-5
 
-### Why doesn't (zeal feature) appear in my User Interface?
+#### Why doesn't (zeal feature) appear in my User Interface?
 **A:** Zeal adds functionality so the User Interface needs to be told how to display that functionality. Zeal contains a few UI files you can drop into the TAKP/Uifiles/ folder that you use. Alternatively, you can find new user interfaces with added functionality. I use [Nillipus UI 1440p](https://discord.com/channels/1133452007412334643/1162826324092657757/1224809011392807003),  [Merchant](https://discord.com/channels/1133452007412334643/1162826324092657757/1224861589799178321). I can also recommend [qqui Calmethar](https://www.eqinterface.com/downloads/fileinfo.php?id=6959) as it is updated frequently.
 
-### How do I change my resolution?
+#### How do I change my resolution?
 **A:** In your `eqclient.ini` you can find the [VideoMode] section. Change this to match your desktop's settings. 
 
 - [VideoMode] 
@@ -59,16 +59,16 @@
 - Height=1080
 - (match your display settings with the proper height and width prior to launching the game)
 
-### How do I run the game full screen?
+#### How do I run the game full screen?
 **A:** You want to run the game in windowed mode first. In your `eqclient.ini` set this option `WindowedMode=TRUE`. Find [VideoMode] and set it to your desired resolution. When you are logged into EverQuest, press SHIFT + Enter to switch between windowed and fullscreen modes. If you are still having problems, see the 3rd party programs section for LosslessScaling.
 
-### I'm using the Stone UI from 1999?
+#### I'm using the Stone UI from 1999?
 **A:** In your `eqclient.ini` set NewUI=TRUE and `OldUI=False`.
 
-### How do I view nameplates from far away?
+#### How do I view nameplates from far away?
 **A:** Use an [updated](#step-3-converting-your-takp-client-to-quarm) `eqgame.dll` and make sure `eqclient.ini` has `EnableExtendedNameplateDistance=TRUE`. 
 
-### The game still isn't smooth. Camera movement is still jittery?
+#### The game still isn't smooth. Camera movement is still jittery?
 **A:** First make sure you're using the experimental `eqgame.dll` file as this fixes the framerate options in your `eqclient.ini`. With previous versions of `eqgame.dll` the frame rate/refresh rate values would not be respected. 
 
 The supported client includes a frame rate limiter not found in the original client. You can change foreground and background FPS limits (this gets put in automatically if absent) by editing these lines in your `eqclient.ini`:
@@ -81,16 +81,16 @@ The supported client includes a frame rate limiter not found in the original cli
 
 The recommended frame rate for MaxMouseLookFPS is 60 (or 30) to avoid mouse look issues. It's 0 (unlimited FPS) by default. Very high frame rates will make the mouse look less usable. However you can change these if desired. You may want a higher background FPS for better autofollowing. These features (among other fixes) are a part of the latest eqgame.dll you would have downloaded under the Obtaining the Client Section for Windows. [Source: wiki.takp](https://wiki.takp.info/index.php/Getting_Started_on_Windows)
 
-### I logged in and I can only move the camera left and right or only up and down? Mouse speed is really fast too?
+#### I logged in and I can only move the camera left and right or only up and down? Mouse speed is really fast too?
 **A:** Sometimes Zeal's camera movement settings do not save properly so the camera feels too fast, or wont move at all. In game you can ALT + O to open the options menu and navigate to the Zeal tab. I like all my camera settings around .3. These settings can also be found in `eqclient.ini` at the bottom under [Zeal] `MouseSensitivityX=0.300000` `MouseSensitivityY=0.300000` `MouseSensitivityX3rd=0.300000` `MouseSensitivityY3rd=0.300000`.
 
-### I want to turn off the loud music at character creation or character select screen?
+#### I want to turn off the loud music at character creation or character select screen?
 **A:** Delete the following files from your TAKP folder. `eqtheme.mp3` `combattheme1.mp3` `combattheme2.mp3` `deaththeme.mp3`
 
-### Quarm enabled snow and it's very loud?
+#### Quarm enabled snow and it's very loud?
 **A:** Originally posted on discord by Hallic|Kelendil: For those interested in reducing or deleting the new event snow sound, the name of the file for the snow/wind loop is `wind_lp1.wav` located in the `snd2.pfs` file in your EQ directory. You will need a special pfs file viewer to open, extract or delete this file. To do so, use [EQ-Zip EverQuest Archive Manager](https://github.com/Shendare/EQZip/releases). First open `snd2.pfs` and you will see a list of several environmental sounds there. You can export or delete the `wind_lp1.wav` OR even use an online .wav volume reducing tool such as [Change Volume](https://mp3cut.net/change-volume) to reduce the volume. You can then upload the reduced volume wav file back into `snd2.pfs` (overwrite and replace the loud one) and now you have a much softer sounding ambient wind. You can do this for all the sound files btw and even make custom ones.
 
-### I have a new laptop with an integrated graphics card and I'm experiencing graphical problems?
+#### I have a new laptop with an integrated graphics card and I'm experiencing graphical problems?
 **A:** *Hybrid Graphics Support* Some laptops containing hybrid graphics, with discrete graphics processing capabilities, often do not get utilized by the PC Client. This is due to the graphics in the older PC client being based on MS DirectX 8. A DirectX wrapper has been found that can successfully enable use of the discrete GPU, over the slower on board graphics. If you are experiencing performance issues on a relatively new laptop with an integrated GPU, give one of the following two options a try. One option is using dgVoodoo2, read more [here](https://wiki.takp.info/index.php/Getting_Started_on_Windows).
 
 Option 1: You can download the dgVoodoo2 wrapper at [dgVoodoo2](http://dege.freeweb.hu/dgVoodoo2/dgVoodoo2/). This specific [Version 2.8.2](http://dege.fw.hu/temp/dgVoodoo2_81_exp4.zip) seems to work well on AMD and NVidia based hybrid graphics.
@@ -107,7 +107,7 @@ If the wrapper is loaded, in game it will have a "dgVoodoo" watermark in the low
 
 Option 2: [DXwrapper](https://www.dropbox.com/s/phvxgl6ojf2xqih/DxWrapper.zip?dl=0). This wraps the dx8 to dx9. It will use the amd graphics on a switchable graphics laptop, even though it selects the onboard graphics at run time. By using GPU-Z, you can see which graphics card is doing the work. What doesn't work, is adjusting the gamma from the slider in game. Just put these 3 files in your TAKP install folder and give it a try. If it doesn't work or you don't see performance gains, then remove them. [Source: wiki.takp](https://wiki.takp.info/index.php/Getting_Started_on_Windows)
 
-### How do I disable Luclin models?
+#### How do I disable Luclin models?
 
 **A:** Locate the section in your `eqclient.ini` for UseLuclin and set them to FALSE. Luclin models are set during the initial game configuration and those values are saved here. 
 
@@ -141,7 +141,7 @@ UseLuclinElementals=FALSE
 UseLuclinVahShirMale=FALSE
 UseLuclinVahShirFemale=FALSE`
 
-### How do I disable Velious armor textures?
+#### How do I disable Velious armor textures?
 **A:** Locate the section in your `eqclient.ini` for Velious armor textures and set them to FALSE. Velious armor textures are not enabled by default as they can cause an issue with Vah Shir armor not displaying. 
 
 `LoadVeliousArmorsWithLuclin=FALSE
@@ -153,7 +153,7 @@ LoadArmor21=FALSE
 LoadArmor22=FALSE
 LoadArmor23=FALSE`
 
-### Sometimes my character's spell gems stay grayed out and the server stops responding to my client.
+#### Sometimes my character's spell gems stay grayed out and the server stops responding to my client.
 **A:** This is what is commonly referred to as 'desyncing'. The precise cause(s) of the problem are unknown (else they would get fixed up) but there are things that can be done to reduce the chance of this occurring.
 
 - Ensure that your internet connection is uncongested. Try using a wired connection to your router instead of wifi.
@@ -164,27 +164,27 @@ LoadArmor23=FALSE`
 
 [See also this post summarizing connection issues for TAKP](http://www.takproject.net/forums/index.php?threads/connection-issues-read-this.4488/#post-24796). [Source: wiki.takp](https://wiki.takp.info/index.php/Getting_Started_on_Windows)
 
-### Chat channels keep dropping?
+#### Chat channels keep dropping?
 **A:** If your chat channels regularly drop, you can try adding `ChatKeepAlive=1` in the defaults section of the `eqclient.ini`, this will increase the frequency the keepalives are sent to every 15 seconds.
 
 If one packet is dropped, that is the keepalive from Client to Server, you will time out before it triggers again, if the `ChatKeepAlive=1` is not set. So this specific condition can contribute to chat channels dropping. [Source: wiki.takp](https://wiki.takp.info/index.php/Getting_Started_on_Windows)
 
-###  Why is my non-QWERTY keyboard not working correctly in game? 
+####  Why is my non-QWERTY keyboard not working correctly in game? 
 **A:** The default client is packaged with the QWERTY keyboard layout file. This can be changed by replacing the `keyboard.txt` in your TAKP folder with the one made for your locality [keyboard.txt by nationality](https://drive.google.com/open?id=0B70BIislzWn_U01KbnNXQVZ3WU0). *Please note that several are still missing and will be uploaded as we can find/make them*
 
-### I'm having mouse issues?
+#### I'm having mouse issues?
 **A:** Usually caused by DPI Scaling setting in Windows. Need to set it to 100% DPI scaling. You may find this forum thread useful: [Mouse issues](https://www.takproject.net/forums/index.php?threads/mouse-issues.9806/))
 
-### I'm getting a EQMAIN.DLL error running the game?
+#### I'm getting a EQMAIN.DLL error running the game?
 **A:** This happens if you try to launch the game from Windows Search results. Don't launch from search results. Navigate to the folder manually and run `eqgame.exe` directly, or create a desktop shortcut, or launch via hotkey.net. Also this error can happen if your anti-virus deletes some game files. Make sure you set AV exclusions and the game files aren't being quarantined.
 
 ![Eqmain-dll-error](/img/faq/Eqmain-dll-error.png)
 
-### The text in game is fuzzy and not clear?
+#### The text in game is fuzzy and not clear?
 **A:** In each of your EQ folders:
 - Right click `eqgame.exe`, properties, compatibility tab, change DPI settings, check the box "Override high DPI scaling behavior" and select "Application" in the dropdown.
 
-### The gamma slider doesn't work?
+#### The gamma slider doesn't work?
 **A:** For some people, the in-game Gamma slider does nothing. Follow the below steps on how to increase Gamma on Windows 10 machines:
 
 - Right click on Desktop -> choose "Display Settings"
@@ -206,19 +206,19 @@ Now your gamma has been increased for this monitor!
 
 *Note: If the Gamma resets on next reboot, you need to get back to the "Color Management - System Defaults" screen, and re-tick the "Use Windows display calibration" setting and click Close. This will bring back your previous settings.*
 
-### The EULA acceptance window moved so I can't log in?
+#### The EULA acceptance window moved so I can't log in?
 **A:** This is the first window you see when you run the game. Settings for this are in the eqw.ini file in your EQ folder. Positions are set numerically according to each resolution you use (2 for x and y would be the upper left for example):
 
 ![Eqwini](/img/faq/Eqwini.png)
 
-### I have white and yellow bars covering my text?
+#### I have white and yellow bars covering my text?
 **A:** This is likely caused by an incompatible version of dgvoodoo. You can either look for a newer or older version that is compatible with your graphics card or can disable dgvoodoo by moving the d3d8.dll out of the EQ client folder and relaunching the client.
 
 This issue is fixed in v2.2 client that has an updated dgVoodoo2 d3d8.dll which is compatible with AMD cards. You can download it from [here](http://dege.fw.hu/temp/dgVoodoo2_81_exp4.zip).
 
 ![Barscoveringtext](/img/faq/Barscoveringtext.png)
 
-### The game runs too fast?
+#### The game runs too fast?
 **A:** If you are using an AMD 7xxx series CPU in your system you may need to adjust your system's settings to avoid this issue. The following were done by different people to correct this issue:
 
 - "I disabled PBO and reduced clock speed to 3900 in bios then in Ryzen Master switched to normal profile and it's working for me now. Game running at normal speed."
@@ -226,20 +226,20 @@ This issue is fixed in v2.2 client that has an updated dgVoodoo2 d3d8.dll which 
 
 Use Ryzen Master to apply settings [Source: TAKP Forums](https://www.takproject.net/forums/index.php?threads/everything-is-at-10x-speed.27284/)) 
 
-### I'm still experiencing crashes during long play sessions on raids?
+#### I'm still experiencing crashes during long play sessions on raids?
 **A:** If you are experiencing client crashing during raids, can check the long discussion [here](https://www.takproject.net/forums/index.php?threads/crashing-when-zoning-long-play-sessions.20996/page-5#post-114059).
 - Edit your `eqclient.ini` file and set this value to zero `ShowSpellEffects=0` or in-game can type `/showspell OFF`
 - Update to latest [FreeTheMouse client v3.6.4](https://www.dropbox.com/s/qzb86juu8k87mfs/eqgame_dll%20v3.6.4%20for%20ftm.zip?dl=0). This should help with client switching crashes.
 - Edit your eqclient.ini file and change this line to match your chosen UI that you use `UISkin=<your UI name>`.
 [Source: TAKP Forums](https://www.takproject.net/forums/index.php?threads/crash-to-desktop-on-enter-world.16444) [Source: TAKP Forums](https://www.takproject.net/forums/index.php?threads/power-of-two-ui-crashing-client-when-entering-world.11793)
 
-### I can't see the bottom of the logon window to press the accept button?
+#### I can't see the bottom of the logon window to press the accept button?
 **A:** Add the Following lines to [Defaults] Section of your `eqclient.ini`
 
 `FEWindowedModeXOffset=0`
 `FEWindowedModeYOffset=0`
 
-### I can't find Grizzly Bear Skins, only Thick Grizzly Bear Skins?
+#### I can't find Grizzly Bear Skins, only Thick Grizzly Bear Skins?
 **A:** Thick Grizzly Bear Skins work for whatever quest or item you are trying to complete. From user [Peuw](https://discord.com/channels/1133452007412334643/1154893244702920806/1154893244702920806):*After turning in the four skins, he returns only the Grizzly Bear Skin and states he has no need for these items. I found he accepts:*
 
 `Thick Grizzly Bear Skin (should be not Thick?)`
@@ -249,10 +249,10 @@ Use Ryzen Master to apply settings [Source: TAKP Forums](https://www.takproject.
 
 *I was able to complete the cap quest with these skins, and the following dagger turn in.* 
 
-### There are no maps?
+#### There are no maps?
 **A:** The map system was introduced with the Legacy of Ykesha expansion in February 2003, and is not present in Project Quarm. I suggest looking into [ZlizEQMap](#ZlizEQMap). 
 
-### How do I install a custom mouse pointer?
+#### How do I install a custom mouse pointer?
 **A:** Installing a custom mouse pointer for your interface isn’t too difficult of a task but requires some basic knowledge. You will need enough skill to be able to open a XML file in a text editor and change some things. Knowing how to use a graphics editing program with .tga files may help you as well.
 
 When you download a custom mouse pointer for Everquest there should be two files included within the pointer zip file. One will be a .tga graphic file and the other should be a readme.txt that gives instructions on what to change in the EQUI_Animations.xml. Since every cursor has different sizes the author should include this information.
@@ -304,22 +304,22 @@ Once these basics are done correctly you should get your new mouse pointer in ga
 
 If you have no mouse pointer after this more than likely the X,Y or the CX,CY values are wrong or you have a typo in the filename. If it’s a typo in the filename of the .tga file you should see an error in your uierrors.txt about it. [Source: eqinterface](https://www.eqinterface.com/forums/faq.php?faq=install#faq_howto_install)
 
-### My default chat channel will not save?
+#### My default chat channel will not save?
 **A:** It's a Quarm bug. If you set the default channel on any other chat window, that isn't the 'Main' one, the setting will save between logging. [Source: Zephon](https://discord.com/channels/1133452007412334643/1214573430402322503/1220133660125167626)
 
-### One of my UI windows is off screen and I can't move it?
+#### One of my UI windows is off screen and I can't move it?
 **A:** Your settings are saved in your [UI .ini file](#Duplicating-your-UI-Settings-for-New-Characters ) so there's a couple ways you can reset these values. You can edit the file yourself and change the coordinates of the specific UI element that is off screen, and then reload your UI. You could delete the file and the game will generate a new one upon next login. The simplest method is to simply reload your UI without using the file and tell EQ to reset all the windows. You can type /loadskin uiname without appending a 1 to the end, to have EQ load the UI without saving positions. Learn more [here](#how-do-i-install-an-interface).
 
-### I do not see buff timers?
+#### I do not see buff timers?
 **A:** You need an updated `eqgame.dll` file, [see here](#Step-3-Converting-your-TAKP-client-to-Quarm)
 
-### Are there hell levels?
+#### Are there hell levels?
 **A:** Level smoothing rules are in place on this server. The typical hell levels still require more exp but but the requirements for each level are a lot more even than in the original game. You can look up how much exp you need per level over at [pqdi.cc](https://www.pqdi.cc/exp).
 
-### Do pets take a portion of experience?
+#### Do pets take a portion of experience?
 **A:** If your pet deals more than 50% of the mob's total health, it will earn exp as if it were another player in your party. [Source: Secrets](https://discord.com/channels/1133452007412334643/1133453587675103323/1147980850701545504) This is true if you are solo or grouped. However it is unlikely a single pet will deal over 50% of a mob's total health when you are grouped, since your party members are also doing damage. This rule applies to each individual pet, so a party with 3 mages doesn't need to worry, since a single pet is still not dealing 50% of a mob's total health.
 
-### How do I turn off the loud music at character select or character creation?
+#### How do I turn off the loud music at character select or character creation?
 **A:** Delete the following files:[Source: Rumpus on Discord] 
 
 - eqtheme.mp3
@@ -329,7 +329,7 @@ If you have no mouse pointer after this more than likely the X,Y or the CX,CY va
 
 Delete these from your main TAKP folder. Midis will be restored and they are not as loud and "sound much better".
 
-### How does viewport work?
+#### How does viewport work?
 **A:**
 
 There are a few resources on adjusting the screen area instead of the resolution, to better format your EverQuest viewing experience. I think [Cairenn on eqinterface](https://www.eqinterface.com/forums/showthread.php?t=4180) explained its usage the best. 
