@@ -1,6 +1,6 @@
 # Welcome to [Quarm.Guide](https://quarm.guide), the [Project Quarm](https://www.projectquarm.com) Wiki!
 
-## A Brief Introduction to Project Quarm ![Quarm](/img/Quarm.png)
+## A Brief Introduction to Project Quarm
 
 [Project Quarm](https://projectquarm.com/) is a 1-Box EverQuest emulated server based on the [TAKProject](https://www.takproject.net/) codebase! We are currently in the [Classic 1.6](#classic-1x-october-1st-2023) era with Kunark Pre-release coming June 1st.
 
