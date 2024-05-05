@@ -1,6 +1,6 @@
 # Installing the Main Game 
 
-### Important Backup Reminder
+Important Backup Reminder
 
 Whenever you make changes or overwrite files, it's crucial to create backups to prevent data loss. We strongly recommend backing up the entire TAKP folder or any modified files before proceeding with any alterations. Creating backups is a quick and easy process that can save you from potential headaches down the line. While we won't remind you to back up files after every step, it's a best practice to develop a habit of regularly backing up your data.
 
