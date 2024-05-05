@@ -1,4 +1,4 @@
-# Installing Optional Textures and Effects
+## Installing Optional Textures and Effects
 
 You can install various texture packs and visual effects to enhance the game's appearance.
 
