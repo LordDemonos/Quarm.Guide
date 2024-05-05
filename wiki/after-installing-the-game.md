@@ -157,3 +157,5 @@ Once created, you can even right click your spellbook to choose one of your spel
 #### Screenshots
 
 Screenshots can be taken by pressing PRINT SCREEN within the game, and can be changed within the Options. These are saved in your TAKP folder as `EQ000001.bmp` for example.
+
+This concludes [After Installing the Game](after-installing-the-game). Please proceed to [Textures and Effects](textures-and-effects).
