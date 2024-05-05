@@ -28,7 +28,7 @@ Before you can download and install the game, you'll need to create an account o
    An experimental release of `eqgame.dll` can be found under [#zeal-discussions](https://discord.com/channels/1133452007412334643/1210670176077348934/1227704216655761499).
 5. Extract the `eqgame.dll` file to your TAKP folder (where you installed the game client).
 
-### Step 4: Installing Zeal ![Zeal](/img/Zeal.png)
+### Step 4: Installing Zeal ![Zeal](/assets/images/Zeal.png)
 
 Zeal is used to add additional functionality to EverQuest. Main additions include 3rd person camera smoothing fix, better tab targeting, spell sets, and melody. A full list of features can be found in the [readme](https://github.com/iamclint/Zeal/blob/master/README.md). *The readme is based on latest commits not latest the release build.*
 
@@ -49,27 +49,27 @@ There are two methods to exclude your TAKP installation, manually or using a Pow
 
 -Right click the windows button in the lower left hand corner and select search.
 
-![Defenderexclusion1](/img/step4/Defenderexclusion1.png)
+![Defenderexclusion1](/assets/images/step4/Defenderexclusion1.png)
 
 - Search for and select Windows Security.
 
-![Defenderexclusion2](/img/step4/Defenderexclusion2.png)
+![Defenderexclusion2](/assets/images/step4/Defenderexclusion2.png)
 
 - Click Virus and Threat Protection.
 
-![Defenderexclusion3](/img/step4/Defenderexclusion3.png)
+![Defenderexclusion3](/assets/images/Defenderexclusion3.png)
 
 - Under Virus and Threat Protection settings, click manage settings.
 
-![Defenderexclusion4](/img/step4/Defenderexclusion4.png)
+![Defenderexclusion4](/assets/images/Defenderexclusion4.png)
 
 - Under exclusions, click Add or Remove Exclusions.
 
-![Defenderexclusion5](/img/step4/Defenderexclusion5.png)
+![Defenderexclusion5](/assets/images/step4/Defenderexclusion5.png)
 
 - Click Add an exclusion and select Folder.
 
-![Defenderexclusion6](/img/step4/Defenderexclusion6.png)
+![Defenderexclusion6](/assets/images/step4/Defenderexclusion6.png)
 
 - Select the folder that you currently have (or intend to have) the TAKP files extracted into and run from when you play.
 
@@ -83,7 +83,7 @@ Open administrative PowerShell and type in the below, replace the C:\TAKPv22 fol
 
 `Add-MpPreference -ExclusionProcess "C:\TAKPv22\eqgame.exe"`
 
-![AV_Exclusions_PowerShell_Example](/img/step4/AV_Exclusions_PowerShell_Example.png)
+![AV_Exclusions_PowerShell_Example](/assets/images/step4/AV_Exclusions_PowerShell_Example.png)
 
 #### Why is Zeal getting flagged as a Virus/Malware?
 Zeal is a file that adds new features and improvements to EverQuest by injecting custom code into the game's sound engine. This process is called code injection. While code injection is sometimes associated with malware or viruses because it modifies the game files, Zeal serves a legitimate purpose in enhancing the gaming experience.
@@ -103,11 +103,11 @@ The Project Quarm team plans to address this issue by obtaining a digital certif
 
 Zeal comes prepackaged with a uifiles folder containing files modified to display new features found within Zeal. When extracting `zeal.zip` to your TAKP folder, it will place these files in your /uifiles/duxaUI/ folder, which is the default user interface when `NewUI=TRUE` and `OldUI=FALSE` in your `eqclient.ini`. 
 
-![ChangeButton_ZealOptions](/img/step4/ChangeButton_ZealOptions.png)
+![ChangeButton_ZealOptions](/assets/images/step4/ChangeButton_ZealOptions.png)
 
 However Zeal does not come with user interface files for every Zeal feature and your game chat window will show errors when playing. These are not harmful to your gameplay experience and can be ignored. EverQuest will identify which files are missing or broken and attempt to load them from the default folder instead. 
 
-![uierrors](/img/step4/uierrors.png)
+![uierrors](/assets/images/step4/uierrors.png)
 
 There are several EQ User Interfaces that have been modified to work with Project Quarm and Zeal. A list of these can be found down under [Where to get Quarm User Interfaces](#where-to-get-quarm-user-interfaces). If you are looking for something simple and quick to get started with, I have compressed a more complete collection of duxaUI files, the default UI for Quarm/TAKP clients, found [here](https://quarm.guide/duxaUI.7z). 
 
@@ -130,7 +130,7 @@ If you are already using a custom user interface, you can determine which UI ele
 8. Change VRAM to match your video card's VRAM.
 9. Uncheck dgVooDoo watermark.
 
-![dgVoodoo1](/img/step5/dgVoodoo1.png) ![dgVoodoo2](/img/step5/dgVoodoo2.png)
+![dgVoodoo1](/assets/images/step5/dgVoodoo1.png) ![dgVoodoo2](/assets/images/step5/dgVoodoo2.png)
 
 Source: [El Hefe](https://www.youtube.com/watch?v=ArLNnN0GwfQ)
 
@@ -158,7 +158,7 @@ Under Compatibility, select "Run this program in compatibility mode for Windows 
 
 Run the `eqgame.exe` to launch the game. Click through the next few pages. You can choose to click on or off the luclin models here which is easier than changing it in your `eqclient.ini`. I do not recommend changing anything on the final screen though. 
 
-![first1](/img//step7/first1.png)![first2](/img//step7/first2.png)![first3](/img//step7/first3.png)![first4](/img/step7/first4.png)
+![first1](/assets/images/step7/first1.png)![first2](/assets/images/step7/first2.png)![first3](/assets/images/step7/first3.png)![first4](/assets/images/step7/first4.png)
 
 Once you are at the login screen, exit back out of the game and close it. In your TAKP folder, open your `eqclient.ini` and change the following settings.
 
@@ -174,10 +174,10 @@ Once you are at the login screen, exit back out of the game and close it. In you
 
 You can now run `eqgame.exe` again and log into the game. Once you log into your character, you will be looking at the default "NewUI". Press ALT + O to open the options menu. Navigate to General and select Load UI Skin. Select `duxaUI` for now and click Load Skin. This will allow you to open options again with ALT + O and modify the new Zeal settings as well. 
 
-![loadui](/img/step7/loadui.png)
+![loadui](/assets/images/step7/loadui.png)
 
 Below are some recommended Zeal specific changes you should consider before you start your adventure. 
 
-![zeal1](/img/step7/zeal1.png)![zeal2](/img/step7/zeal2.png)![zeal3](/img/step7/zeal3.png)![zeal4](/img/step7/zeal4.png)![zeal5](/img/step7/zeal5.png)
+![zeal1](/assets/images/step7/zeal1.png)![zeal2](/assets/images/step7/zeal2.png)![zeal3](/assets/images/step7/zeal3.png)![zeal4](/assets/images/step7/zeal4.png)![zeal5](/assets/images/step7/zeal5.png)
 
 This concludes part 1 of the guide.
