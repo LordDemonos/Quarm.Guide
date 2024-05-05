@@ -12,7 +12,7 @@ If you want to learn more about Project Quarm specific features and rules, head 
     <div style="flex: 1; margin-right: 10px;">
         <h3>Written Guides</h3>
         <ul>
-            <li><a href="#">Guide 1</a> - Description for Guide 1</li>
+            <li><a href="/installing-the-game">Installing the Game</a> - Get started with Project Quarm here</li>
             <li><a href="#">Guide 2</a> - Description for Guide 2</li>
             <li><a href="#">Guide 3</a> - Description for Guide 3</li>
             <li><a href="#">Guide 4</a> - Description for Guide 4</li>
