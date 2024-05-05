@@ -15,7 +15,7 @@ If you want to learn more about Project Quarm specific features and rules, head 
             <li><a href="{{ '/installing-the-game' | relative_url }}">Installing the Game</a> - Get started with Project Quarm here</li>
             <li><a href="{{ '/after-installing-the-game' | relative_url }}">After Installing the Game</a> - Description for Guide 2</li>
             <li><a href="{{ '/textures-and-effects' | relative_url }}">Textures and Effects</a> - Description for Guide 3</li>
-            <li><a href="{{ '/3rd-party-programs' | relative_url }}">3rd Party Programs</a> - Description for Guide 4</li>
+            <li><a href="{{ '/third-party-programs' | relative_url }}">Third Party Programs</a> - Description for Guide 4</li>
             <li><a href="{{ '/troubleshooting-faq' | relative_url }}">Troubleshooting FAQ</a> - Description for Guide 5</li>
         </ul>
     </div>
