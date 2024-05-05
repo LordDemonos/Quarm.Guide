@@ -116,7 +116,7 @@ Inevitably you'll create multiple characters during your time on Project Quarm. 
 
 Its tricky searching around Project Quarm's Discord but I can provide a list that will get you started.
 
-- [#ui-discussion](https://discord.com/channels/1133452007412334643/1162826324092657757)
+- [ui-discussion](https://discord.com/channels/1133452007412334643/1162826324092657757)
 
 - NillipussUI - [ui-discussion](https://discord.com/channels/1133452007412334643/1162826324092657757/1224809011392807003)
 - Custom Nillipus Setup Newborn - [ui-discussion](https://discord.com/channels/1133452007412334643/1162826324092657757/1210675276699148370)
