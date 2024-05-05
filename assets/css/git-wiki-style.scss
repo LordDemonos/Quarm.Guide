@@ -4,6 +4,12 @@ layout: "null"
 
 @import "git-wiki-style.scss";
 
+.small-text {
+    margin: 5px 0; /* Adjust the top and bottom margins */
+    padding: 0; /* Remove any padding */
+}
+
+
 /*
 $orange-red: #FF281B;
 $purple: #8a63d2;
