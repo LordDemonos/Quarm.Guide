@@ -1,10 +1,10 @@
+# Installing the Main Game 
+
 ### Important Backup Reminder
 
 Whenever you make changes or overwrite files, it's crucial to create backups to prevent data loss. We strongly recommend backing up the entire TAKP folder or any modified files before proceeding with any alterations. Creating backups is a quick and easy process that can save you from potential headaches down the line. While we won't remind you to back up files after every step, it's a best practice to develop a habit of regularly backing up your data.
 
-## Installing the Main Game 
-
-### Step 1: Create a TAKP Forum Account
+## Step 1: Create a TAKP Forum Account
 Before you can download and install the game, you'll need to create an account on the TAKP forums.
 
 **NOTE: You must only create 1 forum account. You can create up to 10 game accounts under your forum account, but you must not create more than 1 forum account. If this is detected, the extra forum accounts will be deleted, and access to any game accounts associated with them will be lost. Also, please name your forum and game accounts carefully as these cannot be changed or deleted after creation. Read the forum FAQ and Rules for more information [here](https://www.takproject.net/forums/index.php?forums/server-info.90/).*
