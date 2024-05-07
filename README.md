@@ -4,7 +4,7 @@
 
 <!-- # Everquest Project Quarm Getting Started Guide -->
 <!-- ##### By Xanax/Xantagonist < Former Glory > -->
-## Updated May 6th 2024
+## Updated May 7th 2024
 
 ## Table of Contents
 1. [A Brief Introduction to Project Quarm](#a-brief-introduction-to-project-quarm-)
@@ -401,7 +401,7 @@ Its tricky searching around Project Quarm's Discord but I can provide a list tha
 
 - [#ui-discussion](https://discord.com/channels/1133452007412334643/1162826324092657757)
 
-- NillipussUI - [ui-discussion](https://discord.com/channels/1133452007412334643/1162826324092657757/1224809011392807003)
+- NillipussUI - [ui-discussion](https://discord.com/channels/1133452007412334643/1162826324092657757/1237477699635773571)
 - Custom Nillipus Setup Newborn - [ui-discussion](https://discord.com/channels/1133452007412334643/1162826324092657757/1210675276699148370)
 - LeeWong's Custom UI's Black Edition - [ui-discussion](https://discord.com/channels/1133452007412334643/1162826324092657757/1175527533375144047)
 - EQ Graphics Overhaul Project - [ui-discussion](https://discord.com/channels/1133452007412334643/1162826324092657757/1209541926538313789)
