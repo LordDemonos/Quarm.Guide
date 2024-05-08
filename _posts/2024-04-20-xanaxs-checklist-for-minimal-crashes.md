@@ -4,10 +4,10 @@ published: true
 
 ## Xanax's Checklist for Minimal Crashes
 
-I wrote this guide because half of my guild seems to crash when they zone in and out of the planes. Everyone is on different pieces and versions of this game. Meanwhile I've thrown most of this guide into 3 different game folders and they all work well, only crashing occasionally when I drop to character select, or if I change my audio output source. Here's what I'm using:
+I started this because half of my guild seems to crash when they zone in and out of the planes. Everyone is on different pieces and versions of this game. Meanwhile I've thrown most of this configuration into 3 different game folders and they all work well, only crashing occasionally when I drop to character select, or if I change my audio output source. Here's what I'm using:
 
 1. 2.2 version of TAKP.
-2. Secrets's experimental .dll from zeal-discussions.
+2. .dll from 5/6 contains some crucial fixes.
 3. Excluded TAKP folder from antivirus scanning.
 4. Always running the latest Zeal unless it contains a specific bug I want to avoid. Always keep previous versions backed up.
 5. dgVoodoo fix
