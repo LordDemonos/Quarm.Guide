@@ -1,5 +1,14 @@
 <head>
   <!-- Other head elements -->
   <link rel="stylesheet" href="{{ '/assets/css/custom.scss' | relative_url }}">
+  <!-- Theme Selection -->
+<select onchange="switchTheme(this.value, document.body.classList.contains('dark-mode') ? 'dark-mode' : 'light-mode')">
+  <option value="theme1">Theme 1</option>
+  <option value="theme2">Theme 2</option>
+</select>
+
+<!-- Light/Dark Mode Toggle -->
+<button onclick="switchTheme(currentTheme, 'light-mode')">Light Mode</button>
+<button onclick="switchTheme(currentTheme, 'dark-mode')">Dark Mode</button>
 </head>
 
