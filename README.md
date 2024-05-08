@@ -31,14 +31,14 @@ If you want to learn more about Project Quarm specific features and rules, head 
 <div style="text-align: center;">
     <h3>Third-Party Resources</h3>
     <div style="display: flex; justify-content: center;">
-        <div style="margin-right: 10px;">
+        <div style="margin-right: 10px; text-align: left;">
             <ul style="list-style: none; padding: 0; margin: 0;">
                 <li><a href="https://www.pqdi.cc/">Project Quarm Database Interface</a> - Direct information from the Project Quarm database</li>
                 <li><a href="https://discord.com/channels/1133452007412334643/1210670176077348934">Project Quarm Discord #zeal-discussions</a> - Get technical help and discuss the Zeal addon</li>
                 <li><a href="https://discord.com/channels/1133452007412334643/1162826324092657757">Project Quarm Discord #ui-discussion</a> - Discuss and download UIs</li>
             </ul>
         </div>
-        <div style="margin-left: 10px;">
+        <div style="margin-left: 10px; text-align: left;">
             <ul style="list-style: none; padding: 0; margin: 0;">
                 <li><a href="https://www.eqtunnelauctions.com/">EQTunnelAuctions</a> - Track prices of items sold in EC tunnel</li>
                 <li><a href="https://discord.com/channels/1133452007412334643/1133453502182596729">Project Quarm Discord #tech-help</a> - Get help with technical questions</li>
@@ -47,3 +47,5 @@ If you want to learn more about Project Quarm specific features and rules, head 
         </div>
     </div>
 </div>
+
+
