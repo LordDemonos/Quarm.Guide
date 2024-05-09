@@ -1,26 +1,6 @@
 <head>
   <!-- Load the custom styles after the theme-specific styles -->
-  <link rel="stylesheet" href="{{ '/assets/css/custom.scss' | relative_url }}" />
+  <link rel="stylesheet" href="{{ '/assets/css/git-wiki-style.scss' | relative_url }}" />
 </head>
 
-<body>
-  <!-- Other HTML content -->
-  <!-- Theme Selection -->
-  <select
-    onchange="switchTheme(this.value, document.body.classList.contains('dark-mode') ? 'dark-mode' : 'light-mode')"
-  >
-    <option value="theme1">Theme 1</option>
-    <option value="theme2">Theme 2</option>
-  </select>
-  <!-- Light/Dark Mode Toggle -->
-  <button onclick="switchTheme(currentTheme, 'light-mode')">Light Mode</button>
-  <button onclick="switchTheme(currentTheme, 'dark-mode')">Dark Mode</button>
-  <script>
-    // Set the initial value of currentTheme
-    let currentTheme = 'theme1'; // Replace with the default theme name
-
-    // Load the initial theme
-    switchTheme(currentTheme, document.body.classList.contains('dark-mode') ? 'dark-mode' : 'light-mode');
-  </script>
-  <script src="/assets/js/theme-switcher.js"></script>
-</body>
+<body></body>
