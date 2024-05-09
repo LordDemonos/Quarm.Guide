@@ -6,7 +6,7 @@ layout: 'null'
 
 // Define link colors
 $link-color-normal: #0056b3; // A darker blue for normal mode
-$link-color-dark: #ff4500; // A red color for dark mode
+$link-color-dark: #ff4500; // A vibrant blue for dark mode
 
 // Apply link color for normal mode
 a {
@@ -23,6 +23,7 @@ a {
 // Apply link color for dark mode
 body.darkmode--activated a {
   color: $link-color-dark;
+  isolation: isolate; // This ensures the color is not affected by dark mode inversion
 
   &:hover,
   &:focus {
