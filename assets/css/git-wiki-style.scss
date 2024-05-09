@@ -4,21 +4,16 @@
 
 @import 'git-wiki-style.scss';
 
-// Define color variables for light mode
-$light-background-color: #fff;
-$light-text-color: #000;
-$light-link-color: #0066cc;
+/// Define color variables for light mode to match theme2.css
+$light-background-color: var(--bs-body-bg); // from theme2.css
+$light-text-color: var(--bs-body-color); // from theme2.css
+$light-link-color: var(--bs-primary); // Primary blue from theme2.css
 
-// Define color variables for dark mode
-$dark-background-color: #333;
-$dark-text-color: #fff;
-$dark-link-color: #1e90ff;
-
-// Base styles
+// Base styles for light mode
 body {
   background-color: $light-background-color;
   color: $light-text-color;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Segoe UI', Arial, sans-serif; // Assuming you want to match the font as well
 }
 
 a {
@@ -31,6 +26,11 @@ a {
   }
 }
 
+// Define color variables for dark mode to match theme1.css
+$dark-background-color: #212529; // Assuming dark almost black for backgrounds
+$dark-text-color: #f8f9fa; // Very light gray for text
+$dark-link-color: #dc3545; // Red for links or important elements
+
 // Dark mode specific styles
 body.darkmode--activated {
   background-color: $dark-background-color;
@@ -40,19 +40,10 @@ body.darkmode--activated {
     color: $dark-link-color;
   }
 
-  // Explicitly override mix-blend-mode for all elements
+  // Override mix-blend-mode for all elements
   *,
   *:before,
   *:after {
     mix-blend-mode: normal !important;
   }
-}
-
-// Additional component styling
-.component {
-  background-color: lighten($light-background-color, 5%);
-}
-
-body.darkmode--activated .component {
-  background-color: darken($dark-background-color, 5%);
 }
