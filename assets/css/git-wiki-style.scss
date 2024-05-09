@@ -5,10 +5,10 @@
   margin-bottom: 5px;
   padding: 0;
 }
-/*
-$orange-red: #FF281B;
+
+$orange-red: #ff281b;
 $purple: #8a63d2;
-$neon-red: #BE0A00;
+$neon-red: #be0a00;
 
 body.darkmode--activated {
   background-color: #222;
@@ -18,7 +18,12 @@ body.darkmode--activated {
     color: $purple;
   }
 
-  h1, h2, h3, h4, h5, h6 {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
     color: $orange-red;
   }
 
@@ -26,4 +31,3 @@ body.darkmode--activated {
     color: $neon-red;
   }
 }
-*/
