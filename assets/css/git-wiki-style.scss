@@ -4,16 +4,16 @@
 
 @import 'git-wiki-style.scss';
 
-/// Define color variables for light mode to match theme2.css
-$light-background-color: var(--bs-body-bg); // from theme2.css
-$light-text-color: var(--bs-body-color); // from theme2.css
-$light-link-color: var(--bs-primary); // Primary blue from theme2.css
+/// Define color variables for light mode
+$light-background-color: #fff; // White background
+$light-text-color: #212529; // Dark color for text, similar to Bootstrap's default
+$light-link-color: #0d6efd; // Blue for links
 
 // Base styles for light mode
 body {
   background-color: $light-background-color;
   color: $light-text-color;
-  font-family: 'Segoe UI', Arial, sans-serif; // Assuming you want to match the font as well
+  font-family: 'Segoe UI', Arial, sans-serif;
 }
 
 a {
