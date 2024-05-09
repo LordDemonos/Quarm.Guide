@@ -3,3 +3,30 @@ layout: 'null'
 ---
 
 @import 'git-wiki-style.scss';
+
+// Define link colors
+$link-color-normal: #0056b3; // A darker blue for normal mode
+$link-color-dark: #ff4500; // A red color for dark mode
+
+// Apply link color for normal mode
+a {
+  color: $link-color-normal;
+  text-decoration: none;
+
+  &:hover,
+  &:focus {
+    text-decoration: underline;
+    color: darken($link-color-normal, 10%);
+  }
+}
+
+// Apply link color for dark mode
+body.darkmode--activated a {
+  color: $link-color-dark;
+
+  &:hover,
+  &:focus {
+    text-decoration: underline;
+    color: darken($link-color-dark, 10%);
+  }
+}
