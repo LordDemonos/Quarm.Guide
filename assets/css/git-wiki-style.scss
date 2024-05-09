@@ -4,60 +4,76 @@
 
 @import 'git-wiki-style.scss';
 
-/// Define color variables for light mode
-$light-background-color: #fff; // White background
-$light-text-color: #212529; // Dark color for text, similar to Bootstrap's default
-$light-link-color: #0d6efd; // Blue for links
+// Define color variables to mimic a dark theme appearance
+$background-color: #212529; // Dark slate gray, common for dark themes
+$text-color: #f8f9fa; // Very light gray, provides good contrast on dark backgrounds
+$link-color: #0d6efd; // Bootstrap's default blue for links
 
-// Base styles for light mode
+// Base styles for light mode mimicking dark theme
 body {
-  background-color: $light-background-color;
-  color: $light-text-color;
+  background-color: $background-color;
+  color: $text-color;
   font-family: 'Segoe UI', Arial, sans-serif;
 }
 
 a {
-  color: $light-link-color;
+  color: $link-color;
   text-decoration: none;
 
   &:hover,
   &:focus {
     text-decoration: underline;
+    color: darken($link-color, 15%); // Slightly darken the link color on hover for better interaction feedback
   }
 }
 
-// Override dark mode to maintain light mode styles
+// Text elements
+p,
+li,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+span {
+  color: $text-color; // Ensures all text uses the light gray color for readability
+}
+
+// Buttons and interactive elements
+.button,
+.btn {
+  background-color: #343a40; // Darker gray for buttons
+  color: #ffffff;
+  border: 1px solid transparent;
+
+  &:hover {
+    background-color: darken(#343a40, 10%);
+    border-color: darken(#343a40, 10%);
+  }
+}
+
+// Form elements
+input,
+textarea,
+select {
+  background-color: #495057; // Dark gray background for input forms
+  color: $text-color;
+  border: 1px solid #ced4da;
+
+  &:focus {
+    border-color: $link-color;
+    box-shadow: 0 0 0 0.2rem rgba($link-color, 0.25);
+  }
+}
+
+// Override dark mode to maintain this style
 body.darkmode--activated {
-  background-color: $light-background-color;
-  color: $light-text-color;
-
-  a {
-    color: $light-link-color;
-  }
-
-  // Ensure all text elements maintain light mode styles
-  p,
-  li,
-  h1,
-  h2,
-  h3,
-  h4,
-  h5,
-  h6,
-  span {
-    color: $light-text-color;
-  }
-
-  // Use isolation to ignore dark mode changes
-  .button,
-  .logo {
-    isolation: isolate;
-  }
-
-  // Revert any mix-blend-mode changes
-  .logo {
-    mix-blend-mode: difference;
-  }
+  @extend body;
+  @extend a;
+  @extend p, li, h1, h2, h3, h4, h5, h6, span;
+  @extend .button, .btn;
+  @extend input, textarea, select;
 }
 
 // Specific elements to ignore dark mode
