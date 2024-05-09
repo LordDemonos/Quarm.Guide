@@ -26,24 +26,41 @@ a {
   }
 }
 
-// Define color variables for dark mode to match theme1.css
-$dark-background-color: #212529; // Assuming dark almost black for backgrounds
-$dark-text-color: #f8f9fa; // Very light gray for text
-$dark-link-color: #dc3545; // Red for links or important elements
-
-// Dark mode specific styles
+// Override dark mode to maintain light mode styles
 body.darkmode--activated {
-  background-color: $dark-background-color;
-  color: $dark-text-color;
+  background-color: $light-background-color;
+  color: $light-text-color;
 
   a {
-    color: $dark-link-color;
+    color: $light-link-color;
   }
 
-  // Override mix-blend-mode for all elements
-  *,
-  *:before,
-  *:after {
-    mix-blend-mode: normal !important;
+  // Ensure all text elements maintain light mode styles
+  p,
+  li,
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  span {
+    color: $light-text-color;
   }
+
+  // Use isolation to ignore dark mode changes
+  .button,
+  .logo {
+    isolation: isolate;
+  }
+
+  // Revert any mix-blend-mode changes
+  .logo {
+    mix-blend-mode: difference;
+  }
+}
+
+// Specific elements to ignore dark mode
+.darkmode-ignore {
+  isolation: isolate;
 }
