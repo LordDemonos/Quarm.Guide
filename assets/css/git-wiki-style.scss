@@ -4,26 +4,52 @@
 
 @import 'git-wiki-style.scss';
 
-// Define color variables to mimic a dark theme appearance
-$background-color: #212529; // Dark slate gray, common for dark themes
-$text-color: #f8f9fa; // Very light gray, provides good contrast on dark backgrounds
-$link-color: #0d6efd; // Bootstrap's default blue for links
+// Light Theme Colors
+$light-background-color: #ffffff; // White background for light mode
+$light-text-color: #333333; // Dark text for readability in light mode
+$light-link-color: #0066cc; // A standard blue for links in light mode
 
-// Base styles for light mode mimicking dark theme
+// Dark Theme Colors
+$dark-background-color: #121212; // Very dark gray, almost black for dark mode
+$dark-text-color: #e0e0e0; // Light gray text for dark mode
+$dark-link-color: #1e90ff; // Brighter blue for links in dark mode
+
+// Base styles for both themes
 body {
-  background-color: $background-color;
-  color: $text-color;
+  background-color: $light-background-color;
+  color: $light-text-color;
   font-family: 'Segoe UI', Arial, sans-serif;
 }
 
 a {
-  color: $link-color;
+  color: $light-link-color;
   text-decoration: none;
-
   &:hover,
   &:focus {
     text-decoration: underline;
-    color: darken($link-color, 15%); // Slightly darken the link color on hover for better interaction feedback
+  }
+}
+
+// Dark mode specific styles
+body.darkmode--activated {
+  background-color: $dark-background-color;
+  color: $dark-text-color;
+
+  a {
+    color: $dark-link-color;
+  }
+
+  // Ensure all text elements use the dark mode text color
+  p,
+  li,
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  span {
+    color: $dark-text-color;
   }
 }
 
@@ -37,7 +63,22 @@ h4,
 h5,
 h6,
 span {
-  color: $text-color; // Ensures all text uses the light gray color for readability
+  color: $light-text-color; // Ensures all text uses the light gray color for readability
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: normal; // Adjust based on the target site
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}
+
+p {
+  line-height: 1.6; // Ensures readability
 }
 
 // Buttons and interactive elements
@@ -58,12 +99,12 @@ input,
 textarea,
 select {
   background-color: #495057; // Dark gray background for input forms
-  color: $text-color;
+  color: $light-text-color;
   border: 1px solid #ced4da;
 
   &:focus {
-    border-color: $link-color;
-    box-shadow: 0 0 0 0.2rem rgba($link-color, 0.25);
+    border-color: $light-link-color;
+    box-shadow: 0 0 0 0.2rem rgba($light-link-color, 0.25);
   }
 }
 
