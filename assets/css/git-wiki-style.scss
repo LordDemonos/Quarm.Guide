@@ -1,33 +1,54 @@
 @import 'git-wiki-style.scss';
 
-.small-text {
-  margin-top: 5px;
-  margin-bottom: 5px;
-  padding: 0;
+// Define color variables for light mode
+$light-background-color: #fff;
+$light-text-color: #000;
+$light-link-color: #0066cc;
+
+// Define color variables for dark mode
+$dark-background-color: #333;
+$dark-text-color: #fff;
+$dark-link-color: #1e90ff;
+
+// Base styles
+body {
+  background-color: $light-background-color;
+  color: $light-text-color;
+  font-family: Helvetica, Arial, sans-serif;
 }
 
-$orange-red: #ff281b;
-$purple: #8a63d2;
-$neon-red: #be0a00;
+a {
+  color: $light-link-color;
+  text-decoration: none;
 
+  &:hover,
+  &:focus {
+    text-decoration: underline;
+  }
+}
+
+// Dark mode specific styles
 body.darkmode--activated {
-  background-color: #222;
-  color: #fff;
+  background-color: $dark-background-color;
+  color: $dark-text-color;
 
   a {
-    color: $purple;
+    color: $dark-link-color;
   }
 
-  h1,
-  h2,
-  h3,
-  h4,
-  h5,
-  h6 {
-    color: $orange-red;
+  // Explicitly override mix-blend-mode for all elements
+  *,
+  *:before,
+  *:after {
+    mix-blend-mode: normal !important;
   }
+}
 
-  code.highlighter-rouge {
-    color: $neon-red;
-  }
+// Additional component styling
+.component {
+  background-color: lighten($light-background-color, 5%);
+}
+
+body.darkmode--activated .component {
+  background-color: darken($dark-background-color, 5%);
 }
