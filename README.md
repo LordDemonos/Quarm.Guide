@@ -4,7 +4,7 @@
 
 <!-- # Everquest Project Quarm Getting Started Guide -->
 <!-- ##### By Xanax/Xantagonist < Former Glory > -->
-## Updated May 7th 2024
+## Updated May 9th 2024
 
 ## Table of Contents
 1. [A Brief Introduction to Project Quarm](#a-brief-introduction-to-project-quarm-)
@@ -195,7 +195,7 @@ However Zeal does not come with user interface files for every Zeal feature and 
 
 There are several EQ User Interfaces that have been modified to work with Project Quarm and Zeal. A list of these can be found down under [Where to get Quarm User Interfaces](#where-to-get-quarm-user-interfaces). If you are looking for something simple and quick to get started with, I have compressed a more complete collection of duxaUI files, the default UI for Quarm/TAKP clients, found [here](https://quarm.guide/duxaUI.7z). 
 
-If you are already using a custom user interface, you can determine which UI elements are missing Zeal features and causing errors by analyzing the `UIErrors.txt file` found within the root of your TAKP folder. An easy fix is to download another UI that has everything working such as [qqui Calmethar](https://www.eqinterface.com/downloads/fileinfo.php?id=6959), and just move the files you need into the UI folder you are using. Most user interfaces can be pieced together from different sources to achieve the look and feel you prefer.
+If you are already using a custom user interface, you can determine which UI elements are missing Zeal features and causing errors by analyzing the `UIErrors.txt` file found within the root of your TAKP folder. An easy fix is to download another UI that has everything working such as [qqui Calmethar](https://www.eqinterface.com/downloads/fileinfo.php?id=6959), and just move the files you need into the UI folder you are using. Most user interfaces can be pieced together from different sources to achieve the look and feel you prefer.
 
 ### Step 5: dgVoodoo2 
 
