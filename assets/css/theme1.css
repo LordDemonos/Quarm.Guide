@@ -1,62 +1,38 @@
---color-primary: #ecdfdf;
-  --color-accent: #ff4d4d;
-  --color-background: #121416;
-
-@font-face {
-  font-family: 'Roboto';
-  font-style: normal;
-  font-weight: 400;
-  src: local(''),
-    url('./assets/fonts/Roboto/roboto-v29-latin-regular.woff2') format('woff2'),
-    url('./assets/fonts/Roboto/roboto-v29-latin-regular.woff') format('woff');
+/* Root variables for easy theme customization */
+:root {
+  --color-primary: #ecdfdf; /* Light pinkish tone for primary text */
+  --color-accent: #ff4d4d; /* Bright red for accents */
+  --color-background: #121416; /* Almost black background */
+  --color-heading: #effbff; /* Very light blue for headings */
+  --color-text: #6ee2ff; /* Light blue for general text */
 }
 
-@font-face {
-  font-family: 'Roboto';
-  font-style: normal;
-  font-weight: 500;
-  src: local(''),
-    url('./assets/fonts/Roboto/roboto-v29-latin-500.woff2') format('woff2'),
-    url('./assets/fonts/Roboto/roboto-v29-latin-500.woff') format('woff');
-}
-
-@font-face {
-  font-family: 'Roboto';
-  font-style: normal;
-  font-weight: 900;
-  src: local(''),
-    url('./assets/fonts/Roboto/roboto-v29-latin-900.woff2') format('woff2'),
-    url('./assets/fonts/Roboto/roboto-v29-latin-900.woff') format('woff');
-}
-
-@font-face {
-  font-family: 'Roboto';
-  font-style: normal;
-  font-weight: 700;
-  src: local(''),
-    url('./assets/fonts/Roboto/roboto-v29-latin-700.woff2') format('woff2'),
-    url('./assets/fonts/Roboto/roboto-v29-latin-700.woff') format('woff');
-}
-
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
+/* General body styling */
 body {
-  --color-background: #242b33;
-  --color-primary: #effbff;
-  --color-accent: #6ee2ff;
-  --spacing-ui: 10px;
-
   background-color: var(--color-background);
+  color: var(--color-text);
+  font-family: 'Roboto', sans-serif;
   transition: background-color 0.3s;
-  font-family: Roboto, sans-serif;
-  font-size: 14px;
 }
 
+/* Headings styling */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: var(--color-heading);
+}
+
+/* Link styling */
 a {
   color: var(--color-primary);
   text-decoration: none;
+}
+
+a:hover,
+a:focus {
+  color: var(--color-accent);
+  text-decoration: underline;
 }
