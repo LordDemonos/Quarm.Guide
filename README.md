@@ -1,3 +1,7 @@
+    ---
+    layout: default
+    ---
+
 # Welcome to [Quarm.Guide](https://quarm.guide), the [Project Quarm](https://www.projectquarm.com) Wiki!
 
 ## A Brief Introduction to Project Quarm
