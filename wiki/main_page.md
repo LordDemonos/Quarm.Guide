@@ -17,10 +17,11 @@ If you want to learn more about Project Quarm specific features and rules, head 
         <h3>Written Guides</h3>
         <ul>
             <li><a href="{{ '/installing-the-game' | relative_url }}">Installing the Game</a> - Get started with Project Quarm here</li>
-            <li><a href="{{ '/after-installing-the-game' | relative_url }}">After Installing the Game</a> - Description for Guide 2</li>
-            <li><a href="{{ '/textures-and-effects' | relative_url }}">Textures and Effects</a> - Description for Guide 3</li>
-            <li><a href="{{ '/third-party-programs' | relative_url }}">Third Party Programs</a> - Description for Guide 4</li>
-            <li><a href="{{ '/troubleshooting-faq' | relative_url }}">Troubleshooting FAQ</a> - Description for Guide 5</li>
+            <li><a href="https://lorddemonos.github.io/quarm.guide-wiki/installing-the-game#step-4-installing-zeal-">Installing Zeal</a> - Requirements and Installation for Zeal</li>
+            <li><a href="{{ '/after-installing-the-game' | relative_url }}">After Installing the Game</a> - Understanding the Files and Folders</li>
+            <li><a href="{{ '/textures-and-effects' | relative_url }}">Textures and Effects</a> - Downloading and Installing Textures and Effects</li>
+            <li><a href="{{ '/third-party-programs' | relative_url }}">Third Party Programs</a> - Maps, Timers, Overlays, and More</li>
+            <li><a href="{{ '/troubleshooting-faq' | relative_url }}">Troubleshooting FAQ</a> - Common Issues and Solutions</li>
         </ul>
     </div>
     <div style="flex: 1; margin-left: 10px;">
