@@ -1,4 +1,4 @@
-remote_theme: LordDemonos/quarm.guide-wiki@master
+remote_theme: Drassil/git-wiki-theme@master
 # (string) Title of your wiki
 title: "Quarm.Guide"
 # (string) if you've installed your wiki in subfolder, you must change this configuration
@@ -57,7 +57,9 @@ site_root:
 # Jekyll configurations
 #
 
-
+assets:
+  css:
+    - /assets/css/git-wiki-style.scss
 
 # You can customize it changing default layout for all pages
 # More info: https://jekyllrb.com/docs/configuration/
