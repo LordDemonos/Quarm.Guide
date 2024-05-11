@@ -55,4 +55,19 @@
     }
   }
 </script>
-<script src="{{ '/assets/js/custom.js' | relative_url }}"></script>
+<script>
+  // Disable darkmode-js
+  window.addEventListener('load', function() {
+    const darkmodejs = document.querySelector('body > darkmode-toggle');
+    if (darkmodejs) {
+      darkmodejs.remove();
+    }
+
+    const darkModeSetBodyBg = window.darkModeSetBodyBg;
+    if (typeof darkModeSetBodyBg === 'function') {
+      window.darkModeSetBodyBg = function() {
+        // Do nothing, effectively disabling the function
+      };
+    }
+  });
+</script>
