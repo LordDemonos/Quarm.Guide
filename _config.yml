@@ -9,7 +9,7 @@ description:
 # (boolean) disable edit functionalities (edit/delete/add pages)
 disable_edit: true
 # (boolean) Enable/disable wiki page list in sidebar
-show_wiki_pages: true
+show_wiki_pages: false
 # (integer) Maximum number of wiki page to shown in sidebar
 show_wiki_pages_limit: 2
 # (boolean) Enable/disable blog feature
