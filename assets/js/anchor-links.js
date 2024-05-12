@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', function() {
   console.log('Document loaded');
-const headings = document.querySelectorAll('.markdown-body h1[id], .markdown-body h2[id], .markdown-body h3[id], .markdown-body h4[id], .markdown-body h5[id], .markdown-body h6[id]');
+const headings = document.querySelectorAll('.markdown-body h1, .markdown-body h2, .markdown-body h3, .markdown-body h4, .markdown-body h5, .markdown-body h6');
   console.log('Headings found:', headings.length);
   headings.forEach(function(heading) {
     console.log('Processing heading:', heading.textContent);
