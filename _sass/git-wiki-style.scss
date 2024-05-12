@@ -3,16 +3,11 @@
 @import "w3.scss";
 
 body {
-  /* background-color: #fff; */
+  background-color: #121416;
   padding: 50px;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #727272;
   font-weight: 400;
-}
-
-.darkmode--activated body {
-  mix-blend-mode: normal !important;
-  background-color: #121416 !important; // Specify your desired background color
 }
 
 h1,
