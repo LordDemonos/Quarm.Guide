@@ -15,11 +15,4 @@ Menu (<a href="{{ site.github.repository_url }}/edit/{{site.git_branch | escape}
   <li><a href="{{ '/about-quarmguide' | relative_url }}">About Quarm.Guide</a></li>
 </ul>
 
-    <script>
-        async function updateLastCommitDate() {
-            const date = await fetchLastCommitDate();
-            document.getElementById('updateDate').textContent = date;
-        }
-
-        updateLastCommitDate();
-    </script>
+      <script src="{{ '/assets/js/updated.js' | relative_url }}"></script>>
