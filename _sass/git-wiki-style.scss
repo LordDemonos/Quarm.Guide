@@ -21,20 +21,31 @@ body {
 #back-to-top-btn {
   position: fixed;
   bottom: 90px;
-  right: 20px;
+  right: 10px; /* Move it more to the left by decreasing the right margin */
   z-index: 99;
   cursor: pointer;
-  width: 40px;
-  height: 40px;
+  width: 50px; /* Increase the width */
+  height: 50px; /* Increase the height */
   background-color: #111; /* Dark background for the button */
   color: #fff; /* White text color */
-  border-radius: 50%; /* Makes the button circular */
   display: flex;
   align-items: center;
   justify-content: center;
-  font-size: 18px; /* Adjust the size of the chevron */
-  border: none;
-  outline: none;
+  border-radius: 50%; /* Circular shape */
+  text-decoration: none;
+  opacity: 0.7;
+  transition: opacity 0.3s ease;
+}
+
+#back-to-top-btn:hover {
+  opacity: 1;
+}
+
+#back-to-top-btn a {
+  font-size: 24px; /* Larger font size for the "^" */
+  line-height: 1; /* Adjust line height to center the "^" vertically */
+  color: inherit;
+  text-decoration: none;
 }
 
 h1,
