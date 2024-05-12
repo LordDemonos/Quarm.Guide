@@ -50,6 +50,7 @@ body {
 }
 
 .anchor-icon {
+    position: absolute;
     width: 14px; // Control the size of the icon
     height: 14px;
     fill: #00A0A0;
@@ -89,6 +90,7 @@ h6 {
   font-family: "Lato", sans-serif;
   color: #111111;
   margin: 0 0 20px;
+  position: relative;
 }
 
 p,
