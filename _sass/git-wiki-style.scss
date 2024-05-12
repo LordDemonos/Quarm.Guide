@@ -70,7 +70,9 @@ body {
     top: 50%;
     transform: translateY(-50%);
     visibility: hidden;
-   }
+    width: 20px; // Ensure a specific width
+    height: 20px; // Ensure a specific height
+}
 
 h1[id]:hover .anchor-link-icon,
 h2[id]:hover .anchor-link-icon,
@@ -483,4 +485,5 @@ screen and (max-width: 480px) {
 /* disable dark mode on images */
 body.darkmode--activated img, body.darkmode--activated .darkmode-ignore {
   mix-blend-mode: difference;
+}
 }
