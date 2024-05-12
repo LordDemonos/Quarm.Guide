@@ -15,6 +15,22 @@ body {
   -moz-osx-font-smoothing: grayscale;  
 }
 
+.darkmode--activated body {
+  background-color: #121416;
+  padding: 50px;
+  /* font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif; */
+  font: 15px/1.5 "Latos", sans-serif;
+  color: #111111;
+  font-weight: 500;
+  mix-blend-mode: difference;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;  
+}
+
+   body.dark-mode {
+     background-color: #121212 !important; /* Example of a dark background that's not pure black */
+   }
+
 .logo {
   font: 10px/5px monospace;
   text-align: center; /* Center align the logo */
