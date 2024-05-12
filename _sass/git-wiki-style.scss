@@ -50,10 +50,16 @@ body {
 }
 
 .anchor-icon {
-    font-size: 15px; // Adjust size as needed
+    font-size: 12px; // Adjust size as needed
     color: #00A0A0; // Adjust color as needed
     vertical-align: middle; // Centers the icon vertically with the text
     cursor: pointer; // Changes the cursor to indicate it's clickable
+    opacity: 0.5; // Make the icon less visible normally
+    transition: opacity 0.3s ease; // Smooth transition for opacity change
+}
+
+.anchor-icon:hover {
+    opacity: 1; // Make the icon more visible on hover
 }
 
 .anchor-link-icon {
