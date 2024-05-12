@@ -49,6 +49,13 @@ body {
   display: block;
 }
 
+.anchor-icon {
+    font-size: 20px; // Adjust size as needed
+    color: #00A0A0; // Adjust color as needed
+    vertical-align: middle; // Centers the icon vertically with the text
+    cursor: pointer; // Changes the cursor to indicate it's clickable
+}
+
 .anchor-link-icon {
     position: absolute;
     left: -30px;  // Adjust this value as needed
