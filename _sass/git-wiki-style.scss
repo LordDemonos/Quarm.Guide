@@ -50,12 +50,12 @@ body {
 }
 
 .anchor-link-icon {
-  visibility: hidden;
-  position: absolute;
-  left: -25px;
-  top: 50%;
-  transform: translateY(-50%);
-}
+    position: absolute;
+    left: -30px;  // Adjust this value as needed
+    top: 50%;
+    transform: translateY(-50%);
+
+   }
 
 h1[id]:hover .anchor-link-icon,
 h2[id]:hover .anchor-link-icon,
