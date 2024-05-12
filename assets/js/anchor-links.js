@@ -7,11 +7,7 @@ const headings = document.querySelectorAll('h1[id], h2[id], h3[id], h4[id], h5[i
     const linkIcon = document.createElement('a');
     linkIcon.href = '#' + heading.id;
     linkIcon.className = 'anchor-icon';
-    linkIcon.innerHTML = `
-<svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="link" class="svg-inline--fa fa-link fa-w-16 anchor-icon" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
-    <path fill="currentColor" d="M326.6 185.4c59.5-59.5 155.7-59.5 215.2 0l22.6 22.6c59.5 59.5 59.5 155.7 0 215.2l-22.6 22.6c-59.5 59.5-155.7 59.5-215.2 0L279.1 308.7c-9.4 9.4-9.4 24.6 0 33.9s24.6 9.4 33.9 0l67.9-67.9c34.5-34.5 90.2-34.5 124.7 0l22.6 22.6c34.5 34.5 34.5 90.2 0 124.7l-22.6 22.6c-34.5 34.5-90.2 34.5-124.7 0L209.1 308.7c-9.4 9.4-24.6 9.4-33.9 0s-9.4-24.6 0-33.9l117.5-89.4z"></path>
-</svg>
-`;
+    	linkIcon.innerHTML = '<svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-link"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg>';
     heading.prepend(linkIcon);
   });
 });
