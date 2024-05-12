@@ -1,4 +1,4 @@
-# About Project Quarm ![Secrets](./assets/images/Secrets.jpg)
+# About Project Quarm ![Secrets](./assets/images/Secrets.jpg){: .step-image}
 
 [Follow SecretsPast on Twitch](https://www.twitch.tv/secretspast)
 
