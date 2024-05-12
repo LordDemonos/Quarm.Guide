@@ -166,6 +166,10 @@ img {
   margin: 0 auto; /* Center the image within the sidebar */
 }
 
+   .git-wiki-copyrights p {
+       margin-bottom: 5px; /* Reduce the bottom margin */
+   }
+
 @media print,
 screen and (max-width: 992px) {
   #git-wiki-sidebar {
