@@ -42,8 +42,10 @@ body {
 
 #back-to-top-btn a {
   font-size: 24px; /* Larger font size for the "^" */
-  line-height: 10; /* Adjust line height to center the "^" vertically */
+  margin-top: auto; /* Adjust this value to move the "^" down */
+  margin-bottom: auto; /* Keeps the "^" centered */
   text-decoration: none;
+  display: block;
 }
 
 h1,
