@@ -39,6 +39,7 @@ If you want to learn more about Project Quarm specific features and rules, head 
         <div style="margin-right: 10px; text-align: left;">
             <ul style="list-style: none; padding: 0; margin: 0;">
                 <li><a href="https://www.pqdi.cc/">Project Quarm Database Interface</a> - Direct information from the Project Quarm database</li>
+                <li><a herf="https://yaqds.bytelligence.com/">Yet Another Quarm Database Site</a> - An alternative view of the Project Quarm database</li>
                 <li><a href="https://discord.com/channels/1133452007412334643/1210670176077348934">Project Quarm Discord #zeal-discussions</a> - Get technical help and discuss the Zeal addon</li>
                 <li><a href="https://discord.com/channels/1133452007412334643/1162826324092657757">Project Quarm Discord #ui-discussion</a> - Discuss and download UIs</li>
             </ul>
