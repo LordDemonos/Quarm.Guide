@@ -57,9 +57,7 @@ site_root:
 # Jekyll configurations
 #
 
-assets:
-  css:
-    - /assets/css/git-wiki-style.scss
+inc_after_styles : "/assets/css/git-wiki-style.scss"
 
 # You can customize it changing default layout for all pages
 # More info: https://jekyllrb.com/docs/configuration/
