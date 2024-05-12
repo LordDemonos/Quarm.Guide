@@ -29,3 +29,12 @@ async function fetchLastCommitDate() {
 
     return lastCommitDate.toLocaleDateString(); // Formats the date
 }
+
+async function updateLastCommitDate() {
+    const date = await fetchLastCommitDate();
+    document.getElementById('updateDate').textContent = date;
+}
+
+// Call the function when the page has loaded
+document.addEventListener('DOMContentLoaded', updateLastCommitDate);
+
