@@ -13,6 +13,11 @@ body {
   mix-blend-mode: difference;
 }
 
+.logo {
+  font: 10px/5px monospace;
+  text-align: center; /* Center align the logo */
+}
+
 h1,
 h2,
 h3,
@@ -154,6 +159,11 @@ img {
   overflow-x: auto;*/
   max-height: 100%;
   padding-bottom: 55px !important;
+}
+
+#git-wiki-sidebar img {
+  display: block;
+  margin: 0 auto; /* Center the image within the sidebar */
 }
 
 @media print,
