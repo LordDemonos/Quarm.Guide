@@ -2,6 +2,17 @@
 @import "rouge-github";
 @import "w3.scss";
 
+.darkmode-background {
+  background: #121416;
+  position: fixed;
+  pointer-events: none;
+  z-index: -10;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+}
+
 body {
   isolation: isolate;
   background-color: #121416;
