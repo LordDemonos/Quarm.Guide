@@ -1,17 +1,17 @@
+---
+layout: "null"
+---
 
-/* Define color variables from theme1.css */
+/* Define color variables from theme1.css 
 $color-primary: #ecdfdf;
 $color-accent: #ff4d4d;
 $color-background: #121416;
 $color-heading: #effbff;
 $color-text: #6ee2ff;
 
-/* Disable dark mode */
 body[data-darkmode-ignore] {
-  mix-blend-mode: normal; /* Or any other custom styles to disable dark mode */
-}
+  mix-blend-mode: normal; 
 
-/* Rest of the styles from git-wiki-style.scss */
 body {
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #727272;
@@ -53,3 +53,4 @@ a small {
 a:hover small {
   color: #777;
 }
+ */
