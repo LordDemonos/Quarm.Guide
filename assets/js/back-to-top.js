@@ -1,9 +1,9 @@
-window.onload = function() {
+document.addEventListener('DOMContentLoaded', function() {
   const backToTopBtn = document.getElementById('back-to-top-btn');
 
   window.onscroll = function() {
     if (window.pageYOffset > 200) {
-      backToTopBtn.style.display = 'flex'; // Use 'flex' to keep the flexbox styling
+      backToTopBtn.style.display = 'flex';
     } else {
       backToTopBtn.style.display = 'none';
     }
@@ -14,8 +14,7 @@ window.onload = function() {
     window.scrollTo({ top: 0, behavior: 'smooth' });
   });
 
-  // Smooth scrolling for all scroll behaviors
   if ('scrollBehavior' in document.documentElement.style) {
     document.documentElement.style.scrollBehavior = 'smooth';
   }
-};
+});
