@@ -6,7 +6,8 @@ const headings = document.querySelectorAll('h1[id], h2[id], h3[id], h4[id], h5[i
     console.log('Processing heading:', heading.textContent);
     const linkIcon = document.createElement('a');
     linkIcon.href = '#' + heading.id;
-   linkIcon.innerHTML = '🔗'; // Or your preferred icon
+    linkIcon.className = 'anchor-icon';
+    linkIcon.innerHTML = '🔗'; // Or your preferred icon
     heading.prepend(linkIcon);
   });
 });
