@@ -49,20 +49,20 @@ body {
   display: block;
 }
 
-.markdown-body .anchor-link-icon {
-  visibility: hidden; 
+.anchor-link-icon {
+  visibility: hidden;
   position: absolute;
   left: -25px;
   top: 50%;
   transform: translateY(-50%);
 }
 
-.markdown-body h1:hover .anchor-link-icon,
-.markdown-body h2:hover .anchor-link-icon,
-.markdown-body h3:hover .anchor-link-icon,
-.markdown-body h4:hover .anchor-link-icon,
-.markdown-body h5:hover .anchor-link-icon,
-.markdown-body h6:hover .anchor-link-icon {
+h1:hover .anchor-link-icon,
+h2:hover .anchor-link-icon,
+h3:hover .anchor-link-icon,
+h4:hover .anchor-link-icon,
+h5:hover .anchor-link-icon,
+h6:hover .anchor-link-icon {
   visibility: visible;
 }
 
