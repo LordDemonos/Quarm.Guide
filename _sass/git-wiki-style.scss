@@ -10,6 +10,11 @@ body {
   font-weight: 400;
 }
 
+body.darkmode--activated {
+  mix-blend-mode: normal !important;
+  background-color: #121416 !important; // Specify your desired background color
+}
+
 h1,
 h2,
 h3,
@@ -51,7 +56,7 @@ h6 {
 }
 
 a {
-  color: #39c;
+  color: #ff4d4d;
   text-decoration: none;
 }
 
