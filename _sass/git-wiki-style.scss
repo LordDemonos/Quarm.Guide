@@ -18,6 +18,25 @@ body {
   text-align: center; /* Center align the logo */
 }
 
+#back-to-top-btn {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 99;
+  cursor: pointer;
+  width: 40px;
+  height: 40px;
+  background-color: #111; /* Dark background for the button */
+  color: #fff; /* White text color */
+  border-radius: 50%; /* Makes the button circular */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 18px; /* Adjust the size of the chevron */
+  border: none;
+  outline: none;
+}
+
 h1,
 h2,
 h3,
@@ -45,7 +64,7 @@ h3 {
 
 h1 {
   font-size: 3em;  
-  font-weight: 700; 
+  font-weight: 800; 
   letter-spacing: -0.02em;  
   line-height: 1.1;
 }
