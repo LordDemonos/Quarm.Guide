@@ -51,6 +51,7 @@ body {
 
 .anchor-icon {
     position: absolute;
+    left: -30px;  // Adjust this value as needed
     width: 14px; // Control the size of the icon
     height: 14px;
     fill: #00A0A0;
@@ -66,7 +67,6 @@ body {
 
 .anchor-link-icon {
     position: absolute;
-    left: -50px;  // Adjust this value as needed
     top: 50%;
     transform: translateY(-50%);
     visibility: hidden;
@@ -485,5 +485,4 @@ screen and (max-width: 480px) {
 /* disable dark mode on images */
 body.darkmode--activated img, body.darkmode--activated .darkmode-ignore {
   mix-blend-mode: difference;
-}
 }
