@@ -54,7 +54,7 @@ body {
     left: -30px;  // Adjust this value as needed
     top: 50%;
     transform: translateY(-50%);
-
+    visibility: hidden;
    }
 
 h1[id]:hover .anchor-link-icon,
