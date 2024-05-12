@@ -2,6 +2,10 @@
 @import "rouge-github";
 @import "w3.scss";
 
+body[data-darkmode-ignore] {
+  mix-blend-mode: normal; 
+
+
 body {
   /* background-color: #fff; */
   /* color: #727272 */
