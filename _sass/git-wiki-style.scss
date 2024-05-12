@@ -57,12 +57,12 @@ body {
   transform: translateY(-50%);
 }
 
-.markdown-body h1:hover .anchor-link-icon,
-.markdown-body h2:hover .anchor-link-icon,
-.markdown-body h3:hover .anchor-link-icon,
-.markdown-body h4:hover .anchor-link-icon,
-.markdown-body h5:hover .anchor-link-icon,
-.markdown-body h6:hover .anchor-link-icon {
+.markdown-body h1[id]:hover .anchor-link-icon,
+.markdown-body h2[id]:hover .anchor-link-icon,
+.markdown-body h3[id]:hover .anchor-link-icon,
+.markdown-body h4[id]:hover .anchor-link-icon,
+.markdown-body h5[id]:hover .anchor-link-icon,
+.markdown-body h6[id]:hover .anchor-link-icon {
   visibility: visible;
 }
 
