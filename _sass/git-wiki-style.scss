@@ -21,7 +21,7 @@ body {
 #back-to-top-btn {
   position: fixed;
   bottom: 90px;
-  right: 30px; /* Move it more to the left by decreasing the right margin */
+  right: 32px; /* Move it more to the left by decreasing the right margin */
   z-index: 99;
   cursor: pointer;
   width: 45px; /* Increase the width */
@@ -33,7 +33,6 @@ body {
   justify-content: center;
   border-radius: 50%; /* Circular shape */
   text-decoration: none;
-  opacity: 0.7;
   transition: opacity 0.3s ease;
 }
 
@@ -43,7 +42,7 @@ body {
 
 #back-to-top-btn a {
   font-size: 24px; /* Larger font size for the "^" */
-  line-height: 1; /* Adjust line height to center the "^" vertically */
+  line-height: 2; /* Adjust line height to center the "^" vertically */
   text-decoration: none;
 }
 
