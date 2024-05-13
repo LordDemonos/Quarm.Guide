@@ -102,7 +102,7 @@ There are several sources to download new User Interface packages, such as [qqui
 
 They should be saved in a single level folder. One of the most common reasons that UIs wont load is that there is a sub-folder inside the Custom UI Folder. Here are two pictures, one showing the wrong way, and one showing the correct way. 
 
-![wrong-way](/img/step2/wrong-way.jpg) ![correct-way](./assets/images/step2/correct-way.jpg)
+![wrong-way](./assets/images/step2/wrong-way.jpg) ![correct-way](./assets/images/step2/correct-way.jpg)
 
 [Source: eqinterface](https://www.eqinterface.com/forums/faq.php?faq=install#faq_howto_install)
 
