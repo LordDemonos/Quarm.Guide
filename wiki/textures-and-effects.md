@@ -68,4 +68,4 @@ After following these steps, the Old Skeleton Models will be installed and appli
 
 Sources: [ItsKensterrr](https://www.youtube.com/watch?v=spMp-f7S7FA) | [ItsKensterrr](https://www.youtube.com/watch?v=zvhGnkbRW9g)
 
-This concludes [Textures and Effects](textures-and-effects). Please proceed to [3rd Party Programs](3rd-party-programs).
+This concludes [Textures and Effects](textures-and-effects). Please proceed to [Third Party Programs](third-party-programs).
