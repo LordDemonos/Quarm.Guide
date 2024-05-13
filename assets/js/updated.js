@@ -8,11 +8,10 @@ async function fetchLastCommitDate() {
         const hoursSinceLastFetch = (new Date() - new Date(lastFetched)) / (1000 * 60 * 60);
 
         if (hoursSinceLastFetch < 24) {
-            return new Date(date).toLocaleDateString(); // Return cached date if less than 24 hours have passed
+            return new Date(date).toLocaleDateString();
         }
     }
 
-    // Fetch new data if not cached or cache is older than 24 hours
     const response = await fetch(`https://api.github.com/repos/${repo}/commits`);
     const commits = await response.json();
     const lastCommitDate = new Date(commits[0].commit.committer.date);
@@ -23,7 +22,7 @@ async function fetchLastCommitDate() {
         date: lastCommitDate
     }));
 
-    return lastCommitDate.toLocaleDateString(); // Formats the date
+    return lastCommitDate.toLocaleDateString();
 }
 
 async function updateLastCommitDate() {
@@ -31,6 +30,5 @@ async function updateLastCommitDate() {
     document.getElementById('updateDate').textContent = date;
 }
 
-// Call the function when the page has loaded
 document.addEventListener('DOMContentLoaded', updateLastCommitDate);
 
