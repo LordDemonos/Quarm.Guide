@@ -6,7 +6,6 @@
 body {
   /* background-color: #121416; */
   padding: 50px;
-  /* font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif; */
   font: 15px/1.5 "Latos", sans-serif;
   color: #111111;
   font-weight: 500;
@@ -17,23 +16,23 @@ body {
 
 .logo {
   font: 10px/5px monospace;
-  text-align: center; /* Center align the logo */
+  text-align: center;
 }
 
 #back-to-top-btn {
   position: fixed;
   bottom: 90px;
-  right: 32px; /* Move it more to the left by decreasing the right margin */
+  right: 32px;
   z-index: 99;
   cursor: pointer;
-  width: 45px; /* Increase the width */
-  height: 45px; /* Increase the height */
-  background-color: #121416; /* Dark background for the button */
-  color: #00A0A0; /* White text color */
+  width: 45px;
+  height: 45px;
+  background-color: #121416;
+  color: #00A0A0;
   display: flex;
   align-items: center;
   justify-content: center;
-  border-radius: 50%; /* Circular shape */
+  border-radius: 50%;
   text-decoration: none;
   transition: opacity 0.3s ease;
 }
@@ -43,7 +42,7 @@ body {
 }
 
 #back-to-top-btn a {
-  font-size: 24px; /* Larger font size for the "^" */
+  font-size: 24px;
   margin-bottom: 3px;
   text-decoration: none;
   display: block;
@@ -51,8 +50,8 @@ body {
 
 .anchor-icon {
     position: absolute;
-    left: -15px;  // Adjust this value as needed
-    width: 14px; // Control the size of the icon
+    left: -15px;
+    width: 14px;
     height: 14px;
     fill: #00A0A0;
     vertical-align: middle;
@@ -62,7 +61,7 @@ body {
 }
 
 .anchor-icon:hover {
-    opacity: 1; // Make the icon more visible on hover
+    opacity: 1;
 }
 
 .anchor-link-icon {
@@ -70,8 +69,8 @@ body {
     top: 50%;
     transform: translateY(-50%);
     visibility: hidden;
-    width: 20px; // Ensure a specific width
-    height: 20px; // Ensure a specific height
+    width: 20px;
+    height: 20px;
 }
 
 h1[id]:hover .anchor-link-icon,
@@ -152,13 +151,13 @@ a:hover small {
    .updated-heading {
       font: 18px/1.5 "Roboto", sans-serif;
       font-weight: 700;
-      margin-bottom: 20px; /* Adjust the value as needed */
+      margin-bottom: 20px;
    }
 
 .step-image {
     display: block;
     clear: both;
-    margin-top: 10px; /* Adjust as needed */
+    margin-top: 10px;
 }
 
 .wrapper {
@@ -242,11 +241,11 @@ img {
 
 #git-wiki-sidebar img {
   display: block;
-  margin: 0 auto; /* Center the image within the sidebar */
+  margin: 0 auto;
 }
 
    .git-wiki-copyrights p {
-       margin-bottom: 5px; /* Reduce the bottom margin */
+       margin-bottom: 5px;
    }
 
 @media print,
