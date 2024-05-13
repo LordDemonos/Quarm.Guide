@@ -99,7 +99,7 @@ To install this wrapper, you need to open the downloaded zip file, and copy the 
 
 In order for dgVoodoo to fire, you have to set `eqgame.exe` to use High Performance Mode in your NVidia control panel. Refer to below screenshot
 
-![NvidiaPerformanceSetting](/img/faq/NvidiaPerformanceSetting.png)
+![NvidiaPerformanceSetting](./assets/images/faq/NvidiaPerformanceSetting.png)
 
 If you have an AMD card, find an equivalent setting in the Radeon control panel.
 
@@ -178,7 +178,7 @@ If one packet is dropped, that is the keepalive from Client to Server, you will 
 #### I'm getting a EQMAIN.DLL error running the game?
 **A:** This happens if you try to launch the game from Windows Search results. Don't launch from search results. Navigate to the folder manually and run `eqgame.exe` directly, or create a desktop shortcut, or launch via hotkey.net. Also this error can happen if your anti-virus deletes some game files. Make sure you set AV exclusions and the game files aren't being quarantined.
 
-![Eqmain-dll-error](/img/faq/Eqmain-dll-error.png)
+![Eqmain-dll-error](./assets/images/faq/Eqmain-dll-error.png)
 
 #### The text in game is fuzzy and not clear?
 **A:** In each of your EQ folders:
@@ -209,14 +209,14 @@ Now your gamma has been increased for this monitor!
 #### The EULA acceptance window moved so I can't log in?
 **A:** This is the first window you see when you run the game. Settings for this are in the eqw.ini file in your EQ folder. Positions are set numerically according to each resolution you use (2 for x and y would be the upper left for example):
 
-![Eqwini](/img/faq/Eqwini.png)
+![Eqwini](./assets/images/faq/Eqwini.png)
 
 #### I have white and yellow bars covering my text?
 **A:** This is likely caused by an incompatible version of dgvoodoo. You can either look for a newer or older version that is compatible with your graphics card or can disable dgvoodoo by moving the d3d8.dll out of the EQ client folder and relaunching the client.
 
 This issue is fixed in v2.2 client that has an updated dgVoodoo2 d3d8.dll which is compatible with AMD cards. You can download it from [here](http://dege.fw.hu/temp/dgVoodoo2_81_exp4.zip).
 
-![Barscoveringtext](/img/faq/Barscoveringtext.png)
+![Barscoveringtext](./assets/images/faq/Barscoveringtext.png)
 
 #### The game runs too fast?
 **A:** If you are using an AMD 7xxx series CPU in your system you may need to adjust your system's settings to avoid this issue. The following were done by different people to correct this issue:
