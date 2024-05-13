@@ -19,7 +19,7 @@ Before you can download and install the game, you'll need to create an account o
 1. Visit the Getting Started page on the TAKP wiki [Getting Started](https://wiki.takp.info/index.php?title=Getting_Started)
 2. Click on the [Getting Started with Windows](https://wiki.takp.info/index.php/Getting_Started_on_Windows) section.
 3. Download the recommended 2.2 client [Download Here](https://drive.google.com/file/d/1qoBktDeJMJKPBr-EZxub1vspJhz11i1y).
-4. Unzip the client zip into its own folder on the root of your C drive (or other drive letter), do not put this under under the \Program Files or \Program Files (x86) folders. 
+4. Unzip the client zip into its own folder on the root of your C drive (or other drive letter), do not put this under the \Program Files or \Program Files (x86) folders. 
 
 ## Step 3: Converting your TAKP client to Quarm
 1. Join the [Project Quarm Discord](https://discord.gg/3nDQ9AkUz8).
@@ -30,14 +30,14 @@ Before you can download and install the game, you'll need to create an account o
 
 ## Step 4: Installing Zeal ![Zeal](./assets/images/Zeal.png){: .step-image}
 
-Zeal is used to add additional functionality to EverQuest. Main additions include 3rd person camera smoothing fix, better tab targeting, spell sets, and melody. A full list of features can be found in the [readme](https://github.com/iamclint/Zeal/blob/master/README.md). *The readme is based on latest commits not latest the release build.*
+Zeal is used to add additional functionality to EverQuest. Main additions include 3rd person camera smoothing fix, better tab targeting, spell sets, and melody. A full list of features can be found in the [readme](https://github.com/iamclint/Zeal/blob/master/README.md). *The readme is based on latest commits not the latest release build.*
 
 ### Prerequisite 1. (Required) Enable sound in your eqclient.ini
 
 Make sure `Sound=TRUE` is listed in your `eqclient.ini`. Zeal uses the EverQuest sound engine to inject code into the game, thus the sound must be enabled for Zeal to function. You will still have access to various sound options in game by pressing ALT + O and adjusting the sliders for Sound Realism, Music Volume, and Sound Volume.
 
 ### Prerequisite 2. (Required) Excluding your TAKP Installation
-Excluding your TAKP installation from being scanned by your antivirus software can also help reduce load times, zoning times, and eliminates stuttering when opening your bags. This is highly recommended and is a prerequisite for downloading Zeal, as explained below.
+Excluding your TAKP installation from being scanned by your antivirus software can also help reduce load times, zoning times, and eliminate stuttering when opening your bags. This is highly recommended and is a prerequisite for downloading Zeal, as explained below.
 
 There are two methods to exclude your TAKP installation, manually or using a Powershell command. 
 
