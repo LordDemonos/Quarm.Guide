@@ -1,5 +1,5 @@
 ---
-layout: git-wiki-bs-united
+layout: default
 redirect_from: "/"
 hide_toc: true
 ---
