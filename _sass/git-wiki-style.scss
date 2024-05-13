@@ -384,7 +384,7 @@ screen and (max-width: 960px) {
     margin: 60px 0 20px;
   }
 
-  #git-wiki-sidebara small {
+  #git-wiki-sidebar a small {
     display: inline;
   }
 
@@ -399,7 +399,7 @@ screen and (max-width: 720px) {
   }
 
   #git-wiki-sidebar .git-wiki-downloads,
-  #git-wiki-sidebarp.view {
+  #git-wiki-sidebar p.view {
     position: static;
   }
 
@@ -419,7 +419,7 @@ screen and (max-width: 480px) {
     width: 99%;
   }
 
-  #git-wiki-sidebarli,
+  #git-wiki-sidebar li,
   #git-wiki-sidebar .git-wiki-downloads li+li+li {
     width: 33%;
   }
