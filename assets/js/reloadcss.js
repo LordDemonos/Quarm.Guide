@@ -6,3 +6,10 @@ function reloadCSS() {
     cssLink.setAttribute('href', newHref);
   }
 }
+
+document.body.addEventListener('click', function(event) {
+  if (event.target.tagName === 'A') {
+    reloadCSS();
+  }
+});
+
