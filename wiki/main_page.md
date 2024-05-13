@@ -1,5 +1,6 @@
 ---
 redirect_from: "/"
+hide_toc: true
 ---
 
 # Welcome to [Quarm.Guide](https://quarm.guide), the [Project Quarm](https://www.projectquarm.com) Wiki!
