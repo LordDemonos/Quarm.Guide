@@ -28,7 +28,7 @@ If you want to learn more about Project Quarm specific features and rules, head 
         <h3>Video Guides</h3>
         <ul>
             <li><a href="https://www.youtube.com/watch?v=aM0MX67me5Y">Installing the Game</a> - Step by step instructions for installing Project Quarm</li>
-            <li><a href="https://www.youtube.com/watch?v=tmU_5kBZbu8">After Insatalling the Game</a> - Installing Textures, Spell Effects, and Modifying Files</li>
+            <li><a href="https://www.youtube.com/watch?v=tmU_5kBZbu8">After Installing the Game</a> - Installing Textures, Spell Effects, and Modifying Files</li>
         </ul>
     </div>
 </div>
