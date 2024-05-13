@@ -6,6 +6,7 @@
 body {
   /* background-color: #121416; */
   padding: 50px;
+  /* font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif; */
   font: 15px/1.5 "Latos", sans-serif;
   color: #111111;
   font-weight: 500;
@@ -16,23 +17,23 @@ body {
 
 .logo {
   font: 10px/5px monospace;
-  text-align: center;
+  text-align: center; /* Center align the logo */
 }
 
 #back-to-top-btn {
   position: fixed;
   bottom: 90px;
-  right: 32px;
+  right: 32px; /* Move it more to the left by decreasing the right margin */
   z-index: 99;
   cursor: pointer;
-  width: 45px;
-  height: 45px;
-  background-color: #121416;
-  color: #00A0A0;
+  width: 45px; /* Increase the width */
+  height: 45px; /* Increase the height */
+  background-color: #121416; /* Dark background for the button */
+  color: #00A0A0; /* White text color */
   display: flex;
   align-items: center;
   justify-content: center;
-  border-radius: 50%;
+  border-radius: 50%; /* Circular shape */
   text-decoration: none;
   transition: opacity 0.3s ease;
 }
@@ -42,7 +43,7 @@ body {
 }
 
 #back-to-top-btn a {
-  font-size: 24px;
+  font-size: 24px; /* Larger font size for the "^" */
   margin-bottom: 3px;
   text-decoration: none;
   display: block;
@@ -50,8 +51,8 @@ body {
 
 .anchor-icon {
     position: absolute;
-    left: -15px;
-    width: 14px;
+    left: -15px;  // Adjust this value as needed
+    width: 14px; // Control the size of the icon
     height: 14px;
     fill: #00A0A0;
     vertical-align: middle;
@@ -61,7 +62,7 @@ body {
 }
 
 .anchor-icon:hover {
-    opacity: 1;
+    opacity: 1; // Make the icon more visible on hover
 }
 
 .anchor-link-icon {
@@ -69,8 +70,8 @@ body {
     top: 50%;
     transform: translateY(-50%);
     visibility: hidden;
-    width: 20px;
-    height: 20px;
+    width: 20px; // Ensure a specific width
+    height: 20px; // Ensure a specific height
 }
 
 h1[id]:hover .anchor-link-icon,
@@ -151,13 +152,13 @@ a:hover small {
    .updated-heading {
       font: 18px/1.5 "Roboto", sans-serif;
       font-weight: 700;
-      margin-bottom: 20px;
+      margin-bottom: 20px; /* Adjust the value as needed */
    }
 
 .step-image {
     display: block;
     clear: both;
-    margin-top: 10px;
+    margin-top: 10px; /* Adjust as needed */
 }
 
 .wrapper {
@@ -241,11 +242,11 @@ img {
 
 #git-wiki-sidebar img {
   display: block;
-  margin: 0 auto;
+  margin: 0 auto; /* Center the image within the sidebar */
 }
 
    .git-wiki-copyrights p {
-       margin-bottom: 5px;
+       margin-bottom: 5px; /* Reduce the bottom margin */
    }
 
 @media print,
@@ -327,6 +328,8 @@ strong {
 }
 
 .git-wiki-page {
+  /*width:500px;
+  float:right;*/
   padding-left: 320px;
   padding-bottom: 50px;
 }
@@ -384,9 +387,17 @@ screen and (max-width: 960px) {
     margin: 60px 0 20px;
   }
 
-  #git-wiki-sidebar a small {
+  #git-wiki-sidebara small {
     display: inline;
   }
+
+  /*#git-wiki-sidebar .git-wiki-downloads {
+    position:absolute;
+    right:50px;
+    top:52px;
+  }*/
+}
+
 
 @media print,
 screen and (max-width: 720px) {
@@ -399,7 +410,7 @@ screen and (max-width: 720px) {
   }
 
   #git-wiki-sidebar .git-wiki-downloads,
-  #git-wiki-sidebar p.view {
+  #git-wiki-sidebarp.view {
     position: static;
   }
 
@@ -419,7 +430,7 @@ screen and (max-width: 480px) {
     width: 99%;
   }
 
-  #git-wiki-sidebar li,
+  #git-wiki-sidebarli,
   #git-wiki-sidebar .git-wiki-downloads li+li+li {
     width: 33%;
   }
@@ -432,6 +443,10 @@ screen and (max-width: 480px) {
     color: #444;
   }
 }
+
+/*
+  Pagination rules
+*/
 
 .pagination a,
 .pagination span {
