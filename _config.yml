@@ -56,7 +56,10 @@ site_root:
 #
 # Jekyll configurations
 #
-
+email: demonos@gmail.com
+url: "https://www.quarm.guide" # the base hostname & protocol for your site
+twitter_username: lorddemonos
+github_username:  LordDemonos
 # You can customize it changing default layout for all pages
 # More info: https://jekyllrb.com/docs/configuration/
 #
