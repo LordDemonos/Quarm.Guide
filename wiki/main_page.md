@@ -1,5 +1,4 @@
 ---
-layout: default
 redirect_from: "/"
 hide_toc: true
 ---
