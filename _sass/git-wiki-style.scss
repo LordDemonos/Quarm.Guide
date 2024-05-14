@@ -7,6 +7,7 @@ body {
   /* background-color: #121416; */
   padding: 50px;
   font: 15px/1.5 "Latos", sans-serif;
+  font-display: swap;
   color: #111111;
   font-weight: 500;
   mix-blend-mode: difference;
@@ -89,6 +90,7 @@ h4,
 h5,
 h6 {
   font-family: "Roboto", sans-serif;
+  font-display: swap;
   color: #111111;
   margin: 0 0 20px;
   position: relative;
@@ -148,11 +150,12 @@ a:hover small {
   color: #777;
 }
 
-   .updated-heading {
-      font: 18px/1.5 "Roboto", sans-serif;
-      font-weight: 700;
-      margin-bottom: 20px;
-   }
+.updated-heading {
+  font: 18px/1.5 "Roboto", sans-serif;
+  font-display: swap;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
 
 .step-image {
     display: block;
@@ -175,6 +178,7 @@ blockquote {
 code,
 pre {
   font-family: 'Fira Code', monospace;
+  font-display: swap;
   color: #333;
   font-size: 14px;
 }
@@ -244,9 +248,9 @@ img {
   margin: 0 auto;
 }
 
-   .git-wiki-copyrights p {
-       margin-bottom: 5px;
-   }
+.git-wiki-copyrights p {
+  margin-bottom: 5px;
+}
 
 @media print,
 screen and (max-width: 992px) {
