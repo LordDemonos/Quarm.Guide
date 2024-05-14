@@ -320,14 +320,16 @@ If you have no mouse pointer after this more than likely the X,Y or the CX,CY va
 **A:** If your pet deals more than 50% of the mob's total health, it will earn exp as if it were another player in your party. [Source: Secrets](https://discord.com/channels/1133452007412334643/1133453587675103323/1147980850701545504) This is true if you are solo or grouped. However it is unlikely a single pet will deal over 50% of a mob's total health when you are grouped, since your party members are also doing damage. This rule applies to each individual pet, so a party with 3 mages doesn't need to worry, since a single pet is still not dealing 50% of a mob's total health.
 
 #### How do I turn off the loud music at character select or character creation?
-**A:** Delete the following files:[Source: Rumpus on Discord] 
+**A:** Option 1 - Replace your sound files with ones that have been muted. I have run the four files listed below through a website that lowers the volume to zero, but retains the file size. [no_login_music.7z](https://github.com/LordDemonos/Quarm.Guide/blob/master/no_login_music.7z?raw=true) Extract these into the root of your TAKP folder and overwrite the older ones. Then make sure your `eqclient.ini` you have this value `EnableClassicMusic=FALSE`. False forces the game to use modern music, which we've just muted.
+  
+Option 2 - Use Classic Midi Sounds. Delete the following files:[Source: Rumpus on Discord] 
 
 - eqtheme.mp3
 - combattheme1.mp3
 - combattheme2.mp3
 - deaththeme.mp3
 
-Delete these from your main TAKP folder. Midis will be restored and they are not as loud and "sound much better".
+Delete these from your main TAKP folder. Then make sure your `eqclient.ini` you have this value `EnableClassicMusic=TRUE`. Midis will be restored and they are not as loud and "sound much better".
 
 #### How does a viewport work?
 **A:**
