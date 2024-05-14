@@ -17,7 +17,7 @@ If you want to learn more about Project Quarm specific features and rules, head 
         <h3>Written Guides</h3>
         <ul>
             <li><a href="{{ '/installing-the-game' | relative_url }}">Installing the Game</a> - Get started with Project Quarm here</li>
-            <li><a href="https://quarm.guide/installing-the-game#step-4-installing-zeal-">Installing Zeal</a> - Requirements and Installation for Zeal</li>
+            <li><a href="https://quarm.guide/installing-the-game#step-4-installing-zeal-" aria-label="Installing Zeal - Requirements and Installation for Zeal">Installing Zeal</a> - Requirements and Installation for Zeal</li>
             <li><a href="{{ '/after-installing-the-game' | relative_url }}">After Installing the Game</a> - Understanding the Files and Folders</li>
             <li><a href="{{ '/textures-and-effects' | relative_url }}">Textures and Effects</a> - Downloading and Installing Textures and Effects</li>
             <li><a href="{{ '/third-party-programs' | relative_url }}">Third Party Programs</a> - Maps, Timers, Overlays, and More</li>
@@ -27,8 +27,8 @@ If you want to learn more about Project Quarm specific features and rules, head 
     <div style="flex: 1; margin-left: 10px;">
         <h3>Video Guides</h3>
         <ul>
-            <li><a href="https://www.youtube.com/watch?v=aM0MX67me5Y">Installing the Game</a> - Step by step instructions for installing Project Quarm</li>
-            <li><a href="https://www.youtube.com/watch?v=tmU_5kBZbu8">After Installing the Game</a> - Installing Textures, Spell Effects, and Modifying Files</li>
+            <li><a href="https://www.youtube.com/watch?v=aM0MX67me5Y" aria-label="Installing the Game - Step by step instructions for installing Project Quarm">Installing the Game</a> - Step by step instructions for installing Project Quarm</li>
+            <li><a href="https://www.youtube.com/watch?v=tmU_5kBZbu8" aria-label="After Installing the Game - Installing Textures, Spell Effects, and Modifying Files">After Installing the Game</a> - Installing Textures, Spell Effects, and Modifying Files</li>
         </ul>
     </div>
 </div>
@@ -38,21 +38,19 @@ If you want to learn more about Project Quarm specific features and rules, head 
     <div style="display: flex; justify-content: center;">
         <div style="margin-right: 10px; text-align: left;">
             <ul style="list-style-type: disc; padding: 0; margin: 0;">
-                <li><a href="https://www.pqdi.cc/">Project Quarm Database Interface</a> - Direct information from the Project Quarm database</li>
-                <li><a href="https://yaqds.bytelligence.com/">Yet Another Quarm Database Site</a> - An alternative view of the Project Quarm database</li>
-                <li><a href="https://discord.com/channels/1133452007412334643/1210670176077348934">Project Quarm Discord #zeal-discussions</a> - Get technical help and discuss the Zeal addon</li>
-                <li><a href="https://discord.com/channels/1133452007412334643/1162826324092657757">Project Quarm Discord #ui-discussion</a> - Discuss and download UIs</li>
+                <li><a href="https://www.pqdi.cc/" aria-label="Project Quarm Database Interface - Direct information from the Project Quarm database">Project Quarm Database Interface</a> - Direct information from the Project Quarm database</li>
+                <li><a href="https://yaqds.bytelligence.com/" aria-label="Yet Another Quarm Database Site - An alternative view of the Project Quarm database">Yet Another Quarm Database Site</a> - An alternative view of the Project Quarm database</li>
+                <li><a href="https://discord.com/channels/1133452007412334643/1210670176077348934" aria-label="Project Quarm Discord #zeal-discussions - Get technical help and discuss the Zeal addon">Project Quarm Discord #zeal-discussions</a> - Get technical help and discuss the Zeal addon</li>
+                <li><a href="https://discord.com/channels/1133452007412334643/1162826324092657757" aria-label="Project Quarm Discord #ui-discussion - Discuss and download UIs">Project Quarm Discord #ui-discussion</a> - Discuss and download UIs</li>
             </ul>
         </div>
         <div style="margin-left: 10px; text-align: left;">
             <ul style="list-style-type: disc; padding: 0; margin: 0;">
-                <li><a href="https://www.eqtunnelauctions.com/">EQTunnelAuctions</a> - Track prices of items sold in EC tunnel</li>
-                <li><a href="https://eqmap.vercel.app/">Advanced Map Parser</a> - A tool to parse and visualize the map data</li>
-                <li><a href="https://discord.com/channels/1133452007412334643/1133453502182596729">Project Quarm Discord #tech-help</a> - Get help with technical questions</li>
-                <li><a href="https://discord.com/channels/1133452007412334643/1153470935421157396">Project Quarm Discord #petitions</a> - Petition for IP exemption or other CSM topics</li>
+                <li><a href="https://www.eqtunnelauctions.com/" aria-label="EQTunnelAuctions - Track prices of items sold in EC tunnel">EQTunnelAuctions</a> - Track prices of items sold in EC tunnel</li>
+                <li><a href="https://eqmap.vercel.app/" aria-label="Advanced Map Parser - A tool to parse and visualize the map data">Advanced Map Parser</a> - A tool to parse and visualize the map data</li>
+                <li><a href="https://discord.com/channels/1133452007412334643/1133453502182596729" aria-label="Project Quarm Discord #tech-help - Get help with technical questions">Project Quarm Discord #tech-help</a> - Get help with technical questions</li>
+                <li><a href="https://discord.com/channels/1133452007412334643/1153470935421157396" aria-label="Project Quarm Discord #petitions - Petition for IP exemption or other CSM topics">Project Quarm Discord #petitions</a> - Petition for IP exemption or other CSM topics</li>
             </ul>
         </div>
     </div>
 </div>
-
-
