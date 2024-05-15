@@ -6,8 +6,8 @@ Classic 1.9: June 1st, 2024 (1 month)
 ## Kunark Launch
 
 Kunark 2.0 (July 1st, 2024))
-- Kunark accessible.
-- Iksar createable.
+- Kunark is accessible.
+- Iksar creatable.
 - Nurga and Droga pre revamp
 - Chardok pre revamp.
 - Level Cap 60, 0 AA
@@ -28,7 +28,7 @@ Kunark 2.9: March 1st, 2025 (1 month)
 
 ## Kunark Legacy Items and Respawn Rates
 
-- Lord Begurgle's Crown will now drop off of any aqua goblin at the same rate as Lord Begurgle.
+- Lord Begurgle's Crown will now drop off any aqua goblin at the same rate as Lord Begurgle.
 - Sebilis Crypt named are now 100% chance to spawn and the placeholders' loot (Scroll of the Dark) has been moved to the main bosses.
 - Hierophant's Cloak will now drop at 0.2% of the time off of any krup froglok, similar to the Runebranded Girdle.
 - The Fungus Covered Scale Tunic and Fungus Covered Great Staff from the Myconid Spore King in Sebilis are now legacy items and no-drop. The drop rates of all 3 items have been boosted for those two legacy items. The minimum required level to loot these two items is set to 50.
