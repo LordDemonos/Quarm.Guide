@@ -68,6 +68,7 @@ github_username:  LordDemonos
 #
 markdown: kramdown
 highlighter: rouge
+permalink: pretty
 kramdown:
   input: GFM
   syntax_highlighter: rouge
