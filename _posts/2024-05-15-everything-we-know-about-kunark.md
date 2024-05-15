@@ -26,7 +26,7 @@ Kunark 2.9: March 1st, 2025 (1 month)
 - Gnomes appear, wanting help crafting a new feat of gnomish engineering that will allow their expedition to reach an island they saw in the distance...
 
 
-## Kunark Legacy Items and Respawn Rates
+## Legacy Items and Respawn Rates
 
 - Lord Begurgle's Crown will now drop off any aqua goblin at the same rate as Lord Begurgle.
 - Sebilis Crypt named are now 100% chance to spawn and the placeholders' loot (Scroll of the Dark) has been moved to the main bosses.
@@ -79,15 +79,14 @@ Kunark 2.9: March 1st, 2025 (1 month)
 
 - kunark open world targets to respawn on quakes, set their respawn time to 10 days
 
-## Kunark Events
+## Events
 
 10/31/2024
 Oops, All Goos!
 
-## Kunark Misc
+## Misc
 
 - An elective service will be available during the Kunark pre-release period:
 `Promotion of Iksar Guild Leader character: 2000p`
 
 - boost gorgalosk to 2 loots
-
