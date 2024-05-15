@@ -1,6 +1,6 @@
 ## Pre-Kunark Launch
 
-lassic 1.9: June 1st, 2024 (1 month)
+Classic 1.9: June 1st, 2024 (1 month)
 - Special event: 1 month Kunark-Locked Iksar early access (Level Cap 50, some zones restricted)
 
 ## Kunark Launch
