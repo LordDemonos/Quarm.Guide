@@ -3,7 +3,7 @@ remote_theme: Drassil/git-wiki-theme@master
 title: "Quarm.Guide"
 # (string) if you've installed your wiki in subfolder, you must change this configuration
 # with your folder name, otherwise leave it empty
-baseurl: ""
+baseurl: "/"
 # the base hostname & protocol for your site
 url: "https://quarm.guide"
 # (string) Description of your wiki
