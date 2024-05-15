@@ -65,11 +65,29 @@ Kunark 2.9: March 1st, 2025 (1 month)
 - Eldrig the Old now spawns separately at 100% chance on his own spawn group every 15 minutes.
 - Nezekezena now spawns separately at 100% chance on his own spawn group every 15 minutes.
 
+## Instances and Quakes
+
+- charasis_instanced
+- chardok_instanced
+- dreadlands_instanced
+- emeraldjungle_instanced
+- timorous_instanced
+- skyfire_instanced
+- sebilis_instanced
+- karnor_instanced
+- veeshan_instanced
+
+- kunark open world targets to respawn on quakes, set their respawn time to 10 days
+
+## Kunark Events
+
+10/31/2024
+Oops, All Goos!
+
 ## Kunark Misc
 
 - An elective service will be available during the Kunark pre-release period:
 `Promotion of Iksar Guild Leader character: 2000p`
 
+- boost gorgalosk to 2 loots
 
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
