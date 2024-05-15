@@ -1,4 +1,6 @@
-
+---
+redirect_from: "/"
+---
 
 # Welcome to [Quarm.Guide](https://quarm.guide), the [Project Quarm](https://www.projectquarm.com) Wiki!
 
