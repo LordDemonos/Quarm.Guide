@@ -95,6 +95,10 @@ Kunark 2.9: March 1st, 2025 (1 month)
 - Nezekezena now spawns separately at 100% chance on his own spawn group every 15 minutes.
 - Swapped the name of the Fungus Covered Scale Tunic/Shirt. The Shirt is now the no-drop item.
 - Swapped the name of the Fungus Covered Great Staff/Stick. The Stick is now the no-drop item.
+- Any Scarab or Sebilite creature in Sebilis now has a 0.2% chance of dropping a Runed Fighters Staff. - - This item is Legacy Loot and requires level 50 to loot.
+- Boogoog can now drop Mosscovered Branch and Mosscovered Twig randomly.
+- Both are Legacy Loot items that require level 20 to loot.
+
 
 ## Instances and Quakes
 
