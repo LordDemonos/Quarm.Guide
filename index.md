@@ -1,8 +1,12 @@
 ---
 layout: default
-title: "Home - Project Quarm Wiki"
-description: "Welcome to Quarm.Guide, the official Project Quarm Wiki. Discover guides, resources, and information about the unique 1-Box EverQuest emulated server."
-keywords: "Project Quarm, Quarm, EverQuest, Quarm Wiki, EverQuest server, guides, resources"
+title: Home - Project Quarm Wiki
+description: >-
+  Welcome to Quarm.Guide, the official Project Quarm Wiki. Discover guides,
+  resources, and information about the unique 1-Box EverQuest emulated server.
+keywords: >-
+  Project Quarm, Quarm, EverQuest, Quarm Wiki, EverQuest server, guides,
+  resources
 permalink: /
 ---
 
@@ -10,7 +14,7 @@ permalink: /
 
 ## A Brief Introduction to Project Quarm
 
-[Project Quarm](https://projectquarm.com/) is a 1-Box EverQuest emulated server based on the [TAKProject](https://www.takproject.net/) codebase! We are currently in the [Classic 1.6](#classic-1x-october-1st-2023) era with Kunark Pre-release coming June 1st.
+[Project Quarm](https://projectquarm.com/) is a 1-Box EverQuest emulated server based on the [TAKProject](https://www.takproject.net/) codebase! We are currently in the [Classic 1.6](#classic-1x-october-1st-2023) era with [Kunark Pre-release coming June 1st](https://quarm.guide/2024/05/15/everything-we-know-about-kunark/).
 
 Some server highlights include: TLP through Planes of Power at 9 month intervals, instanced raid encounters, legacy items drop forever, hardcore and solo self found gameplay modes, custom content and events, and a ton of QOL features through [Zeal](https://github.com/iamclint/Zeal).
 
