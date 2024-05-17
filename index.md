@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Main Page
+title: Home
+permalink: /
 ---
 
 # Welcome to [Quarm.Guide](https://quarm.guide), the [Project Quarm](https://www.projectquarm.com) Wiki!
