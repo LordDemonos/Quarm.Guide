@@ -7,7 +7,7 @@ baseurl: "/"
 # the base hostname & protocol for your site
 url: "https://quarm.guide"
 # (string) Description of your wiki
-description: Project Quarm Getting Started Guide 
+description: Your Project Quarm Adventure Awaits
 # (boolean) disable edit functionalities (edit/delete/add pages)
 disable_edit: true
 # (boolean) Enable/disable wiki page list in sidebar
