@@ -1,5 +1,6 @@
 User-agent: *
 Disallow: /assets/duxaUI.7z
+Disallow: /assets/no_login_music.7z
 Allow: /
 
 Sitemap: https://quarm.guide/sitemap.xml
