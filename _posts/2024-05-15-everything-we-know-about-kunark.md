@@ -104,6 +104,7 @@ Kunark 2.9: March 1st, 2025 (1 month)
 - Script-Spawned Trakanon is no longer hostile and will not social with the creatures around him.
 - Script-Spawned Trakanon now only drops the Bard Epic piece required to progress.
 - Cazel will now respawn every 15 minutes. Additionally, Cazel is no longer associated with a hidden KOS faction.
+- The One Key in The Overthere is now a 5 second spawn timer.
 
 
 
