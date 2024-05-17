@@ -98,6 +98,7 @@ Kunark 2.9: March 1st, 2025 (1 month)
 - Any Scarab or Sebilite creature in Sebilis now has a 0.2% chance of dropping a Runed Fighters Staff. - - This item is Legacy Loot and requires level 50 to loot.
 - Boogoog can now drop Mosscovered Branch and Mosscovered Twig randomly.
 - Both are Legacy Loot items that require level 20 to loot.
+- Jade Chokidai Prod now drops off of any mid level (conscript) or higher sarnak in the Lake of Ill Omen at 5% chance, including the Chancellor of Di`Zok, who now drops the Prod at 5% chance.
 
 
 ## Instances and Quakes
