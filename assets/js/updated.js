@@ -7,7 +7,7 @@ async function fetchLastCommitDate() {
         const { lastFetched, date } = JSON.parse(cachedData);
         const hoursSinceLastFetch = (new Date() - new Date(lastFetched)) / (1000 * 60 * 60);
 
-        if (hoursSinceLastFetch < 24) {
+        if (hoursSinceLastFetch < 18) {
             return new Date(date).toLocaleDateString();
         }
     }
