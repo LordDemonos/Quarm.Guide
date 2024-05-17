@@ -22,15 +22,15 @@ The zones being restricted on Kunark launch are the following:
 
 Those will be available on the 1st of July.
 
-- All Kunark raid creatures will have natural spawn times during the Iksar Early Access period.
-- For the sake of intra-continent travel, the following zones are considered Kunark zones:
+All Kunark raid creatures will have natural spawn times during the Iksar Early Access period.
+
+For the sake of intra-continent travel, the following zones are considered Kunark zones:
 
 - Timorous Deep
 - Firiona Vie
 - The Overthere
 
-- If an Iksar attempts to zone into a non-Kunark zone, they will be teleported to Cabilis instead.
-- If a non-Iksar attempts to zone into a Kunark zone, they will be teleported to East Commonlands instead.
+If an Iksar attempts to zone into a non-Kunark zone, they will be teleported to Cabilis instead. If a non-Iksar attempts to zone into a Kunark zone, they will be teleported to East Commonlands instead.
 
 ## Kunark Launch
 
