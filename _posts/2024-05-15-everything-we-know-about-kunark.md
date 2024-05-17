@@ -1,3 +1,11 @@
+---
+title: "Everything We Know About Kunark in Project Quarm"
+description: "Explore all the details about the Kunark expansion in Project Quarm, including launch dates, legacy items, respawn rates, instances, and special events."
+keywords: "Project Quarm, Quarm, Kunark, Kunark expansion, EverQuest, legacy items, respawn rates, instances, special events, Iksar, Chardok, Sebilis"
+author: "Xanax"
+published: true
+---
+
 ## Pre-Kunark Launch
 
 Classic 1.9: June 1st, 2024 (1 month)
