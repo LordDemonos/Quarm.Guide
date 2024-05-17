@@ -100,6 +100,9 @@ Kunark 2.9: March 1st, 2025 (1 month)
 - Both are Legacy Loot items that require level 20 to loot.
 - Jade Chokidai Prod now drops off of any mid level (conscript) or higher sarnak in the Lake of Ill Omen at 5% chance, including the Chancellor of Di`Zok, who now drops the Prod at 5% chance.
 - Up to two Xalgozian Fangs can now drop off of any "Xalgoz" creature in Kaesora at 5% per roll. Xalgoz himself also has this drop chance adjusted to the same rate.
+- An Undead Bard is now an 18 hour repop in Open World and Instances.
+- Script-Spawned Trakanon is no longer hostile and will not social with the creatures around him.
+- Script-Spawned Trakanon now only drops the Bard Epic piece required to progress.
 
 
 
