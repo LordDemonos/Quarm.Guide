@@ -1,8 +1,12 @@
 ---
-title: "Everything We Know About Kunark in Project Quarm"
-description: "Explore all the details about the Kunark expansion in Project Quarm, including launch dates, legacy items, respawn rates, instances, and special events."
-keywords: "Project Quarm, Quarm, Kunark, Kunark expansion, EverQuest, legacy items, respawn rates, instances, special events, Iksar, Chardok, Sebilis"
-author: "Xanax"
+title: Everything We Know About Kunark in Project Quarm
+description: >-
+  Explore all the details about the Kunark expansion in Project Quarm, including
+  launch dates, legacy items, respawn rates, instances, and special events.
+keywords: >-
+  Project Quarm, Quarm, Kunark, Kunark expansion, EverQuest, legacy items,
+  respawn rates, instances, special events, Iksar, Chardok, Sebilis
+author: Xanax
 published: true
 ---
 
@@ -72,6 +76,8 @@ Kunark 2.9: March 1st, 2025 (1 month)
 - Kaiaren is now a 5 minute respawn timer, and is now charm immune.
 - Eldrig the Old now spawns separately at 100% chance on his own spawn group every 15 minutes.
 - Nezekezena now spawns separately at 100% chance on his own spawn group every 15 minutes.
+- Swapped the name of the Fungus Covered Scale Tunic/Shirt. The Shirt is now the no-drop item.
+- Swapped the name of the Fungus Covered Great Staff/Stick. The Stick is now the no-drop item.
 
 ## Instances and Quakes
 
