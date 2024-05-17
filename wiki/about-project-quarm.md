@@ -1,8 +1,13 @@
 ---
-title: "About Project Quarm: A Time-Locked Progression Server"
-description: "Learn about Project Quarm, a unique EverQuest server featuring time-locked progression, custom mechanics, and strict one-box policies. Explore the rules, optional self-imposed rulesets, and the innovative guild instance system."
-keywords: "Project Quarm, Quarm, EverQuest, time-locked progression, one-box policy, guild instances, custom mechanics, EverQuest server"
-author: "Xanax"
+title: 'About Project Quarm: A Time-Locked Progression Server'
+description: >-
+  Learn about Project Quarm, a unique EverQuest server featuring time-locked
+  progression, custom mechanics, and strict one-box policies. Explore the rules,
+  optional self-imposed rulesets, and the innovative guild instance system.
+keywords: >-
+  Project Quarm, Quarm, EverQuest, time-locked progression, one-box policy,
+  guild instances, custom mechanics, EverQuest server
+author: Xanax
 ---
 
 # About Project Quarm ![Secrets](./assets/images/Secrets.jpg){: .step-image}
@@ -245,6 +250,10 @@ The following items are not traditionally legacy items in EverQuest, but have se
 - Fishbone Earring (20) (Staying indefinitely)
 - Glowing Black Stone (15) (Staying indefinitely)
 - Robe of the Oracle (25) (Staying Indefinitely - Changes to Standard in Kunark)
+
+- The chance for Recfek Shralok to spawn is now 10%, up from 3%.
+- Shralok Pack now drops both in Kithicor and Highkeep at 100% chance from Recfek Shralok.
+- Recfek Shralok is now a 300s spawn timer.
 
 ## Kunark Legacy Items and Respawn Rates
 
