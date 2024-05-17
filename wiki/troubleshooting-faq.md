@@ -66,7 +66,7 @@
 **A:** In your `eqclient.ini` set NewUI=TRUE and `OldUI=False`.
 
 #### How do I view nameplates from far away?
-**A:** Use an [updated](#step-3-converting-your-takp-client-to-quarm) `eqgame.dll` and make sure `eqclient.ini` has `EnableExtendedNameplateDistance=TRUE`. 
+**A:** Use an [updated](https://quarm.guide/installing-the-game#step-3-converting-your-takp-client-to-quarm) `eqgame.dll` and make sure `eqclient.ini` has `EnableExtendedNameplateDistance=TRUE`. 
 
 #### The game still isn't smooth. Camera movement is still jittery?
 **A:** First make sure you're using the experimental `eqgame.dll` file as this fixes the framerate options in your `eqclient.ini`. With previous versions of `eqgame.dll` the frame rate/refresh rate values would not be respected. 
