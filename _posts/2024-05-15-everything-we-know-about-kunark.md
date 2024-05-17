@@ -103,6 +103,7 @@ Kunark 2.9: March 1st, 2025 (1 month)
 - An Undead Bard is now an 18 hour repop in Open World and Instances.
 - Script-Spawned Trakanon is no longer hostile and will not social with the creatures around him.
 - Script-Spawned Trakanon now only drops the Bard Epic piece required to progress.
+- Cazel will now respawn every 15 minutes. Additionally, Cazel is no longer associated with a hidden KOS faction.
 
 
 
