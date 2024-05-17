@@ -15,6 +15,23 @@ published: true
 Classic 1.9: June 1st, 2024 (1 month)
 - Special event: 1 month Kunark-Locked Iksar early access (Level Cap 50, some zones restricted)
 
+The zones being restricted on Kunark launch are the following:
+
+- Veeshan's Peak
+- Kunark Instances
+
+Those will be available on the 1st of July.
+
+- All Kunark raid creatures will have natural spawn times during the Iksar Early Access period.
+- For the sake of intra-continent travel, the following zones are considered Kunark zones:
+
+- Timorous Deep
+- Firiona Vie
+- The Overthere
+
+- If an Iksar attempts to zone into a non-Kunark zone, they will be teleported to Cabilis instead.
+- If a non-Iksar attempts to zone into a Kunark zone, they will be teleported to East Commonlands instead.
+
 ## Kunark Launch
 
 Kunark 2.0 (July 1st, 2024))
