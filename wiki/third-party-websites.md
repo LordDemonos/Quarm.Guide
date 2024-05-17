@@ -1,3 +1,10 @@
+---
+title: "Essential Third Party Websites for Project Quarm"
+description: "Discover essential third-party websites for Project Quarm, including the Project Quarm Database Interface, EQTunnelAuctions, TAKP Wiki, and AllaQUARM."
+keywords: "Project Quarm, Quarm, Quarm, third-party websites, PQDI, EQTunnelAuctions, TAKP Wiki, AllaQUARM, EverQuest, TAKP"
+author: "Xanax"
+---
+
 # Third Party Websites
 
 I was hesitant to make a list as they seem to pop up and go stagnant pretty quickly. There's a couple Quarm specific sites you need to know about though.

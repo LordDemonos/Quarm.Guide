@@ -1,3 +1,10 @@
+---
+title: "Installing Optional 3rd Party Programs for Project Quarm"
+description: "Discover and install optional third-party programs to enhance your Project Quarm experience, including GINA, EQ Nag, NParse, Quarm Tool, ZlizEQMap, and more."
+keywords: "Project Quarm, Quarm, Quarm, third-party programs, GINA, EQ Nag, NParse, Quarm Tool, ZlizEQMap, EverQuest, TAKP, game enhancements"
+author: "Xanax"
+---
+
 ## Installing Optional 3rd Party Programs
 
 These programs add functionality not found in the game client by reading your EverQuest player log files. Programs that use hooks to inject code into the game are now allowed, with the one exception being Zeal.

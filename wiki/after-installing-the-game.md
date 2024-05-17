@@ -1,3 +1,10 @@
+---
+title: "After Installing Project Quarm: Essential Configurations and Tips"
+description: "Learn how to configure your EQClient.ini, control your user interface, and manage characters, logs, spell sets, and screenshots after installing Project Quarm."
+keywords: "Project Quarm, Quarm, Quarm configuration, EQClient.ini, EverQuest, user interface, TAKP, Zeal, game settings, spell sets, chat logs"
+author: "Xanax"
+---
+
 # After Installing the Main Game
 
 ## Understanding your EQClient.ini

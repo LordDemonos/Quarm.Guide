@@ -1,3 +1,10 @@
+---
+title: "Installing Project Quarm: A Step-by-Step Guide"
+description: "Learn how to install Project Quarm, including creating a TAKP forum account, downloading the game client, converting to Quarm, and setting up Zeal."
+keywords: "Project Quarm, Quarm, Quarm installation, TAKP, EverQuest, Zeal, game client, dgVoodoo2, eqgame.dll"
+author: "Xanax"
+---
+
 # Installing the Main Game 
 
 Important Backup Reminder

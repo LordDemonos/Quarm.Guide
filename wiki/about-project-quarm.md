@@ -1,3 +1,10 @@
+---
+title: "About Project Quarm: A Time-Locked Progression Server"
+description: "Learn about Project Quarm, a unique EverQuest server featuring time-locked progression, custom mechanics, and strict one-box policies. Explore the rules, optional self-imposed rulesets, and the innovative guild instance system."
+keywords: "Project Quarm, Quarm, EverQuest, time-locked progression, one-box policy, guild instances, custom mechanics, EverQuest server"
+author: "Xanax"
+---
+
 # About Project Quarm ![Secrets](./assets/images/Secrets.jpg){: .step-image}
 
 [Follow SecretsPast on Twitch](https://www.twitch.tv/secretspast)

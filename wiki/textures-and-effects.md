@@ -1,3 +1,10 @@
+---
+title: "Installing Optional Textures and Effects for Project Quarm"
+description: "Enhance your Project Quarm experience with optional textures and effects, including Classic HD Textures, EQ Basic 1.1, KaichoFX Spell Effects, and more."
+keywords: "Project Quarm, Quarm, Quarm textures, Quarm effects, Classic HD Textures, EQ Basic 1.1, KaichoFX, EverQuest, TAKP, visual enhancements"
+author: "Xanax"
+---
+
 ## Installing Optional Textures and Effects
 
 You can install various texture packs and visual effects to enhance the game's appearance.

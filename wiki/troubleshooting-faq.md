@@ -1,3 +1,10 @@
+---
+title: "Troubleshooting FAQ for Project Quarm"
+description: "Find solutions to common issues in Project Quarm, including disabling Luclin models, fixing mouse issues, adjusting game settings, and more."
+keywords: "Project Quarm, Quarm, Quarm troubleshooting, EQ troubleshooting, game settings, Luclin models, mouse issues, EQMAIN.DLL error, Velious textures"
+author: "Xanax"
+---
+
 ### FAQ, Troubleshooting, and Obscure Situations
 
 - [Where can I learn more about Project Quarm?](#where-can-i-learn-more-about-project-quarm)

@@ -1,6 +1,8 @@
 ---
 layout: default
-title: Home
+title: "Home - Project Quarm Wiki"
+description: "Welcome to Quarm.Guide, the official Project Quarm Wiki. Discover guides, resources, and information about the unique 1-Box EverQuest emulated server."
+keywords: "Project Quarm, Quarm, EverQuest, Quarm Wiki, EverQuest server, guides, resources"
 permalink: /
 ---
 
