@@ -107,7 +107,7 @@ Kunark 2.9: March 1st, 2025 (1 month)
 - The One Key in The Overthere is now a 5 second spawn timer.
 - Jade Chokidai Prod is now no-drop. The Key to Charasis can no longer be multiquested.
 - Added 4 additional Froglok Hunter / Forager standalone spawns to Trakanon's Teeth.
-
+- Added 4 additional Ancient Jarsath standalone spawns to Firiona Vie.
 
 
 ## Instances and Quakes
