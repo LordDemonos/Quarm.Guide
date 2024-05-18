@@ -110,7 +110,7 @@ Kunark 2.9: March 1st, 2025 (1 month)
 - Added 4 additional Ancient Jarsath standalone spawns to Firiona Vie.
 - Book of Charm and Sacrifice is now a 5 second respawn. Additionally, it now appears in instances.
 - According to a sneaky rogue, the Book of Souls in hate is up every 5 seconds now.
-
+- The Tangrin is now a 15 minute spawn. YetiQuest returns!
 
 ## Instances and Quakes
 
