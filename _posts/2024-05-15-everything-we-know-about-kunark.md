@@ -112,6 +112,7 @@ Kunark 2.9: March 1st, 2025 (1 month)
 - According to a sneaky rogue, the Book of Souls in hate is up every 5 seconds now.
 - The Tangrin is now a 15 minute spawn. YetiQuest returns!
 - Felia Goldwing is now a 100% chance to spawn.
+- Vessel Drozlin and Verina Tomb are now 15 minute spawns without variance.
 
 ## Instances and Quakes
 
