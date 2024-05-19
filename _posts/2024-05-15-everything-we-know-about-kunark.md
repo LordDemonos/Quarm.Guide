@@ -113,6 +113,33 @@ Kunark 2.9: March 1st, 2025 (1 month)
 - The Tangrin is now a 15 minute spawn. YetiQuest returns!
 - Felia Goldwing is now a 100% chance to spawn.
 - Vessel Drozlin and Verina Tomb are now 15 minute spawns without variance.
+- Slixin Klex now drops his loot 100% of the time for the Magician Epic, and now is a 15 minute respawn.
+- Undertow will now drop his Blazing Wand 100% of the time.
+- Burning Embers is now a guaranteed drop from any of the named Wurms.
+- Tarbul Earthstrider is now a unique spawn, and is now balanced versus other spawnpoints for spawn chance.
+- Phinigel will now drop a second roll attempt at the Staff of Elemental Mastery: Water when Kunark unlocks at 50% chance.
+- Phinigel's Kedge Backbone is now a 50% roll attempt.
+- Venril Sathir's Remains are now a 1 hour respawn timer and triggered Venril Sathir is no longer hostile.
+- Jade Reavers in City of Mist have had their respawn timer greatly reduced.
+- Uulump Pujluk is now a 1 hour spawn timer.
+- Dolgin Godslayer is now a 1 hour spawn timer.
+- a broken golem is now a 1 hour respawn timer.
+- an advisor in Mistmoore is now a 15 minute respawn timer.
+- Black Dire in Mistmoore is now a 15 minute respawn timer.
+- Caradon is now a 15 minute respawn timer.
+- Duriek Bloodpool is now a 15 minute respawn timer - down from 3 days.
+- Marl Kastane is now a 15 minute respawn timer, down from 3 days. Why did Verant hate Shadowknights?!
+- Lhranc is now a 1 hour respawn timer, down from ONE WEEK. What did Shadowknights do to you, Brad?
+- Sir Lucan D'Lere is now a 1 hour respawn timer. He didn't steal the soulfire yet in this timeline, so he's probably fine to spawn more frequently.
+- Kirak Vil is now a... 15 minute spawn timer... down from... ONE WEEK?! Wow, so it's not just Shadowknights - they just hate KNIGHTS in general!
+- Lich of Miragul was already changed, but it's worth denoting here.
+- Keeper of the Tombs is now a 15 minute respawn in open world... down from... -checks notes-... 5 days? WHY
+- spectral librarian is now 100% chance to spawn in Kaesora. The Epic drop is now 100% as well.
+- spectral librarian now has a chance to drop a Xalgozian fang, too, as it formerly shares a placeholder spot with two minions of Xalgoz.
+- Glaron the Wicked is now a 30 minute spawn timer. I nearly typo'd this as day. I now know how the original timers were made.
+- Soul Leech, Dark Sword of Blood is now a 50% chance off of Cazic Thule, separate to his normal item pool, due to its use in the Shadowknight Epic.
+- High Scale Kirn is now a 1 hour spawn timer, down from 4 in open world and 8 in instanced.
+- Decrepit Hide is now a 12% chance off of any Ashenbone Drake in the Plane of Hate.
 
 ## Instances and Quakes
 
