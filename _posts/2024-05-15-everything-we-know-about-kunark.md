@@ -140,6 +140,7 @@ Kunark 2.9: March 1st, 2025 (1 month)
 - Soul Leech, Dark Sword of Blood is now a 50% chance off of Cazic Thule, separate to his normal item pool, due to its use in the Shadowknight Epic.
 - High Scale Kirn is now a 1 hour spawn timer, down from 4 in open world and 8 in instanced.
 - Decrepit Hide is now a 12% chance off of any Ashenbone Drake in the Plane of Hate.
+- Wraith of a Shissar is now a 1 hour spawn timer.
 
 ## Instances and Quakes
 
