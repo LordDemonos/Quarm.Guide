@@ -139,6 +139,7 @@ Its tricky searching around Project Quarm's Discord but I can provide a list tha
 - CalmetharED for Quarm - [ui-discussion](https://www.eqinterface.com/downloads/fileinfo.php?id=6959)
 - Murmurs / Franken UI - ⁠[ui-discussion](https://discord.com/channels/1133452007412334643/1162826324092657757/1228748380310733022)
 - Qrustle - [ui-discussion](https://discord.com/channels/1133452007412334643/1162826324092657757/1243013514738663465)
+- WoW UI with Portraits [ui-discussion](https://discord.com/channels/1133452007412334643/1162826324092657757/1242888136363872416)
 
 - Other Quarm UIs from EQInterface - [EQ Interfaces for Quarm TAKP/P2002](https://www.eqinterface.com/downloads/index.php?cid=115&dp=0&sh=full&so=desc&sb=lastupdate)
 
