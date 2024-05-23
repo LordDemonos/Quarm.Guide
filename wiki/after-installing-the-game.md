@@ -1,8 +1,13 @@
 ---
-title: "After Installing Project Quarm: Essential Configurations and Tips"
-description: "Learn how to configure your EQClient.ini, control your user interface, and manage characters, logs, spell sets, and screenshots after installing Project Quarm."
-keywords: "Project Quarm, Quarm, Quarm configuration, EQClient.ini, EverQuest, user interface, TAKP, Zeal, game settings, spell sets, chat logs"
-author: "Xanax"
+title: 'After Installing Project Quarm: Essential Configurations and Tips'
+description: >-
+  Learn how to configure your EQClient.ini, control your user interface, and
+  manage characters, logs, spell sets, and screenshots after installing Project
+  Quarm.
+keywords: >-
+  Project Quarm, Quarm, Quarm configuration, EQClient.ini, EverQuest, user
+  interface, TAKP, Zeal, game settings, spell sets, chat logs
+author: Xanax
 ---
 
 # After Installing the Main Game
@@ -133,6 +138,7 @@ Its tricky searching around Project Quarm's Discord but I can provide a list tha
 - QQUI Velious UI Edit p99 - [ui-discussion](https://discord.com/channels/1133452007412334643/1162826324092657757/1166400636913455236)
 - CalmetharED for Quarm - [ui-discussion](https://www.eqinterface.com/downloads/fileinfo.php?id=6959)
 - Murmurs / Franken UI - ⁠[ui-discussion](https://discord.com/channels/1133452007412334643/1162826324092657757/1228748380310733022)
+- Qrustle - [ui-discussion](https://discord.com/channels/1133452007412334643/1162826324092657757/1243013514738663465)
 
 - Other Quarm UIs from EQInterface - [EQ Interfaces for Quarm TAKP/P2002](https://www.eqinterface.com/downloads/index.php?cid=115&dp=0&sh=full&so=desc&sb=lastupdate)
 
