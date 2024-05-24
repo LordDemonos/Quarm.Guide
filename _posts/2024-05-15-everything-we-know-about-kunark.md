@@ -17,7 +17,7 @@ Classic 1.9: June 1st, 2024 (1 month)
 
 We will be performing downtime on June 1st, 2024 at 12pm ET. We will keep the server down for three hours and unlock at 3pm ET. We may run into issues with the deployment of the patch, though we are targeting a 3pm ET unlock time.
 
-- Upon completion of the maintenance, Patch 1.9 will be deployed to the server and Iksars will be available for creation. They will be able to play in Kunark zones and cannot leave Kunark. Non-Iksars cannot enter Kunark zones. Please note that mules are unavailable for Iksar characters until July 1st, 2024 at 3pm ET, when Kunark officially launches.
+Upon completion of the maintenance, Patch 1.9 will be deployed to the server and Iksars will be available for creation. They will be able to play in Kunark zones and cannot leave Kunark. Non-Iksars cannot enter Kunark zones. Please note that mules are unavailable for Iksar characters until July 1st, 2024 at 3pm ET, when Kunark officially launches.
 
 ### Pre-Kunark Epic Content
 
