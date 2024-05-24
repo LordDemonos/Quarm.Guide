@@ -15,6 +15,16 @@ published: true
 Classic 1.9: June 1st, 2024 (1 month)
 - Special event: 1 month Kunark-Locked Iksar early access (Level Cap 50, some zones restricted)
 
+- We will be performing downtime on June 1st, 2024 at 12pm ET.
+- We will keep the server down for three hours and unlock at 3pm ET.
+
+- We may run into issues with the deployment of the patch, though we are targeting a 3pm ET unlock time.
+
+- Upon completion of the maintenance, Patch 1.9 will be deployed to the server and Iksars will be available for creation. They will be able to play in Kunark zones and cannot leave Kunark. Non-Iksars cannot enter Kunark zones. Please note that mules are unavailable for Iksar characters until July 1st, 2024 at 3pm ET, when Kunark officially launches.
+
+- Just so there's no surprises on launch day, **we will be enabling Patch 2.0 content (including epic drops) when we release Patch 1.9.**
+This means that you can gather epic pieces on Kunark with your level 50 Iksars, or with the characters not within Kunark.
+
 The zones being restricted on Kunark launch are the following:
 
 - Veeshan's Peak
