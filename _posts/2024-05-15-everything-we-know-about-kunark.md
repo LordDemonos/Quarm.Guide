@@ -23,6 +23,8 @@ Upon completion of the maintenance, Patch 1.9 will be deployed to the server and
 
 Just so there's no surprises on launch day, **we will be enabling Patch 2.0 content (including epic drops) when we release Patch 1.9.** This means that you can gather epic pieces on Kunark with your level 50 Iksars, or with the characters not within Kunark.
 
+- Wraith of a Shissir will drop in Patch 2.0
+
 ``Content does NOT include features like:
 
 - Level 60
