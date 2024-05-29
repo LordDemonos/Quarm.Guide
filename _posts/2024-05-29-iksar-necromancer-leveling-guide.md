@@ -1,4 +1,5 @@
 ---
+title: Iksar Necromancer Leveling Guide
 description: >-
   Discover Iksar Necromancer Leveling Guide in Project Quarm, including tips on
   mobs, experience, and repeatable quests.
