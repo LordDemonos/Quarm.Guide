@@ -62,6 +62,7 @@ You can find Omat and Natasha here. Ohmat is outside the hut, Natasha is inside.
 1. Loot [Lord Gimblox's Signet Ring](https://www.pqdi.cc/item/28018) from [Lord Gimblox](https://www.pqdi.cc/npc/31126) in [Solusek's Eye](https://www.pqdi.cc/zone/31).
 
 You can find Lord Gimblox here:
+
 ![Lord Gimblox](/assets/images/epics/cleric/lord_gimblox.webp)
 
 2. Give [Lord Gimblox's Signet Ring](https://www.pqdi.cc/item/28018) to [Natasha Whitewater](https://www.pqdi.cc/npc/96080) in [Timorous Deep](https://www.pqdi.cc/zone/96) - receive [Ornate Sea Shell](https://www.pqdi.cc/item/28047)(no 2).
