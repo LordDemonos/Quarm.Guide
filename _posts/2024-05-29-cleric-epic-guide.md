@@ -73,7 +73,7 @@ To Spawn this Natasha in Timorous Deep, you need turn in your Blood Soaked Plasm
 
 Naxot can be found at X below and the wiki says it will despawn when you turn in the Sea Shell. However this is not true. (We) did kill a row of Ixiblat of 2 or 3 last time. The trick is to root or cc Naxot when Ixiblat spawns to prevent him from attacking Ixiblat. Then Naxot wont die to it. We can then do another turn in after one Ixiblat dies.
 
-![Natox Deepwater](/assets/images/epics/cleric/natox_deepwater.webp)
+![Naxot Deepwater](/assets/images/epics/cleric/naxot_deepwater.webp)
 
 4. Loot [Sceptre of Ixiblat Fer](https://www.pqdi.cc/item/28017) from [Ixiblat Fer](https://www.pqdi.cc/npc/87014) in [Burning Woods](https://www.pqdi.cc/zone/87).
 
