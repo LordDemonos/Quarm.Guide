@@ -1,5 +1,5 @@
 ---
-date: {}
+date: 2024-05-29
 title: Iksar Necromancer Leveling Guide
 description: >-
   Discover Iksar Necromancer Leveling Guide in Project Quarm, including tips on
