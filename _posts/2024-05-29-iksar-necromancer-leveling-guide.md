@@ -1,5 +1,5 @@
 
-## Iksar Necromancer Levelin Guide
+## Iksar Necromancer Leveling Guide
 
 This guide was written terribly by ChatGPT-4. Expect some weird inaccuracies. Quests were verified and edited. It is meant to give me a starting point on June 1st since I don't remember Kunark at all. 
 
