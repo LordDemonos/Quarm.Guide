@@ -91,7 +91,7 @@ Ixiblat can be found at X below. He hits very hard (quad 600ish) and has some fi
 
 Doing this turn in WILL NOT despawn Natasha. So you can piggy back on other cleric who's doing the Sceptre and Scroll turn in or the robe turn in. This Natasha will despawn after about 5 minutes (need confirmation and update).
 
-2. Give Shimmering Pearl](https://www.pqdi.cc/item/20863)to [Zordak Ragefire](https://www.pqdi.cc/npc/32038) in [Nagafen's Lair](https://www.pqdi.cc/zone/32) -- causes him to respawn as [Zordakalicus Ragefire](https://www.pqdi.cc/npc/91006) and attack you - kill and loot [Heart of Zordak Ragefire](https://www.pqdi.cc/item/17122). `Quarm Note: Doesn't drop the right heart? Impure?`
+2. Give [Shimmering Pearl](https://www.pqdi.cc/item/20863)to [Zordak Ragefire](https://www.pqdi.cc/npc/32038) in [Nagafen's Lair](https://www.pqdi.cc/zone/32) -- causes him to respawn as [Zordakalicus Ragefire](https://www.pqdi.cc/npc/91006) and attack you - kill and loot [Heart of Zordak Ragefire](https://www.pqdi.cc/item/17122). `Quarm Note: Doesn't drop the right heart? Impure?`
 
 When Ragefire (Human male NPC in Naggy lair) spawns you as a cleric(or driver) need to do the following steps:
 
