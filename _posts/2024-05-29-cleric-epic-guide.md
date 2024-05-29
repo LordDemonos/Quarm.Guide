@@ -12,7 +12,7 @@ Step 1 is possible to be skipped. The Lord Bergurgle's Crown is only for spawn o
 
 Lord Bergurgle can be found at the X underwater. He's located on the top floor of the tower. The placeholder is on 29 minute respawn timer. He can also get healed by the goblins around him. It's recommended to bring a high level pet class to solo this. The other 2 guards are on a 6 minute 40 second respawn timer.
 
-![Lord Bergurgle](./assets/images/epics/cleric/lord_bergurgle.webp)
+![Lord Bergurgle](/assets/images/epics/cleric/lord_bergurgle.webp)
 
 2. Give Crown to [Shmendrik Lavawalker](https://www.pqdi.cc/npc/51012) in [Lake Rathetear](https://www.pqdi.cc/zone/51) to spawn [Natasha Whitewater](https://www.pqdi.cc/npc/96080) nearby - receive [Oil of Fennin Ro](https://www.pqdi.cc/item/28045).
 
