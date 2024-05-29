@@ -71,6 +71,7 @@ Reward
 ### Levels 10-14:
 
 Mobs: Lesser Icebone Skeletons, Greater Skeletons.
+
 Notes: Good for bone chips and various low-level loot.
 ### Levels 14-20:
 
