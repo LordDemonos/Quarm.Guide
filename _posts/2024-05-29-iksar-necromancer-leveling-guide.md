@@ -1,3 +1,6 @@
+
+## Iksar Necromancer Levelin Guide
+
 This guide was written terribly by ChatGPT-4. Expect some weird inaccuracies. Quests were verified and edited. It is meant to give me a starting point on June 1st since I don't remember Kunark at all. 
 
 ## Levels 1-10: Field of Bone
@@ -151,4 +154,3 @@ Talk to Master Kyvix to receive Spectacle.
 - Forsaken Pariah Mask from an Iksar Pariah (Lake of Ill Omen, Warsliks Woods, Swamp of No Hope)
 - Evergreen Ivy Ringband from the Forest Giant Evergreens (Warsliks Woods)
 Find Ryx (a skeletal worker) in The Overthere and hand in Spectacle. Then hand in remaining 3 items to receive a metal key. Give the Metal Key to Tin Banker Assistant at the Overthere outpost to recieve A Journal. Give A Journal and Apprentice Skullcap - 4th Rank
-
