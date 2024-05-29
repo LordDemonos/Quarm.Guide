@@ -9,6 +9,7 @@ keywords: >-
   respawn rates, instances, special events, Iksar, Chardok, Sebilis
 author: Xanax
 published: true
+sitemap: true
 ---
 
 ## Pre-Kunark Launch
