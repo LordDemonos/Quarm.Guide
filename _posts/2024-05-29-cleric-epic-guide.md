@@ -1,3 +1,10 @@
+---
+title: "Xanax's Cleric Epic Guide for Project Quarm"
+description: "Discover Xanax's Cleric Epic Guide for Project Quarm, including tips on locating npcs, spawn timers, items to collect, and zones to navigate."
+keywords: "Project Quarm, Quarm, EverQuest, cleric, epic, quest, holy water sprinkler, kunark"
+author: "Xanax"
+published: true
+---
 
 ## Cleric Epic Guide
 
