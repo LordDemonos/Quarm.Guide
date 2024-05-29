@@ -5,6 +5,7 @@ description: "Discover Xanax's Cleric Epic Guide for Project Quarm, including ti
 keywords: "Project Quarm, Quarm, EverQuest, cleric, epic, quest, holy water sprinkler, kunark"
 author: "Xanax"
 published: true
+sitemap: true
 ---
 
 ## Cleric Epic Guide
