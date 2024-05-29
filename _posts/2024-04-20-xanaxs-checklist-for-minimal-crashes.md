@@ -1,4 +1,5 @@
 ---
+date: 2024-04-20 10:00:00
 title: "Xanax's Checklist for Minimal Crashes in Project Quarm"
 description: "Discover Xanax's checklist to minimize crashes in Project Quarm, including tips on configurations, dgVoodoo fixes, and compatibility settings."
 keywords: "Project Quarm, Quarm, EverQuest, crash fixes, dgVoodoo, compatibility settings, TAKP, Zeal, DirectX 9c"
