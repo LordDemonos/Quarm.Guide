@@ -1,6 +1,6 @@
 ---
-date: 2024-05-29
-title: 'Iksar Necromancer Leveling Guide'
+date: {}
+title: Iksar Necromancer Leveling Guide
 description: >-
   Discover Iksar Necromancer Leveling Guide in Project Quarm, including tips on
   mobs, experience, and repeatable quests.
@@ -54,7 +54,7 @@ Items Required:
 
 ### Necro Spells (6+)
 
-[Quest NPC: Keeper Bile]()https://wiki.project1999.com/Necro_Spells
+[Quest NPC: Keeper Bile](https://wiki.project1999.com/Necro_Spells)
 Location: West Cabilis
 Items Required:
 
