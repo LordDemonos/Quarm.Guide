@@ -5,6 +5,7 @@ description: "Discover Xanax's checklist to minimize crashes in Project Quarm, i
 keywords: "Project Quarm, Quarm, EverQuest, crash fixes, dgVoodoo, compatibility settings, TAKP, Zeal, DirectX 9c"
 author: "Xanax"
 published: true
+sitemap: true
 ---
 
 ## Xanax's Checklist for Minimal Crashes
