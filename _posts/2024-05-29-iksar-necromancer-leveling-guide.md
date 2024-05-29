@@ -9,6 +9,7 @@ keywords: >-
   Experience, Leveling
 author: Xanax
 published: true
+sitemap: true
 ---
 
 ## Iksar Necromancer Leveling Guide
