@@ -22,7 +22,7 @@ See the comments of Step 1.  Warning: Natasha will immediately attack Shmendrik 
 
 Shmendrik is on 3 hours respawn. This is an easier camp than Lord Bergurgle which can easily take you more time. No matter whether you turn in your Lord Bergurgle's Crown to him or not, after you slay him, the Spirit of Flame will spawn. Shmendrik spawns at the X below:
 
-![Shmendrik](./assets/images/epics/cleric/shmendrik.webp)
+![Shmendrik](/assets/images/epics/cleric/shmendrik.webp)
 
 4. Loot [Damaged Goblin Crown](https://www.pqdi.cc/item/28046) from [A Spirit of Flame](https://www.pqdi.cc/npc/51145) (Do not let [Natasha Whitewater](https://www.pqdi.cc/npc/96080) get the last hit or the corpse will disappear)
 5. Give [Damaged Goblin Crown](https://www.pqdi.cc/item/28046) to [Natasha Whitewater](https://www.pqdi.cc/npc/96080) -- receive [Ornate Sea Shell](https://www.pqdi.cc/item/28047)
@@ -45,14 +45,14 @@ Note: Blood Soaked Plasmatic Priest Robe is tradeable, so you can bring your alt
 
 You can find Omat and Natasha here. Ohmat is outside the hut, Natasha is inside. There are 2 underwater tunnels in the way, bring your Enduring Breath and Levitation equipment.
 
-![Ohmat](./assets/images/epics/cleric/ohmat.webp)
+![Ohmat](/assets/images/epics/cleric/ohmat.webp)
 
 ## Orb of Clear Water
 
 1. Loot [Lord Gimblox's Signet Ring](https://www.pqdi.cc/item/28018) from [Lord Gimblox](https://www.pqdi.cc/npc/31126) in [Solusek's Eye](https://www.pqdi.cc/zone/31).
 
 You can find Lord Gimblox here:
-![Lord Gimblox](./assets/images/epics/cleric/lord_gimblox.webp)
+![Lord Gimblox](/assets/images/epics/cleric/lord_gimblox.webp)
 
 2. Give [Lord Gimblox's Signet Ring](https://www.pqdi.cc/item/28018) to [Natasha Whitewater](https://www.pqdi.cc/npc/96080) in [Timorous Deep](https://www.pqdi.cc/zone/96) –- receive [Ornate Sea Shell](https://www.pqdi.cc/item/28047)(no 2)
 
@@ -62,13 +62,13 @@ To Spawn this Natasha in Timorous Deep, you need turn in your Blood Soaked Plasm
 
 Naxot can be found at X below and the wiki says it will despawn when you turn in the Sea Shell. However this is not true. (We) did kill a row of Ixiblat of 2 or 3 last time. The trick is to root or cc Naxot when Ixiblat spawns to prevent him from attacking Ixiblat. Then Naxot wont die to it. We can then do another turn in after one Ixiblat dies.
 
-![Natox Deepwater](./assets/images/epics/cleric/natox_deepwater.webp)
+![Natox Deepwater](/assets/images/epics/cleric/natox_deepwater.webp)
 
 4. Loot [Sceptre of Ixiblat Fer](https://www.pqdi.cc/item/28017) from [Ixiblat Fer](https://www.pqdi.cc/npc/87014) in [Burning Woods](https://www.pqdi.cc/zone/87).
 
 Ixiblat can be found at X below. He hits very hard (quad 600ish) and has some fire AOE, but can be snared and slowed.  You will need help from your guild and coordinate with raid leaders ahead of time. 3 groups with a few clerics are enough for this.
 
-![Ixiblat Fer](./assets/images/epics/cleric/ixiblat_fer.webp)
+![Ixiblat Fer](/assets/images/epics/cleric/ixiblat_fer.webp)
 
 5. Loot [Singed Scroll](https://www.pqdi.cc/item/18170) from [Overking Bathezid](https://www.pqdi.cc/npc/103056) in [Chardok](https://www.pqdi.cc/zone/103).
 
@@ -96,4 +96,4 @@ When Ragefire (Human male NPC in Naggy lair) spawns you as a cleric(or driver) n
 
 2. Give [Orb of Triumvirate](https://www.pqdi.cc/item/28023) to [Avatar of Water](https://www.pqdi.cc/npc/96086) –- receive [Water Sprinkler of Nem Ankh](https://www.pqdi.cc/item/6500).
 
-![Water Sprinkler](./assets/images/epics/cleric/holy_water_sprinkler.webp)
+![Water Sprinkler](/assets/images/epics/cleric/holy_water_sprinkler.webp)
