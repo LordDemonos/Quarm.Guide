@@ -1,12 +1,4 @@
 
----
-title: "Cleric Epic Guide"
-description: "Discover Xanax's Cleric Epic Guide in Project Quarm, including tips on completing quests, locating npcs, items required, and spawn times."
-keywords: "Project Quarm, Quarm, EverQuest, cleric, epic, quest, guide, Holy Water Sprinkler"
-author: "Xanax"
-published: true
----
-
 ## Cleric Epic Guide
 
 ### Foreword
@@ -105,5 +97,3 @@ When Ragefire (Human male NPC in Naggy lair) spawns you as a cleric(or driver) n
 2. Give [Orb of Triumvirate](https://www.pqdi.cc/item/28023) to [Avatar of Water](https://www.pqdi.cc/npc/96086) –- receive [Water Sprinkler of Nem Ankh](https://www.pqdi.cc/item/6500).
 
 ![Water Sprinkler](./assets/images/epics/cleric/holy_water_sprinkler.webp)
-
-
