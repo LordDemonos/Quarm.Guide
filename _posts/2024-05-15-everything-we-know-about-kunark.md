@@ -1,5 +1,5 @@
 ---
-title: Everything We Know About Kunark in Project Quarm
+title: "Everything We Know About Kunark in Project Quarm"
 description: >-
   Explore all the details about the Kunark expansion in Project Quarm, including
   launch dates, legacy items, respawn rates, instances, and special events.
