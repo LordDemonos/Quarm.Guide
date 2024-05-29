@@ -1,6 +1,6 @@
 ---
-date: 2024-05-15 10:00:00
-title: "Everything We Know About Kunark in Project Quarm"
+date: 2024-05-15
+title: 'Everything We Know About Kunark in Project Quarm'
 description: >-
   Explore all the details about the Kunark expansion in Project Quarm, including
   launch dates, legacy items, respawn rates, instances, and special events.
@@ -15,6 +15,7 @@ sitemap: true
 ## Pre-Kunark Launch
 
 Classic 1.9: June 1st, 2024 (1 month)
+
 - Special event: 1 month Kunark-Locked Iksar early access (Level Cap 50, some zones restricted)
 
 We will be performing downtime on June 1st, 2024 at 12pm ET. We will keep the server down for three hours and unlock at 3pm ET. We may run into issues with the deployment of the patch, though we are targeting a 3pm ET unlock time.
@@ -53,6 +54,7 @@ If an Iksar attempts to zone into a non-Kunark zone, they will be teleported to 
 ## Kunark Launch
 
 Kunark 2.0 (July 1st, 2024))
+
 - Kunark is accessible.
 - Iksar creatable.
 - Nurga and Droga pre revamp
@@ -62,16 +64,18 @@ Kunark 2.0 (July 1st, 2024))
 - Epic Items enabled.
 
 Kunark 2.3: October 1st, 2024 (3 months)
+
 - Cazic Thule / Innoruuk given minor damage boost over classic.
 
 Kunark 2.6: Jan 1st, 2025 (2 months)
+
 - Kunark Legacy Items 'disabled' and no-trade versions of legacy loot are added.
 - A single tradeskill allowed above 200 is added.
 
 Kunark 2.9: March 1st, 2025 (1 month)
+
 - Pre-Velious patch.
 - Gnomes appear, wanting help crafting a new feat of gnomish engineering that will allow their expedition to reach an island they saw in the distance...
-
 
 ## Legacy Items and Respawn Rates
 
@@ -102,8 +106,8 @@ Kunark 2.9: March 1st, 2025 (1 month)
 - a mountain giant patriarch now spawns more frequently.
 - Gated all of the Chardok 2.0 items from dropping in Chardok. This is a stopgap until the zone can be un-revamped.
 - an iksar betrayed in Chardok now spawns much more frequently.
-- a drolvarg pawbuster and a drolvarg warlord will now share the same spots with the bodyguards (4 spawns total) and all now have 15 minute respawns. 
-- Warlord will drop the Petrified Werewolf Skull 100% of the time. 
+- a drolvarg pawbuster and a drolvarg warlord will now share the same spots with the bodyguards (4 spawns total) and all now have 15 minute respawns.
+- Warlord will drop the Petrified Werewolf Skull 100% of the time.
 - Both the Metal Pipe and Petrified Werewolf Skull are now subject to legacy loot (level 46, 30 day lockout) to prevent griefing and farming.
 - Brother Balatin now spawns 100% of the time.
 - a fire sprite is now a 2 minute respawn timer.
@@ -182,6 +186,6 @@ Oops, All Goos!
 ## Misc
 
 - An elective service will be available during the Kunark pre-release period:
-`Promotion of Iksar Guild Leader character: 2000p`
+  `Promotion of Iksar Guild Leader character: 2000p`
 
 - boost gorgalosk to 2 loots
