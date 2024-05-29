@@ -1,3 +1,13 @@
+---
+description: >-
+  Discover Iksar Necromancer Leveling Guide in Project Quarm, including tips on
+  mobs, experience, and repeatable quests.
+keywords: >-
+  Project Quarm, Quarm, EverQuest, Iksar, Kunark, Necromancer, Cabilis, Quests,
+  Experience, Leveling
+author: Xanax
+published: true
+---
 
 ## Iksar Necromancer Leveling Guide
 
