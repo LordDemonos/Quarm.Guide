@@ -1,8 +1,12 @@
 ---
-title: "Troubleshooting FAQ for Project Quarm"
-description: "Find solutions to common issues in Project Quarm, including disabling Luclin models, fixing mouse issues, adjusting game settings, and more."
-keywords: "Project Quarm, Quarm, Quarm troubleshooting, EQ troubleshooting, game settings, Luclin models, mouse issues, EQMAIN.DLL error, Velious textures"
-author: "Xanax"
+title: Troubleshooting FAQ for Project Quarm
+description: >-
+  Find solutions to common issues in Project Quarm, including disabling Luclin
+  models, fixing mouse issues, adjusting game settings, and more.
+keywords: >-
+  Project Quarm, Quarm, Quarm troubleshooting, EQ troubleshooting, game
+  settings, Luclin models, mouse issues, EQMAIN.DLL error, Velious textures
+author: Xanax
 ---
 
 ### FAQ, Troubleshooting, and Obscure Situations
@@ -44,6 +48,7 @@ author: "Xanax"
 - [Do pets take a portion of experience?](#do-pets-take-a-portion-of-experience)
 - [How do I turn off the loud music at character select or character creation?](#how-do-i-turn-off-the-loud-music-at-character-select-or-character-creation)
 - [How does a viewport work?](#how-does-a-viewport-work)
+- [How do I fix light flickering on the ground?](#how-do-i-fix-light-flickering-on-the-ground)
 
 
 #### Where can I learn more about Project Quarm?
@@ -376,3 +381,6 @@ and
 
 Which means that your complete command line would be
 /viewport 20 24 1260 1000
+
+#### How do I fix light flickering on the ground?
+**A:** This is caused by enabling Dynamic Lighting. Disable this under Options > Display to aleviate the ground flickering issue.
