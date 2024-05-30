@@ -7,7 +7,7 @@
         }} updated) {% endif %}:</span>
     <ul class="page-list">
         {% assign numPages=0 %}
-        {% assign items = site.html_pages | sort: 'date' %}
+        {% assign items = site.html_pages | sort: 'date' | reverse %}
         {% for page in items %}
         {% if numPages >= site.show_wiki_pages_limit %}
         {% break %}
