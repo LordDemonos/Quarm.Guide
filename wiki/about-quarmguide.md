@@ -19,4 +19,4 @@ Writing feels like a dream to me, no, more like a fantasy. Maybe with different 
 
 So maybe that is the path I take Quarm.Guide on. Don't worry about what others are creating; just find your passion and put it in writing. Do what you can be confident with and be proud of. I know I want to keep this going and find new ways of helping this community. As long as someone is willing to read it, I'll keep writing it.
 
-- Quarm.Guide is not endorsed or affiliated in any way with Project Quarm, Everquest, or Daybreak Games in any way. Please submit suggestions/help/feedback to me via DM on X or Discord. Feel free to ask `Xanax/Xantagonist <Former Glory>` any questions, anywhere you find me in game!
+<small>Quarm.Guide is not endorsed or affiliated in any way with Project Quarm, Everquest, or Daybreak Games in any way. Please submit suggestions/help/feedback to me via DM on X or Discord. Feel free to ask `Xanax/Xantagonist <Former Glory>` any questions, anywhere you find me in game!</small>
