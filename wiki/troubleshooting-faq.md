@@ -49,6 +49,7 @@ author: Xanax
 - [How do I turn off the loud music at character select or character creation?](#how-do-i-turn-off-the-loud-music-at-character-select-or-character-creation)
 - [How does a viewport work?](#how-does-a-viewport-work)
 - [How do I fix light flickering on the ground?](#how-do-i-fix-light-flickering-on-the-ground)
+- [I turned off my compass? I turned off my health bars?](#i-turned-off-my-compass-i-turned-off-my-health-bars)
 
 
 #### Where can I learn more about Project Quarm?
@@ -384,3 +385,8 @@ Which means that your complete command line would be
 
 #### How do I fix light flickering on the ground?
 **A:** This is caused by enabling Dynamic Lighting. Disable this under Options > Display to aleviate the ground flickering issue.
+  
+#### I turned off my compass? I turned off my health bars?
+**A:** ALT+O Opens the Options Menu. Here you can navigate to the Something menu and see each UI window's keybindings. 
+  
+
