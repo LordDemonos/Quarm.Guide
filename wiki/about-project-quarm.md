@@ -694,6 +694,8 @@ The current zones considered to be raid zones are:
 
 ## Class Distribution as of May 31st 2024
 
+23,842 total characters on the server, 3658 are level 50
+
 | Class        | Count |
 |--------------|-------|
 | Magician     | 501   |
