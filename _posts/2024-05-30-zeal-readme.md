@@ -1,5 +1,5 @@
 ---
-date: 2024-05-29T00:00:00.000Z
+date: {}
 title: Zeal Readme
 description: Readme for Zeal
 keywords: 'Project Quarm, Quarm, EverQuest, crash fixes, Zeal, '
@@ -7,7 +7,7 @@ author: Salty
 published: true
 sitemap: true
 ---
-## A New Post
+## Zeal Readme - 5 30 2024
 
 
 
@@ -216,5 +216,4 @@ Building and Installation
 
 32bit x86
 file extension .asi
-move zeal.asi into the root of your game folder 
-
+move zeal.asi into the root of your game folder
