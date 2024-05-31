@@ -1,5 +1,5 @@
 ---
-date: {}
+date: 2024-05-30
 title: Zeal Readme
 description: Readme for Zeal
 keywords: 'Project Quarm, Quarm, EverQuest, crash fixes, Zeal, '
@@ -7,7 +7,7 @@ author: Salty
 published: true
 sitemap: true
 ---
-## Zeal Readme - 5 30 2024
+## Zeal Readme - 5-30-2024
 
 
 
