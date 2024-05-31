@@ -691,3 +691,22 @@ The current zones considered to be raid zones are:
 
 **Raid Rotations**
 * Are dead. 🙂
+
+## Class Distribution as of May 31st 2024
+
+| Class        | Count |
+|--------------|-------|
+| Magician     | 501   |
+| Enchanter    | 430   |
+| Cleric       | 394   |
+| Druid        | 356   |
+| Necromancer  | 346   |
+| Shaman       | 260   |
+| Bard         | 235   |
+| Wizard       | 190   |
+| Ranger       | 182   |
+| Rogue        | 174   |
+| Warrior      | 163   |
+| Shadow Knight| 162   |
+| Monk         | 148   |
+| Paladin      | 117   |
