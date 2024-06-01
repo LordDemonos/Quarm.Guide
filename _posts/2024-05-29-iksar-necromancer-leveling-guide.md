@@ -45,12 +45,12 @@ Items Required:
 
 - Bone Chips (4)<br>
 
-  Mobs that Drop Bone Chips:
+Mobs that Drop Bone Chips:
 - Decaying Skeletons (Level 1-3, Field of Bone)
 - Lesser Scalebones (Level 4-6, Field of Bone)
 - Various Skeletons (Up to Level 10, Field of Bone)<br>
 
-  Reward:
+Reward:
 - Experience
 - Faction boost with Cabilis
 
@@ -78,7 +78,7 @@ Items Required:
 
 - Sarnak Hatchling Brains (4)<br>
 
-  Mobs that Drop Sarnak Hatchling Brains:
+Mobs that Drop Sarnak Hatchling Brains:
 - A Sarnak Hatchling (Level 3-4, Lake of Ill Omen)<br>
 
   Reward
@@ -143,13 +143,13 @@ Items Required:
 
 - Sarnak War Braid (4)<br>
 
-  Mobs that Drop Sarnak War Braids:
+Mobs that Drop Sarnak War Braids:
 - a sarnak berzerker (Level 25-30, Lake of Ill Omen)<br>
 
-  Zone of the Mobs:
+Zone of the Mobs:
 - The Overthere<br>
 
-  Reward:
+Reward:
 - Experience
 - Faction boost with Venril Sathir
 - [Guard of the Marines](https://wiki.project1999.com/Guard_of_the_Marines)
