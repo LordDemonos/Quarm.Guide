@@ -27,12 +27,12 @@ Notes: Loot bone chips from skeletons; these can be sold to other players or use
 
 ### Levels 4-8:
 
-- Mobs: Lesser Scalebones, Swamp Leeches, and scaled wolf pups.
-- Notes: Continue to collect bone chips. Swamp leeches drop Leech Husks, which can be sold for a small amount.
+Mobs: Lesser Scalebones, Swamp Leeches, and scaled wolf pups.<br>
+Notes: Continue to collect bone chips. Swamp leeches drop Leech Husks, which can be sold for a small amount.
 
 ### Levels 8-10:
 
-Mobs: Iksar Outcasts, higher-level skeletons.
+Mobs: Iksar Outcasts, higher-level skeletons.<br>
 Notes: Loot and sell weapons and cloth armor from Iksar Outcasts for extra money.
 
 #### Repeatable Quest
@@ -43,11 +43,11 @@ Notes: Loot and sell weapons and cloth armor from Iksar Outcasts for extra money
 Location: East Cabilis
 Items Required:
 
-- Bone Chips (4)
+- Bone Chips (4)<br>
   Mobs that Drop Bone Chips:
 - Decaying Skeletons (Level 1-3, Field of Bone)
 - Lesser Scalebones (Level 4-6, Field of Bone)
-- Various Skeletons (Up to Level 10, Field of Bone)
+- Various Skeletons (Up to Level 10, Field of Bone)<br>
   Reward:
 - Experience
 - Faction boost with Cabilis
