@@ -1,5 +1,5 @@
 ---
-date: 2024-05-31T00:00:00.000Z
+date: 2024-05-31
 title: Kunark AMA
 description: Kunark Ask Me Anything with Level Up Larry and Secrets
 keywords: 'Project Quarm, Quarm, EverQuest, kunark'
