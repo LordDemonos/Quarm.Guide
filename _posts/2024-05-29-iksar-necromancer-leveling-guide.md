@@ -44,10 +44,12 @@ Location: East Cabilis
 Items Required:
 
 - Bone Chips (4)<br>
+
   Mobs that Drop Bone Chips:
 - Decaying Skeletons (Level 1-3, Field of Bone)
 - Lesser Scalebones (Level 4-6, Field of Bone)
 - Various Skeletons (Up to Level 10, Field of Bone)<br>
+
   Reward:
 - Experience
 - Faction boost with Cabilis
@@ -60,9 +62,11 @@ Items Required:
 
 - (1) Sabertooth Cub Canine (dropped from Sabertooth Cubs in Lake of Ill Omen)
 - (1) Large Scorpion Pincer (dropped from Large Scorpions in Field of Bone)
-- (2) Brittle Iksar Skulls (dropped from decaying skeletons everywhere).
+- (2) Brittle Iksar Skulls (dropped from decaying skeletons everywhere)<br>
+
   Reward:
-- Faction with Brood of Kotiz and Legion of Cabilis
+- Faction with Brood of Kotiz and Legion of Cabilis<br>
+
 - Experience
 - Random Low Level (1-4) Necromancer Spell
 
@@ -72,9 +76,11 @@ Items Required:
 Location: Lake of Ill Omen
 Items Required:
 
-- Sarnak Hatchling Brains (4)
+- Sarnak Hatchling Brains (4)<br>
+
   Mobs that Drop Sarnak Hatchling Brains:
-- A Sarnak Hatchling (Level 3-4, Lake of Ill Omen)
+- A Sarnak Hatchling (Level 3-4, Lake of Ill Omen)<br>
+
   Reward
 - Experience
 
@@ -91,20 +97,19 @@ Items Required:
 
 ### Levels 10-14:
 
-Mobs: Lesser Icebone Skeletons, Greater Skeletons.
-
+Mobs: Lesser Icebone Skeletons, Greater Skeletons.<br>
 Notes: Good for bone chips and various low-level loot.
 
 ### Levels 14-20:
 
-Mobs: Skeletal Jesters, Iksar Bandits, and Exiled Iksar.
+Mobs: Skeletal Jesters, Iksar Bandits, and Exiled Iksar.<br>
 Notes: Loot fine steel weapons from Iksar Bandits, which can be sold for decent platinum.
 
 #### [Warsliks Woods](https://wiki.project1999.com/Warsliks_Wood): Adjacent to the Field of Bone.
 
 ### Levels 15-20:
 
-Mobs: Giant Leech, Forest Giant Saplings.
+Mobs: Giant Leech, Forest Giant Saplings.<br>
 Notes: Giant Leech Husks can be sold, and forest giants drop decent loot.
 
 ## Levels 20-30: Lake of Ill Omen and Firiona Vie
@@ -113,34 +118,37 @@ Notes: Giant Leech Husks can be sold, and forest giants drop decent loot.
 
 ### Levels 20-25:
 
-Mobs: Sarnak Hatchlings, Goblin Whelps.
+Mobs: Sarnak Hatchlings, Goblin Whelps.<br>
 Notes: Collect and sell Sarnak loot and goblin drops.
 
 ### Levels 25-30:
 
-Mobs: Sarnak Berzerkers, Goblin Scribes.
+Mobs: Sarnak Berzerkers, Goblin Scribes.<br>
 Notes: Higher-level Sarnak and goblins drop valuable weapons and armor.
 
 #### [Firiona Vie](https://wiki.project1999.com/Firiona_Vie):
 
 ### Levels 25-30:
 
-Mobs: Pirates, Drolvarg Growlers.
+Mobs: Pirates, Drolvarg Growlers.<br>
 Notes: Pirates drop jewelry and weapons that can be sold. Drolvargs drop valuable pelts.
 
 #### Repeatable Quest
 
 ### [Protect the Shipyard](https://wiki.project1999.com/Protect_the_Shipyard) (20-30)
 
-Quest NPC: Captain Rottgrime
-Location: Lake of Ill Omen
+Quest NPC: Captain Rottgrime<br>
+Location: Lake of Ill Omen<br>
 Items Required:
 
-- Sarnak War Braid (4)
+- Sarnak War Braid (4)<br>
+
   Mobs that Drop Sarnak War Braids:
-- a sarnak berzerker (Level 25-30, Lake of Ill Omen)
+- a sarnak berzerker (Level 25-30, Lake of Ill Omen)<br>
+
   Zone of the Mobs:
-- The Overthere
+- The Overthere<br>
+
   Reward:
 - Experience
 - Faction boost with Venril Sathir
@@ -152,14 +160,14 @@ Items Required:
 
 ### Levels 30-35:
 
-Mobs: Giant Spiders, Sabertooth Tigers.
+Mobs: Giant Spiders, Sabertooth Tigers.<br>
 Notes: Spider silks and tiger skins are valuable. Spiders also drop gems occasionally.
 
 #### [City of Mist](https://wiki.project1999.com/City_of_mist):
 
 ### Levels 35-40:
 
-Mobs: Spectres, Black Reavers.
+Mobs: Spectres, Black Reavers.<br>
 Notes: Spectres drop scythes and other valuable items. Black Reavers drop higher-end loot and platinum.
 
 ## [Necromancer Skullcap Quests](https://wiki.project1999.com/Necromancer_Skullcap_Quests)
@@ -168,12 +176,12 @@ Due to the travel times, you may want to focus only on the first rank during the
 
 ### First Rank
 
-Hunt A Sarnak Hatchling in Lake of Ill Omen
+Hunt A Sarnak Hatchling in Lake of Ill Omen<br>
 Give Master Xydoz in West Cabilis (4) Sarnak Hatchling Brains
 
 ### Second Rank
 
-Torn Tapestry and Ripped Tapestry off A Sarnak Hatchling in Lake of Ill Omen
+Torn Tapestry and Ripped Tapestry off A Sarnak Hatchling in Lake of Ill Omen<br>
 Give Master Xydoz in West Cabilis Mended Tapestry and Apprentice Skullcap - 1st Rank
 
 ### Third Rank
@@ -188,7 +196,7 @@ Talk to Master Rixiz and acquire Glass Canopic
   - 2 x Bog Juice - Crafted
   - 1 x Bone Granite Powder - Crafted TEMPORARY
   - 1 x Rubbing Alcohol - Bought
-- Sarnak Raider Brain from Sarnak Crypt Raider in Lake of Ill Omen near "Explorer Tower" (#7 on the map).
+- Sarnak Raider Brain from Sarnak Crypt Raider in Lake of Ill Omen near "Explorer Tower" (#7 on the map).<br>
   Combine and Give Master Rixiz in West Cabilis Canopic and Apprentice Skullcap - 2nd Rank
 
 ### Fourth Rank
