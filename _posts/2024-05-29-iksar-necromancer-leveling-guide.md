@@ -22,13 +22,13 @@ This guide was written terribly by ChatGPT-4. Expect some weird inaccuracies. Qu
 
 ### Levels 1-4:
 
-Mobs: Decaying Skeletons, Large Scorpions, and various critters near the pit.
-Notes: Loot bone chips from skeletons; these can be sold to other players or used in necromancer spells.
+>Mobs: Decaying Skeletons, Large Scorpions, and various critters near the pit.
+>Notes: Loot bone chips from skeletons; these can be sold to other players or used in necromancer spells.
 
 ### Levels 4-8:
 
-Mobs: Lesser Scalebones, Swamp Leeches, and scaled wolf pups.
-Notes: Continue to collect bone chips. Swamp leeches drop Leech Husks, which can be sold for a small amount.
+- Mobs: Lesser Scalebones, Swamp Leeches, and scaled wolf pups.
+- Notes: Continue to collect bone chips. Swamp leeches drop Leech Husks, which can be sold for a small amount.
 
 ### Levels 8-10:
 
