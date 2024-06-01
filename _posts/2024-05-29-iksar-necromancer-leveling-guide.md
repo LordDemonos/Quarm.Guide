@@ -22,9 +22,8 @@ This guide was written terribly by ChatGPT-4. Expect some weird inaccuracies. Qu
 
 ### Levels 1-4:
 
->Mobs: Decaying Skeletons, Large Scorpions, and various critters near the pit.
->
->Notes: Loot bone chips from skeletons; these can be sold to other players or used in necromancer spells.
+Mobs: Decaying Skeletons, Large Scorpions, and various critters near the pit.<br>
+Notes: Loot bone chips from skeletons; these can be sold to other players or used in necromancer spells.
 
 ### Levels 4-8:
 
