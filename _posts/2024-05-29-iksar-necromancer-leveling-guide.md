@@ -1,5 +1,5 @@
 ---
-date: 2024-05-29
+date: {}
 title: Iksar Necromancer Leveling Guide
 description: >-
   Discover Iksar Necromancer Leveling Guide in Project Quarm, including tips on
@@ -90,6 +90,7 @@ Mobs that Drop Sarnak Hatchling Brains:
 - [Master Bain](https://www.pqdi.cc/npc/106099), East Cabilis 285,-51 [4 slot](https://wiki.project1999.com/Sparring_Armor)
 - [Hierophant Oxyn](https://www.pqdi.cc/npc/106103), East Cabilis 1052, -176 [4 slot](https://wiki.project1999.com/Cursed_Wafers_Quest)
 - [Jondin](https://www.pqdi.cc/npc/82017), West Cabilis -36, 508 [4 slot](https://wiki.project1999.com/Fern_Flower_Collection)
+- [Drill Master Dal](https://wiki.project1999.com/Drill_Master_Dal), East Cabilis -248, -124 [6 slot bag](https://wiki.project1999.com/Curscale_Shield)
 
 ## Levels 10-20: Kurn's Tower and Warsliks Woods
 
