@@ -11,9 +11,9 @@ description: Your Project Quarm Adventure Awaits
 # (boolean) disable edit functionalities (edit/delete/add pages)
 disable_edit: true
 # (boolean) Enable/disable wiki page list in sidebar
-show_wiki_pages: false
+show_wiki_pages: true
 # (integer) Maximum number of wiki page to shown in sidebar
-show_wiki_pages_limit: 2
+show_wiki_pages_limit: 0
 # (boolean) Enable/disable blog feature
 blog_feature: true
 # (boolean) Enable/disable wiki posts list in sidebar (needs blog_feature enabled)
