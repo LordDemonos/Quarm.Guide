@@ -1,5 +1,5 @@
 ---
-date: 2024-05-29
+date: 2024-05-31T00:00:00.000Z
 title: Iksar Necromancer Leveling Guide
 description: >-
   Discover Iksar Necromancer Leveling Guide in Project Quarm, including tips on
@@ -77,6 +77,13 @@ Items Required:
 - A Sarnak Hatchling (Level 3-4, Lake of Ill Omen)
   Reward
 - Experience
+
+## Early Quest Bags
+
+- [Klok Mugruk](https://www.pqdi.cc/npc/106059), East Cabilis 386, -215 Shop Keeper 8 slot quest bag
+- [Master Bain](https://www.pqdi.cc/npc/106099), East Cabilis 285,-51 4 slot
+- [Hierophant Oxyn](https://www.pqdi.cc/npc/106103), East Cabilis 1052, -176 4 slot
+- [Jondin](https://www.pqdi.cc/npc/82017), West Cabilis -36, 508 4 slot
 
 ## Levels 10-20: Kurn's Tower and Warsliks Woods
 
