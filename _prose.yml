@@ -1,0 +1,17 @@
+prose:
+  media: "assets"
+  metadata:
+    _posts:
+      rooturl: "_posts"
+      - name: "date"
+        field:
+          element: "text"
+          label: "Date"
+          value: CURRENT_DATETIME
+    wiki:
+      rooturl: "wiki"
+      - name: "date"
+        field:
+          element: "text"
+          label: "Last Updated"
+          value: CURRENT_DATETIME
