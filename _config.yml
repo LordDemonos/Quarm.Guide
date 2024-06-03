@@ -50,7 +50,7 @@ prose:
     _posts:
       - name: "date"
         field:
-          element: "text"
+          element: "hidden"
           value: CURRENT_DATETIME
 search_engine : "js"
 # Setting google custom search engine for google
