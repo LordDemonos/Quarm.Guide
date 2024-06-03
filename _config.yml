@@ -52,13 +52,6 @@ prose:
         field:
           element: "text"
           value: CURRENT_DATETIME
-      - name: "author"
-          field:
-            element: "text"
-            value: CURRENT_USER
-    users:
-      - login: "LordDemonos"
-        user: "Xanax"
 search_engine : "js"
 # Setting google custom search engine for google
 # cse search bar (https://cse.google.it/cse/)
