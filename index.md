@@ -9,6 +9,7 @@ keywords: >-
   resources
 permalink: /
 toc: false
+footer: false
 ---
 
 # Welcome to [Quarm.Guide](https://quarm.guide), the [Project Quarm](https://www.projectquarm.com) Wiki!
