@@ -22,7 +22,7 @@ If you want to learn more about Project Quarm specific features and rules, head 
 
 <div style="display: flex;">
     <div style="flex: 1; margin-right: 10px;">
-        <h3>Written Guides</h3>
+        <h2>Written Guides</h2>
         <ul>
             <li><a href="{{ '/installing-the-game' | relative_url }}">Installing the Game</a> - Get started with Project Quarm here</li>
             <li><a href="https://quarm.guide/installing-the-game#step-4-installing-zeal-" aria-label="Installing Zeal - Requirements and Installation for Zeal">Installing Zeal</a> - Requirements and Installation for Zeal</li>
@@ -33,7 +33,7 @@ If you want to learn more about Project Quarm specific features and rules, head 
         </ul>
     </div>
     <div style="flex: 1; margin-left: 10px;">
-        <h3>Video Guides</h3>
+        <h2>Video Guides</h2>
         <ul>
             <li><a href="https://www.youtube.com/watch?v=aM0MX67me5Y" aria-label="Installing the Game - Step by step instructions for installing Project Quarm">Installing the Game</a> - Step by step instructions for installing Project Quarm</li>
             <li><a href="https://www.youtube.com/watch?v=tmU_5kBZbu8" aria-label="After Installing the Game - Installing Textures, Spell Effects, and Modifying Files">After Installing the Game</a> - Installing Textures, Spell Effects, and Modifying Files</li>
@@ -42,7 +42,7 @@ If you want to learn more about Project Quarm specific features and rules, head 
 </div>
 
 <div style="text-align: center;">
-    <h3>Third-Party Resources</h3>
+    <h2>Third-Party Resources</h2>
     <div style="display: flex; justify-content: center;">
         <div style="margin-right: 10px; text-align: left;">
             <ul style="list-style-type: disc; padding: 0; margin: 0;">
