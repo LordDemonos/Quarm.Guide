@@ -132,13 +132,13 @@ Its tricky searching around Project Quarm's Discord but I can provide a list tha
 
 - [Nillipuss UI 1080p](https://github.com/NilliP/NillipussUI_1080p)
 - [Nillipuss UI 1440p](https://github.com/NilliP/NillipussUI_1440p)
+- [Qrustle](https://github.com/UnforgivunAL/QRustle/releases/tag/QrustleZv2.0)
 - Custom Nillipus Setup Newborn - [ui-discussion](https://discord.com/channels/1133452007412334643/1162826324092657757/1210675276699148370)
 - LeeWong's Custom UI's Black Edition - [ui-discussion](https://discord.com/channels/1133452007412334643/1162826324092657757/1175527533375144047)
 - EQ Graphics Overhaul Project - [ui-discussion](https://discord.com/channels/1133452007412334643/1162826324092657757/1209541926538313789)
 - QQUI Velious UI Edit p99 - [ui-discussion](https://discord.com/channels/1133452007412334643/1162826324092657757/1166400636913455236)
 - CalmetharED for Quarm - [ui-discussion](https://www.eqinterface.com/downloads/fileinfo.php?id=6959)
 - Murmurs / Franken UI - ⁠[ui-discussion](https://discord.com/channels/1133452007412334643/1162826324092657757/1228748380310733022)
-- Qrustle - [ui-discussion](https://discord.com/channels/1133452007412334643/1162826324092657757/1243013514738663465)
 <!-- - WoW UI with Portraits [ui-discussion](https://discord.com/channels/1133452007412334643/1162826324092657757/1242888136363872416) -->
 
 - Other Quarm UIs from EQInterface - [EQ Interfaces for Quarm TAKP/P2002](https://www.eqinterface.com/downloads/index.php?cid=115&dp=0&sh=full&so=desc&sb=lastupdate)
