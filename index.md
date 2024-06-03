@@ -8,6 +8,7 @@ keywords: >-
   Project Quarm, Quarm, EverQuest, Quarm Wiki, EverQuest server, guides,
   resources
 permalink: /
+toc: false
 ---
 
 # Welcome to [Quarm.Guide](https://quarm.guide), the [Project Quarm](https://www.projectquarm.com) Wiki!
