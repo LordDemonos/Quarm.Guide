@@ -14,7 +14,7 @@ permalink: /
 
 ## A Brief Introduction to Project Quarm
 
-[Project Quarm](https://projectquarm.com/) is a 1-Box EverQuest emulated server based on the [TAKProject](https://www.takproject.net/) codebase! We are currently in the [Classic 1.6](https://quarm.guide/about-project-quarm#classic-1x-october-1st-2023) era with [Kunark Pre-release coming June 1st](https://quarm.guide/2024/05/15/everything-we-know-about-kunark/).
+[Project Quarm](https://projectquarm.com/) is a 1-Box EverQuest emulated server based on the [TAKProject](https://www.takproject.net/) codebase! We are currently in the [Kunark Pre-release era](https://quarm.guide/2024/05/15/everything-we-know-about-kunark/). Full Kunark Release will begin [July 1st](https://quarm.guide/about-project-quarm#kunark-2x-july-1st-2024).
 
 Some server highlights include: TLP through Planes of Power at 9 month intervals, instanced raid encounters, legacy items drop forever, hardcore and solo self found gameplay modes, custom content and events, and a ton of QOL features through [Zeal](https://github.com/iamclint/Zeal).
 
