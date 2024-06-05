@@ -20,10 +20,11 @@ In Windows, the `eqclient.ini` is located within your EverQuest directory, where
 
 Some commonly changed settings include:
 
-- WindowedMode=TRUE/FALSE - This line must be typed out at the top but below [Defaults]. **Recommended set to FALSE**
+- WindowedMode=TRUE/FALSE - This line must be typed out at the top but below [Defaults]. Most users on Quarm run in windowed mode and will ALT+Enter to fullscreen. **Recommended set to TRUE**
 - NewUI=TRUE/FALSE - Our client still has the old pre-Luclin UI for nostalgia mode. **Recommended set to TRUE**
+- OldUI=TRUE/FALSE - This may be optional as it's not found in everyone's .ini. This in combination with the previous NewUI, should enable/disable the original "Stone UI". **Recommended set to FALSE**
 - Log=TRUE/FALSE - Setting this true will automatically turn your log file on when entering the game. **Set to FALSE by default. Still seems to create chat logs though.**
-- CombatMusic=TRUE/FALSE - Enable or disable melee combat music. **Recommended set to FALSE**
+- CombatMusic=TRUE/FALSE - Enable or disable melee combat music.
 - ChannelAutoJoin=alliance - The Alliance channel is used as the global chat channel for the server.
 - ChatKeepAlive=1 - Keeps the above chat channel from disconnecting by periodically sending communication to it.
 - TargetGroupBuff=1 - This will allow you to buff groups with group buff spells from outside the group by targeting a member of the group. **Default set to 1**
