@@ -1,6 +1,6 @@
 ---
-date: 2024-05-15
-title: 'Everything We Know About Kunark in Project Quarm'
+date: {}
+title: Everything We Know About Kunark in Project Quarm
 description: >-
   Explore all the details about the Kunark expansion in Project Quarm, including
   launch dates, legacy items, respawn rates, instances, and special events.
@@ -163,6 +163,35 @@ Kunark 2.9: March 1st, 2025 (1 month)
 - High Scale Kirn is now a 1 hour spawn timer, down from 4 in open world and 8 in instanced.
 - Decrepit Hide is now a 12% chance off of any Ashenbone Drake in the Plane of Hate.
 - Wraith of a Shissir is now a 1 hour spawn timer.
+- Essence of a Vampire is now a 9% drop chance. 
+- Nortlav the Scalekeeper now drops one of every Dragon Scale - Green, Red, and White - upon being defeated. Additionally, he will now spawn during Kunark.
+- VP Dragons have had their in combat HP regen set to be in line with other raid creatures (1) 
+- After a bit of deliberation, VP Dragons will be increased to 38,000, with Phara Dar being 42,000
+- Swamp of No Hope and Lake of Ill Omen have had their exp boosted for Kunark Early Access.
+- Iksar mules will no longer be able to log in temporarily during Kunark Early Access.
+- We opened a second Field of Bone in East Cabilis. There's a soulbinder next to the newly added POK book located in East Cabilis near the Field of Bone zoneline. This is to help alleviate zone pressure.
+- We added a soulbinder to Warsliks Woods. A bonus experience percent of 25% has been added to WW.
+- Oops, All Iksar Skeletons! is now available near the Kurn's Tower entrance for Iksars to de...cluster. - Yes, Box is in that zone.
+- Hand Made Backpack can now take a Scaled Wolf Hide as a component.
+- Power of Fire is now 9% drop chance from blazing elementals. Power of Fire is now 50% chance from the lava elemental. 
+- Pearlescent Shard is now 9% drop chance.
+- Jennus Lykobar is now a 15 minute respawn.
+- Akksstaff is now a 15 minute respawn.
+- Torch of the Elements is now 100% drop rate.
+- Ooglyn is now a 15 minute respawn.
+- Rharzar and Blackwing now have an even spawn chance versus other creatures in their group.
+- Faelin Bloodbriar is now a 50/50 spawn chance @ 6min repop for the Druid and Ranger epic.
+- Kirak Vil's respawn time has been further dropped to 15 minutes.
+- Due to their 7 day lockout timer, Cazic Thule will now drop his Slime Blood 100% of the time.
+- Epic Pieces from Innoruuk will now drop 100% of the time until the release of Velious.
+- Legion of Cabilis Guards should be more amenable to attacking Sarnak Collective members.
+- The proc hate cap is now limited to early Velious. Warriors, rejoice.
+- The warrior epic now does standard hate prior to Velious.
+- Adjusted the timeout between going linkdead and getting back into the game. This should be moderately faster.
+- Fixed a rare zone crash with the loot lockout system where a player character thought they were in a raid that no longer exists.
+- Added Gnome-sized Skeletons to Gnome Necromancers
+- The "Lich" line will now turn gnome necromancers into a smaller-in-stature skeleton.
+- Iksars under the effect of Illusion: Skeleton (ie; from Amulet of ) will now display as Iksar Skeletons.
 
 ## Instances and Quakes
 
