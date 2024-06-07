@@ -1,5 +1,13 @@
 prose:
-  media: "assets"
+  rooturl: '/'
+  siteurl: 'http://quarm.guide'
+  relativeLinks: ''
+  media: 'assets'
+  ignore:
+    - index.md
+    - _config.yml
+    - /_layouts
+    - /_includes
   metadata:
     _posts:
       rooturl: "_posts"
