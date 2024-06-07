@@ -1,5 +1,5 @@
 ---
-date: {}
+date: 2024-05-15
 title: Everything We Know About Kunark in Project Quarm
 description: >-
   Explore all the details about the Kunark expansion in Project Quarm, including
