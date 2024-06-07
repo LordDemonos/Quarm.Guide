@@ -3,14 +3,14 @@ prose:
   metadata:
     _posts:
       rooturl: "_posts"
-      - name: "date"
-        field:
-          element: "text"
-          label: "Date"
-          value: CURRENT_DATETIME
+        name: "date"
+          field:
+            element: "text"
+            label: "Date"
+            value: CURRENT_DATETIME
     wiki:
       rooturl: "wiki"
-      - name: "date"
+        name: "date"
         field:
           element: "text"
           label: "Last Updated"
