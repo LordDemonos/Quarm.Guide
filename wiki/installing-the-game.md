@@ -173,7 +173,7 @@ Run the `eqgame.exe` to launch the game. Click through the next few pages. You c
 
 Once you are at the login screen, exit back out of the game and close it. In your TAKP folder, open your `eqclient.ini` and change the following settings.
 
-- AttacOnAssist=FALSE (Optional, but Recommended)
+- AttackOnAssist=FALSE (Optional, but Recommended)
 - CombatMusic=FALSE (Unless you prefer immersion)
 - EnableExtendedNameplateDistance=TRUE (Mandatory to see nameplates further than you can throw)
 - [VideoMode]
