@@ -15,3 +15,18 @@ Welcome to the central hub for all Project Quarm game guides.
 ### Leveling Guides
 
 - [Bathory's Solo Self Found Guide](BathorySSFGuide)
+
+<div style="display: flex;">
+    <div style="flex: 1; margin-right: 10px;">
+        <h3>Epic Guides</h3>
+        <ul>
+            <li><a href="{{ 'cleric-epic-guide' | relative_url }}">Cleric</a> - Cleric Epic Guide</li>
+        </ul>
+    </div>
+    <div style="flex: 1; margin-left: 10px;">
+        <h3>Other Guides</h3>
+        <ul>
+            <li><a href="{{ '/epics/cleric-epic-guide' | relative_url }}">Cleric</a> - Testing Links Live SORRY!</li>
+        </ul>
+    </div>
+</div>
