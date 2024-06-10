@@ -97,7 +97,7 @@ Doing this turn in WILL NOT despawn Natasha. So you can piggy back on other cler
 
 4. Give [An Assembled Pearlescent Shard](https://www.pqdi.cc/item/24996) to [Warder Cecilia](https://www.pqdi.cc/npc/91037), who is on Northeast side of [Skyfire Mountains](https://www.pqdi.cc/zone/91). She will give you [Pearlescent Seal](https://www.pqdi.cc/item/24997) in return and also spawn [Zordak Ragefire](https://www.pqdi.cc/npc/91005) (human) who needs to be killed. Upon Zordak Ragefire's death, the dragon [Zordakalicus Ragefire](https://www.pqdi.cc/npc/91006) will spawn. Kill him and loot [Impure Heart of Zordak Ragefire](https://www.pqdi.cc/item/17122) (2 slot container).
 
-5. Use the [Impure Heart of Zordak Ragefire](https://www.pqdi.cc/item/17122) container and [combine](/recipe/10061) [Pearlescent Seal](https://www.pqdi.cchttps://www.pqdi.cc/item/24997) (from Warden Cecilia in Skyfire Mountains) with [Swirling Pearl](https://www.pqdi.cc/item/28059) (from Zordak Ragefire in Step 10) to create [Zordak Ragefire's Heart](https://www.pqdi.cc/item/28019).
+5. Use the [Impure Heart of Zordak Ragefire](https://www.pqdi.cc/item/17122) container and [combine](/recipe/10061) [Pearlescent Seal](https://www.pqdi.cchttps://www.pqdi.cc/item/24997) (from Warden Cecilia in Skyfire Mountains) with [Swirling Pearl](https://www.pqdi.cc/item/28059) (from Zordak Ragefire) to create [Zordak Ragefire's Heart](https://www.pqdi.cc/item/28019).
 
 ## Water Sprinkler of Nem Ankh
 
