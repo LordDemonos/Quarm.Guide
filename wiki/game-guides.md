@@ -19,7 +19,7 @@ author: Xanax
     <div style="flex: 1; margin-left: 10px;">
         <h2>Leveling Guides</h2>
         <ul>
-            <li><a href="{{ '/leveling/2024-06-09-BathorySSFGuide' | relative_url }}">Bathory's Solo Self Found Guide for Project Quarm</a> - Description</li>
+            <li><a href="{{ '/wiki/leveling/2024-06-09-BathorySSFGuide' | relative_url }}">Bathory's Solo Self Found Guide for Project Quarm</a> - Description</li>
         </ul>
     </div>
 </div>
