@@ -2,6 +2,7 @@
 title: 'Game Guides for Project Quarm'
 description: 'Comprehensive guides covering all aspects of Project Quarm, including leveling, quests, classes, and more.'
 keywords: 'Project Quarm, Quarm guides, Quarm Wiki, leveling, quests, classes, epics, gear, items, stats'
+toc: false
 author: Xanax
 ---
 
