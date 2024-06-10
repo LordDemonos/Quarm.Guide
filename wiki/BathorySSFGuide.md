@@ -1,13 +1,18 @@
 ---
 date: 2024-06-09
-title: 'Bathory's Solo Self-Found Guide for Project Quarm'
-description: >-
-  Learn about Project Quarm, a unique EverQuest server featuring time-locked
-  progression, custom mechanics, and strict one-box policies. Explore the rules,
-  optional self-imposed rulesets, and the innovative guild instance system.
-keywords: >-
-  Project Quarm, Quarm, EverQuest, time-locked progression, one-box policy,
-  guild instances, custom mechanics, EverQuest server
+title: 'Game Guides for Project Quarm'
+description: 'Comprehensive guides covering all aspects of Project Quarm, including leveling, quests, classes, and more.'
+keywords:
+  - 'Project Quarm'
+  - 'Quarm Guides'
+  - 'Quarm Wiki'
+  - 'leveling'
+  - 'quests'
+  - 'classes'
+  - 'epics'
+  - 'gear'
+  - 'items'
+  - 'stats'
 author: Bathory
 ---
 
