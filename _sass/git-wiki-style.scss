@@ -1,18 +1,18 @@
-@import "fonts";
-@import "rouge-github";
-@import "w3.scss";
+@import 'fonts';
+@import 'rouge-github';
+@import 'w3.scss';
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
 
 body {
   /* background-color: #121416; */
   padding: 50px;
-  font: 15px/1.5 "Latos", sans-serif;
+  font: 15px/1.5 'Latos', sans-serif;
   font-display: swap;
   color: #111111;
   font-weight: 500;
   mix-blend-mode: difference;
   -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;  
+  -moz-osx-font-smoothing: grayscale;
 }
 
 .logo {
@@ -29,7 +29,7 @@ body {
   width: 45px;
   height: 45px;
   background-color: #121416;
-  color: #00A0A0;
+  color: #00a0a0;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -50,28 +50,28 @@ body {
 }
 
 .anchor-icon {
-    position: absolute;
-    left: -15px;
-    width: 14px;
-    height: 14px;
-    fill: #00A0A0;
-    vertical-align: middle;
-    cursor: pointer;
-    opacity: 0;
-    transition: opacity 0.3s ease;
+  position: absolute;
+  left: -15px;
+  width: 14px;
+  height: 14px;
+  fill: #00a0a0;
+  vertical-align: middle;
+  cursor: pointer;
+  opacity: 0;
+  transition: opacity 0.3s ease;
 }
 
 .anchor-icon:hover {
-    opacity: 1;
+  opacity: 1;
 }
 
 .anchor-link-icon {
-    position: absolute;
-    top: 50%;
-    transform: translateY(-50%);
-    visibility: hidden;
-    width: 20px;
-    height: 20px;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  visibility: hidden;
+  width: 20px;
+  height: 20px;
 }
 
 h1[id]:hover .anchor-link-icon,
@@ -89,7 +89,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Roboto", sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-display: swap;
   color: #111111;
   margin: 0 0 20px;
@@ -112,9 +112,9 @@ h3 {
 }
 
 h1 {
-  font-size: 3em;  
-  font-weight: 750; 
-  letter-spacing: -0.02em;  
+  font-size: 3em;
+  font-weight: 750;
+  letter-spacing: -0.02em;
   line-height: 1.1;
 }
 
@@ -131,7 +131,7 @@ h6 {
 }
 
 a {
-  color: #00A0A0;
+  color: #00a0a0;
   text-decoration: none;
 }
 
@@ -151,16 +151,16 @@ a:hover small {
 }
 
 .updated-heading {
-  font: 18px/1.5 "Roboto", sans-serif;
+  font: 18px/1.5 'Roboto', sans-serif;
   font-display: swap;
   font-weight: 700;
   margin-bottom: 20px;
 }
 
 .step-image {
-    display: block;
-    clear: both;
-    margin-top: 10px;
+  display: block;
+  clear: both;
+  margin-top: 10px;
 }
 
 .wrapper {
@@ -252,8 +252,13 @@ img {
   margin-bottom: 5px;
 }
 
-@media print,
-screen and (max-width: 992px) {
+.separator {
+  border-top: 1px solid #ccc; /* Change #ccc to whatever color fits your design */
+  margin-top: 5px; /* Optional: adds space above the line */
+  padding-top: 5px; /* Optional: adds space below the line */
+}
+
+@media print, screen and (max-width: 992px) {
   #git-wiki-sidebar {
     position: fixed !important;
     top: 50px;
@@ -319,7 +324,7 @@ strong {
   font-weight: 700;
 }
 
-#git-wiki-sidebar .git-wiki-downloads li+li+li {
+#git-wiki-sidebar .git-wiki-downloads li + li + li {
   border-right: none;
   width: 89px;
 }
@@ -362,9 +367,7 @@ footer {
   padding-right: 10px;
 }
 
-@media print,
-screen and (max-width: 960px) {
-
+@media print, screen and (max-width: 960px) {
   div.wrapper {
     width: auto;
     margin: 0;
@@ -401,9 +404,7 @@ screen and (max-width: 960px) {
   }*/
 }
 
-
-@media print,
-screen and (max-width: 720px) {
+@media print, screen and (max-width: 720px) {
   body {
     word-wrap: break-word;
   }
@@ -423,8 +424,7 @@ screen and (max-width: 720px) {
   }
 }
 
-@media print,
-screen and (max-width: 480px) {
+@media print, screen and (max-width: 480px) {
   body {
     padding: 15px;
   }
@@ -434,7 +434,7 @@ screen and (max-width: 480px) {
   }
 
   #git-wiki-sidebarli,
-  #git-wiki-sidebar .git-wiki-downloads li+li+li {
+  #git-wiki-sidebar .git-wiki-downloads li + li + li {
     width: 33%;
   }
 }
@@ -483,21 +483,22 @@ screen and (max-width: 480px) {
 .external-link {
   background-position: center right;
   background-repeat: no-repeat;
-  background-image: url("../images/external-link-ltr-icon.png");
-  background-image: linear-gradient(transparent, transparent), url("../images/external.svg");
+  background-image: url('../images/external-link-ltr-icon.png');
+  background-image: linear-gradient(transparent, transparent), url('../images/external.svg');
   padding-right: 13px;
 }
-
 
 /* 
   dark mode
   https://darkmodejs.learn.uno/#debug 
 */
-.darkmode-layer, .darkmode-toggle {
+.darkmode-layer,
+.darkmode-toggle {
   z-index: 500;
 }
 
 /* disable dark mode on images */
-body.darkmode--activated img, body.darkmode--activated .darkmode-ignore {
+body.darkmode--activated img,
+body.darkmode--activated .darkmode-ignore {
   mix-blend-mode: difference;
 }
