@@ -18,15 +18,15 @@ Welcome to the central hub for all Project Quarm game guides.
 
 <div style="display: flex;">
     <div style="flex: 1; margin-right: 10px;">
-        <h3>Epic Guides</h3>
+        <h3>Leveling Guides</h3>
         <ul>
-            <li><a href="{{ 'cleric-epic-guide' | relative_url }}">Cleric</a> - Cleric Epic Guide</li>
+            <li><a href="{{ 'BathorySSFGuide' | relative_url }}">Bathory's Solo Self Found Guide</a></li>
         </ul>
     </div>
     <div style="flex: 1; margin-left: 10px;">
-        <h3>Other Guides</h3>
+        <h3>Epic Guides</h3>
         <ul>
-            <li><a href="{{ '/epics/cleric-epic-guide' | relative_url }}">Cleric</a> - Testing Links Live SORRY!</li>
+            <li><a href="{{ 'cleric-epic-guide' | relative_url }}">Cleric</a></li>
         </ul>
     </div>
 </div>
