@@ -13,4 +13,4 @@ Welcome to the central hub for all Project Quarm game guides.
 
 ### Leveling Guides
 
-- [Bathory's Solo Self Found Guide](/wiki/leveling/BathorySSFGuide)
+- [Bathory's Solo Self Found Guide](BathorySSFGuide)
