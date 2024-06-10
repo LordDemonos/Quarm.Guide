@@ -1,7 +1,21 @@
+---
+date: 2024-06-09
+title: 'Bathory's Solo Self-Found Guide for Project Quarm'
+description: >-
+  Learn about Project Quarm, a unique EverQuest server featuring time-locked
+  progression, custom mechanics, and strict one-box policies. Explore the rules,
+  optional self-imposed rulesets, and the innovative guild instance system.
+keywords: >-
+  Project Quarm, Quarm, EverQuest, time-locked progression, one-box policy,
+  guild instances, custom mechanics, EverQuest server
+author: Bathory
+---
+
 ![](https://i.imgur.com/kuQYZsS.png)
+
 ## Bathory's Solo Self-Found Guide
 
-This guide has been created with the intention of helping players who seek to take on the solo self-found challenge on the Project Quarm EverQuest server. I play Bathory, a solo self-found Shadow Knight &  the server's first **non-hardcore** solo self-found player to reach level 50 during Quarm's EQ Classic era.
+This guide has been created with the intention of helping players who seek to take on the solo self-found challenge on the Project Quarm EverQuest server. I play Bathory, a solo self-found Shadow Knight & the server's first **non-hardcore** solo self-found player to reach level 50 during Quarm's EQ Classic era.
 
 _Big Legacy props to Darrell, Cube & Larry - Quarm's first three HCSSF level 50 players_
 
@@ -156,4 +170,3 @@ While leveling up I would highly suggest saving as much money as possible to dev
 • [Double check your default faction status with PQDI](https://www.pqdi.cc/characters) if you are not certain about it - this will save you from many avoidable deaths.
 
 •Melee Classes- get the [Ring of the Dead](https://wiki.project1999.com/Thex_Mallet_Quest). This will allow you to bind anywhere in the world a single time (such as the TD firepots) and is the only method of SSF binding available prior to the introduction of Soulbinders. PQ has also left this quest as active for the time being, so disregard the nerf information from P99 for now.
-
