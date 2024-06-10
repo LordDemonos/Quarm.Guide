@@ -252,12 +252,6 @@ img {
   margin-bottom: 5px;
 }
 
-ul > li.separator {
-  border-top: 1px solid #ccc; /* Adjust color as needed */
-  margin-top: 10px;
-  padding-top: 10px;
-}
-
 @media print, screen and (max-width: 992px) {
   #git-wiki-sidebar {
     position: fixed !important;
