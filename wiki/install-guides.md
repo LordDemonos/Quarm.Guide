@@ -2,6 +2,7 @@
 title: 'Installation Guide for Project Quarm'
 description: 'Step-by-step guides to help you install and configure Project Quarm and related software.'
 keywords: 'Project Quarm, installation guide, Zeal, user interface, third party programs'
+toc: false
 author: Xanax
 ---
 
@@ -30,4 +31,18 @@ Welcome to the installation guide for Project Quarm. This page provides comprehe
     </div>
 </div>
 
-Feel free to navigate through the sections to find detailed information on each topic. If you encounter any issues or have questions, please refer to our support page or contact us directly.
+<div style="display: flex;">
+    <div style="flex: 1; margin-right: 10px;">
+        <h2>Getting Started Video Guide</h2>
+        <ul>
+            <li><a href="https://www.youtube.com/watch?v=aM0MX67me5Y" aria-label="Installing the Game - Step by step instructions for installing Project Quarm">Installing the Game</a> - Step by step instructions for installing Project Quarm</li>
+            
+        </ul>
+    </div>
+   <div style="flex: 1; margin-left: 10px;">
+        <h2>After Installation Video Guide</h2>
+        <ul>
+            <li><a href="https://www.youtube.com/watch?v=tmU_5kBZbu8" aria-label="After Installing the Game - Installing Textures, Spell Effects, and Modifying Files">After Installing the Game</a> - Installing Textures, Spell Effects, and Modifying Files</li>
+        </ul>
+    </div>
+</div>
