@@ -12,10 +12,6 @@ Welcome to the central hub for all Project Quarm game guides.
 
 ## Guides by Category
 
-### Leveling Guides
-
-- [Bathory's Solo Self Found Guide](BathorySSFGuide)
-
 <div style="display: flex;">
     <div style="flex: 1; margin-right: 10px;">
         <h3>Leveling Guides</h3>
