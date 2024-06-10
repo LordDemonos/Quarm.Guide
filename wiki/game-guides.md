@@ -9,17 +9,6 @@ keywords: >-
 author: Xanax
 ---
 
-<div style="display: flex;">
-    <div style="flex: 1; margin-right: 10px;">
-        <h2>Epic Quest Guides</h2>
-        <ul>
-            <li><a href="{{ '/epics/class' | relative_url }}">Placeholder</a> - Coming Soon</li>
-        </ul>
-    </div>
-    <div style="flex: 1; margin-left: 10px;">
-        <h2>Leveling Guides</h2>
-        <ul>
-            <li><a href="{{ '/wiki/leveling/BathorySSFGuide' | relative_url }}">Bathory's Solo Self Found Guide for Project Quarm</a> - Description</li>
-        </ul>
-    </div>
-</div>
+## Leveling Guides
+
+[Bathory's Solo Self Found Guide for Project Quarm](/wiki/leveling/BathorySSFGuide) - A guide to leveling up in Project Quarm
