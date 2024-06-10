@@ -91,21 +91,20 @@ Ixiblat can be found at X below. He hits very hard (quad 600ish) and has some fi
 
 Doing this turn in WILL NOT despawn Natasha. So you can piggy back on other cleric who's doing the Sceptre and Scroll turn in or the robe turn in. This Natasha will despawn after about 5 minutes (need confirmation and update).
 
-2. Give [Shimmering Pearl](https://www.pqdi.cc/item/20863)to [Zordak Ragefire](https://www.pqdi.cc/npc/32038) in [Nagafen's Lair](https://www.pqdi.cc/zone/32) -- causes him to respawn as [Zordakalicus Ragefire](https://www.pqdi.cc/npc/91006) and attack you - kill and loot [Heart of Zordak Ragefire](https://www.pqdi.cc/item/17122). `Quarm Note: Doesn't drop the right heart? Impure?`
+2. Go to [Nagafen's Lair](https://www.pqdi.cc/zone/32) (SolB) and find [Zordak Ragefire](https://www.pqdi.cc/npc/32038). He is located back in the fire giant area on a ledge underneath a large banner . Give him [Shimmering Pearl](https://www.pqdi.cc/item/28054) to receive [Zordak's Box of Bindings](https://www.pqdi.cc/item/17175) and [Swirling Pearl](https://www.pqdi.cc/item/28059). Zordak Ragefire is currently a 24 hour respawn.
 
-When Ragefire (Human male NPC in Naggy lair) spawns you as a cleric(or driver) need to do the following steps:
+3. Go to [Skyfire Mountains](https://www.pqdi.cc/zone/91) and farm 4x [Pearlescent Fragment](https://www.pqdi.cc/item/24995) from random trash mobs. This can take a while so be patient. Once you have all 4, [combine](https://www.pqdi.cc/recipe/9647) them in [Zordak's Box of Bindings](https://www.pqdi.cc/item/17175) to create [An Assembled Pearlescent Shard](https://www.pqdi.cc/item/24996).
 
-1. Turn in Shimmering Pearl to the NPC.
-2. This will make him KoS. You can survive probably somehow (run away immediately after the turn in, root CC him etc), or maybe just die there and get rez later.
-3. Kill the KoS human -> This spawns Ragefire.
-4. Kill the dragon form Ragefire.
+4. Give [An Assembled Pearlescent Shard](https://www.pqdi.cc/item/24996) to [Warder Cecilia](https://www.pqdi.cc/npc/91037), who is on Northeast side of [Skyfire Mountains](https://www.pqdi.cc/zone/91). She will give you [Pearlescent Seal](https://www.pqdi.cc/item/24997) in return and also spawn [Zordak Ragefire](https://www.pqdi.cc/npc/91005) (human) who needs to be killed. Upon Zordak Ragefire's death, the dragon [Zordakalicus Ragefire](https://www.pqdi.cc/npc/91006) will spawn. Kill him and loot [Impure Heart of Zordak Ragefire](https://www.pqdi.cc/item/17122) (2 slot container).
 
-3) Give [Heart of Zordak Ragefire](https://www.pqdi.cc/item/17122) to [Omat Vastsea](https://www.pqdi.cc/npc/96033) – receive [Orb of Vapor](https://www.pqdi.cc/item/28050) (Do NOT do this until ready to turn all orbs into Jhassad, as this step spawns Jhassad for the final turn in).
+5. Use the [Impure Heart of Zordak Ragefire](https://www.pqdi.cc/item/17122) container and [combine](/recipe/10061) [Pearlescent Seal](https://www.pqdi.cchttps://www.pqdi.cc/item/24997) (from Warden Cecilia in Skyfire Mountains) with [Swirling Pearl](https://www.pqdi.cc/item/28059) (from Zordak Ragefire in Step 10) to create [Zordak Ragefire's Heart](https://www.pqdi.cc/item/28019).
 
 ## Water Sprinkler of Nem Ankh
 
-1. Give Orbs (Clear Water / Frozen Water / Vapor) to [Jhassad Oceanson](https://www.pqdi.cc/npc/96074) in [Timorous Deep](https://www.pqdi.cc/zone/96) -- receive [Orb of Triumvirate](https://www.pqdi.cc/item/28023) (This spawns the [Avatar of Water](https://www.pqdi.cc/npc/96086) in the lake).
+1. Go back to [Timorous Deep](https://www.pqdi.cc/item/96) for a final time. Give [Zordak Ragefire's Heart](https://www.pqdi.cc/item/28019) to [Omat Vastsea](https://www.pqdi.cc/npc/96033) to receive [Orb of Vapor](https://www.pqdi.cc/item/28050). This turn-in also spawns NPC [Jhassad Oceanson](https://www.pqdi.cc/npc/96074) on the beach (-11959.0, -1781.0).
 
-2. Give [Orb of Triumvirate](https://www.pqdi.cc/item/28023) to [Avatar of Water](https://www.pqdi.cc/npc/96086) - receive [Water Sprinkler of Nem Ankh](https://www.pqdi.cc/item/6500).
+2. Give Orbs (Clear Water / Frozen Water / Vapor) to [Jhassad Oceanson](https://www.pqdi.cc/npc/96074) in [Timorous Deep](https://www.pqdi.cc/zone/96) -- receive [Orb of Triumvirate](https://www.pqdi.cc/item/28023) (This spawns the [Avatar of Water](https://www.pqdi.cc/npc/96086) in the lake).
+
+3. Give [Orb of Triumvirate](https://www.pqdi.cc/item/28023) to [Avatar of Water](https://www.pqdi.cc/npc/96086) - receive [Water Sprinkler of Nem Ankh](https://www.pqdi.cc/item/6500).
 
 ![Water Sprinkler](/assets/images/epics/cleric/holy_water_sprinkler.webp)
