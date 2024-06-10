@@ -252,10 +252,10 @@ img {
   margin-bottom: 5px;
 }
 
-.separator {
-  border-top: 1px solid #ccc; /* Change #ccc to whatever color fits your design */
-  margin-top: 5px; /* Optional: adds space above the line */
-  padding-top: 5px; /* Optional: adds space below the line */
+ul > li.separator {
+  border-top: 1px solid #ccc; /* Adjust color as needed */
+  margin-top: 10px;
+  padding-top: 10px;
 }
 
 @media print, screen and (max-width: 992px) {
