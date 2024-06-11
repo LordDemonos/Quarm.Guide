@@ -1,5 +1,5 @@
 ---
-date: 2024-05-30
+date: 2024-05-30T00:00:00.000Z
 title: Zeal Readme
 description: Readme for Zeal
 keywords: 'Project Quarm, Quarm, EverQuest, crash fixes, Zeal, '
@@ -32,6 +32,9 @@ Features
 
 Commands
 
+	/autofire
+    	Description: Toggles Autofire on and off. When you throw/shoot you will automatically continue 			to throw or shoot on cooldown. 
+        
     /timer
         Arguments: int
         Example: /timer 10
@@ -40,7 +43,7 @@ Commands
     /pipedelay
         Arguments: int
         Example: /pipedelay 500
-        Description: changes the delay between each loop of labels/gauges being sent out over the named pipe.
+        Description: changes the delay between each loop of labels/gauges being sent out over the named 		pipe.
 
     /pipe
         Arguments: string
@@ -102,8 +105,8 @@ Commands
     /zealcam
         Aliases: /smoothing
         Arguments: x y 3rdperson_x 3rdperson_y
-        Example: /zealcam 0.7 0.2 0.7 0.2 if 3rd person arguments are not supplied, the first x and y are applied to both
-        Description: Toggles Zeal's mouse look smoothing methods, the first 2 arguments are first person sensitivity, and the last 2 are for 3rd person
+        Example: /zealcam 0.7 0.2 0.7 0.2 if 3rd person arguments are not supplied, the first x and y 			are applied to both
+        Description: Toggles Zeal's mouse look smoothing methods, the first 2 arguments are first person 		 sensitivity, and the last 2 are for 3rd person
 
     /autoinventory
         Aliases: /autoinv, /ai
@@ -111,14 +114,14 @@ Commands
 
     /autobank
         Aliases: /autoba, /ab
-        Description: Drops whatever is on your cursor into your bank. [requires you to be at a banker] (not fully functional atm)
+        Description: Drops whatever is on your cursor into your bank. [requires you to be at a banker] 			(not fully functional atm)
 
     /target
         Aliases: /cleartarget
-        Description: acts as normal /target unless you provide no argument in which case it will clear your target.
+        Description: acts as normal /target unless you provide no argument in which case it will clear 			your target.
 
     /sit
-        Description: The /sit command now accepts "on" as an argument. Using "/sit on" will always make you sit, even if you are currently sitting. This matches the game's native "/sit off" which always makes you stand even if you are currently standing. The "/sit" command will continue to toggle sit/stand state if no argument is provided or if the argument provided is not on or off. Additionally, "/sit down" now works as well and will always make you sit, even if already sitting.
+        Description: The /sit command now accepts "on" as an argument. Using "/sit on" will always make 		you sit, even if you are currently sitting. This matches the game's native "/sit off" which 			always makes you stand even if you are currently standing. The "/sit" command will continue to 			toggle sit/stand state if no argument is provided or if the argument provided is not on or off. 		Additionally, "/sit down" now works as well and will always make you sit, even if already 				sitting.
 
     /camp
         Description: Auto sits before camping.
@@ -128,7 +131,7 @@ Commands
         Description: Shows the version of zeal.
 
     /zealinput
-        Description: toggles the zeal input setup for any input in game, giving you a more modern input (ctrl+c, ctrl+v, left, right, shift left+right for highlighting, home, end ect).
+        Description: toggles the zeal input setup for any input in game, giving you a more modern input 		(ctrl+c, ctrl+v, left, right, shift left+right for highlighting, home, end ect).
 
     /help zeal
         Description: Shows the custom Zeal commands.
@@ -142,14 +145,14 @@ Commands
         Arguments: inventory | spellbook [optional_name]
         Example: /outputfile inventory my_inventory
         Description:
-            inventory outputs information about your equipment, inventory bag slots, held item, and bank slots to a file.
+            inventory outputs information about your equipment, inventory bag slots, held item, and bank 			 slots to a file.
             spellbook outputs a list of all spell ids current scribed in your spellbook.
 
     /buffs
         Description: Outputs the players buff timers to the chat only if they are using OldUI.
 
     /bluecon
-        Description: Changes the blue con color to usercolor #70 which is otherwise unused, you can edit in the options window.
+        Description: Changes the blue con color to usercolor #70 which is otherwise unused, you can edit  		  in the options window.
 
     /alarm
         Arguments: oldui
