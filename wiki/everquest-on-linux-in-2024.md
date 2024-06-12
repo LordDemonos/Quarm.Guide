@@ -1,3 +1,12 @@
+---
+title: 'Installing Project Quarm on Linux in 2024'
+description: >-
+    A comprehensive guide to installing and configuring Project Quarm on Linux in 2024. This guide covers prerequisites, game client setup, WINE configuration, and troubleshooting tips for a smooth gaming experience on the Quarm server.
+keywords: >-
+    Project Quarm, Quarm server, EverQuest Linux installation, Linux gaming, WINE configuration, Lutris, dgVoodoo2, Roland SC-55, Zeal addon, TAKP, EverQuest 2024, Arch Linux, Ubuntu, Fedora, gaming setup, troubleshooting
+author: Qaedwen
+---
+
 # EverQuest on Linux in 2024
 
 #### A Guide for the Quarm Server
