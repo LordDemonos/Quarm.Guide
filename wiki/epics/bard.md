@@ -23,7 +23,7 @@ sitemap: true
         - [ ] [Kedge Backbone](#kedge-backbone): Looted from [Phinigel Autropos](https://www.pqdi.cc/npc/64001) in [Kedge Keep](https://www.pqdi.cc/zone/64)
         - [ ] [Amygdalan Tendril](#amygdalan-tendril): Looted from Amygdalans in [Plane of Fear](https://www.pqdi.cc/zone/72)
         - [ ] [Petrified  Werewolf Skull](#petrified-werewolf-skull): Looted from drolvargs in [Karnor's Castle](https://www.pqdi.cc/zone/102)
-        - [ ] [Undead Dragongut Strings](#undead-dragongut-strings): Looted from [Trakanon](https://www.pqdi.cc/npc/89039) in Sebilis
+        - [ ] [Undead Dragongut Strings](#undead-dragongut-strings): Looted from [Trakanon](https://www.pqdi.cc/npc/89039) in [Ruins of Sebilis](https://www.pqdi.cc/zone/89)
         - [ ] [White Dragon Scales](#white-dragon-scales): Looted from white dragons
         - [ ] [Red Dragon Scales](#red-dragon-scales): Looted from red dragons
         - [ ] [Metal Bits](#metal-bits): Crafted with Blacksmithing
@@ -58,7 +58,6 @@ sitemap: true
         - [ ] [Step 25](#step-25): Craft a [Metal Bits](https://www.pqdi.cc/item/16905)
         - [ ] [Step 26](#step-26): Get [Mystical Lute Body](https://www.pqdi.cc/item/20536), then [Mystical Lute](https://www.pqdi.cc/item/20538) in [Steamfont Mountains](https://www.pqdi.cc/zone/56)
         - [ ] [Step 27](#step-27): Get [Singing Short Sword](https://www.pqdi.cc/item/20542) in [Dreadlands](https://www.pqdi.cc/zone/86)
-
 
 ## Pre-Farmable Items
 
