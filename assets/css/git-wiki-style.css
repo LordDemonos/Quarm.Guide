@@ -3,21 +3,3 @@ layout: "null"
 ---
 
 @import "git-wiki-style.scss";
-
-/* Specific styles for images with the resize class */
-.resize-img {
-    height: 200px !important; /* Adjust the height as needed */
-    width: auto !important; /* Maintain aspect ratio */
-    display: inline-block !important;
-    margin-right: 10px !important; /* Space between images */
-    vertical-align: top !important; /* Align images to the top */
-    isolation: isolate; /* Ensure dark mode does not affect this element */
-}
-
-.no-resize {
-    height: auto !important;
-    width: auto !important;
-    display: block !important;
-    margin-right: 0 !important;
-    isolation: auto !important;
-}
