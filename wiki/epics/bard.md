@@ -13,7 +13,7 @@ sitemap: true
 ---
 # Bard Epic - [Singing Short Sword](https://www.pqdi.cc/item/20542)
 
-- [ ] [Bard Epic - Singing Short Sword(#bard-epic---singing-short-sword)
+- [ ] [Bard Epic - Singing Short Sword](#bard-epic---singing-short-sword)
     - [ ] [Pre-Farmable Items](#pre-farmable-items)
         - [ ] [Onyx Drake Gut](#onyx-drake-gut): Looted from [Blackwing](https://www.pqdi.cc/npc/50323) in [Rathe Mountains](https://www.pqdi.cc/zone/50)
         - [ ] [Red Wurm Gut](#red-wurm-gut): Looted from [Nezekezena](https://www.pqdi.cc/npc/87007) in [Burning Woods](https://www.pqdi.cc/zone/87)
