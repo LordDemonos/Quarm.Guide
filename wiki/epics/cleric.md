@@ -14,7 +14,7 @@ sitemap: true
 ---
 # Cleric Epic - [Water Sprinkler of Nem Ankh](https://www.pqdi.cc/item/5532)
 
-- [ ] [Cleric Epic - [Water Sprinkler of Nem Ankh](https://www.pqdi.cc/item/5532)](#cleric-epic---water-sprinkler-of-nem-ankh)
+- [ ] [Cleric Epic - Water Sprinkler of Nem Ankh](#cleric-epic---water-sprinkler-of-nem-ankh)
     - [ ] [Pre-Farmable Items](#pre-farmable-items)
         - [ ] [Lord Bergurgle's Crown](#lord-bergurgles-crown):Looted from [Lord Bergurgle](https://www.pqdi.cc/npc/51143) in [Lake Rathetear](https://www.pqdi.cc/zone/51)
         - [ ] [Singed Scroll](#singed-scroll): Looted from [Overking Bathezid](https://www.pqdi.cc/npc/103056) in [Chardok](https://www.pqdi.cc/zone/103)
