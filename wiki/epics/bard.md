@@ -94,7 +94,7 @@ Kill [Lady Vox](https://www.pqdi.cc/npc/73057) in [Permafrost Caverns](https://w
 Kill [Lord Nagafen](https://www.pqdi.cc/npc/32040) in [Nagafen's Lair](https://www.pqdi.cc/zone/32), [Talendor](https://www.pqdi.cc/npc/91093) in [Skyfire Mountains](https://www.pqdi.cc/zone/91), or [Nortlav the Scalekeeper](https://www.pqdi.cc/npc/39148) in [The Hole](https://www.pqdi.cc/zone/39) and loot [Red Dragon Scales](https://www.pqdi.cc/item/11622)
 ##### [Metal Bits](https://www.pqdi.cc/item/16905)
 
-Craft [Metal Bits](https://www.pqdi.cc/item/16905) with Blacksmithing ([Recipe](/recipe/5458))
+Craft [Metal Bits](https://www.pqdi.cc/item/16905) with Blacksmithing ([Recipe](https://www.pqdi.cc/recipe/5458))
 
 ## [Maestro's Symphony Page 24 Top](https://www.pqdi.cc/item/20376)
 
@@ -298,7 +298,7 @@ Kill dragons to get the each of the following:
 
 Craft 1 x [Metal Bits](https://www.pqdi.cc/item/16905)
 
-[Recipe](/recipe/5458) - Crafted (Blacksmithing, Trivial 18, Forge)
+[Recipe](https://www.pqdi.cc/recipe/5458) - Crafted (Blacksmithing, Trivial 18, Forge)
 
 * 1x [Water Flask](https://www.pqdi.cc/item/13006) - Purchased
 

@@ -150,14 +150,14 @@ Go to [Nagafen's Lair](https://www.pqdi.cc/zone/32) (SolB) and find [Zordak Rage
 ![Zordak-Ragefire-zoomout-SolA.jpg](/assets/images/epics/cleric/Zordak-Ragefire-zoomout-SolA.jpg)
 
 ### Step 11
-Go to [Skyfire Mountains](https://www.pqdi.cc/zone/91) and farm 4x [Pearlescent Fragment](https://www.pqdi.cc/item/24995) from random trash mobs. This can take a while so be patient. Once you have all 4, [combine](/recipe/9647) them in [Zordak's Box of Bindings](https://www.pqdi.cc/item/17175) to create [An Assembled Pearlescent Shard](https://www.pqdi.cc/item/24996).
+Go to [Skyfire Mountains](https://www.pqdi.cc/zone/91) and farm 4x [Pearlescent Fragment](https://www.pqdi.cc/item/24995) from random trash mobs. This can take a while so be patient. Once you have all 4, [combine](https://www.pqdi.cc/recipe/9647) them in [Zordak's Box of Bindings](https://www.pqdi.cc/item/17175) to create [An Assembled Pearlescent Shard](https://www.pqdi.cc/item/24996).
 
 ### Step 12
 [Script Page](https://www.pqdi.cc/script-entities/skyfire/Warder_Cecilia)
 
 Give [An Assembled Pearlescent Shard](https://www.pqdi.cc/item/24996) to [Warder Cecilia](https://www.pqdi.cc/npc/91037), who is on Northeast side of [Skyfire Mountains](https://www.pqdi.cc/zone/91). She will give you [Pearlescent Seal](https://www.pqdi.cc/item/24997) in return and also spawn [Zordak Ragefire](https://www.pqdi.cc/npc/91005) (human) who needs to be killed. Upon [Zordak Ragefire](https://www.pqdi.cc/npc/32038)'s death, the dragon [Zordakalicus Ragefire](https://www.pqdi.cc/npc/91006) will spawn. Kill him and loot [Impure Heart of Zordak Ragefire](https://www.pqdi.cc/item/17122) (2 slot container).  Bring some friends.
 
-Use the [Impure Heart of Zordak Ragefire](https://www.pqdi.cc/item/17122) container and [combine](/recipe/10061) [Pearlescent Seal](https://www.pqdi.cc/item/24997) (from Warden Cecilia in [Skyfire Mountains](https://www.pqdi.cc/zone/91)) with [Swirling Pearl](https://www.pqdi.cc/item/28059) (from [Zordak Ragefire](https://www.pqdi.cc/npc/32038) in Step 10) to create [Zordak Ragefire's Heart](https://www.pqdi.cc/item/28019).
+Use the [Impure Heart of Zordak Ragefire](https://www.pqdi.cc/item/17122) container and [combine](https://www.pqdi.cc/recipe/10061) [Pearlescent Seal](https://www.pqdi.cc/item/24997) (from Warden Cecilia in [Skyfire Mountains](https://www.pqdi.cc/zone/91)) with [Swirling Pearl](https://www.pqdi.cc/item/28059) (from [Zordak Ragefire](https://www.pqdi.cc/npc/32038) in Step 10) to create [Zordak Ragefire's Heart](https://www.pqdi.cc/item/28019).
 
 ![Skyfire-Map-Warder-Cecilia.jpg](/assets/images/epics/cleric/Skyfire-Map-Warder-Cecilia.jpg)
 ![Warder-Cecilia.jpg](/assets/images/epics/cleric/Warder-Cecilia.jpg)
