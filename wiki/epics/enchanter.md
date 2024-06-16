@@ -358,7 +358,7 @@ Go to [The Hole](https://www.pqdi.cc/zone/39) and kill [the Ghost of Kindle](htt
 ### Step 5E
 [Script Page](https://www.pqdi.cc/script-entities/hole/Polzin_Mrid)
 
-In [The [Hole](https://www.pqdi.cc/zone/39)]([The Hole](https://www.pqdi.cc/zone/39)) you'll find [Polzin Mrid](https://www.pqdi.cc/npc/39063).
+In [The [Hole](https://www.pqdi.cc/zone/39) you'll find [Polzin Mrid](https://www.pqdi.cc/npc/39063).
 
 1. Give him [Jeb's Seal](https://www.pqdi.cc/item/10604). He will hand it back. Then say "I need a sack" to receive [Enchanters Sack](https://www.pqdi.cc/item/17861).
 
