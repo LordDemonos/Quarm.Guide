@@ -8,6 +8,7 @@ keywords: >-
 
 author: Xanax, Talodar
 toc: false
+resize_images: true
 published: true
 sitemap: true
 ---

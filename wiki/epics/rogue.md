@@ -6,6 +6,7 @@ keywords: >-
   Rogue Epic Quest, Ragebringer, Rogue Guide, Epic Weapons, MMORPG Quests
 author: Xanax, Talodar
 toc: false
+resize_images: true
 published: true
 sitemap: true
 ---

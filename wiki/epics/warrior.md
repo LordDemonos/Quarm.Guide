@@ -6,6 +6,7 @@ keywords: >-
   Warrior Epic Quest, Jagged Blade of War, Warrior Guide, Epic Weapons, MMORPG Quests
 author: Xanax, Talodar
 toc: false
+resize_images: true
 published: true
 sitemap: true
 ---

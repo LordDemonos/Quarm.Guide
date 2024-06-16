@@ -6,6 +6,7 @@ keywords: >-
   Shadow Knight Epic Quest, Innoruuk's Curse, Shadow Knight Guide, Epic Weapons, MMORPG Quests
 author: Xanax, Talodar
 toc: false
+resize_images: true
 published: true
 sitemap: true
 ---

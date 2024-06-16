@@ -15,7 +15,7 @@ layout: git-wiki-default
     <link rel="preload" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
     <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap"></noscript>
 </head>
-<body>
+<body class="{% if page.resize_images %}image-resize{% endif %}">
     {{ content }}
     <div id="back-to-top-btn" style="display: none;"><a href="#top">^</a></div>
     <script src="{{ '/assets/js/back-to-top.js' | relative_url }}"></script>

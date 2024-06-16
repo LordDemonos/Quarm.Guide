@@ -6,6 +6,7 @@ keywords: >-
   Shaman Epic Quest, Spear of Fate, Shaman Guide, Epic Weapons, MMORPG Quests
 author: Xanax, Talodar
 toc: false
+resize_images: true
 published: true
 sitemap: true
 ---
