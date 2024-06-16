@@ -496,22 +496,3 @@ body.darkmode--activated img,
 body.darkmode--activated .darkmode-ignore {
   mix-blend-mode: difference;
 }
-
-.git-wiki-content img {
-    border: 2px solid red !important; /* Debugging style */
-    height: 200px !important; /* Adjust the height as needed */
-    width: auto !important; /* Maintain aspect ratio */
-    display: inline-block !important;
-    margin-right: 10px !important; /* Space between images */
-    vertical-align: top !important; /* Align images to the top */
-    isolation: isolate; /* Ensure dark mode does not affect this element */
-}
-
-.git-wiki-content p {
-    display: flex !important;
-    flex-wrap: wrap !important;
-}
-
-.git-wiki-content p img {
-    margin-bottom: 10px !important; /* Space between rows of images */
-}
