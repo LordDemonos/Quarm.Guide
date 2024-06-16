@@ -184,6 +184,4 @@ Give [Avatar of Water](https://www.pqdi.cc/npc/96086) your [Orb of the Triumvira
 
 ![Water-Sprinkler-of-Nem-Ankh.jpg](/assets/images/epics/cleric/Water-Sprinkler-of-Nem-Ankh.jpg)
 
-<img src="/assets/images/epics/cleric/Water-Sprinkler-of-Nem-Ankh.jpg" alt="Water Sprinkler of Nem Ankh" class="no-resize">
-
 _Submit your own Epic screenshots to display here!_
