@@ -212,28 +212,20 @@ th {
   color: #444;
 }
 
-img {
+img,.darkmode-ignore {
     max-width: 100%;
     vertical-align: middle;
     border-style: none;
 }
 
-.resize-images img {
-    height: 200px !important;
-    width: auto !important;
+/* Specific styles for images with the resize class */
+.resize-img, .darkmode-ignore {
+    height: 200px !important; /* Adjust the height as needed */
+    width: auto !important; /* Maintain aspect ratio */
     display: inline-block !important;
-    margin-right: 10px !important;
-    vertical-align: top !important;
-    isolation: isolate;
-}
-
-.resize-images p {
-    display: flex !important;
-    flex-wrap: wrap !important;
-}
-
-.resize-images p img {
-    margin-bottom: 10px !important;
+    margin-right: 10px !important; /* Space between images */
+    vertical-align: top !important; /* Align images to the top */
+    isolation: isolate; /* Ensure dark mode does not affect this element */
 }
 
 .no-resize {
