@@ -187,8 +187,8 @@ Next you need [Keepers of the Art](https://www.pqdi.cc/faction/275) faction. Buy
 
 **You must be at least indifferent faction to do this batwing turn-in quest. Check your [Keepers of the Art](https://www.pqdi.cc/faction/275) as you may not need this step!** If you are not yet indifferent, you can turn them in by sneaking behind [Niola Impholder](https://www.pqdi.cc/npc/62021).
 
-![Darius-Gandril-Map.jpg](/assets/images/epics/ranger/Darius-Gandril-Map.jpg)
-![Darius-Gandril.jpg](/assets/images/epics/ranger/Darius-Gandril.jpg)
+![Katha-Firespinner-Map.png](/assets/images/epics/ranger/Katha-Firespinner-Map.png)
+![Katha-Firespinner.png](/assets/images/epics/ranger/Katha-Firespinner.png)
 ![Niola-Impholder-Map.jpg](/assets/images/epics/ranger/Niola-Impholder-Map.jpg)
 ![Niola-Impholder.jpg](/assets/images/epics/ranger/Niola-Impholder.jpg)
 
