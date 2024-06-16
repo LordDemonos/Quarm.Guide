@@ -460,6 +460,6 @@ Go to [North Karana](https://www.pqdi.cc/zone/13) and find [Xanuusus](https://ww
 ![Xanuusus-Map.jpg](/assets/images/epics/druid/Xanuusus-Map.jpg)
 ![Xanuusus.jpg](/assets/images/epics/druid/Xanuusus.jpg)
 
-![Nature-Walkers-Scimitar-Stats.png](/assets/images/epics/druid/Nature-Walkers-Scimitar-Stats.png)
+![Nature-Walkers-Scimitar-Stats.jpg](/assets/images/epics/druid/Nature-Walkers-Scimitar-Stats.jpg)
 
 _Submit your own Epic screenshots to display here!_
