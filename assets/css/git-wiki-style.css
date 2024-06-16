@@ -1,0 +1,11 @@
+---
+layout: "null"
+---
+
+@import "git-wiki-style.scss";
+
+
+.image-resize img {
+  height: 250px;
+  object-fit: contain;
+}
