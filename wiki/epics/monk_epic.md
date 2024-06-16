@@ -151,7 +151,7 @@ A. Go to [Lavastorm Mountains](https://www.pqdi.cc/zone/27) and find any a fire 
 ![Eejag.jpg](/assets/images/epics/monk/Eejag.jpg)
 ![a-fire-sprite.jpg](/assets/images/epics/monk/a-fire-sprite.jpg)
 
-B. Go to [Plane of Sky](https://www.pqdi.cc/zone/71) and find a presence (invisible). It is located on island 1.5 which needs Key of Swords to access. You can buy Key of Swords from the Key Master on Island 1.
+B. Go to [Plane of Sky](https://www.pqdi.cc/zone/71) and find a presence (invisible). It is located on island 1.5 which needs [Key of Swords](https://www.pqdi.cc/item/20911) to access. You can buy [Key of Swords](https://www.pqdi.cc/item/20911) from the [Key Master](https://www.pqdi.cc/npc/71056) on Island 1.
 
 ### Step 6
 [Script Page](https://www.pqdi.cc/script-entities/air_instanced/Gwan)
@@ -174,7 +174,7 @@ C. Go to [Nurga](https://www.pqdi.cc/zone/107) and find [a sleeping ogre](https:
 ### Step 8
 [Script Page](https://www.pqdi.cc/script-entities/overthere/Astral_Projection)
 
- D. Go to [Overthere](https://www.pqdi.cc/zone/93) and find [Astral Projection](https://www.pqdi.cc/npc/93154). Give him [Trunt](https://www.pqdi.cc/npc/107000)'s Head to receive [Eye of Kaiaren](https://www.pqdi.cc/item/1687).
+ D. Go to [Overthere](https://www.pqdi.cc/zone/93) and find [Astral Projection](https://www.pqdi.cc/npc/93154). Give him [Trunt's Head](https://www.pqdi.cc/item/1686) to receive [Eye of Kaiaren](https://www.pqdi.cc/item/1687).
 
 ![Overthere-Map-Projection.jpg](/assets/images/epics/monk/Overthere-Map-Projection.jpg)
 ![Astral-Projection-OT.jpg](/assets/images/epics/monk/Astral-Projection-OT.jpg)

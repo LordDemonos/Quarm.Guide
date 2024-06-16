@@ -61,7 +61,7 @@ Go to [Halas](https://www.pqdi.cc/zone/29) and find [Dargon](https://www.pqdi.cc
 ### Step 3
 [Script Page](https://www.pqdi.cc/script-entities/erudnext/Camin)
 
-Head to [Erudin](https://www.pqdi.cc/zone/24) and find [Camin](https://www.pqdi.cc/npc/24004). He is on the 2nd floor of The Vastly [Deep](https://www.pqdi.cc/npc/85223) Inn, 1st door on the left. Give [Camin](https://www.pqdi.cc/npc/24004) [Note to Camin](https://www.pqdi.cc/item/18088). Next, give him 1000pp. Lastly, give him [Ro's Breath](https://www.pqdi.cc/item/14330). I gave him all of these items seperately. He will return a version of [Ro's Breath](https://www.pqdi.cc/item/14330) to you that has no charges.
+Head to [Erudin](https://www.pqdi.cc/zone/24) and find [Camin](https://www.pqdi.cc/npc/24004). He is on the 2nd floor of The Vastly Deep Inn, 1st door on the left. Give [Camin](https://www.pqdi.cc/npc/24004) [Note to Camin](https://www.pqdi.cc/item/18088). Next, give him 1000pp. Lastly, give him [Ro's Breath](https://www.pqdi.cc/item/14330). I gave him all of these items seperately. He will return a version of [Ro's Breath](https://www.pqdi.cc/item/14330) to you that has no charges.
 
 ![Camin.jpg](/assets/images/epics/wizard/Camin.jpg)
 

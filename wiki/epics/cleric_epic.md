@@ -94,7 +94,7 @@ Give [a seeker](https://www.pqdi.cc/npc/80002) the [Coral Statue of Tarew](https
 ![a-plasmatic-priest.jpg](/assets/images/epics/cleric/a-plasmatic-priest.jpg)
 
 ### Step 5
-Go to [Solusek's Eye](https://www.pqdi.cc/zone/31) (SolA). You will need to kill [Lord Gimblox](https://www.pqdi.cc/npc/31126) (-795.0, -362.0).. He is in a small room in the goblin area. He has a single PH spot. 8 min respawn. 5% spawn chance. [Loot [Lord Gimblox](https://www.pqdi.cc/npc/31126)'s Signet Ring](https://www.pqdi.cc/item/28018). 
+Go to [Solusek's Eye](https://www.pqdi.cc/zone/31) (SolA). You will need to kill [Lord Gimblox](https://www.pqdi.cc/npc/31126) (-795.0, -362.0).. He is in a small room in the goblin area. He has a single PH spot. 8 min respawn. 5% spawn chance. Loot [Lord Gimblox's Signet Ring](https://www.pqdi.cc/item/28018). 
 
 ![SolA-Map-Cleric-1.0.jpg](/assets/images/epics/cleric/SolA-Map-Cleric-1.0.jpg)
 ![SolA-Lord-Gimblox-Cleric-1.0.jpg](/assets/images/epics/cleric/SolA-Lord-Gimblox-Cleric-1.0.jpg)
@@ -157,7 +157,7 @@ Go to [Skyfire Mountains](https://www.pqdi.cc/zone/91) and farm 4x [Pearlescent 
 
 Give [An Assembled Pearlescent Shard](https://www.pqdi.cc/item/24996) to [Warder Cecilia](https://www.pqdi.cc/npc/91037), who is on Northeast side of [Skyfire Mountains](https://www.pqdi.cc/zone/91). She will give you [Pearlescent Seal](https://www.pqdi.cc/item/24997) in return and also spawn [Zordak Ragefire](https://www.pqdi.cc/npc/91005) (human) who needs to be killed. Upon [Zordak Ragefire](https://www.pqdi.cc/npc/32038)'s death, the dragon [Zordakalicus Ragefire](https://www.pqdi.cc/npc/91006) will spawn. Kill him and loot [Impure Heart of Zordak Ragefire](https://www.pqdi.cc/item/17122) (2 slot container).  Bring some friends.
 
-Use the [Impure Heart of Zordak Ragefire](https://www.pqdi.cc/item/17122) container and [combine](https://www.pqdi.cc/recipe/10061) [Pearlescent Seal](https://www.pqdi.cc/item/24997) (from Warden Cecilia in [Skyfire Mountains](https://www.pqdi.cc/zone/91)) with [Swirling Pearl](https://www.pqdi.cc/item/28059) (from [Zordak Ragefire](https://www.pqdi.cc/npc/32038) in Step 10) to create [Zordak Ragefire's Heart](https://www.pqdi.cc/item/28019).
+Use the [Impure Heart of Zordak Ragefire](https://www.pqdi.cc/item/17122) container and [combine](https://www.pqdi.cc/recipe/10061) [Pearlescent Seal](https://www.pqdi.cc/item/24997) (from [Warder Cecilia](https://www.pqdi.cc/npc/91037) in [Skyfire Mountains](https://www.pqdi.cc/zone/91)) with [Swirling Pearl](https://www.pqdi.cc/item/28059) (from [Zordak Ragefire](https://www.pqdi.cc/npc/32038) in Step 10) to create [Zordak Ragefire's Heart](https://www.pqdi.cc/item/28019).
 
 ![Skyfire-Map-Warder-Cecilia.jpg](/assets/images/epics/cleric/Skyfire-Map-Warder-Cecilia.jpg)
 ![Warder-Cecilia.jpg](/assets/images/epics/cleric/Warder-Cecilia.jpg)

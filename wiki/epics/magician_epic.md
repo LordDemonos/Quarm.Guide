@@ -218,11 +218,11 @@ Give the [Burning Embers](https://www.pqdi.cc/item/28008), [Blazing Wand](https:
 
 * [Crown of Elemental Mastery (tradable)](https://www.pqdi.cc/item/20764) - Drops from various mobs on the 7th island in [Plane of Sky](https://www.pqdi.cc/zone/71). It can drop off of any mob on the island. Sphinx mobs death touch, and  drakes gravity flux. Rare Drop. You can also buy this from other players.
 
-* [Pegasus Feather Cloak](https://www.pqdi.cc/item/2463) - Drops from [Quillmane](https://www.pqdi.cc/npc/14139) in [South Karana](https://www.pqdi.cc/zone/14). [Quill](https://www.pqdi.cc/item/13051)mane is a rare spawn, and the cloak is a rare drop. This could potentially be your longest camp during the whole epic quest. See map for the area where he spawns most commonly, and where my two kill spots were. A tracker is basically required.
+* [Pegasus Feather Cloak](https://www.pqdi.cc/item/2463) - Drops from [Quillmane](https://www.pqdi.cc/npc/14139) in [South Karana](https://www.pqdi.cc/zone/14). [Quillmane](https://www.pqdi.cc/npc/14139) is a rare spawn, and the cloak is a rare drop. This could potentially be your longest camp during the whole epic quest. See map for the area where he spawns most commonly, and where my two kill spots were. A tracker is basically required.
 
 ![South-Karana-Quillmane.jpg](/assets/images/epics/magician/South-Karana-Quillmane.jpg)
 
-* [Elemental Binder (tradable)](https://www.pqdi.cc/item/28043) - Drops from [elemental](https://www.pqdi.cc/npc/39074) type mobs in Ruins of Old [Paineel](https://www.pqdi.cc/zone/75) ([The Hole](https://www.pqdi.cc/zone/39)). Common drop. You can also buy this item from other players.
+* [Elemental Binder (tradable)](https://www.pqdi.cc/item/28043) - Drops from [elemental](https://www.pqdi.cc/npc/39074) type mobs in Ruins of Old Paineel ([The Hole](https://www.pqdi.cc/zone/39)). Common drop. You can also buy this item from other players.
 
 [Script Page](https://www.pqdi.cc/script-entities/air_instanced/Kihun_Solstin)
 
@@ -243,7 +243,7 @@ Give Crown of Elemental Mastery, [Pegasus Feather Cloak](https://www.pqdi.cc/ite
 
         - [Gargoyle Eye](https://www.pqdi.cc/item/10014) - Drops off [gargoyles](https://www.pqdi.cc/npc/59063) in [Castle Mistmoore](https://www.pqdi.cc/zone/59). Common Drop. Also can buy on the bazaar.
         - [Hill Giant Toes](https://www.pqdi.cc/item/16539) - Drops off [hill giants](https://www.pqdi.cc/npc/50314) in [Rathe Mountains](https://www.pqdi.cc/zone/50). Common Drop. Also can buy on the bazaar.
-        - [Ruby](https://www.pqdi.cc/item/10035) - Bought off various Jewelcrafting vendors (Audri [Deep](https://www.pqdi.cc/npc/85223)facet, Northern Trader Building, [PoK](https://www.pqdi.cc/zone/202) | Loc: +400, +760)
+        - [Ruby](https://www.pqdi.cc/item/10035) - Bought off various Jewelcrafting vendors [Audri Deepfacet](https://www.pqdi.cc/npc/202069), Northern Trader Building, [PoK](https://www.pqdi.cc/zone/202) | Loc: +400, +760)
         - [Shovel](https://www.pqdi.cc/item/16545) - Dropped off [Magicians](https://www.pqdi.cc/npc/44089) in [Najena](https://www.pqdi.cc/zone/44). Rare drop.
 
  ![Temple-of-Sol-Ro-Map-Vira.jpg](/assets/images/epics/magician/Temple-of-Sol-Ro-Map-Vira.jpg)

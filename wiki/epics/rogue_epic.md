@@ -15,8 +15,8 @@ sitemap: true
 
 - [Rogue Epic - Ragebringer](#rogue-epic---ragebringer)
     - [Pre-Farmable Items:](#pre-farmable-items)
-        - [ ] [Stained Parchment Top](#stained-parchment-top): Pickpocket from Founy Jesthands in [North Kaladim](https://www.pqdi.cc/zone/67)
-        - [ ]  [Stained Parchment Bottom](#stained-parchment-bottom): Pickpocket from Tani N'Mar in [Neriak](https://www.pqdi.cc/zone/41) Third Gate
+        - [ ] [Stained Parchment Top](#stained-parchment-top): Pickpocket from [Founy Jestands](https://www.pqdi.cc/npc/67000) in [North Kaladim](https://www.pqdi.cc/zone/67)
+        - [ ]  [Stained Parchment Bottom](#stained-parchment-bottom): Pickpocket from [Tani N'Mar](https://www.pqdi.cc/npc/42000) in [Neriak Third Gate](https://www.pqdi.cc/zone/42)
         - [ ]  [Book of Souls](#book-of-souls): Ground spawn in [Plane of Hate](https://www.pqdi.cc/zone/76)
         - [ ]  [2 x Bottle of Milk](#2-x-bottle-of-milk): Purchased from vendors
         - [ ]  [Robes](#step-6)
@@ -30,11 +30,11 @@ sitemap: true
             - [ ]  [A Gigantic Zweihander](https://www.pqdi.cc/item/5308) (tradable)
             - [ ]  [A Mithril Two-Handed Sword](https://www.pqdi.cc/item/5401) (tradable)
     - [The Quest](#the-quest)
-        - [ ]  [Step 1](#step-1): Give [Stanos](https://www.pqdi.cc/npc/5088) [Stained Parchment Top](https://www.pqdi.cc/item/28010)/Bottom in Highpass
+        - [ ]  [Step 1](#step-1): Give [Stanos](https://www.pqdi.cc/npc/5088) [Stained Parchment Top](https://www.pqdi.cc/item/28010)/[Stained Parchment Bottom](/item/28011) in [Highpass](https://www.pqdi.cc/zone/5)
         - [ ]  [Step 2](#step-2): Give [Eldreth](https://www.pqdi.cc/npc/51025) items in [Lake Rathetear](https://www.pqdi.cc/zone/51)
         - [ ]  [Step 3](#step-3): Give [Yendar Starpyre](https://www.pqdi.cc/npc/56012) items in [Steamfont](https://www.pqdi.cc/zone/56)
         - [ ]  [Step 4](#step-4): Give [Stanos](https://www.pqdi.cc/npc/5088) [Translated Parchment](https://www.pqdi.cc/item/18961) in Highpass
-        - [ ]  [Step 5](#step-5): Turn in [Sealed Box](https://www.pqdi.cc/item/28057) and kill [General V'ghera](https://www.pqdi.cc/npc/20205) in [Kithicor](https://www.pqdi.cc/zone/20) Forest
+        - [ ]  [Step 5](#step-5): Turn in [Sealed Box](https://www.pqdi.cc/item/28057) and kill [General V'ghera](https://www.pqdi.cc/npc/20205) in [Kithicor Forest](https://www.pqdi.cc/zone/20)
         - [ ]  [Step 6](#step-6): Collect 4 robes
         - [ ]  [Step 7](#step-7): Turn in robes to [Vilnius the Small](https://www.pqdi.cc/npc/12019) in [Western Karana](https://www.pqdi.cc/zone/12)
         - [ ]  [Step 8](#step-8): Collect 4 items, give to [Vilnius the Small](https://www.pqdi.cc/npc/12019) in [Western Karana](https://www.pqdi.cc/zone/12)
@@ -86,7 +86,7 @@ Buy 2 x [Bottle of Milk](https://www.pqdi.cc/item/13087) from a Baking Vendor.  
 
 Now we can begin the quest. Head to [Highpass Hold](https://www.pqdi.cc/zone/5) and speak to [Anson McBale](https://www.pqdi.cc/npc/5037) located at (325.0, 5.0). He is in a hidden area of the zone that is only accessible by an underwater tunnel.
 
-Say `I need to see Stanos` to  [Anson McBale](https://www.pqdi.cc/npc/5037) (must have Amiable or better faction with [Highpass Guards](/faction/332)) to spawn [Stanos Herkanor](https://www.pqdi.cc/npc/5088). Give [Stanos Herkanor](https://www.pqdi.cc/npc/5088) [Stained Parchment Top](https://www.pqdi.cc/item/28010) and [Stained Parchment Bottom](https://www.pqdi.cc/item/28011) to receive   [Combined Parchment](https://www.pqdi.cc/item/28012).
+Say `I need to see Stanos` to  [Anson McBale](https://www.pqdi.cc/npc/5037) (must have Amiable or better faction with [Highpass Guards](https://www.pqdi.cc/faction/332)) to spawn [Stanos Herkanor](https://www.pqdi.cc/npc/5088). Give [Stanos Herkanor](https://www.pqdi.cc/npc/5088) [Stained Parchment Top](https://www.pqdi.cc/item/28010) and [Stained Parchment Bottom](https://www.pqdi.cc/item/28011) to receive [Combined Parchment](https://www.pqdi.cc/item/28012).
 
 ![Anson-McBale-Loc.jpg](/assets/images/epics/rogue/Anson-McBale-Loc.jpg)
 ![Stanos.jpg](/assets/images/epics/rogue/Stanos.jpg)
@@ -105,11 +105,11 @@ Head to [Lake Rathetear](https://www.pqdi.cc/zone/51) and find [Eldreth](https:/
 
 1. Head to [Steamfont Mountains](https://www.pqdi.cc/zone/56) and find [Yendar Starpyre](https://www.pqdi.cc/npc/56012) - he roams a bit, check along the blue line on his page.
 
-2. Give [Yendar Starpyre](https://www.pqdi.cc/npc/56012) the [Scribbled Parchment]((https://www.pqdi.cc/item/28053)) to receive [Tattered Parchment](https://www.pqdi.cc/item/28055).
+2. Give [Yendar Starpyre](https://www.pqdi.cc/npc/56012) the [Scribbled Parchment](https://www.pqdi.cc/item/28053) to receive [Tattered Parchment](https://www.pqdi.cc/item/28055).
 
 3. Next give [Yendar Starpyre](https://www.pqdi.cc/npc/56012) the [Book of Souls](https://www.pqdi.cc/item/28016) along with the [Tattered Parchment](https://www.pqdi.cc/item/28055) you just got. This depawns [Yendar Starpyre](https://www.pqdi.cc/npc/56012) and spawns [Renux Herkanor](https://www.pqdi.cc/npc/56172). Kill her (bring some friends). Loot [Translated Parchment](https://www.pqdi.cc/item/18961).
 
-**Renux has a 100% chance to drop the [Jagged [Diamond](https://www.pqdi.cc/item/10037) Dagger](https://www.pqdi.cc/item/7506) used in [Step 8](#step-8).**
+**Renux has a 100% chance to drop the [Jagged Diamond Dagger](https://www.pqdi.cc/item/7506) used in [Step 8](#step-8).**
 
 ![Yendar-Starpyre.jpg](/assets/images/epics/rogue/Yendar-Starpyre.jpg)
 ![Renux-Herkanor.jpg](/assets/images/epics/rogue/Renux-Herkanor.jpg)

@@ -169,7 +169,7 @@ Next, we will need to  collect 4 items from raid bosses:
 ### Step 8
 [Script Page](https://www.pqdi.cc/script-entities/eastkarana/Tenal_Redblade)
 
-Once all four items are obtained, head back to [East Karana](https://www.pqdi.cc/zone/15) to [Tenal Redblade]([Tenal Redblade](https://www.pqdi.cc/npc/15077)).
+Once all four items are obtained, head back to [East Karana](https://www.pqdi.cc/zone/15) to [Tenal Redblade](https://www.pqdi.cc/npc/15077).
 
 First give him: [Green Dragon Scales](https://www.pqdi.cc/item/11582), [Red Dragon Scales](https://www.pqdi.cc/item/11622), [Totem of Fiery War](https://www.pqdi.cc/item/20681) to receive [Mark of the Sword](https://www.pqdi.cc/item/20683).
 
@@ -187,7 +187,7 @@ Now go back to [East Freeport](https://www.pqdi.cc/zone/10) and find [Kargek Red
 ## Part 2 - [Ancient Sword Blade](https://www.pqdi.cc/item/20667) (2 options)
 
 ### Option 1
-[Script Page](script-entities/oot/Denken_Strongpick)
+[Script Page](https://www.pqdi.cc/script-entities/oot/Denken_Strongpick)
 
 [Denken Strongpick](https://www.pqdi.cc/npc/69061) in [Ocean of Tears](https://www.pqdi.cc/zone/69) is the turn-in NPC for Part 2. You can either do all the steps in Option 2 and give him the items for the [Ancient Sword Blade](https://www.pqdi.cc/item/20667), or simply kill him and he will drop it (I dont see the Blade in his drop table on Quarm). Approx. 30K HP and is level 55. No faction hits when killed. Respawn time somewhere between 30 and 55 minutes.
 
@@ -230,7 +230,7 @@ Good Races (Bought - [Maula Fishcatcher](https://www.pqdi.cc/npc/21068) - [West 
 Evil Races (Bought - [Mariz Ixtaz](https://www.pqdi.cc/npc/41069) - [Neriak](https://www.pqdi.cc/zone/41) | Loc: -163, -938)
 
 #### Step 12
-[Script Page](script-entities/oot/Denken_Strongpick)
+[Script Page](https://www.pqdi.cc/script-entities/oot/Denken_Strongpick)
 
 Go to [Ocean of Tears](https://www.pqdi.cc/zone/69) and locate [Denken Strongpick](https://www.pqdi.cc/npc/69061) (see map below) Give 2x [Rebreathers](https://www.pqdi.cc/item/16889), [Block of Permafrost](https://www.pqdi.cc/item/20665), and [Keg of Vox Tail Ale](https://www.pqdi.cc/item/20664) to him to receive [Ancient Sword Blade](https://www.pqdi.cc/item/20667).
 

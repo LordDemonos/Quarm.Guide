@@ -87,7 +87,7 @@ Kill [a Drolvarg warlord](https://www.pqdi.cc/npc/102001) in [Karnor's Castle](h
 Kill [Trakanon](https://www.pqdi.cc/npc/89039) in [Ruins of Sebilis](https://www.pqdi.cc/zone/89) and loot [Undead Dragongut Strings](https://www.pqdi.cc/item/20526)
 ##### [White Dragon Scales](https://www.pqdi.cc/item/11602)
 
-Kill [Lady Vox](https://www.pqdi.cc/npc/73057) in [Permafrost Caverns](https://www.pqdi.cc/zone/72) or [Gorenaire](https://www.pqdi.cc/npc/86000) in [The [Dread](https://www.pqdi.cc/npc/72000)lands](https://www.pqdi.cc/zone/86) and loot [White Dragon Scales](https://www.pqdi.cc/item/11602)
+Kill [Lady Vox](https://www.pqdi.cc/npc/73057) in [Permafrost Caverns](https://www.pqdi.cc/zone/72) or [Gorenaire](https://www.pqdi.cc/npc/86000) in [The Dreadlands](https://www.pqdi.cc/zone/86) and loot [White Dragon Scales](https://www.pqdi.cc/item/11602)
 ##### [Red Dragon Scales](https://www.pqdi.cc/item/11622)
 
 Kill [Lord Nagafen](https://www.pqdi.cc/npc/32040) in [Nagafen's Lair](https://www.pqdi.cc/zone/32), [Talendor](https://www.pqdi.cc/npc/91093) in [Skyfire Mountains](https://www.pqdi.cc/zone/91), or [Nortlav the Scalekeeper](https://www.pqdi.cc/npc/39148) in [The Hole](https://www.pqdi.cc/zone/39) and loot [Red Dragon Scales](https://www.pqdi.cc/item/11622)
@@ -275,7 +275,7 @@ Kill [a Drolvarg warlord](https://www.pqdi.cc/npc/102001) in [Karnor's Castle](h
 ### Step 23
 [Script Page](https://www.pqdi.cc/script-entities/steamfont/Forpar_Fizfla)
 
-Go back to [Forpar Fizfla](https://www.pqdi.cc/npc/56130) (133.0, -605.0) in [Steamfont Mountains](https://www.pqdi.cc/zone/56). Give him [Forpars [Note](https://www.pqdi.cc/item/18937) to Himself](https://www.pqdi.cc/item/20380), [Kedge Backbone](https://www.pqdi.cc/item/20524), [Amygdalan Tendril](https://www.pqdi.cc/item/5520), and [Petrified Werewolf Skull](https://www.pqdi.cc/item/20525) to receive [Mystical Lute Head](https://www.pqdi.cc/item/20535).
+Go back to [Forpar Fizfla](https://www.pqdi.cc/npc/56130) (133.0, -605.0) in [Steamfont Mountains](https://www.pqdi.cc/zone/56). Give him [Forpars Note to Himself](https://www.pqdi.cc/item/20380), [Kedge Backbone](https://www.pqdi.cc/item/20524), [Amygdalan Tendril](https://www.pqdi.cc/item/5520), and [Petrified Werewolf Skull](https://www.pqdi.cc/item/20525) to receive [Mystical Lute Head](https://www.pqdi.cc/item/20535).
 
 ![Forpar-Fizfla-Map.jpg](/assets/images/epics/bard/Forpar-Fizfla-Map.jpg)
 ![Forpar-Fizfla.jpg](/assets/images/epics/bard/Forpar-Fizfla.jpg)
@@ -286,7 +286,7 @@ Kill dragons to get the each of the following:
 
 1. [Undead Dragongut Strings](https://www.pqdi.cc/item/20526) - Drops off [Trakanon](https://www.pqdi.cc/npc/89039).
 
-2. [White Dragon Scales](https://www.pqdi.cc/item/11602) - Drops from [Lady Vox](https://www.pqdi.cc/npc/73057) in [Permafrost Caverns](https://www.pqdi.cc/zone/72) or [Gorenaire](https://www.pqdi.cc/npc/86000) in [The [Dread](https://www.pqdi.cc/npc/72000)lands](https://www.pqdi.cc/zone/86) 
+2. [White Dragon Scales](https://www.pqdi.cc/item/11602) - Drops from [Lady Vox](https://www.pqdi.cc/npc/73057) in [Permafrost Caverns](https://www.pqdi.cc/zone/72) or [Gorenaire](https://www.pqdi.cc/npc/86000) in [The Dreadlands](https://www.pqdi.cc/zone/86) 
 3. [Red Dragon Scales](https://www.pqdi.cc/item/11622) - Drops off [Lord Nagafen](https://www.pqdi.cc/npc/32040) in [Nagafen's Lair](https://www.pqdi.cc/zone/32), [Talendor](https://www.pqdi.cc/npc/91093) in [Skyfire Mountains](https://www.pqdi.cc/zone/91), or [Nortlav the Scalekeeper](https://www.pqdi.cc/npc/39148) in [The Hole](https://www.pqdi.cc/zone/39)
 
 ![Trakanon.jpg](/assets/images/epics/bard/Trakanon.jpg)
@@ -324,7 +324,7 @@ Next, give him the [Mystical Lute Head](https://www.pqdi.cc/item/20535), [Mystic
 ### Step 27
 [Script Page](https://www.pqdi.cc/script-entities/dreadlands/Baldric_Slezaf)
 
-You now have all four items needed for your Epic! Go to [The [Dread](https://www.pqdi.cc/npc/72000)lands](https://www.pqdi.cc/zone/86) and locate [Baldric Slezaf](https://www.pqdi.cc/npc/86097) (773.0, 9657.0). He is inside a pyramid near the Wizard Portal.
+You now have all four items needed for your Epic! Go to [The Dreadlands](https://www.pqdi.cc/zone/86) and locate [Baldric Slezaf](https://www.pqdi.cc/npc/86097) (773.0, 9657.0). He is inside a pyramid near the Wizard Portal.
 
 Give [Baldric Slezaf](https://www.pqdi.cc/npc/86097):
 
