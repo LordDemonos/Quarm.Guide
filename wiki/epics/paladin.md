@@ -60,19 +60,19 @@ sitemap: true
 [SoulFire](https://www.pqdi.cc/item/5504) is the first sword required for the Paladin Epic.
 
 ### Step 1
-You'll first want to get faction with [Priests of Life](/faction/341). This will be needed for the final turn in later. High Kindly was sufficient for me, but you may be able to do it with less (exact amount unverified).
+You'll first want to get faction with [Priests of Life](https://www.pqdi.cc/faction/341). This will be needed for the final turn in later. High Kindly was sufficient for me, but you may be able to do it with less (exact amount unverified).
 
 There are 4 Options. The first two are good. The last two are slow.
 
 #### Option A - GOOD OPTION #1
 
-You can get faction by questing with [Lashun Novashine](https://www.pqdi.cc/npc/2032) in [North Qeynos](https://www.pqdi.cc/zone/2). He roams around the zone, so a tracker might help speed things up. However, the zone is not very big so you'll run into him eventually. You can either give him 2 Gold or 2 Bone Chips to receive 1 faction. The benefit of using Bone Chips is that you can turn-in an unlimited amount at a time (stacked). With Gold you can only turn in 2 at a time. You can con him to check your faction status with [Priests of Life](/faction/341).
+You can get faction by questing with [Lashun Novashine](https://www.pqdi.cc/npc/2032) in [North Qeynos](https://www.pqdi.cc/zone/2). He roams around the zone, so a tracker might help speed things up. However, the zone is not very big so you'll run into him eventually. You can either give him 2 Gold or 2 Bone Chips to receive 1 faction. The benefit of using Bone Chips is that you can turn-in an unlimited amount at a time (stacked). With Gold you can only turn in 2 at a time. You can con him to check your faction status with [Priests of Life](https://www.pqdi.cc/faction/341).
 
 ![Lashun-Novashine.jpg](/assets/images/epics/paladin/Lashun-Novashine.jpg)
 
 #### Option B - GOOD OPTION #2
 
-You must be at least AMIABLE with [Priests of Life](/faction/341) to use this option
+You must be at least AMIABLE with [Priests of Life](https://www.pqdi.cc/faction/341) to use this option
 
 Go to [North Qeynos](https://www.pqdi.cc/zone/2). Kill a [Koalindl](https://www.pqdi.cc/npc/2005) (with an alt or a character OTHER than your Paladin. You will take a big faction hit if you use your Paladin) who spawn in the water underneath the Temple of Life. Loot [Koalindl Fish](https://www.pqdi.cc/item/13383) with your Paladin. Common Drop. The fish are level 1. 
 
@@ -81,7 +81,7 @@ Go to [North Qeynos](https://www.pqdi.cc/zone/2). Kill a [Koalindl](https://www.
 ![a-Koalindl-Map.jpg](/assets/images/epics/paladin/a-Koalindl-Map.jpg)
 ![a-Koalindl-faction-hit.jpg](/assets/images/epics/paladin/a-Koalindl-faction-hit.jpg)
 
-Give [Koalindl Fish](https://www.pqdi.cc/item/13383) to [Enic Ruklin](https://www.pqdi.cc/npc/2039) nearby in the Temple of Life to receive +100 [Priests of Life](/faction/341) faction. You must be at least AMIABLE to do this turn-in.
+Give [Koalindl Fish](https://www.pqdi.cc/item/13383) to [Enic Ruklin](https://www.pqdi.cc/npc/2039) nearby in the Temple of Life to receive +100 [Priests of Life](https://www.pqdi.cc/faction/341) faction. You must be at least AMIABLE to do this turn-in.
 
 ![Enic-Ruklin.png](/assets/images/epics/paladin/Enic-Ruklin.png)
 ![pally-faction-turnin.png](/assets/images/epics/paladin/pally-faction-turnin.png)
@@ -98,7 +98,7 @@ You can also give [Silver Bar](https://www.pqdi.cc/item/16500) to [Fixxin Follow
 There are also various NPC's you can kill to get faction, the most notable one is [Lord Grimrot](https://www.pqdi.cc/npc/14143) in [South Karana](https://www.pqdi.cc/zone/14) and various NPC's in [Qeynos Catacomb](https://www.pqdi.cc/zone/45)s. I won't go over all NPCs since the best Option is Option A.
 
 ### Step 2
-Once you have obtained High Kindly with [Priests of Life](/faction/341) faction go to [Castle Mistmoore](https://www.pqdi.cc/zone/59). You need to kill [Xicotl](https://www.pqdi.cc/npc/59152) and loot [Glowing Sword Hilt](https://www.pqdi.cc/item/12197). He spawns in the "Spa" room (-190, +95). His PH is a Mistmoore guard. You do not need to kill a Mistmoore guard. It will automatically respawn every minute or so. Eventually [Xicotl](https://www.pqdi.cc/npc/59152) will spawn in its place.
+Once you have obtained High Kindly with [Priests of Life](https://www.pqdi.cc/faction/341) faction go to [Castle Mistmoore](https://www.pqdi.cc/zone/59). You need to kill [Xicotl](https://www.pqdi.cc/npc/59152) and loot [Glowing Sword Hilt](https://www.pqdi.cc/item/12197). He spawns in the "Spa" room (-190, +95). His PH is a Mistmoore guard. You do not need to kill a Mistmoore guard. It will automatically respawn every minute or so. Eventually [Xicotl](https://www.pqdi.cc/npc/59152) will spawn in its place.
 
 ![Xicotl-Map.jpg](/assets/images/epics/paladin/Xicotl-Map.jpg)
 ![a-Mistmoore-guard.jpg](/assets/images/epics/paladin/a-Mistmoore-guard.jpg)
@@ -120,7 +120,7 @@ Next, find [Altunic Jartin](https://www.pqdi.cc/npc/22069) (also in [Eastern Com
 ![Germe-Threadspinner.jpg](/assets/images/epics/paladin/Germe-Threadspinner.jpg)
 ![Altunic-Jartin.jpg](/assets/images/epics/paladin/Altunic-Jartin.jpg)
 
-Note: To give the tunic to [Altunic Jartin](https://www.pqdi.cc/npc/22069) you'll need to be at least Amiable faction with [Knights of Truth](/faction/281). If you are Mithaniel Marr deity you may already be Amiable. If you are a different deity then you may be a bit low. To raise your faction kill Freeport Militia Guards in either Commonlands or Freeport. 
+Note: To give the tunic to [Altunic Jartin](https://www.pqdi.cc/npc/22069) you'll need to be at least Amiable faction with [Knights of Truth](https://www.pqdi.cc/faction/281). If you are Mithaniel Marr deity you may already be Amiable. If you are a different deity then you may be a bit low. To raise your faction kill Freeport Militia Guards in either Commonlands or Freeport. 
 
 Some easy faction grinding options:
 
@@ -264,7 +264,7 @@ You can also quest for [Ghoulbane](https://www.pqdi.cc/item/5403). Due to the ti
 You must have both [SoulFire](https://www.pqdi.cc/item/5504) and [Ghoulbane](https://www.pqdi.cc/item/5403) to complete this quest.
 
 ### Step 16
-You will need to get faction (Ally recommended) with [Deepwater Knights](/faction/242). Luckily this doesn't take very long! There are three methods you can use. However, the first one is vastly superior to the other two.
+You will need to get faction (Ally recommended) with [Deepwater Knights](https://www.pqdi.cc/faction/242). Luckily this doesn't take very long! There are three methods you can use. However, the first one is vastly superior to the other two.
 
 * Method 1. Kill [Atdehim Sqonci](https://www.pqdi.cc/npc/75019) in [Paineel](https://www.pqdi.cc/zone/75). He gives +1000 faction and is on a roughly 5 minute respawn. Kill him a couple times to max your faction! He is level 45, fairly easy kill, and located inside the Cleric Guild. One other level 35 NPC next to him will aggro as well.
 

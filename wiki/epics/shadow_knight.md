@@ -135,7 +135,7 @@ Head to [The Overthere](https://www.pqdi.cc/zone/93) and find [Kurron Ni](https:
 ### Step 3
 [Script Page](https://www.pqdi.cc/script-entities/paineel/Duriek_Bloodpool)
 
-Find [Duriek Bloodpool](https://www.pqdi.cc/npc/75003) in [Paineel](https://www.pqdi.cc/zone/75). He is located in a small room overlooking the noob area (906.0, -98.0). Give him [Letter to Duriek](https://www.pqdi.cc/item/18099). You'll get some faction in return (+3 [Truespirit](/faction/404)). 
+Find [Duriek Bloodpool](https://www.pqdi.cc/npc/75003) in [Paineel](https://www.pqdi.cc/zone/75). He is located in a small room overlooking the noob area (906.0, -98.0). Give him [Letter to Duriek](https://www.pqdi.cc/item/18099). You'll get some faction in return (+3 [Truespirit](https://www.pqdi.cc/faction/404)). 
 
 ![Duriek-Bloodpool-Map.png](/assets/images/epics/shadow_knight/an-undead-knight-red.jpg)
 ![Duriek-Bloodpool.jpg](/assets/images/epics/shadow_knight/an-undead-knight-red.jpg)
@@ -151,7 +151,7 @@ Go to [Neriak Foreign Quarter](https://www.pqdi.cc/zone/40). Give 1000pp to [Sma
 ### Step 5
 [Script Page](https://www.pqdi.cc/script-entities/paineel/Duriek_Bloodpool)
 
-Go back to [Paineel](https://www.pqdi.cc/zone/75) and give the [Cough Elixir](https://www.pqdi.cc/item/14365) to [Duriek Bloodpool](https://www.pqdi.cc/npc/75003) (+3 [Truespirit](/faction/404)).
+Go back to [Paineel](https://www.pqdi.cc/zone/75) and give the [Cough Elixir](https://www.pqdi.cc/item/14365) to [Duriek Bloodpool](https://www.pqdi.cc/npc/75003) (+3 [Truespirit](https://www.pqdi.cc/faction/404)).
 
 ![Duriek-Bloodpool-Map.png](/assets/images/epics/shadow_knight/Duriek-Bloodpool-Map.png)
 ![Duriek-Bloodpool.jpg](/assets/images/epics/shadow_knight/Duriek-Bloodpool.jpg)
@@ -167,7 +167,7 @@ Note: While here you can also do [Step 14](#step-14) (Loot [Cell Key](https://ww
 ![hole-rat-1.png](/assets/images/epics/shadow_knight/hole-rat-1.png)
 ![a-ratman-guard.jpg](/assets/images/epics/shadow_knight/a-ratman-guard.jpg)
 
-Once you have [Dusty Tome](https://www.pqdi.cc/item/14382) give it to [Duriek Bloodpool](https://www.pqdi.cc/npc/75003) back in [Paineel](https://www.pqdi.cc/zone/75) for some faction (+3 [Truespirit](/faction/404)). ([Script Page](https://www.pqdi.cc/script-entities/paineel/Duriek_Bloodpool))
+Once you have [Dusty Tome](https://www.pqdi.cc/item/14382) give it to [Duriek Bloodpool](https://www.pqdi.cc/npc/75003) back in [Paineel](https://www.pqdi.cc/zone/75) for some faction (+3 [Truespirit](https://www.pqdi.cc/faction/404)). ([Script Page](https://www.pqdi.cc/script-entities/paineel/Duriek_Bloodpool))
 
 ![Duriek-Bloodpool-Map.png](/assets/images/epics/shadow_knight/Duriek-Bloodpool-Map.png)
 ![Duriek-Bloodpool.jpg](/assets/images/epics/shadow_knight/Duriek-Bloodpool.jpg)
@@ -289,7 +289,7 @@ Once you have [Cell Key](https://www.pqdi.cc/item/14373) you'll need to find [Ca
 ### Step 16
 [Script Page](https://www.pqdi.cc/script-entities/kerraridge/Marl_Kastane)
 
-Go back to [Toxxulia Forest](https://www.pqdi.cc/zone/38) again. Give [Blood of Kyrenna](https://www.pqdi.cc/item/14381) to [Marl Kastane](https://www.pqdi.cc/npc/74001) to receive [Dark Shroud](https://www.pqdi.cc/item/14377). Then [combine](/recipe/9825) [Heart of Kyrenna](https://www.pqdi.cc/item/14380) by itself in the [Soulcase](https://www.pqdi.cc/item/17051) (2 slot container) to create [Heart of the Innocent](https://www.pqdi.cc/item/14368).
+Go back to [Toxxulia Forest](https://www.pqdi.cc/zone/38) again. Give [Blood of Kyrenna](https://www.pqdi.cc/item/14381) to [Marl Kastane](https://www.pqdi.cc/npc/74001) to receive [Dark Shroud](https://www.pqdi.cc/item/14377). Then [combine](https://www.pqdi.cc/recipe/9825) [Heart of Kyrenna](https://www.pqdi.cc/item/14380) by itself in the [Soulcase](https://www.pqdi.cc/item/17051) (2 slot container) to create [Heart of the Innocent](https://www.pqdi.cc/item/14368).
 
 ![Marl-Map2.jpg](/assets/images/epics/shadow_knight/Marl-Map2.jpg)
 ![Marl-Kastane-COM.jpg](/assets/images/epics/shadow_knight/Marl-Kastane-COM.jpg)

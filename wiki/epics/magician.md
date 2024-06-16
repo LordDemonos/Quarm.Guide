@@ -165,11 +165,11 @@ Give [Power of Wind](https://www.pqdi.cc/item/28037), [Power of Fire](https://ww
 * [Torn Page of Mastery Wind](https://www.pqdi.cc/item/28028)
 * [Torn Page of Mastery Fire](https://www.pqdi.cc/item/28027)
 
-All 4 of these pages drop from a [magician](https://www.pqdi.cc/npc/44089) or a goblin [magician](https://www.pqdi.cc/npc/44089) in [Najena](/zones/53).  They can also dropped from the "named" in the jail/basement area. Such as [Ekeros](https://www.pqdi.cc/npc/44102), [Linara Parlone](https://www.pqdi.cc/npc/44057), and [an injured halfling](https://www.pqdi.cc/npc/44052).  Red Circles indicate [magician](https://www.pqdi.cc/npc/44089) spawn points. Yellow is [Akksstaff](https://www.pqdi.cc/npc/44063)'s spawn point. The pages are very rare so expect to spend a lot of time here.
+All 4 of these pages drop from a [magician](https://www.pqdi.cc/npc/44089) or a goblin [magician](https://www.pqdi.cc/npc/44089) in [Najena](https://www.pqdi.cc/zone/53).  They can also dropped from the "named" in the jail/basement area. Such as [Ekeros](https://www.pqdi.cc/npc/44102), [Linara Parlone](https://www.pqdi.cc/npc/44057), and [an injured halfling](https://www.pqdi.cc/npc/44052).  Red Circles indicate [magician](https://www.pqdi.cc/npc/44089) spawn points. Yellow is [Akksstaff](https://www.pqdi.cc/npc/44063)'s spawn point. The pages are very rare so expect to spend a lot of time here.
 
 **[Broom](https://www.pqdi.cc/item/16544) and [Shovel](https://www.pqdi.cc/item/16545) also drop from the [magician](https://www.pqdi.cc/npc/44089)s; save one of each as you'll need them later.**
 
-Give the 4 Torn Pages to [Akksstaff](https://www.pqdi.cc/npc/44063) in [Najena](/zones/53) to receive [Words of Mastery](https://www.pqdi.cc/item/28004).
+Give the 4 Torn Pages to [Akksstaff](https://www.pqdi.cc/npc/44063) in [Najena](https://www.pqdi.cc/zone/53) to receive [Words of Mastery](https://www.pqdi.cc/item/28004).
 
 ![Najena-Map.jpg](/assets/images/epics/magician/Najena-Map.jpg)
 

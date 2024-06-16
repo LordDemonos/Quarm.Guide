@@ -210,7 +210,7 @@ Go back to the [Spirit Sentinel](https://www.pqdi.cc/npc/94013) in [Emerald Jung
 [Merchant's Letter](https://www.pqdi.cc/item/18452)
 [Personal Diary Page](https://www.pqdi.cc/item/18450)
 [Priests Diary Page](https://www.pqdi.cc/item/18454)
-[Student's Log]([Student's Log](https://www.pqdi.cc/item/18455)) - drops from a [spectral courier](https://www.pqdi.cc/npc/90165)
+[Student's Log](https://www.pqdi.cc/item/18455) - drops from a [spectral courier](https://www.pqdi.cc/npc/90165)
 [Written Announcement](https://www.pqdi.cc/item/18453)
 
 ![Spirit-Sentinel-Map.png](/assets/images/epics/shaman/Spirit-Sentinel-Map.png)
@@ -218,7 +218,7 @@ Go back to the [Spirit Sentinel](https://www.pqdi.cc/npc/94013) in [Emerald Jung
 
 ### Step 10
 
-Go back to [City of Mist](https://www.pqdi.cc/zone/90) and kill [Lord Ghiosk](https://www.pqdi.cc/npc/90010). He spawns after you kill [a black reaver](https://www.pqdi.cc/npc/90005) behind the first locked door in the back of the zone. Having a pick lock class to open the door is useful, or you can get [Stone Key](https://www.pqdi.cc/item/12961) from [Captain of the Guard](chttps://www.pqdi.cc/npc/90001). [Lord Ghiosk]([Lord Ghiosk](https://www.pqdi.cc/npc/90010)) drops 3 books you'll need to loot:
+Go back to [City of Mist](https://www.pqdi.cc/zone/90) and kill [Lord Ghiosk](https://www.pqdi.cc/npc/90010). He spawns after you kill [a black reaver](https://www.pqdi.cc/npc/90005) behind the first locked door in the back of the zone. Having a pick lock class to open the door is useful, or you can get [Stone Key](https://www.pqdi.cc/item/12961) from [Captain of the Guard](chttps://www.pqdi.cc/npc/90001). [Lord Ghiosk](https://www.pqdi.cc/npc/90010) drops 3 books you'll need to loot:
 
 [Crusades of the High Scale](https://www.pqdi.cc/item/18457)
 [Head Housekeeper's Log](https://www.pqdi.cc/item/18458)

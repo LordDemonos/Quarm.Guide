@@ -92,7 +92,7 @@ Go to [Northern Felwithe](https://www.pqdi.cc/zone/61) and find [Challice](https
 ![Dargon.jpg](/assets/images/epics/wizard/Dargon.jpg)
 
 ### Step 7
-[Script Page](script-entities/butcher/Kandin_Firepot)
+[Script Page](https://www.pqdi.cc/script-entities/butcher/Kandin_Firepot)
 
 Go to [Butcherblock](https://www.pqdi.cc/zone/68) and find [Kandin Firepot](https://www.pqdi.cc/npc/68109) (-1500, +2840), give him [Note from Arantir](https://www.pqdi.cc/item/18169), then say "oil" to receive [Golem Sprocket](https://www.pqdi.cc/item/14319).
 

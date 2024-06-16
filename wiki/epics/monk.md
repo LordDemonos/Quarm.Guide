@@ -85,7 +85,7 @@ NPC Fight Info:
 
 They on the similar difficulty level as the old-school Guild Masters. You will need melee to kill them as they resist almost all spells. In Plane of Time gear, a Tank class with a Melee class should be able to kill them. Prior to PoP you may want to bring a few more people.
 
-You will also get a faction hit -500 [Ashen Order](/faction/361) when killing one of these guys. You also can have other players kill them for you to avoid the faction hit. Or you can just FD right before he dies and have someone else finish it off.
+You will also get a faction hit -500 [Ashen Order](https://www.pqdi.cc/faction/361) when killing one of these guys. You also can have other players kill them for you to avoid the faction hit. Or you can just FD right before he dies and have someone else finish it off.
 
 You can kill orcs in any of the zones below to raise faction (1 point each). There are a few orc camps in each of the zones. I am not sure what faction level you need but its not higher than Amiably (100), which is where you start as a level 1.
 
@@ -107,7 +107,7 @@ Spawning the Brothers:
 ![Rathe-Mountains-Map-1.jpg](/assets/images/epics/monk/Rathe-Mountains-Map-1.jpg)
 ![Brother-Zephyl-1.jpg](/assets/images/epics/monk/Brother-Zephyl-1.jpg)
 
-You can also get the robe from [Brother Qwinn](https://www.pqdi.cc/npc/14054), who spawns in [South Karana]([South Karana](https://www.pqdi.cc/zone/14)). He can spawn anywhere on the West side of the zone. He mostly spawns near the Splitpaw area somewhere. A tracker is not mandatory, but makes things substantially easier. He may have a specific PH, but nothing that I have seen is proven. I have farmed the robe 7 or 8 times, and find its best to just kill everything in the red box, specifically mobs that run north to south. He is a Rare Spawn, and just as [Brother Zephyl](https://www.pqdi.cc/npc/50321), the robe does not always drop. He will be wearing a red robe when he has it. Otherwise he will have a Wu's Tunic graphic. Expect to spend some time getting this robe regardless of which Brother you choose to camp.
+You can also get the robe from [Brother Qwinn](https://www.pqdi.cc/npc/14054), who spawns in [South Karana](https://www.pqdi.cc/zone/14). He can spawn anywhere on the West side of the zone. He mostly spawns near the Splitpaw area somewhere. A tracker is not mandatory, but makes things substantially easier. He may have a specific PH, but nothing that I have seen is proven. I have farmed the robe 7 or 8 times, and find its best to just kill everything in the red box, specifically mobs that run north to south. He is a Rare Spawn, and just as [Brother Zephyl](https://www.pqdi.cc/npc/50321), the robe does not always drop. He will be wearing a red robe when he has it. Otherwise he will have a Wu's Tunic graphic. Expect to spend some time getting this robe regardless of which Brother you choose to camp.
 
 ![South-Karana-Map-Monk-1.0.jpg](/assets/images/epics/monk/South-Karana-Map-Monk-1.0.jpg)
 ![Brother-Qwinn.jpg](/assets/images/epics/monk/Brother-Qwinn.jpg)
@@ -134,7 +134,7 @@ This drops in [Chardok](https://www.pqdi.cc/zone/103) from [an iksar betrayer](h
 ### Step 4
 [Script Page](https://www.pqdi.cc/script-entities/dreadlands/Brother_Balatin)
 
-After all 3 items are obtained, head to [Dreadlands](https://www.pqdi.cc/zone/86) and find [Brother Balatin](https://www.pqdi.cc/npc/86136) on the west side of the zone. His PH is a skeleton on top of a small wizard spire. 5 minute respawn. He spawns fairly frequently. He is KoS so you either need to sneak behind him and turn in the items while he's indifferent con, or have someone charm him. Charming is recommended. Give him [Robe of the Lost Circle](https://www.pqdi.cc/item/12256), Metal Pipe (Zan), Metal Pipe (Fi) to receive [Robe of the Whistling Fists]([Robe of the Whistling Fists](https://www.pqdi.cc/item/12970)).
+After all 3 items are obtained, head to [Dreadlands](https://www.pqdi.cc/zone/86) and find [Brother Balatin](https://www.pqdi.cc/npc/86136) on the west side of the zone. His PH is a skeleton on top of a small wizard spire. 5 minute respawn. He spawns fairly frequently. He is KoS so you either need to sneak behind him and turn in the items while he's indifferent con, or have someone charm him. Charming is recommended. Give him [Robe of the Lost Circle](https://www.pqdi.cc/item/12256), Metal Pipe (Zan), Metal Pipe (Fi) to receive [Robe of the Whistling Fists](https://www.pqdi.cc/item/12970).
 
 ![Brother-Balatin-Map-Dreadlands.jpg](/assets/images/epics/monk/Brother-Balatin-Map-Dreadlands.jpg)
 ![Brother-Balatin-2-Dreadlands.jpg](/assets/images/epics/monk/Brother-Balatin-2-Dreadlands.jpg)

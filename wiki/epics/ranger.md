@@ -77,7 +77,7 @@ Looted from [a black reaver](https://www.pqdi.cc/npc/90005) in [City of Mist](ht
 Looted from [Venril Sathir](https://www.pqdi.cc/npc/102010) spawned from [Venril Sathir's Remains](https://www.pqdi.cc/npc/102099) in [Karnor's Castle](https://www.pqdi.cc/zone/102)
 
 ##### [Swirling Sphere of Color](https://www.pqdi.cc/item/20494)
-Looted from [an essence tamer](https://www.pqdi.cc/npc/71071) in [Plane of Sky]() (Island 4)
+Looted from [an essence tamer](https://www.pqdi.cc/npc/71071) in [Plane of Sky](https://www.pqdi.cc/zone/71) (Island 4)
 
 ##### [Shattered Emerald of Corruption](https://www.pqdi.cc/item/20484)
 Looted from nameds in [Plane of Hate](https://www.pqdi.cc/zone/76)
@@ -324,7 +324,7 @@ Head over to [The Hole](https://www.pqdi.cc/zone/39) and find [Jaeil the Wretche
 
 ### Step 17
 
-Go to [Plane of Sky](https://www.pqdi.cc/zone/71) and kill [an essence tamer](https://www.pqdi.cc/npc/71071) on Island 4 (griffon island). You can spawn them by killing [an essence carrier](npc/71070). an essence carrier spawns by killing a soul carrier. Loot [Swirling Sphere of Color](https://www.pqdi.cc/item/20494). Seems to always drop from [an essence tamer](https://www.pqdi.cc/npc/71071).
+Go to [Plane of Sky](https://www.pqdi.cc/zone/71) and kill [an essence tamer](https://www.pqdi.cc/npc/71071) on Island 4 (griffon island). You can spawn them by killing [an essence carrier](https://www.pqdi.cc/npc/71070). an essence carrier spawns by killing a soul carrier. Loot [Swirling Sphere of Color](https://www.pqdi.cc/item/20494). Seems to always drop from [an essence tamer](https://www.pqdi.cc/npc/71071).
 
 ![an-essence-tamer.jpg](/assets/images/epics/ranger/an-essence-tamer.jpg)
 
