@@ -172,7 +172,7 @@ Go back to [Baenar Swiftsong](https://www.pqdi.cc/npc/14046)  (-18.0, 97.0) in [
 ![Baenar-Swiftsong.jpg](/assets/images/epics/bard/Baenar-Swiftsong.jpg)
 
 ### Step 10
-[Script Page](script-entities/qey2hh1/Maligar)
+[Script Page](https://www.pqdi.cc/script-entities/qey2hh1/Maligar)
 Go to [Western Plains of Karana](https://www.pqdi.cc/zone/12) and find [Maligar](https://www.pqdi.cc/npc/12076) (1249.0, -10904.0).  He has some KoS mobs near him that you might need to kill. You will want to charm [Maligar](https://www.pqdi.cc/npc/12076) because he is KoS. Once charmed, give him [Note to Maligar](https://www.pqdi.cc/item/20368) to spawn [Maligar's Enraged Doppleganger](https://www.pqdi.cc/npc/12173). Kill [Maligar's Enraged Doppleganger](https://www.pqdi.cc/npc/12173) (Level 45). Loot [Maligar's Head](https://www.pqdi.cc/item/20367).
 
 ![Maligars-Map.jpg](/assets/images/epics/bard/Maligars-Map.jpg)
