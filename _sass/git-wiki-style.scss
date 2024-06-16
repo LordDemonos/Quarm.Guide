@@ -228,7 +228,7 @@ img,.darkmode-ignore {
     isolation: isolate; /* Ensure dark mode does not affect this element */
 }
 
-.no-resize {
+.no-resize, .darkmode-ignore  {
     height: auto !important;
     width: auto !important;
     display: block !important;

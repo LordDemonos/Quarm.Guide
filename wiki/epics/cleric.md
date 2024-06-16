@@ -182,6 +182,6 @@ Give [Avatar of Water](https://www.pqdi.cc/npc/96086) your [Orb of the Triumvira
 ![Jhassad-Oceanson.jpg](/assets/images/epics/cleric/Jhassad-Oceanson.jpg)
 ![Avatar-of-Water.jpg](/assets/images/epics/cleric/Avatar-of-Water.jpg)
 
-![Water-Sprinkler-of-Nem-Ankh.jpg](/assets/images/epics/cleric/Water-Sprinkler-of-Nem-Ankh.jpg)
+![Water-Sprinkler-of-Nem-Ankh.jpg](/assets/images/epics/cleric/Water-Sprinkler-of-Nem-Ankh.jpg){: .no-resize }
 
 _Submit your own Epic screenshots to display here!_
