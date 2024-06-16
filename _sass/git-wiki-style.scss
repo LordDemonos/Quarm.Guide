@@ -20,6 +20,13 @@ body {
   text-align: center;
 }
 
+.markdown-body img {
+    height: 200px;
+    width: auto;
+    display: inline-block;
+    margin-right: 10px;
+}
+
 #back-to-top-btn {
   position: fixed;
   bottom: 90px;
