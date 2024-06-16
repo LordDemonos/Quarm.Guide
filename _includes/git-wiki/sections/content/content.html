@@ -12,7 +12,11 @@
     {% endif %}
 
     <div id="git-wiki-content">
-      {{ content }}
+      {% if page.resize_images %}
+        {{ content | replace: '<img', '<img class="resize-img"' }}
+      {% else %}
+        {{ content }}
+      {% endif %}
     </div>
 
     {% if site.inc_after_content %}
