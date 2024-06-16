@@ -235,8 +235,7 @@ Make sure you are at least Kindly (I was high Kindly) faction with him.
 
 2. Then give him [Glowing Sword Hilt](https://www.pqdi.cc/item/12197), [Brilliant Sword of Faith](https://www.pqdi.cc/item/13947), [Testimony](https://www.pqdi.cc/item/18828), [Note](https://www.pqdi.cc/item/18937) to receive [SoulFire](https://www.pqdi.cc/item/5504)!
 
-![SoulFire-Graphic.jpeg](static/guide_images/epics/paladin/SoulFire-Graphic.jpeg)
-![SoulFire-Stats.png](/assets/images/epics/paladin/SoulFire-Stats.png)
+![SoulFire-Stats.jpg](/assets/images/epics/paladin/SoulFire-Stats.jpg)
 
 ## [Ghoulbane](https://www.pqdi.cc/item/5403)
 The second sword you'll need to obtain to get your epic is [Ghoulbane](https://www.pqdi.cc/item/5403). There are 3 options to get one. I highly recommend Option 1
@@ -258,8 +257,7 @@ Kill the [froglok shin lord](https://www.pqdi.cc/npc/65128) in [Upper Guk](https
 #### Option 3
 You can also quest for [Ghoulbane](https://www.pqdi.cc/item/5403). Due to the time this quest can take I will not be going over this option at all. Option 1 and 2 are much faster. The quest is given by [Ryshon Hunsti](https://www.pqdi.cc/npc/12081) in [West Karana](https://www.pqdi.cc/zone/12).
 
-![Ghoulbane-Stats.png](/assets/images/epics/paladin/Ghoulbane-Stats.png)
-![Ghoulbane-Graphic.jpg](/assets/images/epics/paladin/Ghoulbane-Graphic.jpg)
+![Ghoulbane-Stats.jpg](/assets/images/epics/paladin/Ghoulbane-Stats.jpg)
 
 ## [Fiery Avenger](https://www.pqdi.cc/item/11050)
 You must have both [SoulFire](https://www.pqdi.cc/item/5504) and [Ghoulbane](https://www.pqdi.cc/item/5403) to complete this quest.
@@ -352,12 +350,11 @@ Head to [Everfrost](https://www.pqdi.cc/zone/30). You will need to find an openi
 ![Dirkog-Steelhand.jpg](/assets/images/epics/paladin/Dirkog-Steelhand.jpg)
 ![Inte-Akera.jpg](/assets/images/epics/paladin/Inte-Akera.jpg)
 
-## [Fiery Defender](https://www.pqdi.cc/item/10099)
 [Fiery Defender](https://www.pqdi.cc/item/10099) is the final reward in the Paladin Epic. It requires that you already have [Fiery Avenger](https://www.pqdi.cc/item/11050).
 
-![Fiery-Avenger-Stats.png](/assets/images/epics/paladin/Fiery-Avenger-Stats.png)
-![SoulFire-Graphic.jpeg](/assets/images/epics/paladin/SoulFire-Graphic.jpeg)
+![Fiery-Avenger-Stats.jpg](/assets/images/epics/paladin/Fiery-Avenger-Stats.jpg)
 
+## [Fiery Defender](https://www.pqdi.cc/item/10099)
 ### Step 21
 [Script Page](https://www.pqdi.cc/script-entities/nektulos/Kirak_Vil)
 
