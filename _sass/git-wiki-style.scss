@@ -213,7 +213,12 @@ th {
 }
 
 img {
-  max-width: 100%;
+    height: 200px !important; /* Adjust the height as needed */
+    width: auto !important; /* Maintain aspect ratio */
+    display: inline-block !important;
+    margin-right: 10px !important; /* Space between images */
+    vertical-align: top !important; /* Align images to the top */
+    isolation: isolate;
 }
 
 .w3-teal {
