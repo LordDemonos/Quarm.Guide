@@ -183,7 +183,7 @@ Once all 4 items have been obtained, combine them [Shiny Tin Bowl](https://www.p
 ### Step 8
 [Script Page](https://www.pqdi.cc/script-entities/felwitheb/Niola_Impholder)
 
-Next you need [Keepers of the Art](/faction/275) Faction. Buy 3,000 [Bat Wing](https://www.pqdi.cc/item/13068) from any merchant (Ex: [Darius Gandril](https://www.pqdi.cc/npc/202138), West Trade Building, Plane of Knowledge.) Give them to [Niola Impholder](https://www.pqdi.cc/npc/62021) in [South Felwithe](https://www.pqdi.cc/zone/62). You can reach her via the middle teleport pad. You can turn them all at once stacked together. This should be enough to get you to Ally with [Keepers of the Art](/faction/275). Ally isn't necessary (only need Amiable), but I'd just go all out since it is so easy to obtain. You'll also get a bunch of copies of level 1 Mage [Spell: Flare](https://www.pqdi.cc/item/15310) upon turn-in so have some bag space. Just sell them.
+Next you need [Keepers of the Art](https://www.pqdi.cc/faction/275) Faction. Buy 3,000 [Bat Wing](https://www.pqdi.cc/item/13068) from any merchant (Ex: [Darius Gandril](https://www.pqdi.cc/npc/202138), West Trade Building, Plane of Knowledge.) Give them to [Niola Impholder](https://www.pqdi.cc/npc/62021) in [South Felwithe](https://www.pqdi.cc/zone/62). You can reach her via the middle teleport pad. You can turn them all at once stacked together. This should be enough to get you to Ally with [Keepers of the Art](https://www.pqdi.cc/faction/275). Ally isn't necessary (only need Amiable), but I'd just go all out since it is so easy to obtain. You'll also get a bunch of copies of level 1 Mage [Spell: Flare](https://www.pqdi.cc/item/15310) upon turn-in so have some bag space. Just sell them.
 
 **You must be at least Indifferent faction to do this batwing turn-in quest.** If you are not yet indifferent, you are likely close. You can check with /faction. Kill a few of the following NPC's in the link to get to Indifferent, at that point you'll be able to turn in the Batwings to get up to Amiable+. I just killed the ones in [Neriak Foreign Quarter](https://www.pqdi.cc/zone/40).
 
@@ -195,7 +195,7 @@ Next you need [Keepers of the Art](/faction/275) Faction. Buy 3,000 [Bat Wing](h
 ### Step 9
 [Script Page](https://www.pqdi.cc/script-entities/timorous/Alrik_Farsight)
 
-Go to [Timorous Deep](https://www.pqdi.cc/zone/96) and locate [Alrik Farsight](https://www.pqdi.cc/npc/96032). He roams near the Chessboard. Take the dock from [Butcherblock](https://www.pqdi.cc/zone/68) to get there the quickest. Say "i will take the artifact" to receive [Crushed Pot](https://www.pqdi.cc/item/20457). You need at least Amiable faction with [Keepers of the Art]([Keepers of the Art](/faction/275)) for him to respond.
+Go to [Timorous Deep](https://www.pqdi.cc/zone/96) and locate [Alrik Farsight](https://www.pqdi.cc/npc/96032). He roams near the Chessboard. Take the dock from [Butcherblock](https://www.pqdi.cc/zone/68) to get there the quickest. Say "i will take the artifact" to receive [Crushed Pot](https://www.pqdi.cc/item/20457). You need at least Amiable faction with [Keepers of the Art](https://www.pqdi.cc/faction/275) for him to respond.
 
 ![Alrik-Farsight-Map.jpg](/assets/images/epics/ranger/Alrik-Farsight-Map.jpg)
 ![Alrik-Farsight.jpg](/assets/images/epics/ranger/Alrik-Farsight.jpg)
