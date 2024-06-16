@@ -13,25 +13,5 @@
 <script src="{{ '/assets/js/back-to-top.js' | relative_url }}"></script>
 <script src="{{ '/assets/js/anchor-links.js' | relative_url }}"></script>
 <link rel="stylesheet" href="{{ '/assets/css/git-wiki-style.css' | relative_url }}">
-{% if page.resize_images %}
-<style>
-.markdown-body img {
-    height: 200px; /* Adjust the height as needed */
-    width: auto; /* Maintain aspect ratio */
-    display: inline-block;
-    margin-right: 10px; /* Space between images */
-    vertical-align: top; /* Align images to the top */
-}
-
-.markdown-body p {
-    display: flex;
-    flex-wrap: wrap;
-}
-
-.markdown-body p img {
-    margin-bottom: 10px; /* Space between rows of images */
-}
-</style>
-{% endif %}
 </body>
 </html>
