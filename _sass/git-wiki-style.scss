@@ -218,17 +218,16 @@ img,.darkmode-ignore {
     border-style: none;
 }
 
-/* Specific styles for images with the resize class */
 .resize-img, .darkmode-ignore {
-    height: 200px !important; /* Adjust the height as needed */
-    width: auto !important; /* Maintain aspect ratio */
+    height: 200px !important;
+    width: auto !important; 
     display: inline-block !important;
-    margin-right: 10px !important; /* Space between images */
-    vertical-align: top !important; /* Align images to the top */
-    isolation: isolate; /* Ensure dark mode does not affect this element */
+    margin-right: 10px !important; 
+    vertical-align: top !important; 
+    isolation: isolate;
 }
 
-.no-resize, .darkmode-ignore  {
+.no-resize, .darkmode-ignore {
     height: auto !important;
     width: auto !important;
     display: block !important;
