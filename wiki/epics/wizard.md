@@ -1,3 +1,14 @@
+---
+title: Wizard Epic Quest Guide - Staff of the Four
+description: >-
+  Complete walkthrough for the Wizard Epic Quest in Quarm Guide, detailing the steps to obtain the Staff of the Four.
+keywords: >-
+  Wizard Epic Quest, Staff of the Four, Wizard Guide, Epic Weapons, MMORPG Quests
+author: Xanax, Talodar
+toc: false
+published: true
+sitemap: true
+---
 # Wizard Epic - [Staff of the Four](https://www.pqdi.cc/item/14341)
 
 - [ ] [Wizard Epic - Staff of the Four](#wizard-epic-staff-of-the-four)
@@ -133,3 +144,5 @@ Go back to [Everfrost](https://www.pqdi.cc/zone/30) and give [Dargon](https://ww
 Go back to [Solomen](https://www.pqdi.cc/npc/80023) in [Temple of Solusek Ro](https://www.pqdi.cc/zone/80), give him [Magically Sealed Bag](https://www.pqdi.cc/item/14340) to receive [Staff of the Four](https://www.pqdi.cc/item/14341)!
 
 ![Staff-of-the-Four-Stats.jpg](/assets/images/epics/wizard/Staff-of-the-Four-Stats.jpg)
+
+_Submit your own Epic screenshots to display here!_

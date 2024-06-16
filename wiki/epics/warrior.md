@@ -1,23 +1,34 @@
+---
+title: Warrior Epic Quest Guide - Jagged Blade of War
+description: >-
+  Comprehensive guide detailing the steps to complete the Warrior Epic Quest in Quarm Guide, leading to the acquisition of the Jagged Blade of War.
+keywords: >-
+  Warrior Epic Quest, Jagged Blade of War, Warrior Guide, Epic Weapons, MMORPG Quests
+author: Xanax, Talodar
+toc: false
+published: true
+sitemap: true
+---
 # Warrior Epic - [Jagged Blade of War](https://www.pqdi.cc/item/10908)
 
 - [ ] [Warrior Epic - Jagged Blade of War](#warrior-epic-jagged-blade-of-war)
     - [ ] [Pre-Farmable Items](#pre-farmable-items)
-                - [ ] [Green Dragon Scales](#green-dragon-scales)
-                - [ ] [Red Dragon Scales](#red-dragon-scales)
-                - [ ] [Hand of the Maestro](#hand-of-the-maestro)
-                - [ ] [Spiroc Wingblade](#spiroc-wingblade)
-                - [ ] [Rebreathers x 2](#rebreathers-x-2)
-                - [ ] [Giant Sized Monocle](#giant-sized-monocle)
-                - [ ] [Block of Permafrost](#block-of-permafrost)
-                - [ ] [Heart of Frost](#heart-of-frost)
-                - [ ] [Ball of Everliving Golem](#ball-of-everliving-golem)
-                - [ ] [Keg of Vox Tail Ale](#keg-of-vox-tail-ale)
-                - [ ] [Diamond](#diamond)
-                - [ ] [Black Sapphire](#black-sapphire)
-                - [ ] [Jacinth](#jacinth)
-                - [ ] [Ancient Blade](#ancient-blade)
-                - [ ] [Severely Damaged Dragon Head Hilt](#severely-damaged-dragon-head-hilt)
-                - [ ] [Unjeweled Dragon Head Hilt](#unjeweled-dragon-head-hilt)
+            - [ ] [Green Dragon Scales](#green-dragon-scales)
+            - [ ] [Red Dragon Scales](#red-dragon-scales)
+            - [ ] [Hand of the Maestro](#hand-of-the-maestro)
+            - [ ] [Spiroc Wingblade](#spiroc-wingblade)
+            - [ ] [Rebreathers x 2](#rebreathers-x-2)
+            - [ ] [Giant Sized Monocle](#giant-sized-monocle)
+            - [ ] [Block of Permafrost](#block-of-permafrost)
+            - [ ] [Heart of Frost](#heart-of-frost)
+            - [ ] [Ball of Everliving Golem](#ball-of-everliving-golem)
+            - [ ] [Keg of Vox Tail Ale](#keg-of-vox-tail-ale)
+            - [ ] [Diamond](#diamond)
+            - [ ] [Black Sapphire](#black-sapphire)
+            - [ ] [Jacinth](#jacinth)
+            - [ ] [Ancient Blade](#ancient-blade)
+            - [ ] [Severely Damaged Dragon Head Hilt](#severely-damaged-dragon-head-hilt)
+            - [ ] [Unjeweled Dragon Head Hilt](#unjeweled-dragon-head-hilt)
     - [ ] [Part 1 - Red Scabbard](#part-1-red-scabbard)
         - [ ] [Step 1](#step-1)
         - [ ] [Step 2](#step-2)
@@ -302,3 +313,4 @@ You can turn the [Jagged Blade of War](https://www.pqdi.cc/item/10908) into two 
 ![blade-of-strategy-stats.jpg](/assets/images/epics/warrior/blade-of-strategy-stats.jpg)
 ![blade-of-tactics-stats.jpg](/assets/images/epics/warrior/blade-of-tactics-stats.jpg)
 
+_Submit your own Epic screenshots to display here!_

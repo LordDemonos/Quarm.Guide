@@ -1,25 +1,38 @@
+---
+title: "Druid Epic Quest Guide: Nature Walker's Scimitar - Project Quarm"
+description: >-
+  Comprehensive guide for the Druid Epic quest in Project Quarm, detailing the journey to obtain the Nature Walker's Scimitar. This guide includes detailed steps for pre-farmable items, quest stages, and NPC interactions across various zones.
+
+keywords: >-
+  Druid Epic Quest, Nature Walker's Scimitar, Project Quarm, EverQuest Druid Guide, MMORPG quests, fantasy game quests, epic weapon quests, online gaming guides, foraging items, looted items, quest chain
+
+author: Xanax, Talodar
+toc: false
+published: true
+sitemap: true
+---
 # Druid Epic - Nature Walker's Scimitar
 
 - [ ] [Druid Epic - Nature Walker's Scimitar](#druid-epic-nature-walkers-scimitar)
     - [ ] [Pre-Farmable Items](#pre-farmable-items)
         - [ ] [Foraged Items](#foraged-items)
-                - [ ] [Chilled Tundra Root](#chilled-tundra-root)
-                - [ ] [Ripened Heartfruit](#ripened-heartfruit)
-                - [ ] [Speckled Molded Mushroom](#speckled-molded-mushroom)
-                - [ ] [Sweetened Mudroot](#sweetened-mudroot)
-                - [ ] [Rose of Firiona](#rose-of-firiona)
+        - [ ] [Chilled Tundra Root](#chilled-tundra-root)
+        - [ ] [Ripened Heartfruit](#ripened-heartfruit)
+        - [ ] [Speckled Molded Mushroom](#speckled-molded-mushroom)
+        - [ ] [Sweetened Mudroot](#sweetened-mudroot)
+        - [ ] [Rose of Firiona](#rose-of-firiona)
         - [ ] [Looted Items](#looted-items)
-                - [ ] [Jade Reaver](#jade-reaver)
-                - [ ] [Pulsing Green Stone](#pulsing-green-stone)
-                - [ ] [Clean Lakewater](#clean-lakewater)
-                - [ ] [Ancient Rock](#ancient-rock)
-                - [ ] [Chunk of Tundra](#chunk-of-tundra)
-                - [ ] [Ocean of Tears Seavines](#ocean-of-tears-seavines)
-                - [ ] [Kedge Cave Crystals](#kedge-cave-crystals)
-                - [ ] [Green Heartwood Branch](#green-heartwood-branch)
-                - [ ] [Green Tree Bark](#green-tree-bark)
-                - [ ] [Pure Lakewater](#pure-lakewater)
-                - [ ] [Froglok Essence](#froglok-essence)
+        - [ ] [Jade Reaver](#jade-reaver)
+        - [ ] [Pulsing Green Stone](#pulsing-green-stone)
+        - [ ] [Clean Lakewater](#clean-lakewater)
+        - [ ] [Ancient Rock](#ancient-rock)
+        - [ ] [Chunk of Tundra](#chunk-of-tundra)
+        - [ ] [Ocean of Tears Seavines](#ocean-of-tears-seavines)
+        - [ ] [Kedge Cave Crystals](#kedge-cave-crystals)
+        - [ ] [Green Heartwood Branch](#green-heartwood-branch)
+        - [ ] [Green Tree Bark](#green-tree-bark)
+        - [ ] [Pure Lakewater](#pure-lakewater)
+        - [ ] [Froglok Essence](#froglok-essence)
     - [ ] [The Quest](#the-quest)
         - [ ] [Step 1](#step-1)
         - [ ] [Step 2](#step-2)
@@ -37,23 +50,23 @@
         - [ ] [Step 14](#step-14)
         - [ ] [Step 15](#step-15)
         - [ ] [Step 16 - Cleansed Spirit of Antonica](#step-16-cleansed-spirit-of-antonica)
-            - [ ] [Step 16A](#step-16a)
-            - [ ] [Step 16B](#step-16b)
-            - [ ] [Step 16C](#step-16c)
-            - [ ] [Step 16D](#step-16d)
-            - [ ] [Step 16E](#step-16e)
+        - [ ] [Step 16A](#step-16a)
+        - [ ] [Step 16B](#step-16b)
+        - [ ] [Step 16C](#step-16c)
+        - [ ] [Step 16D](#step-16d)
+        - [ ] [Step 16E](#step-16e)
         - [ ] [Step 17 - Cleansed Spirit of Faydwer](#step-17-cleansed-spirit-of-faydwer)
-            - [ ] [Step 17A](#step-17a)
-            - [ ] [Step 17B](#step-17b)
-            - [ ] [Step 17C](#step-17c)
-            - [ ] [Step 17D](#step-17d)
-            - [ ] [Step 17E](#step-17e)
+        - [ ] [Step 17A](#step-17a)
+        - [ ] [Step 17B](#step-17b)
+        - [ ] [Step 17C](#step-17c)
+        - [ ] [Step 17D](#step-17d)
+        - [ ] [Step 17E](#step-17e)
         - [ ] [Step 18 - Cleansed Spirit of Kunark](#step-18-cleansed-spirit-of-kunark)
-            - [ ] [Step 18A](#step-18a)
-            - [ ] [Step 18B](#step-18b)
-            - [ ] [Step 18C](#step-18c)
-            - [ ] [Step 18D](#step-18d)
-            - [ ] [Step 18E](#step-18e)
+        - [ ] [Step 18A](#step-18a)
+        - [ ] [Step 18B](#step-18b)
+        - [ ] [Step 18C](#step-18c)
+        - [ ] [Step 18D](#step-18d)
+        - [ ] [Step 18E](#step-18e)
         - [ ] [Step 19 - Nature Walker's Scimitar](#step-19-nature-walkers-scimitar)
 
 
@@ -117,8 +130,8 @@ Go to [Greater Faydark](https://www.pqdi.cc/zone/54)  to Loc: +1535, +570. At th
 ### Step 3
 Go to [Kithikor Forest](https://www.pqdi.cc/zone/20) and find [Giz X'Tin](https://www.pqdi.cc/npc/20058). He roams so you'll need to track him. Give him [Faelin](https://www.pqdi.cc/npc/87019)'s Ring to receive [Dark Metal Coin](https://www.pqdi.cc/item/20447). Upon turnin [Teir'Dal Reaver](https://www.pqdi.cc/npc/20190) will spawn and attack. You do not have to kill it for anything.
 
-'![Giz-Xtin.jpg](' + $newBasePath + ($args[1] -replace [regex]::Escape($oldBasePath), '') + ')'
-'![TeirDal-Reaver.jpg](' + $newBasePath + ($args[1] -replace [regex]::Escape($oldBasePath), '') + ')'
+![Giz-Xtin.jpg](/assets/images/epics/druid/Giz-Xtin.jpg)
+![TeirDal-Reaver.jpg](/assets/images/epics/druid/TeirDal-Reaver.jpg)
 
 ### Step 4
 [Script Page](https://www.pqdi.cc/script-entities/burningwood/Telin_Darkforest)
@@ -134,38 +147,38 @@ Go back to [Telin Darkforest](https://www.pqdi.cc/npc/87082) (+3240, +2880) in [
 1. Head to [East Karana](https://www.pqdi.cc/zone/15) and find [Althele](https://www.pqdi.cc/npc/15044) (-3660, -1590). Give her Worn [Dark Metal Coin](https://www.pqdi.cc/item/20447) to receive [Braided Grass Amulet](https://www.pqdi.cc/item/20450). This will also spawn [Sionae](https://www.pqdi.cc/npc/15178) nearby (-2590, -1600).
 
 ![Althele-Map.jpg](/assets/images/epics/druid/Althele-Map.jpg)
-'![Althele.jpg](' + $newBasePath + ($args[1] -replace [regex]::Escape($oldBasePath), '') + ')'
+![Althele.jpg](/assets/images/epics/druid/Althele.jpg)
 
 [Script Page](https://www.pqdi.cc/script-entities/eastkarana/Sionae)
 
 2. Give [Sionae](https://www.pqdi.cc/npc/15178) (-2590, -1600) [Braided Grass Amulet](https://www.pqdi.cc/item/20450) to receive [Frayed Braided Grass Amulet](https://www.pqdi.cc/item/20451). This will also spawn [Nuien](https://www.pqdi.cc/npc/15167) (-3650, +300).
 
 ![Sionae-Map.jpg](/assets/images/epics/druid/Sionae-Map.jpg)
-'![Sionae.jpg](' + $newBasePath + ($args[1] -replace [regex]::Escape($oldBasePath), '') + ')'
+![Sionae.jpg](/assets/images/epics/druid/Sionae.jpg)
 
 [Script Page](https://www.pqdi.cc/script-entities/eastkarana/Nuien)
 
 3. Give [Nuien](https://www.pqdi.cc/npc/15167) (-3650, +300) [Frayed Braided Grass Amulet](https://www.pqdi.cc/item/20451), he will return it. This will also spawn [Teloa](https://www.pqdi.cc/npc/15170) (-3850, -2850).
 
 ![Nuien-Map.jpg](/assets/images/epics/druid/Nuien-Map.jpg)
-'![Nuien.jpg](' + $newBasePath + ($args[1] -replace [regex]::Escape($oldBasePath), '') + ')'
+![Nuien.jpg](/assets/images/epics/druid/Nuien.jpg)
 
 [Script Page](https://www.pqdi.cc/script-entities/eastkarana/Teloa)
 
 4. Give [Teloa](https://www.pqdi.cc/npc/15170) (-3850, -2850) [Frayed Braided Grass Amulet](https://www.pqdi.cc/item/20451). Follow her back to the "gathering spot". At this point [Dark Elf Corruptor](https://www.pqdi.cc/npc/15153) and two [Dark Elf Reavers](https://www.pqdi.cc/npc/15000) will spawn. Kill them and loot [Fleshbound Tome](https://www.pqdi.cc/item/20452) from [Dark Elf Corrupter](https://www.pqdi.cc/npc/15153).
 
 ![Teola-Map.jpg](/assets/images/epics/druid/Teola-Map.jpg)
-'![Teola.jpg](' + $newBasePath + ($args[1] -replace [regex]::Escape($oldBasePath), '') + ')'
+![Teola.jpg](/assets/images/epics/druid/Teola.jpg)
 ![Dark-Elf-Spawn-Map.jpg](/assets/images/epics/druid/Dark-Elf-Spawn-Map.jpg)
-'![Dark-Elf-Reaver.jpg](' + $newBasePath + ($args[1] -replace [regex]::Escape($oldBasePath), '') + ')'
-'![Dark-Elf-Corruptor.jpg](' + $newBasePath + ($args[1] -replace [regex]::Escape($oldBasePath), '') + ')'
+![Dark-Elf-Reaver.jpg](/assets/images/epics/druid/Dark-Elf-Reaver.jpg)
+![Dark-Elf-Corruptor.jpg](/assets/images/epics/druid/Dark-Elf-Corruptor.jpg)
 
 5. Give [Fleshbound Tome](https://www.pqdi.cc/item/20452) to [Althele](https://www.pqdi.cc/npc/15044) to receive [Earth Stained Note](https://www.pqdi.cc/item/18959).
 
 [Script Page](https://www.pqdi.cc/script-entities/eastkarana/Althele)
 
 ![Althele-Map.jpg](/assets/images/epics/druid/Althele-Map.jpg)
-'![Althele.jpg](' + $newBasePath + ($args[1] -replace [regex]::Escape($oldBasePath), '') + ')'
+![Althele.jpg](/assets/images/epics/druid/Althele.jpg)
 
 ### Step 6
 [Script Page](https://www.pqdi.cc/script-entities/misty/Ella_Foodcrafter)
@@ -174,7 +187,7 @@ Go to [Misty Thicket](https://www.pqdi.cc/zone/33) and track down [Ella Foodcraf
 
 **You can also forage a [Sweetened Mudroot](https://www.pqdi.cc/item/20465) while here (See Step 7)**
 
-'![Ella-Foodcrafter.jpg](' + $newBasePath + ($args[1] -replace [regex]::Escape($oldBasePath), '') + ')'
+![Ella-Foodcrafter.jpg](/assets/images/epics/druid/Ella-Foodcrafter.jpg)
 
 ### Step 7
 
@@ -194,11 +207,9 @@ Next you need [Keepers of the Art](/faction/275) Faction. Buy 3,000 [Bat Wing](h
 
 You must be at least Indifferent faction to do this quest. If you are not indifferent, you are likely close. You can check with /faction. Kill a few of the following NPC's on the list in the link to get to Indifferent. I just killed the ones in [Neriak](https://www.pqdi.cc/zone/41) Foreign Quarter.
 
-https://everquest.allakhazam.com/db/faction.html?faction=22
-
-'![Darius-Gandril-Map.jpg](' + $newBasePath + ($args[1] -replace [regex]::Escape($oldBasePath), '') + ')'
-'![Darius-Gandril.jpg](' + $newBasePath + ($args[1] -replace [regex]::Escape($oldBasePath), '') + ')'
-'![Niola-Impholder.jpg](' + $newBasePath + ($args[1] -replace [regex]::Escape($oldBasePath), '') + ')'
+![Darius-Gandril-Map.jpg](/assets/images/epics/druid/Darius-Gandril-Map.jpg)
+![Darius-Gandril.jpg](/assets/images/epics/druid/Darius-Gandril.jpg)
+![Niola-Impholder.jpg](/assets/images/epics/druid/Niola-Impholder.jpg)
 ![Niola-Impholder-Map.jpg](/assets/images/epics/druid/Niola-Impholder-Map.jpg)
 
 ### Step 9
@@ -207,7 +218,7 @@ https://everquest.allakhazam.com/db/faction.html?faction=22
 Go to [Timorous Deep](https://www.pqdi.cc/zone/96) and locate [Alrik Farsight](https://www.pqdi.cc/npc/96032). He roams near the Chessboard. Take the dock from [Butcherblock](https://www.pqdi.cc/zone/68) to get there the quickest. Say "I will take the artifact" to receive [Crushed Pot](https://www.pqdi.cc/item/20457). You need at least Amiable faction with [Keepers of the Art](/faction/275) for him to respond.
 
 ![Alrik-Farsight-Map.jpg](/assets/images/epics/druid/Alrik-Farsight-Map.jpg)
-'![Alrik-Farsight.jpg](' + $newBasePath + ($args[1] -replace [regex]::Escape($oldBasePath), '') + ')'
+![Alrik-Farsight.jpg]('/assets/images/epics/druid/Alrik-Farsight.jpg')
 
 ### Step 10
 Now for a little running around:
@@ -216,28 +227,28 @@ Now for a little running around:
 1. Go to [Southern Felwithe](https://www.pqdi.cc/zone/62) and give [Farios Elianos](https://www.pqdi.cc/npc/62018) your [Crushed Pot](https://www.pqdi.cc/item/20457) to receive [Grocery List](https://www.pqdi.cc/item/20458).
 
 ![Farios-Elianos-Map.jpg](/assets/images/epics/druid/Farios-Elianos-Map.jpg)
-'![Farios-Elianos.jpg](' + $newBasePath + ($args[1] -replace [regex]::Escape($oldBasePath), '') + ')'
+![Farios-Elianos.jpg](/assets/images/epics/druid/Farios-Elianos.jpg)
 
 [Script Page](https://www.pqdi.cc/script-entities/felwithea/Merchant_Nora)
 
 2. Go to [Northern Felwithe](https://www.pqdi.cc/zone/61) and give [Merchant Nora](https://www.pqdi.cc/npc/61034) (can use find) [Grocery List](https://www.pqdi.cc/item/20458) to receive [Bag of Provisions](https://www.pqdi.cc/item/20459).
 
 ![Merchant-Nora-Map.jpg](/assets/images/epics/druid/Merchant-Nora-Map.jpg)
-'![Merchant-Nora.jpg](' + $newBasePath + ($args[1] -replace [regex]::Escape($oldBasePath), '') + ')'
+![Merchant-Nora.jpg](/assets/images/epics/druid/Merchant-Nora.jpg)
 
 [Script Page](https://www.pqdi.cc/script-entities/felwitheb/Farios_Elianos)
 
 3. Go back to [Southern Felwithe](https://www.pqdi.cc/zone/62) and give [Farios Elianos](https://www.pqdi.cc/npc/62018) [Bag of Provisions](https://www.pqdi.cc/item/20459) to receive [Receipt](https://www.pqdi.cc/item/20474).
 
 ![Farios-Elianos-Map.jpg](/assets/images/epics/druid/Farios-Elianos-Map.jpg)
-'![Farios-Elianos.jpg](' + $newBasePath + ($args[1] -replace [regex]::Escape($oldBasePath), '') + ')'
+![Farios-Elianos.jpg](/assets/images/epics/druid/Farios-Elianos.jpg)
 
 [Script Page](https://www.pqdi.cc/script-entities/timorous/Alrik_Farsight)
 
 4. Go back to [Timorous Deep](https://www.pqdi.cc/zone/96) and give [Alrik Farsight](https://www.pqdi.cc/npc/96032) (near Chessboard - Take [Butcherblock](https://www.pqdi.cc/zone/68) Dock) [Receipt](https://www.pqdi.cc/item/20474) to receive [Ancient Pattern](https://www.pqdi.cc/item/18960).
 
 ![Alrik-Farsight-Map.jpg](/assets/images/epics/druid/Alrik-Farsight-Map.jpg)
-'![Alrik-Farsight.jpg](' + $newBasePath + ($args[1] -replace [regex]::Escape($oldBasePath), '') + ')'
+![Alrik-Farsight.jpg](/assets/images/epics/druid/Alrik-Farsight.jpg)
 
 ### Step 11
 
@@ -248,21 +259,21 @@ Now for a little running around:
 2.  Go to [Surefall Glade](https://www.pqdi.cc/zone/3) and find [Merdan Fleetfoot](https://www.pqdi.cc/npc/3017). Say "Who is Niera" then give him [Rose of Firiona](https://www.pqdi.cc/item/12774) to receive [Wood Painting](https://www.pqdi.cc/item/20475).
 
 ![Merdan-Fleetfoot-Map.jpg](/assets/images/epics/druid/Merdan-Fleetfoot-Map.jpg)
-'![Merdan-Fleetfoot.jpg](' + $newBasePath + ($args[1] -replace [regex]::Escape($oldBasePath), '') + ')'
+![Merdan-Fleetfoot.jpg](/assets/images/epics/druid/Merdan-Fleetfoot.jpg)
 
 [Script Page](https://www.pqdi.cc/script-entities/frontiermtns/a_human_skeleton)
 
 3. Go to [Frontier Mountains](https://www.pqdi.cc/zone/92). Along the outside south wall of the Giant Fort  you will find [a human skeleton](https://www.pqdi.cc/npc/92084) (-820, -900). Give it [Wood Painting](https://www.pqdi.cc/item/20475) to receive [Silver Chained Locket](https://www.pqdi.cc/item/20476).
 
 ![a-human-skeleton-Map.jpg](/assets/images/epics/druid/a-human-skeleton-Map.jpg)
-'![a-human-skeleton.jpg](' + $newBasePath + ($args[1] -replace [regex]::Escape($oldBasePath), '') + ')'
+![a-human-skeleton.jpg](/assets/images/epics/druid/a-human-skeleton.jpg)
 
 [Script Page](https://www.pqdi.cc/script-entities/qrg/Niera_Farbreeze)
 
 4. Go back to [Surefall Glade](https://www.pqdi.cc/zone/3), this time find [Niera Farbreeze](https://www.pqdi.cc/npc/3018). Give her [Silver Chained Locket](https://www.pqdi.cc/item/20476) to receive [Platinum Speckled Powder](https://www.pqdi.cc/item/20456).
 
 ![Niera-Farbreeze-Map.jpg](/assets/images/epics/druid/Niera-Farbreeze-Map.jpg)
-'![Niera-Farbreeze.jpg](' + $newBasePath + ($args[1] -replace [regex]::Escape($oldBasePath), '') + ')'
+![Niera-Farbreeze.jpg](/assets/images/epics/druid/Niera-Farbreeze.jpg)
 
 ### Step 12
 
@@ -275,7 +286,7 @@ Now for a little running around:
 2. Go to [North Kaladim](https://www.pqdi.cc/zone/67) and give [Jade Reaver](https://www.pqdi.cc/item/5664) to [Kinlo Strongarm](https://www.pqdi.cc/npc/67030) to receive [Enchanted Clay](https://www.pqdi.cc/item/20455).
 
 ![Kinlo-Strongarm-Map.jpg](/assets/images/epics/druid/Kinlo-Strongarm-Map.jpg)
-'![Kinlo-Strongarm.jpg](' + $newBasePath + ($args[1] -replace [regex]::Escape($oldBasePath), '') + ')'
+![Kinlo-Strongarm.jpg](/assets/images/epics/druid/Kinlo-Strongarm.jpg)
 
 ### Step 13
 
@@ -315,13 +326,13 @@ Once you find [Venril Sathir](https://www.pqdi.cc/npc/102010)'s remains, give it
 1. Go to [Firiona Vie](https://www.pqdi.cc/zone/84) and locate [Foloal Stormforest](https://www.pqdi.cc/npc/84207). She will be either in the ruins or the city depending on what expansion your server is on. It's easiest to just track her. Give her [Pulsing Green Stone](https://www.pqdi.cc/item/20461) (From Step 14) and [Softly Glowing Stone](https://www.pqdi.cc/item/20462) (From Step 13) to receive [Warmly Glowing Stone](https://www.pqdi.cc/item/20468).
 
 ![Foloal-Stormforest-Map.jpg](/assets/images/epics/druid/Foloal-Stormforest-Map.jpg)
-'![Foloal-Stormforest.jpg](' + $newBasePath + ($args[1] -replace [regex]::Escape($oldBasePath), '') + ')'
+![Foloal-Stormforest.jpg](/assets/images/epics/druid/Foloal-Stormforest.jpg)
 
 [Script Page](https://www.pqdi.cc/script-entities/misty/Ella_Foodcrafter)
 
 2. Go back to [Misty Thicket](https://www.pqdi.cc/zone/33) and find [Ella Foodcrafter](https://www.pqdi.cc/npc/33077). Give her [Warmly Glowing Stone](https://www.pqdi.cc/item/20468) to receive [Elaborate Scimitar](https://www.pqdi.cc/item/20440).
 
-'![Ella-Foodcrafter.jpg](' + $newBasePath + ($args[1] -replace [regex]::Escape($oldBasePath), '') + ')'
+![Ella-Foodcrafter.jpg](/assets/images/epics/druid/Ella-Foodcrafter.jpg)
 
 ### Step 16 - [Cleansed Spirit of Antonica](https://www.pqdi.cc/item/20698)
 
@@ -450,3 +461,5 @@ Go to [North Karana](https://www.pqdi.cc/zone/13) and find [Xanuusus](https://ww
 ![Xanuusus.jpg](/assets/images/epics/druid/Xanuusus.jpg)
 
 ![Nature-Walkers-Scimitar-Stats.png](/assets/images/epics/druid/Nature-Walkers-Scimitar-Stats.png)
+
+_Submit your own Epic screenshots to display here!_

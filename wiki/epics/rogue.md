@@ -1,3 +1,14 @@
+---
+title: Rogue Epic Quest Guide - Ragebringer - Project Quarm
+description: >-
+  Detailed walkthrough for the Rogue Epic Quest in Quarm Guide, outlining the steps to obtain the Ragebringer weapon.
+keywords: >-
+  Rogue Epic Quest, Ragebringer, Rogue Guide, Epic Weapons, MMORPG Quests
+author: Xanax, Talodar
+toc: false
+published: true
+sitemap: true
+---
 # Rogue Epic - [Ragebringer](https://www.pqdi.cc/item/11057)
 
 
@@ -181,3 +192,4 @@ Receive [Ragebringer](https://www.pqdi.cc/item/11057)!
 
 ![Ragebringer-Stats.jpg](/assets/images/epics/rogue/Ragebringer-Stats.jpg)
 
+_Submit your own Epic screenshots to display here!_

@@ -1,23 +1,34 @@
+---
+title: Shaman Epic Quest Guide - Spear of Fate
+description: >-
+  Detailed guide for the Shaman Epic Quest in Quarm Guide, outlining the steps to obtain the Spear of Fate.
+keywords: >-
+  Shaman Epic Quest, Spear of Fate, Shaman Guide, Epic Weapons, MMORPG Quests
+author: Xanax, Talodar
+toc: false
+published: true
+sitemap: true
+---
 # Shaman Epic - [Spear of Fate](https://www.pqdi.cc/item/10651)
 
 - [ ] [Shaman Epic - Spear of Fate](#shaman-epic-spear-of-fate)
     - [ ] [Pre-Farmable Items](#pre-farmable-items)
         - [ ] [Rathe Mountains Items](#rathe-mountains-items)
-                - [ ] [Envy](#envy)
-                - [ ] [Woe](#woe)
-                - [ ] [Marr's Promise](#marrs-promise)
+        - [ ] [Envy](#envy)
+        - [ ] [Woe](#woe)
+        - [ ] [Marr's Promise](#marrs-promise)
         - [ ] [City of Mist Items](#city-of-mist-items)
-                - [ ] [Historic Article](#historic-article)
-                - [ ] [Head Housekeepers Log](#head-housekeepers-log)
-                - [ ] [Crusades of the High Scale](#crusades-of-the-high-scale)
-                - [ ] [Crier's Scroll](#criers-scroll)
-                - [ ] [Merchant's Letter](#merchants-letter)
-                - [ ] [Personal Diary Page](#personal-diary-page)
-                - [ ] [Priest's Diary Page](#priests-diary-page)
-                - [ ] [Written Announcement](#written-announcement)
-                - [ ] [Student's Log](#students-log)
-                - [ ] [Icon of the High Scale](#icon-of-the-high-scale)
-                - [ ] [Child's Tear](#childs-tear)
+        - [ ] [Historic Article](#historic-article)
+        - [ ] [Head Housekeepers Log](#head-housekeepers-log)
+        - [ ] [Crusades of the High Scale](#crusades-of-the-high-scale)
+        - [ ] [Crier's Scroll](#criers-scroll)
+        - [ ] [Merchant's Letter](#merchants-letter)
+        - [ ] [Personal Diary Page](#personal-diary-page)
+        - [ ] [Priest's Diary Page](#priests-diary-page)
+        - [ ] [Written Announcement](#written-announcement)
+        - [ ] [Student's Log](#students-log)
+        - [ ] [Icon of the High Scale](#icon-of-the-high-scale)
+        - [ ] [Child's Tear](#childs-tear)
     - [ ] [The Quest](#the-quest)
         - [ ] [Step 1](#step-1)
         - [ ] [Step 2](#step-2)
@@ -278,3 +289,5 @@ Go back to [Spirit Sentinel](https://www.pqdi.cc/npc/94013) in the lake in [Emer
 ![Spirit-Sentinel-Map.png](/assets/images/epics/shaman/Spirit-Sentinel-Map.png)
 
 ![Spear-of-Fate-Stats-1.jpg](/assets/images/epics/shaman/Spear-of-Fate-Stats-1.jpg)
+
+_Submit your own Epic screenshots to display here!_

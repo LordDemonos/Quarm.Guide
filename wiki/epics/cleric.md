@@ -1,11 +1,24 @@
+---
+title: "Cleric Epic Quest Guide: Water Sprinkler of Nem Ankh - Project Quarm"
+description: >-
+  Complete guide for the Cleric Epic quest in Project Quarm, detailing the acquisition of the Water Sprinkler of Nem Ankh. This guide includes locations, NPC interactions, and item collection steps necessary to complete the quest.
+
+keywords: >-
+  Cleric Epic Quest, Water Sprinkler of Nem Ankh, Project Quarm, EverQuest Cleric Guide, MMORPG quests, fantasy game quests, epic weapon quests, online gaming guides, Lake Rathetear, Chardok, Skyfire Mountains, Timorous Deep
+
+author: Xanax, Talodar
+toc: false
+published: true
+sitemap: true
+---
 # Cleric Epic - [Water Sprinkler of Nem Ankh](https://www.pqdi.cc/item/5532)
 
 - [ ] [Cleric Epic - [Water Sprinkler of Nem Ankh](https://www.pqdi.cc/item/5532)](#cleric-epic---water-sprinkler-of-nem-ankh)
     - [ ] [Pre-Farmable Items](#pre-farmable-items)
-                - [ ] [Lord Bergurgle's Crown](#lord-bergurgles-crown):Looted from [Lord Bergurgle](https://www.pqdi.cc/npc/51143) in [Lake Rathetear](https://www.pqdi.cc/zone/51)
-                - [ ] [Singed Scroll](#singed-scroll): Looted from [Overking Bathezid](https://www.pqdi.cc/npc/103056) in [Chardok](https://www.pqdi.cc/zone/103)
-                - [ ] [Lord Gimblox's Signet Ring](#lord-gimbloxs-signet-ring): Looted from [Lord Gimblox](https://www.pqdi.cc/npc/31126) in [Solusek's Eye](https://www.pqdi.cc/zone/31)
-                - [ ] [Pearlescent Fragment](#pearlescent-fragment): Looted from mobs in [Skyfire Mountains](https://www.pqdi.cc/zone/91)
+        - [ ] [Lord Bergurgle's Crown](#lord-bergurgles-crown):Looted from [Lord Bergurgle](https://www.pqdi.cc/npc/51143) in [Lake Rathetear](https://www.pqdi.cc/zone/51)
+        - [ ] [Singed Scroll](#singed-scroll): Looted from [Overking Bathezid](https://www.pqdi.cc/npc/103056) in [Chardok](https://www.pqdi.cc/zone/103)
+        - [ ] [Lord Gimblox's Signet Ring](#lord-gimbloxs-signet-ring): Looted from [Lord Gimblox](https://www.pqdi.cc/npc/31126) in [Solusek's Eye](https://www.pqdi.cc/zone/31)
+        - [ ] [Pearlescent Fragment](#pearlescent-fragment): Looted from mobs in [Skyfire Mountains](https://www.pqdi.cc/zone/91)
     - [ ] [Orb of Frozen Water](#orb-of-frozen-water)
         - [ ] [Step 1](#step-1): Loot [Lord Bergurgle's Crown](https://www.pqdi.cc/item/28044) in [Lake Rathetear](https://www.pqdi.cc/zone/51)
         - [ ] [Step 2](#step-2): Get [Ornate Sea Shell](https://www.pqdi.cc/item/28047) in [Lake Rathetear](https://www.pqdi.cc/zone/51)
@@ -93,7 +106,7 @@ Go to [Timorous Deep](https://www.pqdi.cc/zone/96) and find [Omat Vastsea](https
 
 [Natasha Whitewater](https://www.pqdi.cc/npc/96080) is in the nearby hut. Give [Natasha Whitewater](https://www.pqdi.cc/npc/51138) [Lord Gimblox's Signet Ring](https://www.pqdi.cc/item/28018) to receive *a different*  [Ornate Sea Shell](https://www.pqdi.cc/item/28056) ([Script Page](https://www.pqdi.cc/script-entities/timorous/Natasha_Whitewater) for this step).
 
-![timorous-deep-map-cleric-1.0 1.jpg](/assets/images/epics/cleric/timorous-deep-map-cleric-1.0 1.jpg)
+![timorous-deep-map-cleric-1.0.jpg](/assets/images/epics/cleric/timorous-deep-map-cleric-1.0.jpg)
 ![Omat-Vastsea.jpg](/assets/images/epics/cleric/Omat-Vastsea.jpg)
 ![Natasha-Whitewalker-TD.jpg](/assets/images/epics/cleric/Natasha-Whitewalker-TD.jpg)
 
@@ -121,7 +134,7 @@ Go back to [Timorous Deep](https://www.pqdi.cc/zone/96) and give [Omat Vastsea](
 
 This turn-in also spawns [Natasha Whitewater](https://www.pqdi.cc/npc/96080) nearby in the hut. Give [Natasha Whitewater](https://www.pqdi.cc/npc/51138) [Message to Natasha](https://www.pqdi.cc/item/28052) to receive [Shimmering Pearl](https://www.pqdi.cc/item/28054) ([Script Page](https://www.pqdi.cc/script-entities/timorous/Natasha_Whitewater) for this part).
 
-![timorous-deep-map-cleric-1.0 2.jpg](/assets/images/epics/cleric/timorous-deep-map-cleric-1.0 2.jpg)
+![timorous-deep-map-cleric-1.0.jpg](/assets/images/epics/cleric/timorous-deep-map-cleric-1.0.jpg)
 ![Omat-Vastsea.jpg](/assets/images/epics/cleric/Omat-Vastsea.jpg)
 ![Natasha-Whitewalker-TD.jpg](/assets/images/epics/cleric/Natasha-Whitewalker-TD.jpg)
 
@@ -163,9 +176,11 @@ Give [Avatar of Water](https://www.pqdi.cc/npc/96086) your [Orb of the Triumvira
 
 >[Avatar of Water](https://www.pqdi.cc/npc/96086) takes the orb from you. The avatar has determined that you are worthy to receive [Water Sprinkler of Nem Ankh](https://www.pqdi.cc/item/5532)! 
 
-![timorous-deep-map-cleric-1.0 2.jpg](/assets/images/epics/cleric/timorous-deep-map-cleric-1.0 2.jpg)
+![timorous-deep-map-cleric-1.0.jpg](/assets/images/epics/cleric/timorous-deep-map-cleric-1.0.jpg)
 ![Omat-Vastsea.jpg](/assets/images/epics/cleric/Omat-Vastsea.jpg)
 ![Jhassad-Oceanson.jpg](/assets/images/epics/cleric/Jhassad-Oceanson.jpg)
 ![Avatar-of-Water.jpg](/assets/images/epics/cleric/Avatar-of-Water.jpg)
 
 ![Water-Sprinkler-of-Nem-Ankh.jpg](/assets/images/epics/cleric/Water-Sprinkler-of-Nem-Ankh.jpg)
+
+_Submit your own Epic screenshots to display here!_

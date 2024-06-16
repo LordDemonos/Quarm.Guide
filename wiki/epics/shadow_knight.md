@@ -1,16 +1,27 @@
+---
+title: Shadow Knight Epic Quest Guide - Innoruuk's Curse
+description: >-
+  Complete guide for the Shadow Knight Epic Quest in Quarm Guide, detailing the journey to obtain Innoruuk's Curse.
+keywords: >-
+  Shadow Knight Epic Quest, Innoruuk's Curse, Shadow Knight Guide, Epic Weapons, MMORPG Quests
+author: Xanax, Talodar
+toc: false
+published: true
+sitemap: true
+---
 # Shadow Knight Epic - [Innoruuk](https://www.pqdi.cc/npc/76326)'s Curse
 
 - [ ] [Shadow Knight Epic - Innoruuk's Curse](#shadow-knight-epic---innoruuks-curse)
     - [ ] [Pre-Farmable Items](#pre-farmable-items)
-                - [ ] [Darkforge Armor](#darkforge-armor): Get [Darkforge Helm](https://www.pqdi.cc/item/3140), [Darkforge Greaves](https://www.pqdi.cc/item/3145), and [Darkforge Breastplate](https://www.pqdi.cc/item/3141)
-                - [ ] [Money - 900pp](#money-900pp): Acquire Currency
-                - [ ] [Money - 1000pp](#money-1000pp): Acquire Currency
-                - [ ] [Dusty Tome](#dusty-tome): Loot [Dusty Tome](https://www.pqdi.cc/item/14382) in [The Hole](https://www.pqdi.cc/zone/39)
-                - [ ] [Blade of Abrogation](#blade-of-abrogation): Loot [Blade of Abrogation](https://www.pqdi.cc/item/5430) in [Plane of Sky](https://www.pqdi.cc/zone/71)
-                - [ ] [Ghoulbane](#ghoulbane): Get/Loot [Ghoulbane](https://www.pqdi.cc/item/5403)
-                - [ ] [Soul Leech, Dark Sword of Blood](#soul-leech-dark-sword-of-blood): Loot in [Plane of Fear](https://www.pqdi.cc/zone/72)
-                - [ ] [Drake Spine](#drake-spine): Loot in [Rathe Mountains](https://www.pqdi.cc/zone/50)
-                - [ ] [Decrepit Hide](#decrepit-hide):  Loot in [Plane of Hate](https://www.pqdi.cc/zone/76)
+            - [ ] [Darkforge Armor](#darkforge-armor): Get [Darkforge Helm](https://www.pqdi.cc/item/3140), [Darkforge Greaves](https://www.pqdi.cc/item/3145), and [Darkforge Breastplate](https://www.pqdi.cc/item/3141)
+            - [ ] [Money - 900pp](#money-900pp): Acquire Currency
+            - [ ] [Money - 1000pp](#money-1000pp): Acquire Currency
+            - [ ] [Dusty Tome](#dusty-tome): Loot [Dusty Tome](https://www.pqdi.cc/item/14382) in [The Hole](https://www.pqdi.cc/zone/39)
+            - [ ] [Blade of Abrogation](#blade-of-abrogation): Loot [Blade of Abrogation](https://www.pqdi.cc/item/5430) in [Plane of Sky](https://www.pqdi.cc/zone/71)
+            - [ ] [Ghoulbane](#ghoulbane): Get/Loot [Ghoulbane](https://www.pqdi.cc/item/5403)
+            - [ ] [Soul Leech, Dark Sword of Blood](#soul-leech-dark-sword-of-blood): Loot in [Plane of Fear](https://www.pqdi.cc/zone/72)
+            - [ ] [Drake Spine](#drake-spine): Loot in [Rathe Mountains](https://www.pqdi.cc/zone/50)
+            - [ ] [Decrepit Hide](#decrepit-hide):  Loot in [Plane of Hate](https://www.pqdi.cc/zone/76)
     - [ ] [The Quest](#the-quest)
         - [ ] [Step 1](#step-1): Get [Darkforge Helm](https://www.pqdi.cc/item/3140), [Darkforge Greaves](https://www.pqdi.cc/item/3145), and [Darkforge Breastplate](https://www.pqdi.cc/item/3141)
         - [ ] [Step 2](#step-2): Loot [Letter to Duriek](https://www.pqdi.cc/item/18099) in The [Overthere](https://www.pqdi.cc/zone/93)
@@ -338,3 +349,4 @@ to receive [Innoruuk's Curse](https://www.pqdi.cc/item/14383)!
 
 ![Innoruuks-Curse-Stats.jpg](/assets/images/epics/shadow_knight/Innoruuks-Curse-Stats.jpg)
 
+_Submit your own Epic screenshots to display here!_

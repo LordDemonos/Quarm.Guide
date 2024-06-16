@@ -1,18 +1,31 @@
+---
+title: "Bard Epic Quest Guide: Singing Short Sword - Project Quarm"
+description: >-
+  Detailed walkthrough for the Bard Epic quest in Project Quarm, including step-by-step instructions for acquiring all necessary items like the Singing Short Sword, Mystical Lute, and various quest components across different zones.
+
+keywords: >-
+  Bard Epic Quest, Singing Short Sword, Mystical Lute, Project Quarm, EverQuest Bard Guide, MMORPG quests, fantasy game quests, epic weapon quests, online gaming guides
+
+author: Xanax, Talodar
+toc: false
+published: true
+sitemap: true
+---
 # Bard Epic - [Singing Short Sword](https://www.pqdi.cc/item/20542)
 
 - [ ] [Bard Epic - Singing Short Sword(#bard-epic---singing-short-sword)
     - [ ] [Pre-Farmable Items](#pre-farmable-items)
-                - [ ] [Onyx Drake Gut](#onyx-drake-gut): Looted from [Blackwing](https://www.pqdi.cc/npc/50323) in [Rathe Mountains](https://www.pqdi.cc/zone/50)
-                - [ ] [Red Wurm Gut](#red-wurm-gut): Looted from [Nezekezena](https://www.pqdi.cc/npc/87007) in [Burning Woods](https://www.pqdi.cc/zone/87)
-                - [ ] [Chromodrac Gut](#chromodrac-gut): Looted from [Eldrig the Old](https://www.pqdi.cc/npc/91009) in [Skyfire Mountains](https://www.pqdi.cc/zone/91)
-                - [ ] [Alluring Horn](#alluring-horn): Looted from [Quag Maelstrom](https://www.pqdi.cc/npc/69093) in [Ocean of Tears](https://www.pqdi.cc/zone/69)
-                - [ ] [Kedge Backbone](#kedge-backbone): Looted from [Phinigel Autropos](https://www.pqdi.cc/npc/64001) in [Kedge Keep](https://www.pqdi.cc/zone/64)
-                - [ ] [Amygdalan Tendril](#amygdalan-tendril): Looted from Amygdalans in [Plane of Fear](https://www.pqdi.cc/zone/72)
-                - [ ] [Petrified  Werewolf Skull](#petrified-werewolf-skull): Looted from drolvargs in [Karnor's Castle](https://www.pqdi.cc/zone/102)
-                - [ ] [Undead Dragongut Strings](#undead-dragongut-strings): Looted from [Trakanon](https://www.pqdi.cc/npc/89039) in Sebilis
-                - [ ] [White Dragon Scales](#white-dragon-scales): Looted from white dragons
-                - [ ] [Red Dragon Scales](#red-dragon-scales): Looted from red dragons
-                - [ ] [Metal Bits](#metal-bits): Crafted with Blacksmithing
+        - [ ] [Onyx Drake Gut](#onyx-drake-gut): Looted from [Blackwing](https://www.pqdi.cc/npc/50323) in [Rathe Mountains](https://www.pqdi.cc/zone/50)
+        - [ ] [Red Wurm Gut](#red-wurm-gut): Looted from [Nezekezena](https://www.pqdi.cc/npc/87007) in [Burning Woods](https://www.pqdi.cc/zone/87)
+        - [ ] [Chromodrac Gut](#chromodrac-gut): Looted from [Eldrig the Old](https://www.pqdi.cc/npc/91009) in [Skyfire Mountains](https://www.pqdi.cc/zone/91)
+        - [ ] [Alluring Horn](#alluring-horn): Looted from [Quag Maelstrom](https://www.pqdi.cc/npc/69093) in [Ocean of Tears](https://www.pqdi.cc/zone/69)
+        - [ ] [Kedge Backbone](#kedge-backbone): Looted from [Phinigel Autropos](https://www.pqdi.cc/npc/64001) in [Kedge Keep](https://www.pqdi.cc/zone/64)
+        - [ ] [Amygdalan Tendril](#amygdalan-tendril): Looted from Amygdalans in [Plane of Fear](https://www.pqdi.cc/zone/72)
+        - [ ] [Petrified  Werewolf Skull](#petrified-werewolf-skull): Looted from drolvargs in [Karnor's Castle](https://www.pqdi.cc/zone/102)
+        - [ ] [Undead Dragongut Strings](#undead-dragongut-strings): Looted from [Trakanon](https://www.pqdi.cc/npc/89039) in Sebilis
+        - [ ] [White Dragon Scales](#white-dragon-scales): Looted from white dragons
+        - [ ] [Red Dragon Scales](#red-dragon-scales): Looted from red dragons
+        - [ ] [Metal Bits](#metal-bits): Crafted with Blacksmithing
     - [ ] [Maestro's Symphony Page 24 Top](#maestros-symphony-page-24-top)
         - [ ] [Step 1](#step-1): Get [Torch of Misty](https://www.pqdi.cc/item/20532) in [West Karana](https://www.pqdi.cc/zone/12)
         - [ ] [Step 2](#step-2): Get [Torch of Ro](https://www.pqdi.cc/item/20533) in [Misty Thicket](https://www.pqdi.cc/zone/33)
@@ -121,7 +134,7 @@ Go to [Lake Rathetear](https://www.pqdi.cc/zone/51) and find [Misty Tekcihta](ht
 
 Go back to [Konia Swiftfoot](https://www.pqdi.cc/npc/12117)  (-525.0, -2438.0) in [Western Plains of Karana](https://www.pqdi.cc/zone/12). Give her [Proof of Speed](https://www.pqdi.cc/item/20379) to receive [Maestro's Symphony Page 24 Top](https://www.pqdi.cc/item/20376).
 
-![Konia-Swiftfoot-Map 1.jpg](/assets/images/epics/bard/Konia-Swiftfoot-Map 1.jpg)
+![Konia-Swiftfoot-Map.jpg](/assets/images/epics/bard/Konia-Swiftfoot-Map.jpg)
 ![Konia-Swiftfoot.png](/assets/images/epics/bard/Konia-Swiftfoot.png)
 
 ## [Maestro's Symphony Page 24 Bottom](https://www.pqdi.cc/item/20383)
@@ -155,7 +168,7 @@ Go to [The Estate of Unrest](https://www.pqdi.cc/zone/63) and find [Serra](https
 
 Go back to [Baenar Swiftsong](https://www.pqdi.cc/npc/14046)  (-18.0, 97.0) in [Southern Plains of Karana](https://www.pqdi.cc/zone/14). Give him [Note for Baenar](https://www.pqdi.cc/item/20371) to receive [Note to Maligar](https://www.pqdi.cc/item/20368).
 
-![Baenar-Swiftsong-Map 1.jpg](/assets/images/epics/bard/Baenar-Swiftsong-Map 1.jpg)
+![Baenar-Swiftsong-Map.jpg](/assets/images/epics/bard/Baenar-Swiftsong-Map.jpg)
 ![Baenar-Swiftsong.jpg](/assets/images/epics/bard/Baenar-Swiftsong.jpg)
 
 ### Step 10
@@ -171,7 +184,7 @@ Go to [Western Plains of Karana](https://www.pqdi.cc/zone/12) and find [Maligar]
 
 Go back to [Baenar Swiftsong](https://www.pqdi.cc/npc/14046) (-18.0, 97.0) in [Southern Plains of Karana](https://www.pqdi.cc/zone/14). Give him [Maligar's Head](https://www.pqdi.cc/item/20367) to receive [Mahlin's Mystical Bongos](https://www.pqdi.cc/item/20366).
 
-![Baenar-Swiftsong-Map 2.jpg](/assets/images/epics/bard/Baenar-Swiftsong-Map 2.jpg)
+![Baenar-Swiftsong-Map.jpg](/assets/images/epics/bard/Baenar-Swiftsong-Map.jpg)
 ![Baenar-Swiftsong.jpg](/assets/images/epics/bard/Baenar-Swiftsong.jpg)
 
 ### Step 12
@@ -179,7 +192,7 @@ Go back to [Baenar Swiftsong](https://www.pqdi.cc/npc/14046) (-18.0, 97.0) in [S
 
 Go back [Konia Swiftfoot](https://www.pqdi.cc/npc/12117) (-525.0, -2438.0) in [Western Plains of Karana](https://www.pqdi.cc/zone/12). Give her [Mahlin's Mystical Bongos](https://www.pqdi.cc/item/20366) to receive [Maestro's Symphony Page 24 Bottom](https://www.pqdi.cc/item/20383).
 
-![Konia-Swiftfoot-Map 2.jpg](/assets/images/epics/bard/Konia-Swiftfoot-Map 2.jpg)
+![Konia-Swiftfoot-Map.jpg](/assets/images/epics/bard/Konia-Swiftfoot-Map.jpg)
 ![Konia-Swiftfoot.png](/assets/images/epics/bard/Konia-Swiftfoot.png)
 
 ## [Maestros Symphony Page 25](https://www.pqdi.cc/item/20377)
@@ -264,7 +277,7 @@ Kill [a Drolvarg warlord](https://www.pqdi.cc/npc/102001) in [Karnor's Castle](h
 
 Go back to [Forpar Fizfla](https://www.pqdi.cc/npc/56130) (133.0, -605.0) in [Steamfont Mountains](https://www.pqdi.cc/zone/56). Give him [Forpars [Note](https://www.pqdi.cc/item/18937) to Himself](https://www.pqdi.cc/item/20380), [Kedge Backbone](https://www.pqdi.cc/item/20524), [Amygdalan Tendril](https://www.pqdi.cc/item/5520), and [Petrified Werewolf Skull](https://www.pqdi.cc/item/20525) to receive [Mystical Lute Head](https://www.pqdi.cc/item/20535).
 
-![Forpar-Fizfla-Map 1.jpg](/assets/images/epics/bard/Forpar-Fizfla-Map 1.jpg)
+![Forpar-Fizfla-Map.jpg](/assets/images/epics/bard/Forpar-Fizfla-Map.jpg)
 ![Forpar-Fizfla.jpg](/assets/images/epics/bard/Forpar-Fizfla.jpg)
 
 ### Step 24
@@ -305,7 +318,7 @@ to receive [Mystical Lute Body](https://www.pqdi.cc/item/20536).
 
 Next, give him the [Mystical Lute Head](https://www.pqdi.cc/item/20535), [Mystical Lute Body](https://www.pqdi.cc/item/20536), [Undead Dragongut Strings](https://www.pqdi.cc/item/20526) to receive [Mystical Lute](https://www.pqdi.cc/item/20538).
 
-![Forpar-Fizfla-Map 2.jpg](/assets/images/epics/bard/Forpar-Fizfla-Map 2.jpg)
+![Forpar-Fizfla-Map.jpg](/assets/images/epics/bard/Forpar-Fizfla-Map.jpg)
 ![Forpar-Fizfla.jpg](/assets/images/epics/bard/Forpar-Fizfla.jpg)
 
 ### Step 27
@@ -329,3 +342,4 @@ to receive your [Singing Short Sword](https://www.pqdi.cc/item/20542)!
 
 ![Singing-Short-Sword.jpg](/assets/images/epics/bard/Singing-Short-Sword.jpg)
 
+_Submit your own Epic screenshots to display here!_

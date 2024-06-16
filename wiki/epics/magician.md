@@ -1,46 +1,59 @@
+---
+title: "Magician Epic Quest Guide: Orb of Mastery - Project Quarm"
+description: >-
+  Complete walkthrough for the Magician Epic quest in Project Quarm, detailing the process to acquire the Orb of Mastery. This guide covers all necessary pre-farmable items, quest stages, and NPC interactions across various zones.
+
+keywords: >-
+  Magician Epic Quest, Orb of Mastery, Project Quarm, EverQuest Magician Guide, MMORPG quests, fantasy game quests, epic weapon quests, online gaming guides, item farming, NPC interactions, quest walkthrough
+
+author: Xanax, Talodar
+toc: false
+published: true
+sitemap: true
+---
 # Magician Epic - Orb of Mastery
 
 - [ ] [Magician Epic - Orb of Mastery](#magician-epic-orb-of-mastery)
     - [ ] [Pre-Farmable Items](#pre-farmable-items)
         - [ ] [Power of the Elements](#power-of-the-elements)
-                - [ ] [Power of Wind](#power-of-wind)
-                - [ ] [Power of Fire](#power-of-fire)
-                - [ ] [Power of Earth](#power-of-earth)
-                - [ ] [Power of Water](#power-of-water)
+            - [ ] [Power of Wind](#power-of-wind)
+            - [ ] [Power of Fire](#power-of-fire)
+            - [ ] [Power of Earth](#power-of-earth)
+            - [ ] [Power of Water](#power-of-water)
         - [ ] [Words of Mastery](#words-of-mastery)
-                - [ ] [Torn Page of Mastery Earth](#torn-page-of-mastery-earth)
-                - [ ] [Torn Page of Mastery Water](#torn-page-of-mastery-water)
-                - [ ] [Torn Page of Mastery Wind](#torn-page-of-mastery-wind)
-                - [ ] [Torn Page of Mastery Fire](#torn-page-of-mastery-fire)
+            - [ ] [Torn Page of Mastery Earth](#torn-page-of-mastery-earth)
+            - [ ] [Torn Page of Mastery Water](#torn-page-of-mastery-water)
+            - [ ] [Torn Page of Mastery Wind](#torn-page-of-mastery-wind)
+            - [ ] [Torn Page of Mastery Fire](#torn-page-of-mastery-fire)
         - [ ] [Words of Magi'Kot](#words-of-magikot)
-                - [ ] [Torn Page of Magi'Kot pg 1](#torn-page-of-magikot-pg-1)
-                - [ ] [Torn Page of Magi'Kot pg 2](#torn-page-of-magikot-pg-2)
-                - [ ] [Torn Page of Magi'Kot pg 3](#torn-page-of-magikot-pg-3)
+            - [ ] [Torn Page of Magi'Kot pg 1](#torn-page-of-magikot-pg-1)
+            - [ ] [Torn Page of Magi'Kot pg 2](#torn-page-of-magikot-pg-2)
+            - [ ] [Torn Page of Magi'Kot pg 3](#torn-page-of-magikot-pg-3)
         - [ ] [Element of Fire](#element-of-fire)
-                - [ ] [Burning Embers](#burning-embers)
-                - [ ] [Blazing Wand](#blazing-wand)
-                - [ ] [Torch of the Elements](#torch-of-the-elements)
+            - [ ] [Burning Embers](#burning-embers)
+            - [ ] [Blazing Wand](#blazing-wand)
+            - [ ] [Torch of the Elements](#torch-of-the-elements)
         - [ ] [Element of Wind](#element-of-wind)
-                - [ ] [Crown of Elemental Mastery](#crown-of-elemental-mastery)
-                - [ ] [Pegasus Feather Cloak](#pegasus-feather-cloak)
-                - [ ] [Elemental Binder](#elemental-binder)
+            - [ ] [Crown of Elemental Mastery](#crown-of-elemental-mastery)
+            - [ ] [Pegasus Feather Cloak](#pegasus-feather-cloak)
+            - [ ] [Elemental Binder](#elemental-binder)
         - [ ] [Element of Earth](#element-of-earth)
-                - [ ] [Staff of Elemental Mastery: Earth](#staff-of-elemental-mastery-earth)
-                - [ ] [Dirt of Underfoot](#dirt-of-underfoot)
-                - [ ] [Shovel of Ponz](#shovel-of-ponz)
-                    - [ ] [Gargoyle Eye](#gargoyle-eye)
-                    - [ ] [Hill Giant Toes](#hill-giant-toes)
-                    - [ ] [Ruby](#ruby)
-                    - [ ] [Shovel](#shovel)
-                - [ ] [Broom of Trillon](#broom-of-trillon)
-                    - [ ] [Cyclops Toes](#cyclops-toes)
-                    - [ ] [Griffin Feathers](#griffin-feathers)
-                    - [ ] [Star Ruby](#star-ruby)
-                    - [ ] [Broom](#broom)
+            - [ ] [Staff of Elemental Mastery: Earth](#staff-of-elemental-mastery-earth)
+            - [ ] [Dirt of Underfoot](#dirt-of-underfoot)
+            - [ ] [Shovel of Ponz](#shovel-of-ponz)
+            - [ ] [Gargoyle Eye](#gargoyle-eye)
+            - [ ] [Hill Giant Toes](#hill-giant-toes)
+            - [ ] [Ruby](#ruby)
+            - [ ] [Shovel](#shovel)
+            - [ ] [Broom of Trillon](#broom-of-trillon)
+            - [ ] [Cyclops Toes](#cyclops-toes)
+            - [ ] [Griffin Feathers](#griffin-feathers)
+            - [ ] [Star Ruby](#star-ruby)
+            - [ ] [Broom](#broom)
         - [ ] [Element of Water](#element-of-water)
-                - [ ] [Rain of Karana](#rain-of-karana)
-                - [ ] [Staff of Elemental Mastery: Water](#staff-of-elemental-mastery-water)
-                - [ ] [Tears of Erollisi](#tears-of-erollisi)
+            - [ ] [Rain of Karana](#rain-of-karana)
+            - [ ] [Staff of Elemental Mastery: Water](#staff-of-elemental-mastery-water)
+            - [ ] [Tears of Erollisi](#tears-of-erollisi)
     - [ ] [The Quest](#the-quest)
         - [ ] [Quest: Power of the Elements](#quest-power-of-the-elements)
         - [ ] [Quest: Words of Mastery](#quest-words-of-mastery)
@@ -232,7 +245,7 @@ Give Crown of Elemental Mastery, [Pegasus Feather Cloak](https://www.pqdi.cc/ite
         - [Ruby](https://www.pqdi.cc/item/10035) - Bought off various Jewelcrafting vendors (Audri [Deep](https://www.pqdi.cc/npc/85223)facet, Northern Trader Building, [PoK](https://www.pqdi.cc/zone/202) | Loc: +400, +760)
         - [Shovel](https://www.pqdi.cc/item/16545) - Dropped off [Magicians](https://www.pqdi.cc/npc/44089) in [Najena](https://www.pqdi.cc/zone/44). Rare drop.
 
- ![Temple-of-Sol-Ro-Map-Vira 1.jpg](/assets/images/epics/magician/Temple-of-Sol-Ro-Map-Vira 1.jpg)
+ ![Temple-of-Sol-Ro-Map-Vira.jpg](/assets/images/epics/magician/Temple-of-Sol-Ro-Map-Vira.jpg)
 
 [Script Page](https://www.pqdi.cc/script-entities/soltemple/Vira)
 
@@ -282,3 +295,5 @@ This is a spell that will summon [Orb of Mastery](https://www.pqdi.cc/item/28034
 [Master of Elements](https://www.pqdi.cc/npc/71040) is a giant air elemental that spawns on Quest Island. If he is not up, you can say "I want to see the master" to [Kihun Solstin](https://www.pqdi.cc/npc/71055) to spawn him.
 
 ![Mage-1.0-Item.jpg](/assets/images/epics/magician/Mage-1.0-Item.jpg)
+
+_Submit your own Epic screenshots to display here!_

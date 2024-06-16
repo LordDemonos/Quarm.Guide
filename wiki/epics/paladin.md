@@ -1,3 +1,16 @@
+---
+title: "Paladin Epic Quest Guide: Fiery Defender - Project Quarm"
+description: >-
+  Detailed walkthrough for the Paladin Epic quest in Project Quarm, focusing on obtaining the Fiery Defender. This guide covers all necessary steps, including item collection, NPC interactions, and specific quest stages across multiple zones.
+
+keywords: >-
+  Paladin Epic Quest, Fiery Defender, Project Quarm, EverQuest Paladin Guide, MMORPG quests, fantasy game quests, epic weapon quests, online gaming guides, quest items, NPC interactions, quest strategy
+
+author: Xanax, Talodar
+toc: false
+published: true
+sitemap: true
+---
 # Paladin Epic - [Fiery Defender](https://www.pqdi.cc/item/10099)
 
 - [ ] [Paladin Epic - Fiery Defender](#paladin-epic-fiery-defender)
@@ -222,7 +235,7 @@ Make sure you are at least Kindly (I was high Kindly) faction with him.
 
 2. Then give him [Glowing Sword Hilt](https://www.pqdi.cc/item/12197), [Brilliant Sword of Faith](https://www.pqdi.cc/item/13947), [Testimony](https://www.pqdi.cc/item/18828), [Note](https://www.pqdi.cc/item/18937) to receive [SoulFire](https://www.pqdi.cc/item/5504)!
 
-![SoulFire-Graphic.jpeg](/assets/images/epics/paladin/SoulFire-Graphic.jpeg)
+![SoulFire-Graphic.jpeg](static/guide_images/epics/paladin/SoulFire-Graphic.jpeg)
 ![SoulFire-Stats.png](/assets/images/epics/paladin/SoulFire-Stats.png)
 
 ## [Ghoulbane](https://www.pqdi.cc/item/5403)
@@ -282,33 +295,33 @@ Loot [Torn, Burnt Book](https://www.pqdi.cc/item/19071) from any of the followin
 * [Lord Nagafen](https://www.pqdi.cc/npc/32040) in [Nagafen's Lair](https://www.pqdi.cc/zone/32)
 * [Severilous](https://www.pqdi.cc/npc/94002) in [Emerald Jungle](https://www.pqdi.cc/zone/94)
 
-'![Talendor.jpg](' + $newBasePath + ($args[1] -replace [regex]::Escape($oldBasePath), '') + ')'
-'![Gorenaire.jpg](' + $newBasePath + ($args[1] -replace [regex]::Escape($oldBasePath), '') + ')'
+![Talendor.jpg](/assets/images/epics/paladin/Talendor.jpg)
+![Gorenaire.jpg](/assets/images/epics/paladin/Gorenaire.jpg)
 
 ### Step 18
 [Script Page](https://www.pqdi.cc/script-entities/qeynos2/Rineval_Talyas)
 
 Once you have both books, go to [North Qeynos](https://www.pqdi.cc/zone/2) and find [Rineval Talyas](https://www.pqdi.cc/npc/2041) (-160, -345). Give her Torn, [Frost-Covered Book](https://www.pqdi.cc/item/19070), [Torn, Burnt Book](https://www.pqdi.cc/item/19071), and 1000pp to receive [Book of Scale](https://www.pqdi.cc/item/18302) (tradable).
 
-'![Rineval-Talyas-Map.jpg](' + $newBasePath + ($args[1] -replace [regex]::Escape($oldBasePath), '') + ')'
-'![Rineval-Talyas.jpg](' + $newBasePath + ($args[1] -replace [regex]::Escape($oldBasePath), '') + ')'
+![Rineval-Talyas-Map.jpg](/assets/images/epics/paladin/Rineval-Talyas-Map.jpg)
+![Rineval-Talyas.jpg](/assets/images/epics/paladin/Rineval-Talyas.jpg)
 
 ### Step 19
 [Script Page](https://www.pqdi.cc/script-entities/oot/Oracle_of_K-Arnon)
 
 Go to [Ocean of Tears](https://www.pqdi.cc/zone/69) and give [Book of Scale](https://www.pqdi.cc/item/18302) to [Oracle of K'Arnon](https://www.pqdi.cc/npc/69044) to receive [Miragul's Phylactery](https://www.pqdi.cc/item/19072).
 
-'![Ocean-of-Tears-Map-Rogue-1.0.jpg](' + $newBasePath + ($args[1] -replace [regex]::Escape($oldBasePath), '') + ')'
-'![Oracle-of-KArnon.jpg](' + $newBasePath + ($args[1] -replace [regex]::Escape($oldBasePath), '') + ')'
+![Ocean-of-Tears-Map-Rogue-1.0.jpg](/assets/images/epics/paladin/Ocean-of-Tears-Map-Rogue-1.0.jpg)
+![Oracle-of-KArnon.jpg](/assets/images/epics/paladin/Oracle-of-KArnon.jpg)
 
 ### Step 20
 [Script Page](https://www.pqdi.cc/script-entities/everfrost/Lich_of_Miragul)
 
 Head to [Everfrost](https://www.pqdi.cc/zone/30). You will need to find an opening in the frozen lake and swim to the underwater tunnels. You are looking for [Lich of Miragul](https://www.pqdi.cc/npc/30093). He roams around in the caves. He will con as "KOS", however he doesn't attack and you shouldn't need to charm him to do the turn-in. I was able to hand it in with no problems. Give him [Miragul](https://www.pqdi.cc/npc/30094)'s Phylactery to spawn [Miragul](https://www.pqdi.cc/npc/30094). Kill [Miragul](https://www.pqdi.cc/npc/30094) and loot [Miragul's Head](https://www.pqdi.cc/item/19073) and [Miragul's Robe](https://www.pqdi.cchttps://www.pqdi.cc/item/1254). 
 
-'![Everfrost-Map-Paladin-1.0.jpg](' + $newBasePath + ($args[1] -replace [regex]::Escape($oldBasePath), '') + ')'
-'![Lich-of-Miragul.jpg](' + $newBasePath + ($args[1] -replace [regex]::Escape($oldBasePath), '') + ')'
-'![Miragul.jpg](' + $newBasePath + ($args[1] -replace [regex]::Escape($oldBasePath), '') + ')'
+![Everfrost-Map-Paladin-1.0.jpg](/assets/images/epics/paladin/Everfrost-Map-Paladin-1.0.jpg)
+![Lich-of-Miragul.jpg](/assets/images/epics/paladin/Lich-of-Miragul.jpg)
+![Miragul.jpg](/assets/images/epics/paladin/Miragul.jpg)
 
 ### Step 21
 
@@ -334,37 +347,37 @@ Head to [Everfrost](https://www.pqdi.cc/zone/30). You will need to find an openi
     - Next, give [Inte Akera](https://www.pqdi.cc/npc/71091) [Ghoulbane](https://www.pqdi.cc/item/5403) to receive [Inte's Second Blessing](https://www.pqdi.cc/item/18034).
     - Finally, give [Inte Akera](https://www.pqdi.cc/npc/71091) [Inte's First Blessing](https://www.pqdi.cc/item/18033), [Inte's Second Blessing](https://www.pqdi.cc/item/18034), [Miragul](https://www.pqdi.cc/npc/30094)'s Robe, [Miragul's Head](https://www.pqdi.cc/item/19073) to receive [Fiery Avenger](https://www.pqdi.cc/item/11050)!
 
-'![Plane-of-Sky-General.jpg](' + $newBasePath + ($args[1] -replace [regex]::Escape($oldBasePath), '') + ')'
-'![Dason-Goldblade.jpg](' + $newBasePath + ($args[1] -replace [regex]::Escape($oldBasePath), '') + ')'
-'![Dirkog-Steelhand.jpg](' + $newBasePath + ($args[1] -replace [regex]::Escape($oldBasePath), '') + ')'
-'![Inte-Akera.jpg](' + $newBasePath + ($args[1] -replace [regex]::Escape($oldBasePath), '') + ')'
+![Plane-of-Sky-General.jpg](/assets/images/epics/paladin/Plane-of-Sky-General.jpg)
+![Dason-Goldblade.jpg](/assets/images/epics/paladin/Dason-Goldblade.jpg)
+![Dirkog-Steelhand.jpg](/assets/images/epics/paladin/Dirkog-Steelhand.jpg)
+![Inte-Akera.jpg](/assets/images/epics/paladin/Inte-Akera.jpg)
 
 ## [Fiery Defender](https://www.pqdi.cc/item/10099)
 [Fiery Defender](https://www.pqdi.cc/item/10099) is the final reward in the Paladin Epic. It requires that you already have [Fiery Avenger](https://www.pqdi.cc/item/11050).
 
-'![Fiery-Avenger-Stats.png](' + $newBasePath + ($args[1] -replace [regex]::Escape($oldBasePath), '') + ')'
-![SoulFire-Graphic.jpeg](static/guide_images/epics/paladin/SoulFire-Graphic.jpeg)
+![Fiery-Avenger-Stats.png](/assets/images/epics/paladin/Fiery-Avenger-Stats.png)
+![SoulFire-Graphic.jpeg](/assets/images/epics/paladin/SoulFire-Graphic.jpeg)
 
 ### Step 21
 [Script Page](https://www.pqdi.cc/script-entities/nektulos/Kirak_Vil)
 
 Head to [Nektulos Forest](https://www.pqdi.cc/zone/25) with a group. Find [Kirak Vil](https://www.pqdi.cc/npc/25301), Say "i am a paladin". He will attack. Kill him and loot [Tainted Darksteel Shield](https://www.pqdi.cc/item/29002).
 
-'![Kirak-Vil-Map.jpg](' + $newBasePath + ($args[1] -replace [regex]::Escape($oldBasePath), '') + ')'
-'![Kirak-Vil.jpg](' + $newBasePath + ($args[1] -replace [regex]::Escape($oldBasePath), '') + ')'
+![Kirak-Vil-Map.jpg](/assets/images/epics/paladin/Kirak-Vil-Map.jpg)
+![Kirak-Vil.jpg](/assets/images/epics/paladin/Kirak-Vil.jpg)
 
 ### Step 22
 Go to [The Hole](https://www.pqdi.cc/zone/39). You will need to kill [Keeper of The Tombs](https://www.pqdi.cc/npc/39116) and loot [Tainted Darksteel Sword](https://www.pqdi.cc/item/29000). Supposedly on a 3 day respawn (not confirmed). Take a group or two in Kunark era. Level 55.
 
-'![Graveyard-Map.png](' + $newBasePath + ($args[1] -replace [regex]::Escape($oldBasePath), '') + ')'
-'![Keeper-of-the-Tombs.jpg](' + $newBasePath + ($args[1] -replace [regex]::Escape($oldBasePath), '') + ')'
-'![Keeper-of-the-Tombs-Map.jpg](' + $newBasePath + ($args[1] -replace [regex]::Escape($oldBasePath), '') + ')'
+![Graveyard-Map.png](/assets/images/epics/paladin/Graveyard-Map.png)
+![Keeper-of-the-Tombs.jpg](/assets/images/epics/paladin/Keeper-of-the-Tombs.jpg)
+![Keeper-of-the-Tombs-Map.jpg](/assets/images/epics/paladin/Keeper-of-the-Tombs-Map.jpg)
 
 ### Step 23
 Go to [Plane of Hate](https://www.pqdi.cc/zone/76). Kill [thought destroyer](https://www.pqdi.cc/npc/76387) (-210, -590) and loot [Tainted Darksteel Breastplate](https://www.pqdi.cc/item/29001). Respawn timer unconfirmed. Level 55. No PH. A couple of groups might be needed during Kunark?
 
-'![thought-destroyer-map-1.jpg](' + $newBasePath + ($args[1] -replace [regex]::Escape($oldBasePath), '') + ')'
-'![thought-destroyer-1.jpg](' + $newBasePath + ($args[1] -replace [regex]::Escape($oldBasePath), '') + ')'
+![thought-destroyer-map-1.jpg](/assets/images/epics/paladin/thought-destroyer-map-1.jpg)
+![thought-destroyer-1.jpg](/assets/images/epics/paladin/thought-destroyer-1.jpg)
 
 ### Step 24
 [Script Page](https://www.pqdi.cc/script-entities/kaladimb/Jark)
@@ -379,17 +392,17 @@ Go to [Plane of Hate](https://www.pqdi.cc/zone/76). Kill [thought destroyer](htt
 
 3. Go back to [Jark](https://www.pqdi.cc/npc/67056) and give him [Cold Plate of Beef and Bread](https://www.pqdi.cc/item/29007) to receive [Pure Crystal](https://www.pqdi.cc/item/29006).
 
-'![Jark-Map.jpg](' + $newBasePath + ($args[1] -replace [regex]::Escape($oldBasePath), '') + ')'
-'![Jark.jpg](' + $newBasePath + ($args[1] -replace [regex]::Escape($oldBasePath), '') + ')'
-'![Nella-Stonebraids.jpg](' + $newBasePath + ($args[1] -replace [regex]::Escape($oldBasePath), '') + ')'
+![Jark-Map.jpg](/assets/images/epics/paladin/Jark-Map.jpg)
+![Jark.jpg](/assets/images/epics/paladin/Jark.jpg)
+![Nella-Stonebraids.jpg](/assets/images/epics/paladin/Nella-Stonebraids.jpg)
 
 ### Step 25
 [Script Page](https://www.pqdi.cc/script-entities/felwithea/Elia_the_Pure)
 
 Go to [Northern Felwithe](https://www.pqdi.cc/zone/61). Give [Elia the Pure](https://www.pqdi.cc/npc/61013) the [Tainted Darksteel Shield](https://www.pqdi.cc/item/29002) to receive [Gleaming Crested Shield](https://www.pqdi.cc/item/29005).
 
-'![Elia-the-Pure-Map.jpg](' + $newBasePath + ($args[1] -replace [regex]::Escape($oldBasePath), '') + ')'
-'![Elia-the-Pure.jpg](' + $newBasePath + ($args[1] -replace [regex]::Escape($oldBasePath), '') + ')'
+![Elia-the-Pure-Map.jpg](/assets/images/epics/paladin/Elia-the-Pure-Map.jpg)
+![Elia-the-Pure.jpg](/assets/images/epics/paladin/Elia-the-Pure.jpg)
 
 ### Step 26
 
@@ -397,9 +410,9 @@ Go to [Northern Felwithe](https://www.pqdi.cc/zone/61). Give [Elia the Pure](htt
 
 Go to [West Freeport](https://www.pqdi.cc/zone/9) and find [peasant woman](https://www.pqdi.cc/npc/9122) (140, -550). Say "I will take it to him" to receive [Bucket of Water](https://www.pqdi.cc/item/29008). Give the [Bucket of Water](https://www.pqdi.cc/item/29008) to [Joshua](https://www.pqdi.cc/npc/9121) (also in [East Freeport](https://www.pqdi.cc/zone/10) (30, -470)) to receive [Bucket of Pure Water](https://www.pqdi.cc/item/29009).
 
-'![peasent-woman-map.jpg](' + $newBasePath + ($args[1] -replace [regex]::Escape($oldBasePath), '') + ')'
-'![peasent-woman.jpg](' + $newBasePath + ($args[1] -replace [regex]::Escape($oldBasePath), '') + ')'
-'![Joshua.jpg](' + $newBasePath + ($args[1] -replace [regex]::Escape($oldBasePath), '') + ')'
+![peasent-woman-map.jpg](/assets/images/epics/paladin/peasent-woman-map.jpg)
+![peasent-woman.jpg](/assets/images/epics/paladin/peasent-woman.jpg)
+![Joshua.jpg](/assets/images/epics/paladin/Joshua.jpg)
 
 ### Step 27
 
@@ -413,8 +426,8 @@ Go to [Erudin](https://www.pqdi.cc/zone/24) and locate [Reklon Gnallen](https://
 
 - Lastly, give [Reklon Gnallen](https://www.pqdi.cc/npc/24044) [Gleaming Crested Shield](https://www.pqdi.cc/item/29005), [Gleaming Crested Sword](https://www.pqdi.cc/item/29003), [Gleaming Crested Breastplate](https://www.pqdi.cc/item/29004) to receive [Mark of Atonement](https://www.pqdi.cc/item/29010).
 
-'![Reklon-Gnallen-Map.jpg](' + $newBasePath + ($args[1] -replace [regex]::Escape($oldBasePath), '') + ')'
-'![Reklon-Gnallen.jpg](' + $newBasePath + ($args[1] -replace [regex]::Escape($oldBasePath), '') + ')'
+![Reklon-Gnallen-Map.jpg](/assets/images/epics/paladin/Reklon-Gnallen-Map.jpg)
+![Reklon-Gnallen.jpg](/assets/images/epics/paladin/Reklon-Gnallen.jpg)
 
 ### Step 28
 Go to [Plane of Fear](https://www.pqdi.cc/zone/72). Bring your [Fiery Avenger](https://www.pqdi.cc/item/11050) and [Mark of Atonement](https://www.pqdi.cc/item/29010).
@@ -423,7 +436,9 @@ Go to [Plane of Fear](https://www.pqdi.cc/zone/72). Bring your [Fiery Avenger](h
 
 Give them both to [Irak Altil](https://www.pqdi.cc/npc/72078) to receive your [Fiery Defender](https://www.pqdi.cc/item/10099)!
 
-'![Irak-Altil-Map.jpg](' + $newBasePath + ($args[1] -replace [regex]::Escape($oldBasePath), '') + ')'
-'![Irak-Altil.jpg](' + $newBasePath + ($args[1] -replace [regex]::Escape($oldBasePath), '') + ')'
+![Irak-Altil-Map.jpg](/assets/images/epics/paladin/Irak-Altil-Map.jpg)
+![Irak-Altil.jpg](/assets/images/epics/paladin/Irak-Altil.jpg)
 
-'![Fiery-Defender-Stats.jpg](' + $newBasePath + ($args[1] -replace [regex]::Escape($oldBasePath), '') + ')'
+![Fiery-Defender-Stats.jpg](/assets/images/epics/paladin/Fiery-Defender-Stats.jpg)
+
+_Submit your own Epic screenshots to display here!_

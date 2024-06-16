@@ -1,3 +1,16 @@
+---
+title: "Monk Epic Quest Guide: Celestial Fists - Project Quarm"
+description: >-
+  In-depth guide for the Monk Epic quest in Project Quarm, focusing on obtaining the Celestial Fists. This guide provides detailed steps for collecting necessary items, completing quest stages, and engaging with NPCs across multiple zones.
+
+keywords: >-
+  Monk Epic Quest, Celestial Fists, Project Quarm, EverQuest Monk Guide, MMORPG quests, fantasy game quests, epic weapon quests, online gaming guides, quest items, NPC interactions, quest strategy
+
+author: Xanax, Talodar
+toc: false
+published: true
+sitemap: true
+---
 # Monk Epic - [Celestial Fists](https://www.pqdi.cc/item/1683)
 
 - [ ] [Part 1 - Robe of the Whistling Fists](https://www.pqdi.cc/item/12970)
@@ -233,3 +246,5 @@ Give "real" [Kaiaren](https://www.pqdi.cc/npc/95105) [Celestial Fists](https://w
 Then turn in [Book of Celestial Fists](https://www.pqdi.cc/item/1689) along with [Demon Fangs](https://www.pqdi.cc/item/1688) to receive [Celestial Fists](https://www.pqdi.cc/item/10652)!
 
 ![Celestial-Fists-Stats.jpg](/assets/images/epics/monk/Celestial-Fists-Stats.jpg)
+
+_Submit your own Epic screenshots to display here!_

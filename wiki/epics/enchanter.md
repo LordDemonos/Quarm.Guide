@@ -1,24 +1,37 @@
+---
+title: "Enchanter Epic Quest Guide: Staff of the Serpent - Project Quarm"
+description: >-
+  Detailed guide for the Enchanter Epic quest in Project Quarm, focusing on the steps to acquire the Staff of the Serpent. This guide includes comprehensive instructions for collecting pre-farmable items, completing various quest stages, and interacting with NPCs across multiple zones.
+
+keywords: >-
+  Enchanter Epic Quest, Staff of the Serpent, Project Quarm, EverQuest Enchanter Guide, MMORPG quests, fantasy game quests, epic weapon quests, online gaming guides, item farming, NPC interactions, quest walkthrough
+
+author: Xanax, Talodar
+toc: false
+published: true
+sitemap: true
+---
 # Enchanter Epic - [Staff of the Serpent](https://www.pqdi.cc/item/10650)
 
 - [ ] [Enchanter Epic - Staff of the Serpent](#enchanter-epic---staff-of-the-serpent)
     - [ ] [Pre-Farmable Items](#pre-farmable-items)
         - [ ] [Purchased Items](#purchased-items)
-                - [ ] [Quill](#quill)
-                - [ ] [Piece of Parchment](#piece-of-parchment)
+        - [ ] [Quill](#quill)
+        - [ ] [Piece of Parchment](#piece-of-parchment)
         - [ ] [Looted Items](#looted-items)
-                - [ ] [Shining Metallic Robes](#shining-metallic-robes)
-                - [ ] [Xolion Rod](#xolion-rod)
-                - [ ] [Innoruuk's Word](#innoruuks-word)
-                - [ ] [Head of a Prince](#head-of-a-prince)
-                - [ ] [Spoon](#spoon)
-                - [ ] [Head of the Serpent](#head-of-the-serpent)
-                - [ ] [Essence of a Vampire](#essence-of-a-vampire)
-                - [ ] [Sands of the Mystic](#sands-of-the-mystic)
-                - [ ] [Essence of a Ghost](#essence-of-a-ghost)
+        - [ ] [Shining Metallic Robes](#shining-metallic-robes)
+        - [ ] [Xolion Rod](#xolion-rod)
+        - [ ] [Innoruuk's Word](#innoruuks-word)
+        - [ ] [Head of a Prince](#head-of-a-prince)
+        - [ ] [Spoon](#spoon)
+        - [ ] [Head of the Serpent](#head-of-the-serpent)
+        - [ ] [Essence of a Vampire](#essence-of-a-vampire)
+        - [ ] [Sands of the Mystic](#sands-of-the-mystic)
+        - [ ] [Essence of a Ghost](#essence-of-a-ghost)
         - [ ] [Ground Spawns](#ground-spawns)
-                - [ ] [The One Key](#the-one-key)
-                - [ ] [Lost Scroll](#lost-scroll)
-                - [ ] [Charm and Sacrifice](#charm-and-sacrifice)
+        - [ ] [The One Key](#the-one-key)
+        - [ ] [Lost Scroll](#lost-scroll)
+        - [ ] [Charm and Sacrifice](#charm-and-sacrifice)
     - [ ] [Jeb's Seal](#jebs-seal)
         - [ ] [Step 1A](#step-1a)
         - [ ] [Step 1B](#step-1b)
@@ -312,8 +325,8 @@ Combine [Enchanted Emerald](https://www.pqdi.cc/item/10621), [Enchanted Ruby](ht
 
 Give [Nadia Starfeast](https://www.pqdi.cc/npc/84116) [Sack for Nadia](https://www.pqdi.cc/item/10637) to receive [3rd Piece of Staff](https://www.pqdi.cc/item/10612).
 
-![kunarkgatesnadia 1.png](/assets/images/epics/enchanter/kunarkgatesnadia 1.png)
-![Nadia-Starfeast 1.png](/assets/images/epics/enchanter/Nadia-Starfeast 1.png)
+![kunarkgatesnadia.png](/assets/images/epics/enchanter/kunarkgatesnadia.png)
+![Nadia-Starfeast.png](/assets/images/epics/enchanter/Nadia-Starfeast.png)
 
 ## Fourth Piece of Staff
 
@@ -362,7 +375,9 @@ In [The [Hole](https://www.pqdi.cc/zone/39)]([The Hole](https://www.pqdi.cc/zone
 
 Go back to [Burning Woods](https://www.pqdi.cc/zone/87) and find [a sarnak imitator](https://www.pqdi.cc/npc/87001) (-1200, -4000). Give him [Bundle of Staves](https://www.pqdi.cc/item/10639) to receive [Staff of the Serpent](https://www.pqdi.cc/item/10650)!
 
-![a-sarnak-imitator-map 1.jpg](/assets/images/epics/enchanter/a-sarnak-imitator-map 1.jpg)
-![a-sarnak-imitator 1.jpg](/assets/images/epics/enchanter/a-sarnak-imitator 1.jpg)
+![a-sarnak-imitator-map.jpg](/assets/images/epics/enchanter/a-sarnak-imitator-map.jpg)
+![a-sarnak-imitator.jpg](/assets/images/epics/enchanter/a-sarnak-imitator.jpg)
 
 ![Staff-of-the-Serpent-Stats1.jpg](/assets/images/epics/enchanter/Staff-of-the-Serpent-Stats1.jpg)
+
+_Submit your own Epic screenshots to display here!_

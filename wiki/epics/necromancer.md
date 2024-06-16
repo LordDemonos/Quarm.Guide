@@ -1,12 +1,25 @@
+---
+title: "Necromancer Epic Quest Guide: Scythe of the Shadowed Soul - Project Quarm"
+description: >-
+  Comprehensive guide for the Necromancer Epic quest in Project Quarm, detailing the steps to acquire the Scythe of the Shadowed Soul. This guide includes all necessary pre-farmable items, detailed quest stages, and NPC interactions across various zones.
+
+keywords: >-
+  Necromancer Epic Quest, Scythe of the Shadowed Soul, Project Quarm, EverQuest Necromancer Guide, MMORPG quests, fantasy game quests, epic weapon quests, online gaming guides, item farming, NPC interactions, quest walkthrough
+
+author: Xanax, Talodar
+toc: false
+published: true
+sitemap: true
+---
 # Necromancer Epic - [Scythe of the Shadowed Soul](https://www.pqdi.cc/item/20544)
 
 - [ ] [Necromancer Epic - Scythe of the Shadowed Soul](#necromancer-epic---scythe-of-the-shadowed-soul)
     - [ ] [Pre-Farmable Items](#pre-farmable-items)
-                - [ ] [Flowing Black Robe](#flowing-black-robe)
-                - [ ] [Manisi Herb](#manisi-herb)
-                - [ ] [Cloak of [Spiroc Feathers](#cloak-of-spiroc-feathers)
-                - [ ] [Slime Blood of [Cazic-Thule](#slime-blood-of-cazic-thule)
-                - [ ] [Eye of Innoruuk](#eye-of-innoruuk)
+        - [ ] [Flowing Black Robe](#flowing-black-robe)
+        - [ ] [Manisi Herb](#manisi-herb)
+        - [ ] [Cloak of Spiroc Feathers](#cloak-of-spiroc-feathers)
+        - [ ] [Slime Blood of Cazic-Thule](#slime-blood-of-cazic-thule)
+        - [ ] [Eye of Innoruuk](#eye-of-innoruuk)
     - [ ] [The Quest](#the-quest)
         - [ ] [Step 1](#step-1)
         - [ ] [Step 2](#step-2)
@@ -133,13 +146,13 @@ Go to [Plane of Fear](https://www.pqdi.cc/zone/72) and loot [Slime Blood of Cazi
 
 Drops off [Cazic-Thule](https://www.pqdi.cc/npc/72003). Tradable.
 
-'![Terror.jpg](' + $newBasePath + ($args[1] -replace [regex]::Escape($oldBasePath), '') + ')'
+![Terror.jpg](/assets/images/epics/necromancer/Terror.jpg)
 
 ### Step 11
 Go to [Plane of Hate](https://www.pqdi.cc/zone/76) and loot [Eye of Innoruuk](https://www.pqdi.cc/item/20656). Seems to drop off of most mini-named.
 
-'![Vicar-Map.jpg](' + $newBasePath + ($args[1] -replace [regex]::Escape($oldBasePath), '') + ')'
-'![Vicar-MKari.jpg](' + $newBasePath + ($args[1] -replace [regex]::Escape($oldBasePath), '') + ')'
+![Vicar-Map.jpg](/assets/images/epics/necromancer/Vicar-Map.jpg)
+![Vicar-MKari.jpg](/assets/images/epics/necromancer/Vicar-MKari.jpg)
 
 ### Step 12
 [Script Page](https://www.pqdi.cc/script-entities/timorous/Drendico_Metalbones)
@@ -148,29 +161,31 @@ Head over to [Timorous Deep](https://www.pqdi.cc/zone/96). Give [Symbol of Insan
 
 Next, give him [Journal of Drendico](https://www.pqdi.cc/item/18086), [Slime Blood of Cazic-Thule](https://www.pqdi.cc/item/20655), [Eye of Innoruuk](https://www.pqdi.cc/item/20656), and [Cloak of Spiroc Feathers](https://www.pqdi.cc/item/1278) to receive [Prepared Reagent Box](https://www.pqdi.cc/item/20653).
 
-'![Drendico-Metalbones-Map.jpg](' + $newBasePath + ($args[1] -replace [regex]::Escape($oldBasePath), '') + ')'
-'![Drendico-Metalbones.jpg](' + $newBasePath + ($args[1] -replace [regex]::Escape($oldBasePath), '') + ')'
+![Drendico-Metalbones-Map.jpg](/assets/images/epics/necromancer/Drendico-Metalbones-Map.jpg)
+![Drendico-Metalbones.jpg](/assets/images/epics/necromancer/Drendico-Metalbones.jpg)
 
 ### Step 13
 Go back to [Lake Rathetear](https://www.pqdi.cc/zone/51). Give [Prepared Reagent Box](https://www.pqdi.cc/item/20653) to [Kazen Fecae](https://www.pqdi.cc/npc/51048) to receive [Tome of Instruction](https://www.pqdi.cc/item/18087).
 
-'![Kazen-Fecae-Map.jpg](' + $newBasePath + ($args[1] -replace [regex]::Escape($oldBasePath), '') + ')'
-'![Kazen-Fecae.jpg](' + $newBasePath + ($args[1] -replace [regex]::Escape($oldBasePath), '') + ')'
+![Kazen-Fecae-Map.jpg](/assets/images/epics/necromancer/Kazen-Fecae-Map.jpg)
+![Kazen-Fecae.jpg](/assets/images/epics/necromancer/Kazen-Fecae.jpg)
 
 ### Step 14
 [Script Page](https://www.pqdi.cc/script-entities/lakerathe/Kazen_Fecae)
 
 Go to [Plane of Sky](https://www.pqdi.cc/zone/71) again. On the first island you will find [a thunder spirit princess](https://www.pqdi.cc/npc/71032). Give her 1 platinum. Doing so will spawn [Gkzzallk](https://www.pqdi.cc/npc/71073) on Island 3. Go up to him. He is inside the hut in the middle of the island. Other mobs should not aggro as long as you're inside. Give [Gkzzallk](https://www.pqdi.cc/npc/71073) [Tome of Instruction](https://www.pqdi.cc/item/18087) to receive [Gkzzallk in a Box](https://www.pqdi.cc/item/20652).
 
-'![Gkzzallk.jpg](' + $newBasePath + ($args[1] -replace [regex]::Escape($oldBasePath), '') + ')'
-'![a-thunder-spirit-princess.jpg](' + $newBasePath + ($args[1] -replace [regex]::Escape($oldBasePath), '') + ')'
+![Gkzzallk.jpg](/assets/images/epics/necromancer/Gkzzallk.jpg)
+![a-thunder-spirit-princess.jpg](/assets/images/epics/necromancer/a-thunder-spirit-princess.jpg)
 
 ### Final Turn In
 [Script Page](https://www.pqdi.cc/script-entities/lakerathe/Kazen_Fecae)
 
 Give [Gkzzallk in a Box](https://www.pqdi.cc/item/20652) to [Kazen Fecae](https://www.pqdi.cc/npc/51048) in [Lake Rathetear](https://www.pqdi.cc/zone/51) for your [Scythe of the Shadowed Soul](https://www.pqdi.cc/item/20544)!
 
-'![Kazen-Fecae-Map.jpg](' + $newBasePath + ($args[1] -replace [regex]::Escape($oldBasePath), '') + ')'
-'![Kazen-Fecae.jpg](' + $newBasePath + ($args[1] -replace [regex]::Escape($oldBasePath), '') + ')'
+![Kazen-Fecae-Map.jpg](/assets/images/epics/necromancer/Kazen-Fecae-Map.jpg)
+![Kazen-Fecae.jpg](/assets/images/epics/necromancer/Kazen-Fecae.jpg)
 
-'![Scythe-of-the-Shadowed-Soul-Stats.jpg](' + $newBasePath + ($args[1] -replace [regex]::Escape($oldBasePath), '') + ')'
+![Scythe-of-the-Shadowed-Soul-Stats.jpg](/assets/images/epics/necromancer/Scythe-of-the-Shadowed-Soul-Stats.jpg)
+
+_Submit your own Epic screenshots to display here!_

@@ -1,3 +1,14 @@
+---
+title: Ranger Epic Quest Guide - Earthcaller and Swiftwind - Project Quarm
+description: >-
+  Comprehensive guide detailing the steps to complete the Ranger Epic Quest in Quarm Guide, leading to the acquisition of Earthcaller and Swiftwind.
+keywords: >-
+  Ranger Epic Quest, Earthcaller, Swiftwind, Ranger Guide, Epic Weapons, MMORPG Quests
+author: Xanax, Talodar
+toc: false
+published: true
+sitemap: true
+---
 # Ranger Epic - [Earthcaller](https://www.pqdi.cc/item/20488) + [Swiftwind](https://www.pqdi.cc/item/20487)
 
 
@@ -174,8 +185,6 @@ Once all 4 items have been obtained, combine them [Shiny Tin Bowl](https://www.p
 Next you need [Keepers of the Art](/faction/275) Faction. Buy 3,000 [Bat Wing](https://www.pqdi.cc/item/13068) from any merchant (Ex: [Darius Gandril](https://www.pqdi.cc/npc/202138), West Trade Building, Plane of Knowledge.) Give them to [Niola Impholder](https://www.pqdi.cc/npc/62021) in [South Felwithe](https://www.pqdi.cc/zone/62). You can reach her via the middle teleport pad. You can turn them all at once stacked together. This should be enough to get you to Ally with [Keepers of the Art](/faction/275). Ally isn't necessary (only need Amiable), but I'd just go all out since it is so easy to obtain. You'll also get a bunch of copies of level 1 Mage [Spell: Flare](https://www.pqdi.cc/item/15310) upon turn-in so have some bag space. Just sell them.
 
 **You must be at least Indifferent faction to do this batwing turn-in quest.** If you are not yet indifferent, you are likely close. You can check with /faction. Kill a few of the following NPC's in the link to get to Indifferent, at that point you'll be able to turn in the Batwings to get up to Amiable+. I just killed the ones in [Neriak Foreign Quarter](https://www.pqdi.cc/zone/40).
-
-https://everquest.allakhazam.com/db/faction.html?faction=22
 
 ![Darius-Gandril-Map.jpg](/assets/images/epics/ranger/Darius-Gandril-Map.jpg)
 ![Darius-Gandril.jpg](/assets/images/epics/ranger/Darius-Gandril.jpg)
@@ -367,3 +376,5 @@ Go to [North Karana](https://www.pqdi.cc/zone/13) and find [Xanuusus](https://ww
 ![Xanuusus.jpg](/assets/images/epics/ranger/Xanuusus.jpg)
 
 ![Earthcaller.jpg](/assets/images/epics/ranger/Earthcaller.jpg)
+
+_Submit your own Epic screenshots to display here!_
