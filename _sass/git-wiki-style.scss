@@ -20,12 +20,21 @@ body {
   text-align: center;
 }
 
-.markdown-body img {
-    height: 200px;
-    width: auto;
-    display: inline-block;
-    margin-right: 10px;
-}
+   .markdown-body img {
+       height: 200px;
+       width: auto; 
+       margin-right: 10px; 
+       vertical-align: top;
+   }
+
+   .markdown-body p {
+       display: flex;
+       flex-wrap: wrap;
+   }
+
+   .markdown-body p img {
+       margin-bottom: 10px;
+   }
 
 #back-to-top-btn {
   position: fixed;
