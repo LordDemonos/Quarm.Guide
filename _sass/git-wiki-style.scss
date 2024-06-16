@@ -22,19 +22,20 @@ body {
 
 .markdown-body img {
     border: 2px solid red; 
-    height: 200px;
-    width: auto; 
-    margin-right: 10px; 
-    vertical-align: top;
+    height: 200px !important; /* Adjust the height as needed */
+    width: auto !important; /* Maintain aspect ratio */
+    display: inline-block !important;
+    margin-right: 10px !important; /* Space between images */
+    vertical-align: top !important; /* Align images to the top */
 }
 
 .markdown-body p {
-    display: flex;
-    flex-wrap: wrap;
+    display: flex !important;
+    flex-wrap: wrap !important;
 }
 
 .markdown-body p img {
-    margin-bottom: 10px;
+    margin-bottom: 10px !important; /* Space between rows of images */
 }
 
 #back-to-top-btn {
