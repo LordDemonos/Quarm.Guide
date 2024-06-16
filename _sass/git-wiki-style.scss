@@ -213,12 +213,36 @@ th {
 }
 
 img {
+    max-width: 100%;
+    vertical-align: middle;
+    border-style: none;
+}
+
+.resize-images img {
     height: 200px !important; /* Adjust the height as needed */
     width: auto !important; /* Maintain aspect ratio */
     display: inline-block !important;
     margin-right: 10px !important; /* Space between images */
     vertical-align: top !important; /* Align images to the top */
-    isolation: isolate;
+    isolation: isolate; /* Ensure dark mode does not affect this element */
+}
+
+.resize-images p {
+    display: flex !important;
+    flex-wrap: wrap !important;
+}
+
+.resize-images p img {
+    margin-bottom: 10px !important; /* Space between rows of images */
+}
+
+.no-resize {
+    height: auto !important;
+    width: auto !important;
+    display: block !important;
+    margin-right: 0 !important;
+    vertical-align: baseline !important;
+    isolation: auto !important;
 }
 
 .w3-teal {
