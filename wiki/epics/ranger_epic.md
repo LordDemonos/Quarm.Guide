@@ -183,9 +183,9 @@ Once all 4 items have been obtained, combine them [Shiny Tin Bowl](https://www.p
 ### Step 8
 [Script Page](https://www.pqdi.cc/script-entities/felwitheb/Niola_Impholder)
 
-Next you need [Keepers of the Art](https://www.pqdi.cc/faction/275) Faction. Buy 3,000 [Bat Wing](https://www.pqdi.cc/item/13068) from any merchant (Ex: [Darius Gandril](https://www.pqdi.cc/npc/202138), West Trade Building, Plane of Knowledge.) Give them to [Niola Impholder](https://www.pqdi.cc/npc/62021) in [South Felwithe](https://www.pqdi.cc/zone/62). You can reach her via the middle teleport pad. You can turn them all at once stacked together. This should be enough to get you to Ally with [Keepers of the Art](https://www.pqdi.cc/faction/275). Ally isn't necessary (only need Amiable), but I'd just go all out since it is so easy to obtain. You'll also get a bunch of copies of level 1 Mage [Spell: Flare](https://www.pqdi.cc/item/15310) upon turn-in so have some bag space. Just sell them.
+Next you need [Keepers of the Art](https://www.pqdi.cc/faction/275) faction. Buy 60 [Bat Wing](https://www.pqdi.cc/item/13068) from any merchant (Ex: [Katha Firespinner](https://www.pqdi.cc/npc/22092) in [East Commonlands](https://www.pqdi.cc/zone/22).) Give them to [Niola Impholder](https://www.pqdi.cc/npc/62021) in [South Felwithe](https://www.pqdi.cc/zone/62). She is just across the water, in the building to the north. If you haven't done anything to hurt your [Keepers of the Art](https://www.pqdi.cc/faction/275) faction, this will get you to amiable.
 
-**You must be at least Indifferent faction to do this batwing turn-in quest.** If you are not yet indifferent, you are likely close. You can check with /faction. Kill a few of the following NPC's in the link to get to Indifferent, at that point you'll be able to turn in the Batwings to get up to Amiable+. I just killed the ones in [Neriak Foreign Quarter](https://www.pqdi.cc/zone/40).
+**You must be at least indifferent faction to do this batwing turn-in quest. Check your [Keepers of the Art](https://www.pqdi.cc/faction/275) as you may not need this step!** If you are not yet indifferent, you can turn them in by sneaking behind [Niola Impholder](https://www.pqdi.cc/npc/62021).
 
 ![Darius-Gandril-Map.jpg](/assets/images/epics/ranger/Darius-Gandril-Map.jpg)
 ![Darius-Gandril.jpg](/assets/images/epics/ranger/Darius-Gandril.jpg)
