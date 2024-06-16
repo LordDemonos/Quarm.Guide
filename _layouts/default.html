@@ -9,15 +9,25 @@ layout: git-wiki-default
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ page.title }}</title>
-    <link rel="stylesheet" href="{{ '/assets/css/git-wiki-style.css' | relative_url }}">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Fira+Code&display=swap" rel="stylesheet">
     <link rel="preload" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
     <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap"></noscript>
+    <link rel="stylesheet" href="{{ '/assets/css/git-wiki-style.css' | relative_url }}">
 </head>
-<body class="{% if page.resize_images %}image-resize{% endif %}">
-    {{ content }}
+<body>
+    <div class="site">
+        <header>
+            <!-- Your header content -->
+        </header>
+        <main id="git-wiki-content{% if page.resize_images %} resize-images{% endif %}">
+            {{ content }}
+        </main>
+        <footer>
+            <!-- Your footer content -->
+        </footer>
+    </div>
     <div id="back-to-top-btn" style="display: none;"><a href="#top">^</a></div>
     <script src="{{ '/assets/js/back-to-top.js' | relative_url }}"></script>
 </body>
