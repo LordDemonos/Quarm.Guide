@@ -183,9 +183,9 @@ Once all 4 items have been obtained, combine them [Shiny Tin Bowl](https://www.p
 ### Step 8
 [Script Page](https://www.pqdi.cc/script-entities/felwitheb/Niola_Impholder)
 
-Raise your [Keepers of the Art](https://www.pqdi.cc/faction/275) faction to amiable. If you are already amiable with Keepers of the Art, you can skip this step.
+Raise your [Keepers of the Art](https://www.pqdi.cc/faction/275) faction to amiable. If you are already amiable with [Keepers of the Art](https://www.pqdi.cc/faction/275), you can skip this step.
 
-Buy 240 [Bat Wing](https://www.pqdi.cc/item/13068) from any merchant (Ex: [Katha Firespinner](https://www.pqdi.cc/npc/22092) in East Commonlands.) Give them to [Niola Impholder](https://www.pqdi.cc/npc/62021) in [South Felwithe](https://www.pqdi.cc/zone/62). She is just across the water, in the building to the north. If you haven't done anything to hurt your [Keepers of the Art](https://www.pqdi.cc/faction/275) faction, this will get you to amiable.
+Buy 240 [Bat Wing](https://www.pqdi.cc/item/13068) from any merchant (Ex: [Katha Firespinner](https://www.pqdi.cc/npc/22092) in [East Commonlands](https://www.pqdi.cc/zone/22).) Give them to [Niola Impholder](https://www.pqdi.cc/npc/62021) in [South Felwithe](https://www.pqdi.cc/zone/62). She is just across the water, in the building to the north. If you haven't done anything to hurt your [Keepers of the Art](https://www.pqdi.cc/faction/275) faction, this will get you to amiable.
 
 If your faction is apprehensive or worse, you may need to turn in more than 240 [Bat Wing](https://www.pqdi.cc/item/13068) to reach amiable. Sneak behind [Niola Impholder](https://www.pqdi.cc/npc/62021) to complete the turn-ins until you reach at lead indifferent faction.
 
