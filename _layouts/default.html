@@ -37,36 +37,19 @@ layout: git-wiki-default
     <script src="{{ '/assets/js/back-to-top.js' | relative_url }}"></script>
     <script>
       document.addEventListener('DOMContentLoaded', function () {
-        // Select all elements that look like Markdown checkboxes
-        document.querySelectorAll('li').forEach(function (item) {
-          var textContent = item.textContent.trim();
-          if (textContent.startsWith('[ ]') || textContent.startsWith('[x]')) {
-            // Create a new checkbox input
-            var checkbox = document.createElement('input');
-            checkbox.type = 'checkbox';
-            checkbox.checked = textContent.startsWith('[x]');
-            checkbox.style.marginRight = '10px';
+        // Select all disabled checkboxes within task list items and enable them
+        document.querySelectorAll('.task-list-item-checkbox').forEach(function (checkbox) {
+          checkbox.disabled = false; // Enable the checkbox
 
-            // Clear the existing content
-            while (item.firstChild) {
-              item.removeChild(item.firstChild);
-            }
-
-            // Add the checkbox and the rest of the content
-            item.appendChild(checkbox);
-            var label = document.createElement('label');
-            label.innerHTML = textContent.substring(3).trim(); // Adjust to skip '[ ]' or '[x]'
-            item.appendChild(label);
-
-            // Add event listener to update the checkbox text if needed
-            checkbox.addEventListener('change', function () {
-              if (checkbox.checked) {
-                label.innerHTML = '[x] ' + label.innerHTML;
-              } else {
-                label.innerHTML = '[ ] ' + label.innerHTML;
-              }
-            });
+          // Optionally, manage the checkbox state with localStorage or another method
+          var id = checkbox.closest('li').textContent.trim();
+          if (localStorage.getItem(id) === 'true') {
+            checkbox.checked = true;
           }
+
+          checkbox.addEventListener('change', function () {
+            localStorage.setItem(id, checkbox.checked);
+          });
         });
       });
     </script>
