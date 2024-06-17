@@ -74,6 +74,26 @@ body {
   height: 20px;
 }
 
+#git-wiki-content {
+  margin: 0 auto;
+  padding: 20px;
+  max-width: 800px;
+}
+
+@media (max-width: 900px) {
+  #git-wiki-content {
+    padding: 15px;
+    max-width: 90%;
+  }
+}
+
+@media (max-width: 600px) {
+  #git-wiki-content {
+    padding: 10px;
+    max-width: 100%;
+  }
+}
+
 h1[id]:hover .anchor-link-icon,
 h2[id]:hover .anchor-link-icon,
 h3[id]:hover .anchor-link-icon,
@@ -212,27 +232,30 @@ th {
   color: #444;
 }
 
-img,.darkmode-ignore {
-    max-width: 100%;
-    vertical-align: middle;
-    border-style: none;
+img,
+.darkmode-ignore {
+  max-width: 100%;
+  vertical-align: middle;
+  border-style: none;
 }
 
-.resize-img, .darkmode-ignore {
-    height: 200px !important;
-    width: auto !important; 
-    display: inline-block !important;
-    margin-right: 5px !important; 
-    vertical-align: top !important; 
-    isolation: isolate;
+.resize-img,
+.darkmode-ignore {
+  height: 200px !important;
+  width: auto !important;
+  display: inline-block !important;
+  margin-right: 5px !important;
+  vertical-align: top !important;
+  isolation: isolate;
 }
 
-.no-resize, .darkmode-ignore {
-    height: auto !important;
-    width: auto !important;
-    display: block !important;
-    margin-right: 0 !important;
-    isolation: auto !important;
+.no-resize,
+.darkmode-ignore {
+  height: auto !important;
+  width: auto !important;
+  display: block !important;
+  margin-right: 0 !important;
+  isolation: auto !important;
 }
 
 .w3-teal {
