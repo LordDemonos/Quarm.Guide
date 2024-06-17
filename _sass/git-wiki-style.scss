@@ -74,26 +74,6 @@ body {
   height: 20px;
 }
 
-.markdown-body input[type='checkbox'] {
-  display: none;
-}
-
-.markdown-body li {
-  list-style-type: none;
-  position: relative;
-  padding-left: 30px;
-}
-
-.markdown-body li::before {
-  content: '☐';
-  position: absolute;
-  left: 0;
-}
-
-.markdown-body li.checked::before {
-  content: '☑';
-}
-
 #git-wiki-content {
   margin: 0 auto;
   padding: 20px;
