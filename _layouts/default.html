@@ -39,23 +39,31 @@ layout: git-wiki-default
       document.addEventListener('DOMContentLoaded', function () {
         // Select all elements that look like Markdown checkboxes
         document.querySelectorAll('li').forEach(function (item) {
-          if (item.textContent.trim().startsWith('[ ]') || item.textContent.trim().startsWith('[x]')) {
+          var textContent = item.textContent.trim();
+          if (textContent.startsWith('[ ]') || textContent.startsWith('[x]')) {
             // Create a new checkbox input
             var checkbox = document.createElement('input');
             checkbox.type = 'checkbox';
-            checkbox.checked = item.textContent.trim().startsWith('[x]');
+            checkbox.checked = textContent.startsWith('[x]');
             checkbox.style.marginRight = '10px';
 
-            // Replace the Markdown checkbox with an interactive checkbox
-            item.textContent = item.textContent.trim().substring(3).trim();
-            item.insertBefore(checkbox, item.firstChild);
+            // Clear the existing content
+            while (item.firstChild) {
+              item.removeChild(item.firstChild);
+            }
+
+            // Add the checkbox and the rest of the content
+            item.appendChild(checkbox);
+            var label = document.createElement('label');
+            label.innerHTML = textContent.substring(3).trim(); // Adjust to skip '[ ]' or '[x]'
+            item.appendChild(label);
 
             // Add event listener to update the checkbox text if needed
             checkbox.addEventListener('change', function () {
               if (checkbox.checked) {
-                item.textContent = '[x] ' + item.textContent;
+                label.innerHTML = '[x] ' + label.innerHTML;
               } else {
-                item.textContent = '[ ] ' + item.textContent;
+                label.innerHTML = '[ ] ' + label.innerHTML;
               }
             });
           }
