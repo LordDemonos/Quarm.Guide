@@ -71,13 +71,13 @@ The [Hand of Glory](https://www.pqdi.cc/item/17274) allows you to open locked 
 
 _Note: All items except [Blood Encrusted Glove](https://www.pqdi.cc/item/17751) (4-slot container) are tradable._
 
-Quick Checklist
-[  ] Loot Ground spawn – [Intricate Toothed Ring](https://www.pqdi.cc/item/20523)
-[  ] Loot Ground spawn – [Ring-scored Talon ](https://www.pqdi.cc/item/20521)
-[  ] Loot Ground spawn – [Petrified Talonless Claw ](https://www.pqdi.cc/item/20522)
-[  ] Loot Ground spawn – [Blood Encrusted Glove](https://www.pqdi.cc/item/17751) (4-slot container)  
-[  ] Combine [Intricate Toothed Ring](https://www.pqdi.cc/item/20523) , [Ring-scored Talon ](https://www.pqdi.cc/item/20521) , and [Petrified Talonless Claw ](https://www.pqdi.cc/item/20522) in  – [Blood Encrusted Glove](https://www.pqdi.cc/item/17751) (4-slot container) to create [Hand of Glory](https://www.pqdi.cc/item/17274) .  
-[  ] Click on a locked door to add it to your key ring. A locked door near the zone-in is easiest.
+- Quick Checklist
+- [  ] Loot Ground spawn – [Intricate Toothed Ring](https://www.pqdi.cc/item/20523)
+- [  ] Loot Ground spawn – [Ring-scored Talon ](https://www.pqdi.cc/item/20521)
+- [  ] Loot Ground spawn – [Petrified Talonless Claw ](https://www.pqdi.cc/item/20522)
+- [  ] Loot Ground spawn – [Blood Encrusted Glove](https://www.pqdi.cc/item/17751) (4-slot container)
+- [  ] Combine [Intricate Toothed Ring](https://www.pqdi.cc/item/20523) , [Ring-scored Talon ](https://www.pqdi.cc/item/20521) , and [Petrified Talonless Claw ](https://www.pqdi.cc/item/20522) in  – [Blood Encrusted Glove](https://www.pqdi.cc/item/17751) (4-slot container) to create [Hand of Glory](https://www.pqdi.cc/item/17274) .
+- [  ] Click on a locked door to add it to your key ring. A locked door near the zone-in is easiest.
 
 ![Hand-of-Glory-Map.jpg](/assets/images/kunarkkey/Hand-of-Glory-Map.jpg)
 
