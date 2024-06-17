@@ -231,7 +231,7 @@ Now for a little running around:
 * Go back to [Timorous Deep](https://www.pqdi.cc/zone/96) and give [Alrik Farsight](https://www.pqdi.cc/npc/96032) (near Chessboard - Take [Butcherblock](https://www.pqdi.cc/zone/68) Dock) [Receipt](https://www.pqdi.cc/item/20474) to receive [Ancient Pattern](https://www.pqdi.cc/item/18960).
 
 ![Alrik-Farsight-Map.jpg](/assets/images/epics/ranger/Alrik-Farsight-Map.jpg)
-![Alrik-Farsight.jpg](/assets/images/epics/ranger/Alrik-Farsight.jpg)aa
+![Alrik-Farsight.jpg](/assets/images/epics/ranger/Alrik-Farsight.jpg)
 
 ### Step 11
 
