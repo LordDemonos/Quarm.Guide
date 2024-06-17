@@ -89,6 +89,14 @@ body {
   position: relative;
 }
 
+.item-icon {
+  display: inline-block;
+  height: 1em;
+  width: 1em;
+  background-position: center center;
+  background-size: cover;
+}
+
 #git-wiki-content {
   margin: 0 auto;
   padding: 20px;
