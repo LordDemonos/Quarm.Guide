@@ -74,6 +74,20 @@ body {
   height: 20px;
 }
 
+#tooltip-container {
+  position: absolute;
+  background-color: rgba(255, 255, 255, 0.025);
+  border: 1px solid #cccccc07;
+  padding: 10px;
+  display: none;
+  z-index: 1000;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.tooltip-link {
+  position: relative;
+}
+
 #git-wiki-content {
   margin: 0 auto;
   padding: 20px;
