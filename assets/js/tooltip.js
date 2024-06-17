@@ -23,13 +23,15 @@ document.addEventListener('DOMContentLoaded', function () {
 
     link.addEventListener('mouseenter', function (event) {
       clearTimeout(hideTooltipTimeout);
+      const cursorX = event.clientX;
+      const cursorY = event.clientY;
       fetch(`https://www.pqdi.cc/get-item-tooltip/${itemId}`)
         .then((response) => response.text())
         .then((html) => {
           tooltipContainer.innerHTML = html;
-          const rect = link.getBoundingClientRect();
-          tooltipContainer.style.left = `${rect.left}px`;
-          tooltipContainer.style.top = `${rect.bottom + 5}px`; // Slightly lower the tooltip
+          // Position tooltip 5px to the right and 5px below the cursor
+          tooltipContainer.style.left = `${cursorX + 5}px`;
+          tooltipContainer.style.top = `${cursorY + 5}px`;
           tooltipContainer.style.display = 'block';
         });
     });
