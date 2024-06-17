@@ -40,6 +40,9 @@ layout: git-wiki-default
         var checkboxes = document.querySelectorAll('.markdown-body input[type="checkbox"]');
 
         checkboxes.forEach(function (checkbox) {
+          // Remove the disabled attribute
+          checkbox.removeAttribute('disabled');
+
           checkbox.addEventListener('click', function () {
             this.checked = !this.checked;
             this.parentNode.classList.toggle('checked');
