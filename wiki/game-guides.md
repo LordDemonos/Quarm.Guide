@@ -18,6 +18,10 @@ Welcome to the central hub for all Project Quarm game guides.
         <ul>
             <li><a href="{{ 'BathorySSFGuide' | relative_url }}">Bathory's Solo Self Found Guide</a></li>
         </ul>
+        <h3>Access Guides</h3>
+        <ul>
+            <li><a href="{{ 'kunarkkeys' | relative_url }}">Ruins of Kunark Keys</a></li>
+        </ul>
     </div>
     <div style="flex: 1; margin-left: 10px;">
         <h3>Epic Guides</h3>
