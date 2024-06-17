@@ -29,7 +29,6 @@ document.addEventListener('DOMContentLoaded', function () {
         .then((response) => response.text())
         .then((html) => {
           tooltipContainer.innerHTML = html;
-          // Position tooltip 5px to the right and 5px below the cursor
           tooltipContainer.style.left = `${cursorX + 5}px`;
           tooltipContainer.style.top = `${cursorY + 5}px`;
           tooltipContainer.style.display = 'block';
@@ -37,10 +36,9 @@ document.addEventListener('DOMContentLoaded', function () {
     });
 
     link.addEventListener('mouseleave', function () {
-      // Delay hiding the tooltip
       hideTooltipTimeout = setTimeout(() => {
         tooltipContainer.style.display = 'none';
-      }, 300); // 300 ms delay before hiding the tooltip
+      }, 300);
     });
   });
 });
