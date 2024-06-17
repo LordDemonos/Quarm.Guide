@@ -53,7 +53,6 @@ google_cse_token: a63d5bc6abc884008
 # (string) path of site root. Normally it's must be empty because _config.yml resides in the root of your repository.
 # If you have _config.yml and your site in a subfolder, then change this config accordly 
 site_root: 
-
 #
 # Jekyll configurations
 #
@@ -157,3 +156,4 @@ inc_before_page_list :
 inc_after_page_list : sidebar.html
 inc_before_post_list :
 inc_after_post_list :
+
