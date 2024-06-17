@@ -31,8 +31,6 @@ This key drops from [Captain of the Guard](https://www.pqdi.cc/npc/90001), a na
 
 [Jade Chokidai Prod](https://www.pqdi.cc/item/7256) (Droppable, check EC Tunnels) – Drops in [Lake of Ill Omen](https://www.pqdi.cc/zone/85) from:
 
-
-
 - [Chancellor of Di'zok](https://www.pqdi.cc/npc/85062),
 - [a Sarnak revealer](https://www.pqdi.cc/npc/85184)
 - [a Sarnak revenant](https://www.pqdi.cc/npc/85164)
@@ -51,10 +49,10 @@ Your best plan is to clear as many mobs as possible inside the fort. [Chancellor
 
 [Xalgozian Fang](https://www.pqdi.cc/item/7236) – Drops in [Kaesora](https://www.pqdi.cc/zone/88) from:
 
-[Xalgoz](https://www.pqdi.cc/npc/88010)
-[minion of Xalgoz](https://www.pqdi.cc/npc/88120)
-[guardian of Xalgox](https://www.pqdi.cc/npc/88123)
-[spectral librarian](https://www.pqdi.cc/npc/88000)
+- [Xalgoz](https://www.pqdi.cc/npc/88010)
+- [minion of Xalgoz](https://www.pqdi.cc/npc/88120)
+- [guardian of Xalgox](https://www.pqdi.cc/npc/88123)
+- [spectral librarian](https://www.pqdi.cc/npc/88000)
 
 [Xalgoz](https://www.pqdi.cc/npc/88010) is a Lv40 Necromancer. His's PHs are the [guardian of Xalgox](https://www.pqdi.cc/npc/88123). The rest of the mobs are Lv35-40.
 
