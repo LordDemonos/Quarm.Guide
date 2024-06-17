@@ -16,7 +16,7 @@ I started this because half of my guild seems to crash when they zone in and out
 2. [.dll from 3/1 in #zeal-discussions](https://discord.com/channels/1133452007412334643/1210670176077348934/1227704216655761499) still has the smoothest camera. For some reason 5/6 from #server-files makes my third person camera unstable again. I assume the older dll was just re-compressed and put into a new Discord post is all.
 3. [Excluded TAKP folder from antivirus](https://quarm.guide/installing-the-game#prerequisite-2-required-excluding-your-takp-installation) scanning.
 4. Always running the [latest Zeal](https://github.com/iamclint/Zeal/releases) unless it contains a specific bug I want to avoid. Always keep previous versions backed up.
-5. TAKP folder is NOT in your /Program Files/ or /Program Files x86/ folder. Mine is located in the root of my D: drive.
+5. TAKP folder is NOT in your `/Program Files/` or `/Program Files x86/` folder. Mine is located in the root of my D: drive.
 6. [Latest version of dgVoodoo](http://dege.freeweb.hu/dgVoodoo2/dgVoodoo2/) and configuring it properly.
 7. [Directx 9c](https://www.microsoft.com/en-us/download/details.aspx?id=8109) (Windows said I had a newer version of [Visual C](https://www.microsoft.com/en-us/download/details.aspx?id=53587) already installed, so I didnt download the one in the guide.)
 8. Running program in compatibility mode for Windows XP (Service Pack 2). (Running as Admin increases my crashes, but has the opposite effect for others)
