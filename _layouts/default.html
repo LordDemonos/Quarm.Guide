@@ -35,23 +35,5 @@ layout: git-wiki-default
     </div>
     <div id="back-to-top-btn" style="display: none"><a href="#top">^</a></div>
     <script src="{{ '/assets/js/back-to-top.js' | relative_url }}"></script>
-    <script>
-      window.onload = function () {
-        // Select all disabled checkboxes within task list items and enable them
-        document.querySelectorAll('.task-list-item-checkbox').forEach(function (checkbox) {
-          checkbox.disabled = false; // Enable the checkbox
-
-          // Optionally, manage the checkbox state with localStorage or another method
-          var id = checkbox.closest('li').textContent.trim();
-          if (localStorage.getItem(id) === 'true') {
-            checkbox.checked = true;
-          }
-
-          checkbox.addEventListener('change', function () {
-            localStorage.setItem(id, checkbox.checked);
-          });
-        });
-      };
-    </script>
   </body>
 </html>
