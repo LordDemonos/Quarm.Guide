@@ -11,7 +11,7 @@ sitemap: true
 
 #### Foreword
 
-This guide was created using [Kingdom Cleric Epic's Guide](https://kingdomdkp.com/index.php/Guides/Kingdom-cleric-epic.html?) which is based on [wiki.project1999.com/Cleric_epic](https://wiki.project1999.com/Cleric_epic). This guide was made for personal use only. Project Quarm Epic Quest guides can be found on [pqdi.cc](https://www.pqdi.cc/).
+This guide was created using [Kingdom Cleric Epic's Guide](https://kingdomdkp.com/index.php/Guides/Kingdom-cleric-epic.html?) which is based on [wiki.project1999.com/Cleric_epic](https://wiki.project1999.com/Cleric_epic).
 
 ## Orb of Frozen Water
 
