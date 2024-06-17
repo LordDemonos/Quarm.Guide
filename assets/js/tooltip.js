@@ -11,12 +11,13 @@ document.addEventListener('DOMContentLoaded', function () {
     link.classList.add('tooltip-link');
     link.setAttribute('data-item-id', itemId);
 
+    const iconUrl = `https://www.pqdi.cc/static/iconss/dragitem${itemId}.png`;
     const iconSpan = document.createElement('span');
     iconSpan.className = 'item-icon';
     iconSpan.style.display = 'inline-block';
     iconSpan.style.height = '1em';
     iconSpan.style.width = '1em';
-    iconSpan.style.backgroundImage = `url(https://www.pqdi.cc/static/icons/item_${itemId}.png)`;
+    iconSpan.style.backgroundImage = `url(${iconUrl})`;
     iconSpan.style.backgroundPosition = 'center center';
     iconSpan.style.backgroundSize = 'cover';
     link.parentNode.insertBefore(iconSpan, link);
