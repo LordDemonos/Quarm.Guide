@@ -118,6 +118,27 @@ body {
   }
 }
 
+#git-wiki-copyrights {
+  margin: 0 auto;
+  padding: 20px;
+  max-width: 1200px;
+  margin-left: -5px;
+}
+
+@media (max-width: 900px) {
+  #git-wiki-copyrights {
+    padding: 15px;
+    max-width: 90%;
+  }
+}
+
+@media (max-width: 600px) {
+  #git-wiki-copyrights {
+    padding: 10px;
+    max-width: 100%;
+  }
+}
+
 h1[id]:hover .anchor-link-icon,
 h2[id]:hover .anchor-link-icon,
 h3[id]:hover .anchor-link-icon,
