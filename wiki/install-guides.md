@@ -16,7 +16,7 @@ Welcome to the installation guide for Project Quarm. This page provides comprehe
         <ul>
             <li><a href="{{ 'installing-the-game' | relative_url }}">Installing the Game</a> - Download and install Project Quarm</li>
             <li><a href="{{ 'installing-the-game#step-4-installing-zeal-' | relative_url }}">Installing Zeal</a> - Enhance your gameplay with Zeal</li>
-            <li><a href="{{ 'everquest-on-linux-in-2024' | relative_url }}">EverQuest on Linux</a> - Install Project Quarm on Linux</li>
+            <li><a href="https://quarm.guide/wiki/everquest-on-linux-in-2024.html">EverQuest on Linux</a> - Install Project Quarm on Linux</li>
             <li><a href="https://quarm.guide/2024/04/20/xanaxs-checklist-for-minimal-crashes/">Checklist for Minimal Crashes</a> - Ensure all installation steps are covered</li>
         </ul>
     </div>
