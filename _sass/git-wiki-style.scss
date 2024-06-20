@@ -578,7 +578,4 @@ body.darkmode--activated .darkmode-ignore {
   display: inline-block;
   height: 1em;
   width: 1em;
-  background-size: auto; // Ensure the correct portion of the sprite sheet is displayed
-  background-repeat: no-repeat; // Prevent the background from repeating
-  vertical-align: middle; // Align the icon with the text
 }
