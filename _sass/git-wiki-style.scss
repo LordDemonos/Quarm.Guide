@@ -578,7 +578,7 @@ body.darkmode--activated .darkmode-ignore {
   display: inline-block;
   height: 1em; // This will scale with the text size
   width: 1em; // This will scale with the text size
-  background-size: 40px 40px; // Scale the background image to its original size
+  background-size: 100% 100%; // Scale the background image to fit within the span
   background-repeat: no-repeat; // Prevent the background from repeating
   vertical-align: middle; // Align the icon with the text
   overflow: hidden; // Ensure any overflow is hidden
