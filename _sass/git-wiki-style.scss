@@ -68,8 +68,9 @@ body {
   display: inline-block;
   height: 1em;
   width: 1em;
-  background-position: center center;
-  background-size: cover;
+  background-size: 40px 40px; // Ensure the background size matches the original icon dimensions
+  background-repeat: no-repeat; // Prevent the background from repeating
+  vertical-align: middle; // Align the icon with the text
 }
 
 .anchor-icon:hover {
