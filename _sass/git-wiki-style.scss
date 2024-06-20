@@ -64,15 +64,6 @@ body {
   position: relative;
 }
 
-.item-icon {
-  display: inline-block;
-  height: 1em;
-  width: 1em;
-  background-size: 40px 40px; // Ensure the background size matches the original icon dimensions
-  background-repeat: no-repeat; // Prevent the background from repeating
-  vertical-align: middle; // Align the icon with the text
-}
-
 .anchor-icon:hover {
   opacity: 1;
 }
@@ -581,4 +572,13 @@ footer {
 body.darkmode--activated img,
 body.darkmode--activated .darkmode-ignore {
   mix-blend-mode: difference;
+}
+
+.item-icon {
+  display: inline-block;
+  height: 1em;
+  width: 1em;
+  background-size: auto; // Ensure the correct portion of the sprite sheet is displayed
+  background-repeat: no-repeat; // Prevent the background from repeating
+  vertical-align: middle; // Align the icon with the text
 }
