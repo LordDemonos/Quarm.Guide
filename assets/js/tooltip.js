@@ -19,10 +19,10 @@ document.addEventListener('DOMContentLoaded', function () {
           newIconSpan.style.display = 'inline-block';
           newIconSpan.style.height = '1em';
           newIconSpan.style.width = '1em';
-          newIconSpan.style.backgroundSize = 'auto';
-          newIconSpan.style.transform = 'scale(0.30)';
-          newIconSpan.style.transformOrigin = 'top left';
-          newIconSpan.title = iconSpan.title;
+          newIconSpan.style.backgroundSize = 'auto'; // Ensure the correct portion of the sprite sheet is displayed
+          // newIconSpan.style.transform = 'scale(0.25)'; // Scale down the icon to fit within the text size
+          // newIconSpan.style.transformOrigin = 'top left'; // Ensure scaling is from the top left corner
+          newIconSpan.title = iconSpan.title; // Copy the title attribute
 
           link.parentNode.insertBefore(newIconSpan, link);
         }

@@ -60,6 +60,17 @@ body {
   opacity: 0;
   transition: opacity 0.3s ease;
 }
+.tooltip-link {
+  position: relative;
+}
+
+.item-icon {
+  display: inline-block;
+  height: 1em;
+  width: 1em;
+  background-position: center center;
+  background-size: cover;
+}
 
 .anchor-icon:hover {
   opacity: 1;
