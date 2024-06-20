@@ -19,7 +19,7 @@ document.addEventListener('DOMContentLoaded', function () {
           newIconSpan.style.display = 'inline-block';
           newIconSpan.style.height = '1em';
           newIconSpan.style.width = '1em';
-          newIconSpan.style.backgroundSize = '40px 40px'; // Ensure the correct portion of the sprite sheet is displayed
+          newIconSpan.style.backgroundSize = 'auto'; // Ensure the correct portion of the sprite sheet is displayed
           newIconSpan.title = iconSpan.title; // Copy the title attribute
 
           link.parentNode.insertBefore(newIconSpan, link);
