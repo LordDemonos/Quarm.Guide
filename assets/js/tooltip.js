@@ -19,7 +19,7 @@ document.addEventListener('DOMContentLoaded', function () {
           newIconSpan.style.display = 'inline-block';
           newIconSpan.style.height = '1em';
           newIconSpan.style.width = '1em';
-          newIconSpan.style.backgroundSize = '40px 40px';
+          newIconSpan.style.backgroundSize = 'auto';
           newIconSpan.title = iconSpan.title;
 
           link.parentNode.insertBefore(newIconSpan, link);
