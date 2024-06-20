@@ -575,6 +575,11 @@ body.darkmode--activated .darkmode-ignore {
 }
 
 .item-icon {
+  display: inline-block;
+  height: 1em;
+  width: 1em;
+  background-size: auto;
   background-position: center center;
   background-size: cover;
+  mix-blend-mode: difference;
 }
