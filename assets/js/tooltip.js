@@ -16,9 +16,9 @@ document.addEventListener('DOMContentLoaded', function () {
           newIconSpan.classList.add('item-icon');
           newIconSpan.style.backgroundImage = iconSpan.style.backgroundImage;
           newIconSpan.style.backgroundPosition = iconSpan.style.backgroundPosition;
-          newIconSpan.style.display = 'inline-block';
-          newIconSpan.style.height = '1em';
-          newIconSpan.style.width = '1em';
+          newIconSpan.style.display = 'inline-block'; // Ensure the icon is displayed inline with the text
+          // newIconSpan.style.height = '1em'; // Set the height to scale with the text size
+          // newIconSpan.style.width = '1em'; // Set the width to scale with the text size
           newIconSpan.style.backgroundSize = 'auto'; // Ensure the correct portion of the sprite sheet is displayed
           newIconSpan.title = iconSpan.title; // Copy the title attribute
           // newIconSpan.style.transform = 'scale(0.25)'; // Scale down the icon to fit within the text size
