@@ -21,6 +21,8 @@ document.addEventListener('DOMContentLoaded', function () {
           newIconSpan.style.width = '1em';
           newIconSpan.style.backgroundSize = 'auto'; // Ensure the correct portion of the sprite sheet is displayed
           newIconSpan.title = iconSpan.title; // Copy the title attribute
+          // newIconSpan.style.transform = 'scale(0.25)'; // Scale down the icon to fit within the text size
+          // newIconSpan.style.transformOrigin = 'top left'; // Ensure scaling is from the top left corner
 
           link.parentNode.insertBefore(newIconSpan, link);
         }
