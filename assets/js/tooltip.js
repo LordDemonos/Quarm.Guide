@@ -12,9 +12,16 @@ document.addEventListener('DOMContentLoaded', function () {
         tempDiv.innerHTML = html;
         const iconSpan = tempDiv.querySelector('.item-icon');
         if (iconSpan) {
-          iconSpan.style.height = '1em';
-          iconSpan.style.width = '1em';
-          link.parentNode.insertBefore(iconSpan, link);
+          const newIconSpan = document.createElement('span');
+          newIconSpan.classList.add('item-icon');
+          newIconSpan.style.backgroundImage = iconSpan.style.backgroundImage;
+          newIconSpan.style.backgroundPosition = iconSpan.style.backgroundPosition;
+          newIconSpan.style.display = 'inline-block';
+          newIconSpan.style.height = '1em';
+          newIconSpan.style.width = '1em';
+          newIconSpan.style.backgroundSize = 'contain';
+
+          link.parentNode.insertBefore(newIconSpan, link);
         }
       });
   });
