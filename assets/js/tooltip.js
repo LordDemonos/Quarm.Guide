@@ -20,7 +20,7 @@ document.addEventListener('DOMContentLoaded', function () {
           newIconSpan.style.height = '1em';
           newIconSpan.style.width = '1em';
           newIconSpan.style.backgroundSize = 'auto';
-          newIconSpan.style.transform = 'scale(0.50)';
+          newIconSpan.style.transform = 'scale(0.30)';
           newIconSpan.style.transformOrigin = 'top left';
           newIconSpan.title = iconSpan.title;
 
