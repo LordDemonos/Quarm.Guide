@@ -16,10 +16,6 @@ document.addEventListener('DOMContentLoaded', function () {
           newIconSpan.classList.add('item-icon');
           newIconSpan.style.backgroundImage = iconSpan.style.backgroundImage;
           newIconSpan.style.backgroundPosition = iconSpan.style.backgroundPosition;
-          newIconSpan.style.display = 'inline-block';
-          newIconSpan.style.height = '1em';
-          newIconSpan.style.width = '1em';
-          newIconSpan.style.backgroundSize = 'auto'; // Ensure the correct portion of the sprite sheet is displayed
           newIconSpan.title = iconSpan.title; // Copy the title attribute
 
           link.parentNode.insertBefore(newIconSpan, link);
