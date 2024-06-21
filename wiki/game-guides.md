@@ -14,6 +14,10 @@ Welcome to the central hub for all Project Quarm game guides.
 
 <div style="display: flex;">
     <div style="flex: 1; margin-right: 10px;">
+        <h3>Class Guides</h3>
+        <ul>
+            <li><a href="{{ 'enchanter-faq' | relative_url }}">Enchanter FAQ</a></li>
+        </ul>
         <h3>Leveling Guides</h3>
         <ul>
             <li><a href="{{ 'BathorySSFGuide' | relative_url }}">Bathory's Solo Self Found Guide</a></li>
