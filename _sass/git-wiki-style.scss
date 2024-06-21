@@ -576,8 +576,8 @@ body.darkmode--activated .darkmode-ignore {
 
 .item-icon {
   display: inline-block;
-  height: fit-content; // This will scale with the text size
-  width: fit-content; // This will scale with the text size
+  height: 50%; // This will scale with the text size
+  width: 50%; // This will scale with the text size
   background-repeat: no-repeat; // Prevent the background from repeating
   // overflow: hidden; // Ensure any overflow is hidden
 }
