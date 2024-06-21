@@ -59,8 +59,8 @@ If you want to learn more about Project Quarm specific features and rules, head 
             <li><a href="https://github.com/iamclint/Zeal/releases" aria-label="Zeal Releases - Download the latest version of Zeal">Zeal Releases</a> - Latest version available <a href="https://github.com/iamclint/Zeal/blob/main/README.md">Zeal README</a></li>
             <li><a href="https://github.com/EJWellman/QuarmTool" aria-label="Quarm Tool - Get help with technical questions">Quarm Tool</a> - 3D Maps, Timers and damage meters</li>
             <li><a href="{{ '/textures-and-effects#old-skeleton-models' | relative_url }}" aria-label="Old Skeleton Models - Download and install classic skeleton models">Old Skeleton Models</a> - Download and install classic skeleton models</li>
-            <li><a href="{{ '/after-installing-the-game#calmetars-ui' | relative_url }}" aria-label="Calmetar's UI - Custom UI for Quarm">Calmetar's UI</a> - Custom UI for Quarm</li>
-            <li><a href="{{ '/after-installing-the-game#where-to-get-quarm-user-interfaces' | relative_url }}" aria-label="Nillipuss's UI - Custom UI for Quarm">Nillipuss's UI</a> - Custom UI for Quarm <a href="{{ '/after-installing-the-game#nillipuss-ui-1080p' | relative_url }}">1080p</a>, <a href="{{ '/after-installing-the-game#nillipuss-ui-1440p' | relative_url }}">1440p</a></li>
+            <li><a href="{{ '/after-installing-the-game#calmetars-ui' | relative_url }}" aria-label="Calmetar's UI - Custom UI for Quarm">Calmetar's UI</a> - Custom UI for Project Quarm</li>
+            <li><a href="{{ '/after-installing-the-game#where-to-get-quarm-user-interfaces' | relative_url }}" aria-label="Nillipuss's UI - Custom UI for Quarm">Nillipuss's UI</a> - Custom UI for Project Quarm <a href="{{ '/after-installing-the-game#nillipuss-ui-1080p' | relative_url }}">1080p</a>, <a href="{{ '/after-installing-the-game#nillipuss-ui-1440p' | relative_url }}">1440p</a></li>
             <li><a href="{{ '/third-party-programs#eq-nag' | relative_url }}" aria-label="EQ Nag - Essential tool for in-game notifications">EQ Nag</a> - Essential tool for in-game notifications</li>
         </ul>
     </div>
