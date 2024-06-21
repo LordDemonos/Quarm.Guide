@@ -13,7 +13,7 @@ keywords:
   - 'races'
   - 'mechanics'
 date: 2024-06-21
-author: Vargren
+author: Nah Ardivoli
 ---
 # Enchanter FAQ and Mechanics
 
