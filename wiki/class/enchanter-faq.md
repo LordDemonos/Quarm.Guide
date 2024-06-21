@@ -25,7 +25,7 @@ Short answer: it doesn't matter *that much*. Do what you want.
 
 That said, here's a deep dive if you wanted to min-max.
 
-### "Best" starting stats
+#### "Best" starting stats
 
 You really only have these stats in which you can choose to dump points: STR, STA, AGI, INT, and CHA (you can safely ignore WIS and DEX).
 
