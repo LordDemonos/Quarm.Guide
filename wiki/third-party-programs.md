@@ -73,6 +73,6 @@ I don't use this with EQ but I need to mention it alongside Lossless Scaling. I 
 
 - [GitHub Releases](https://github.com/Codeusa/Borderless-Gaming/releases)
 
-## Quick Quarm
+### Quick Quarm
 
 - [Quick Quarm](https://github.com/ryhoneyman/quick-quarm) A quick way to spin up a single host Quarm EQEmu server. Ideal for personal use or for developers wanting to test patches and game changes.
