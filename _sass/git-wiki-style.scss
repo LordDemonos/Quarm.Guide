@@ -576,10 +576,10 @@ body.darkmode--activated .darkmode-ignore {
 
 .item-icon {
   display: inline-block;
-  height: auto; // This will scale with the text size
-  width: auto; // This will scale with the text size
+  height: 1em; // This will scale with the text size
+  width: 1em; // This will scale with the text size
   background-repeat: no-repeat; // Prevent the background from repeating
-  // overflow: hidden; // Ensure any overflow is hidden
+  overflow: hidden; // Ensure any overflow is hidden
 }
 
 .darkmode--activated .item-icon {
