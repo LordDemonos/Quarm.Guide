@@ -72,3 +72,7 @@ Lossless Scaling allows you to scale windowed games to full screen using the sta
 I don't use this with EQ but I need to mention it alongside Lossless Scaling. I use it with my 4k OLED monitor to remove the Windows border around games sometimes to prevent OLED burn-in. It's pricey on Steam but free on Github.
 
 - [GitHub Releases](https://github.com/Codeusa/Borderless-Gaming/releases)
+
+## Quick Quarm
+
+- [Quick Quarm](https://github.com/ryhoneyman/quick-quarm) A quick way to spin up a single host Quarm EQEmu server. Ideal for personal use or for developers wanting to test patches and game changes.

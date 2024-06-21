@@ -24,3 +24,19 @@ I was hesitant to make a list as they seem to pop up and go stagnant pretty quic
 ## AllaQUARM
 
 - [AllaQUARM](https://eqtunnelauctions.com/alla/) Quarm's version of Allakhazam, also pulls from the database like PQDI.
+
+## EQEmu Server Population Trends
+
+- [EQEmu Server Population Trends](https://unixgeek.com/eqemu.html) A simple website for tracking Everquest Emulator server population trends. Useful for seeing how different servers compare in terms of population.
+
+## Project Quarm Server Population
+
+- [Project Quarm Server Population](https://www.eqemulator.org/index.php?pageid=serverinfo&worldid=3962) Provides live statistics and information about the Project Quarm server, including player counts and server status.
+
+## EQ Guessr
+
+- [EQ Guessr](https://www.eq-guessr.com/en) Discover the world of Everquest by getting dropped anywhere from Blackburrow to Plane of Time. Challenge your friends in LFG mode with a private leaderboard.
+
+## EQProgression
+
+- [EQProgression](https://www.eqprogression.com/) Comprehensive guides for Everquest, including tradeskills, keys/flags, quests/items, class guides/epics, raid strategies, and leveling/setup.

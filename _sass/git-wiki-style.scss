@@ -584,15 +584,15 @@ body.darkmode--activated .darkmode-ignore {
 #tooltip-container {
   position: absolute;
   display: none;
-  background-color: #333; /* Dark background */
+  background-color: #333; 
   color: white;
-  padding: 15px; /* Increased padding for a cleaner look */
-  border-radius: 8px; /* Rounded corners */
+  padding: 15px; 
+  border-radius: 8px; 
   z-index: 1000;
-  font-family: Arial, sans-serif; /* Match the font family */
-  font-size: 14px; /* Adjust the font size */
+  font-family: Arial, sans-serif;
+  font-size: 14px;
   line-height: 1.5;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); /* Add a more pronounced shadow */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
   table {
     border-collapse: collapse;
     width: 100%;
@@ -612,11 +612,11 @@ body.darkmode--activated .darkmode-ignore {
 }
 
 #tooltip-container h4 {
-  font-size: 20px; /* Adjust the title font size */
+  font-size: 20px; 
   margin: 0;
   padding: 0;
-  color: #fff; /* Ensure the title is white */
-  font-weight: bold; /* Make the title bold */
+  color: #fff;
+  font-weight: bold; 
 }
 
 #tooltip-container p {
@@ -627,20 +627,20 @@ body.darkmode--activated .darkmode-ignore {
 #tooltip-container .item-details {
   display: flex;
   justify-content: space-between;
-  margin: 0; /* Remove unnecessary margins */
-  padding: 0; /* Remove unnecessary padding */
+  margin: 0; 
+  padding: 0;
 }
 
 .darkmode--activated #tooltip-container {
   position: absolute;
   display: none;
-  background-color: #333; /* Dark background */
+  background-color: #333; 
   color: white;
-  padding: 15px; /* Increased padding for a cleaner look */
-  border-radius: 8px; /* Rounded corners */
+  padding: 15px; 
+  border-radius: 8px; 
   z-index: 1000;
-  font-family: Arial, sans-serif; /* Match the font family */
-  font-size: 14px; /* Adjust the font size */
+  font-family: Arial, sans-serif; 
+  font-size: 14px; 
   line-height: 1.5;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
   isolation: isolate;
