@@ -26,7 +26,22 @@ document.addEventListener('DOMContentLoaded', function () {
       fetch(`https://www.pqdi.cc/get-item-tooltip/${itemId}`)
         .then((response) => response.text())
         .then((html) => {
-          tooltipContainer.innerHTML = html;
+          // Create a temporary div to parse the HTML
+          const tempDiv = document.createElement('div');
+          tempDiv.innerHTML = html;
+
+          // Remove any script tags
+          tempDiv.querySelectorAll('script').forEach(script => script.remove());
+
+          // Clean up empty table cells and rows
+          tempDiv.querySelectorAll('td').forEach(td => {
+            if (!td.textContent.trim()) td.remove();
+          });
+          tempDiv.querySelectorAll('tr').forEach(tr => {
+            if (!tr.textContent.trim()) tr.remove();
+          });
+
+          tooltipContainer.innerHTML = tempDiv.innerHTML;
           tooltipContainer.style.left = `${linkLeft}px`;
           tooltipContainer.style.top = `${linkBottom + 5}px`; // Position below the link by default
           tooltipContainer.style.display = 'block';

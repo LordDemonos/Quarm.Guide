@@ -588,6 +588,22 @@ body.darkmode--activated .darkmode-ignore {
   font-size: 14px; /* Adjust the font size */
   line-height: 1.5;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); /* Add a more pronounced shadow */
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+  }
+
+  tr {
+    border: none;
+  }
+
+  td {
+    padding: 0;
+    border: none;
+    line-height: 1.2;
+  }
 }
 
 #tooltip-container h4 {
