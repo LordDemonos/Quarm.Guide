@@ -1,4 +1,4 @@
-# Enchanter FAQ and Mechanics
+For exampleff# Enchanter FAQ and Mechanics
 
 This guide was written because people ask the same set of questions in the #enchanter Discord Channel, so I've decided to compile the answers for those questions here.
 
@@ -47,16 +47,16 @@ Otherwise, it depends on preference. Want fashion + good caster stats at the cos
 
 ## How does Charm Pet exp-stealing work? (+ tips and tricks for negating this)
 
-The way it works on Project Quarm is that any pet (whether charmed or otherwise) that does more than 50% of the damage done to a mob to get it from out-of-combat to dead will take experience as if it was a member of your group. The reason I've worded it this way is that you can use level 4 Mezmerize to memblur/reset the npc's hate list so that it's no longer in combat.
+The way it works on Project Quarm is that any pet (whether charmed or otherwise) that does more than 50% of the damage done to a mob to get it from its out-of-combat state to DEAD. will take experience as if it was a member of your group. The reason I've worded it this way is that you can use level 4 Mezmerize to memblur/reset the npc's hate list so that it's no longer in combat.
 
-So for example, you're soloing and the target npc starts at 100% health. If your pet does 49% of the damage before it does, you get full exp. However, if it did 51% of the damage, you get 50% exp (the pet acts as another gruop member).
+So for example, you're soloing and the target npc starts at 100% health. If your pet does 49% of the damage before it dies, you get full exp. However, if it did 51% of the damage, you get 50% exp (the pet acts as another gruop member).
 
-Now, let's say that even though the pet was doing all of the damage to the npc, you manage to mez it at 4% health, such that it is memblurred. How do you tell if an npc has been memblurred successfully?
+Now, let's say that in a fight, your pet solos the npc to 4% health and you mez it, such that it is memblurred. In this case, if you finish it off (or near-finish it off) with a nuke and your pet kills it, you'll likely still get full exp, because it started with 4% (or 7%) health, and your nuke took it close to 0, meaning you did more than 50% of the health it started with when out-of-combat.
+
+## How do you tell if an npc has been memblurred successfully?
 
 1. If you /assist the npc and it doesn't target you or your pet.
 2. You notice it regening 3% of its health per tick.
-
-In this case, if you finish it off (or near-finish it off) with a nuke and your pet kills it, you'll likely still get full exp, because it started with 4% (or 7%) health, and your nuke took it close to 0, meaning you did more than 50% of the health it started with when out-of-combat.
 
 ## What to do when charm breaks
 
