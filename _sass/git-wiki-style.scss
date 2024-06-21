@@ -77,17 +77,6 @@ body {
   height: 20px;
 }
 
-#tooltip-container {
-  position: absolute;
-  background-color: rgba(245, 245, 245, 0.192);
-  border: 1px solid #cccccc2d;
-  color: rgba(255, 255, 255, 0.5);
-  padding: 10px;
-  display: none;
-  z-index: 1000;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-}
-
 #git-wiki-content {
   margin: 0 auto;
   padding: 20px;
@@ -576,13 +565,66 @@ body.darkmode--activated .darkmode-ignore {
 
 .item-icon {
   display: inline-block;
-  height: 1em; // This will scale with the text size
-  width: 1em; // This will scale with the text size
-  background-repeat: no-repeat; // Prevent the background from repeating
-  background-size: contain; // Ensure the entire image fits within the bounds and is not cut off
-  overflow: hidden; // Ensure any overflow is hidden
+  height: 1em;
+  width: 1em;
+  background-repeat: no-repeat;
+  vertical-align: middle;
+  margin-right: 0.25em;
 }
 
 .darkmode--activated .item-icon {
-  mix-blend-mode: difference;
+  filter: invert(1);
+}
+
+#tooltip-container {
+  position: absolute;
+  display: none;
+  background-color: #333; /* Dark background */
+  color: white;
+  padding: 15px; /* Increased padding for a cleaner look */
+  border-radius: 8px; /* Rounded corners */
+  z-index: 1000;
+  font-family: Arial, sans-serif; /* Match the font family */
+  font-size: 14px; /* Adjust the font size */
+  line-height: 1.5;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); /* Add a more pronounced shadow */
+}
+
+#tooltip-container h4 {
+  font-size: 20px; /* Adjust the title font size */
+  margin: 0;
+  padding: 0;
+  color: #fff; /* Ensure the title is white */
+  font-weight: bold; /* Make the title bold */
+}
+
+#tooltip-container p {
+  margin: 0;
+  padding: 0;
+}
+
+#tooltip-container .item-details {
+  display: flex;
+  justify-content: space-between;
+  margin: 0; /* Remove unnecessary margins */
+  padding: 0; /* Remove unnecessary padding */
+}
+
+.darkmode--activated #tooltip-container {
+  position: absolute;
+  display: none;
+  background-color: #333; /* Dark background */
+  color: white;
+  padding: 15px; /* Increased padding for a cleaner look */
+  border-radius: 8px; /* Rounded corners */
+  z-index: 1000;
+  font-family: Arial, sans-serif; /* Match the font family */
+  font-size: 14px; /* Adjust the font size */
+  line-height: 1.5;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+  isolation: isolate;
+}
+
+.darkmode--activated #tooltip-container .item-icon {
+  filter: invert(0);
 }
