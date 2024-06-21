@@ -1,4 +1,4 @@
-For exampleff# Enchanter FAQ and Mechanics
+# Enchanter FAQ and Mechanics
 
 This guide was written because people ask the same set of questions in the #enchanter Discord Channel, so I've decided to compile the answers for those questions here.
 
