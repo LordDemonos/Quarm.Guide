@@ -40,3 +40,31 @@ I was hesitant to make a list as they seem to pop up and go stagnant pretty quic
 ## EQProgression
 
 - [EQProgression](https://www.eqprogression.com/) Comprehensive guides for Everquest, including tradeskills, keys/flags, quests/items, class guides/epics, raid strategies, and leveling/setup.
+
+## EQItems
+
+- [EQItems](https://eqitems.com/) A comprehensive database for EverQuest items, allowing you to search, add items, and track gear progression across different expansions.
+
+## EQMap
+
+- [EQMap](https://eqmap.vercel.app/) A detailed map rendering tool for EverQuest, providing visualizations of various zones and areas within the game.
+
+## EverQuest Map Rendering
+
+- [EverQuest Map Rendering](http://www.tski.co.jp/baldio/map/) A collection of maps for different EverQuest expansions, including detailed layouts and zone connections.
+
+## EQ Companion
+
+- [EQ Companion](https://eq-companion.com/) A tool for tracking and analyzing your EverQuest gameplay, including logs, statistics, and performance metrics.
+
+## Paul Lynch's EverQuest Page
+
+- [Paul Lynch's EverQuest Page](http://www.paullynch.org/Everquest/) A personal collection of EverQuest articles and guides, covering various aspects of the game from a player's perspective.
+
+## The Safehouse
+
+- [The Safehouse](https://thesafehouse.org/forums/forum/everquest-wing) A forum dedicated to EverQuest, particularly focused on rogue discussions, guides, and community interactions.
+
+## EQ Clerics
+
+- [EQ Clerics](https://eqclerics.org/forum/index.php) A forum specifically for EverQuest clerics, offering discussions, guides, and community support for cleric players.
