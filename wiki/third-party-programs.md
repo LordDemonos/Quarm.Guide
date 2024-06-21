@@ -69,10 +69,16 @@ Lossless Scaling allows you to scale windowed games to full screen using the sta
 
 ### Borderless Gaming
 
-I don't use this with EQ but I need to mention it alongside Lossless Scaling. I use it with my 4k OLED monitor to remove the Windows border around games sometimes to prevent OLED burn-in. It's pricey on Steam but free on Github.
+Although not used with EverQuest, Borderless Gaming is essential for users with 4k OLED monitors to eliminate the Windows border around games, which helps prevent OLED burn-in. While the application is available for purchase on Steam, it can also be obtained for free on GitHub.
 
 - [GitHub Releases](https://github.com/Codeusa/Borderless-Gaming/releases)
 
 ### Quick Quarm
 
-- [Quick Quarm](https://github.com/ryhoneyman/quick-quarm) A quick way to spin up a single host Quarm EQEmu server. Ideal for personal use or for developers wanting to test patches and game changes.
+[Quick Quarm](https://github.com/ryhoneyman/quick-quarm) provides a streamlined method to deploy a single-host Quarm EQEmu server. It is particularly useful for personal projects or developers looking to test new patches and modifications in the game environment.
+
+### Loot Buddy
+
+Loot Buddy is a comprehensive tool designed for Project Quarm, facilitating the management of auction and vendor prices, item type information, and group or raid loot notifications. It offers customizable notifications and parameters to enhance the user's gaming experience.
+
+- [More Information and Downloads](https://eqtunnelauctions.com/lootbuddy.php)
