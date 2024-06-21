@@ -1,6 +1,6 @@
 # Enchanter FAQ and Mechanics
 
-This guide was written because people ask the same set of questions in the #enchanter Discord Channel, so I've decided to compile the answers for those questions here.
+This guide was written because people ask the same set of questions in the #enchanter Discord Channel, so I've decided to compile the answers for those questions here. This is not an end-all-be-all guide for the Enchanter class. Rather, it's meant to supplement [such existing guides](https://wiki.project1999.com/Xornns_Enchanter_Guide) with information specific to the Project Quarm server.
 
 ## Starting stats?
 
@@ -69,8 +69,6 @@ Now, let's say that in a fight, your pet solos the npc to 4% health and you mez 
 5. Cast lv 4 mez on your charm pet.
 6. If that fails (the npc resisted either flux or mez or you were too slow), follow the above steps (starting from #3) but with Color Shift instead. If this is happening consistently, you can opt for a flux > clicky > shift > clicky > mez combo instead.
 
-What's the fastest way to get such a clicky item? Get JBoots off of Drelzna in Najena.
-
 Other tips for charming successfully:
 1. Update keyboard shortcuts for both hotbar actions and spell gems. I use 1 2 3 4 5 Q E R F C for my hotbar actions, and SHIFT + 1 2 3 4 Q E R F for my spell gems. Doing this makes it easy for me to fire off spell/clicky combos in succession. (ALT + same keybinds for switching hotbar pages)
 2. Put JBoots in a non-bag inventory slot and make it a hotbar action.
@@ -79,6 +77,9 @@ Other tips for charming successfully:
 5. Charm lower level blue or light-blue npcs so that charm breaks less often.
 
 Once you get comfortable doing this, you can start playing around with hasting your pet + giving it weapons for more efficient kills.
+
+## What's the fastest way to get such a clicky item?
+Get JBoots off of Drelzna in Najena. Put it in your inventory + Hotbar that inventory slot so that you can use a keyboard shortcut to fire it off. The Spellgems still reset even if you don't get the SoW effect from the boots when indoors.
 
 ## Does the torch trick work here? (Or how to increase your pet's DPS by enabling it to quad-hit)
 
