@@ -61,7 +61,7 @@ If you want to learn more about Project Quarm specific features and rules, head 
             <li><a href="{{ '/textures-and-effects#old-skeleton-models' | relative_url }}" aria-label="Old Skeleton Models - Download and install classic skeleton models">Old Skeleton Models</a> - Download and install classic skeleton models</li>
             <li><a href="{{ '/after-installing-the-game#calmetars-ui' | relative_url }}" aria-label="Calmetar's UI - Custom UI for Quarm">Calmetar's UI</a> - Custom UI for Project Quarm</li>
             <li><a href="{{ '/after-installing-the-game#where-to-get-quarm-user-interfaces' | relative_url }}" aria-label="Nillipuss's UI - Custom UI for Quarm">Nillipuss's UI</a> - Custom UI for Project Quarm <a href="{{ '/after-installing-the-game#nillipuss-ui-1080p' | relative_url }}">1080p</a>, <a href="{{ '/after-installing-the-game#nillipuss-ui-1440p' | relative_url }}">1440p</a></li>
-            <li><a href="{{ '/third-party-programs#eq-nag' | relative_url }}" aria-label="EQ Nag - Essential tool for in-game notifications">EQ Nag</a> - Essential tool for in-game notifications</li>
+            <li><a href="https://github.com/guildantix/eq-nag/releases" aria-label="EQ Nag - Essential tool for in-game notifications">EQ Nag</a> - Essential tool for in-game notifications</li>
         </ul>
     </div>
 </div>
