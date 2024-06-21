@@ -13,7 +13,7 @@ Welcome to the central hub for all Project Quarm game guides.
 ## Guides by Category
 
 <div style="display: flex;">
-    <div style="flex: 1; margin-right: 10px;">
+    <div style="flex: 1; margin-right: 10px; min-width: 600px;">
         <h3>Class Guides</h3>
         <ul>
             <li><a href="{{ 'enchanter-faq' | relative_url }}">Enchanter FAQ</a></li>
@@ -27,7 +27,7 @@ Welcome to the central hub for all Project Quarm game guides.
             <li><a href="{{ 'kunarkkeys' | relative_url }}">Ruins of Kunark Keys</a></li>
         </ul>
     </div>
-    <div style="flex: 1; margin-left: 10px;">
+    <div style="flex: 1; margin-left: 10px; min-width: 600px;">
         <h3>Epic Guides</h3>
         <ul>
             <li><a href="{{ 'bard_epic' | relative_url }}">Bard</a></li>

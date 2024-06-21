@@ -13,6 +13,9 @@ body {
   mix-blend-mode: difference;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
 }
 
 .logo {
@@ -208,6 +211,7 @@ a:hover small {
 }
 
 .wrapper {
+  flex: 1 0 auto;
   /*width:860px;*/
   margin: 0 auto;
 }
@@ -414,10 +418,11 @@ hr {
 }
 
 footer {
-  padding-left: 50px;
-  float: left;
-  bottom: 50px;
-  -webkit-font-smoothing: subpixel-antialiased;
+  flex-shrink: 0;
+  padding: 20px 0;
+  text-align: center;
+  width: 100%;
+  // background-color: #f1f1f1;
 }
 
 .tools-element {
@@ -644,3 +649,4 @@ body.darkmode--activated .darkmode-ignore {
 .darkmode--activated #tooltip-container .item-icon {
   filter: invert(0);
 }
+

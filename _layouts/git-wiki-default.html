@@ -4,17 +4,18 @@
 
 {% include git-wiki/sections/head/head.html %}
 
-{% include git-wiki/sections/content/body.html %}
-
 <body>
- <div id="back-to-top-btn" style="display: none;">
-    <a href="#top">↑</a>
-</div>
-<script src="{{ '/assets/js/back-to-top.js' | relative_url }}"></script>
-<script src="{{ '/assets/js/anchor-links.js' | relative_url }}"></script>
-<script src="{{ '/assets/js/tooltip.js' | relative_url }}"></script>
-<style>
+    <div class="wrapper">
+        {% include git-wiki/sections/content/body.html %}
+    </div>
     
-</style>
+    {% include git-wiki/sections/footer/footer.html %}
+
+    <div id="back-to-top-btn" style="display: none;">
+        <a href="#top">↑</a>
+    </div>
+    <script src="{{ '/assets/js/back-to-top.js' | relative_url }}"></script>
+    <script src="{{ '/assets/js/anchor-links.js' | relative_url }}"></script>
+    <script src="{{ '/assets/js/tooltip.js' | relative_url }}"></script>
 </body>
 </html>
