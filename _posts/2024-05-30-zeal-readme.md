@@ -1,5 +1,5 @@
 ---
-date: 2024-05-30T00:00:00.000Z
+date: 2024-06-19T00:00:00.000Z
 title: Zeal Readme
 description: Readme for Zeal
 keywords: 'Project Quarm, Quarm, EverQuest, crash fixes, Zeal, '
@@ -7,214 +7,212 @@ author: Salty
 published: true
 sitemap: true
 ---
-## Zeal Readme 5-30-2024
+## Zeal Readme 6-19-2024
 
-Zeal pipes in c#
+### Zeal pipes in c#
+- https://github.com/OkieDan/ZealPipes
 
-    https://github.com/OkieDan/ZealPipes
+### Compatible UI's
+- https://github.com/NilliP/NillipussUI_1080p
+- https://github.com/NilliP/NillipussUI_1440p
+- https://www.eqinterface.com/downloads/fileinfo.php?id=6959
 
-Compatible UI's
 
-    https://github.com/NilliP/NillipussUI_1080p
-    https://github.com/NilliP/NillipussUI_1440p
-    https://www.eqinterface.com/downloads/fileinfo.php?id=6959
+### Features
+- Camera motion improvements
+- Additional binds
+- Additional commands
+- Additional ui support
+- Various bug fixes
+- Unique npc naming for better parsing
 
-Features
+### Commands
 
-    Camera motion improvements
-    Additional binds
-    Additional commands
-    Additional ui support
-    Various bug fixes
-    Unique npc naming for better parsing
-
-Commands
-
-	/autofire
+/autofire
         Description: Toggles Autofire on and off. When you throw or shoot you will automatically continue to throw or shoot on cooldown.
+___
+- `/timer`
+  - **Arguments:** `int`
+  - **Example:** `/timer 10`
+  - **Description:** holds the last hotbutton pressed down for the duration (decisecond like /pause).
+  
+- `/pipedelay`
+  - **Arguments:** `int`
+  - **Example:** `/pipedelay 500`
+  - **Description:** changes the delay between each loop of labels/gauges being sent out over the named pipe.
 
-    /timer
-        Arguments: int
-        Example: /timer 10
-        Description: holds the last hotbutton pressed down for the duration (decisecond like /pause).
+- `/pipe`
+  - **Arguments:** `string`
+  - **Example:** `/pipe set a respawn timer for 30 seconds`
+  - **Description:** outputs a string through the named pipe.
+  
+- `/ttimer`
+  - **Arguments:** `int`
+  - **Example:** `/ttimer 500`
+  - **Description:** change the delay in which a tooltip pops up on mouse hover.
+  
+- `/inspect target`
+  - **Description:** adds target argument to /inspect, this just inspects your current target.
 
-    /pipedelay
-        Arguments: int
-        Example: /pipedelay 500
-        Description: changes the delay between each loop of labels/gauges being sent out over the named pipe.
+- `/loc noprint`
+  - **Description:** adds noprint argument to /loc, this just sends loc directly to your log.
 
-    /pipe
-        Arguments: string
-        Example: /pipe set a respawn timer for 30 seconds
-        Description: outputs a string through the named pipe.
+- `/reloadskin`
+  - **Description:** reloads your current skin using ini.
+    
+- `/fov`
+  - **Arguments:** `int`
+  - **Example:** `/fov 65`
+  - **Description:** changes your field of view with a value between 45 and 90.
+    
+- `/melody`
+  - **Arguments:** `song gem #'s (maximum of 5)`
+  - **Aliases:** `/mel`
+  - **Example:** `/melody 1 4 2 3`
+  - **Description:** plays songs in order until interrupted in any fashion.
+    
+- `/pandelay`
+  - **Arguments:** `ms delay`, `none`
+  - **Example:** `/pandelay 200`
+  - **Description:** changes the amount of delay before left click panning will start to happen
+    
+- `/hidecorpse`
+  - **Arguments:** `looted`, `none`
+  - **Aliases:** `/hideco`, `/hidec`, `/hc`
+  - **Example:** `/hidecorpse looted`
+  - **Description:** `looted` Hides a corpse after you have looted it., `none` reveals all hidden corpses
 
-    /ttimer
-        Arguments: int
-        Example: /ttimer 500
-        Description: change the delay in which a tooltip pops up on mouse hover.
+- `/spellset`
+  - **Arguments:** `save`, `load`, `delete`
+  - **Example:** `/spellset save buffs`
+  - **Example:** `/spellset load buffs`
+  - **Example:** `/spellset delete buffs`
+  - **Description:** allows you to save and load spellsets
 
-    /inspect target
-        Description: adds target argument to /inspect, this just inspects your current target.
+- `/showhelm`
+  - **Aliases:** `/helm`
+  - **Arguments:** `on, off`
+  - **Example:** `/showhelm on`
+  - **Description:** Toggles your helmet.
 
-    /loc noprint
-        Description: adds noprint argument to /loc, this just sends loc directly to your log.
+- `/showlootlockouts`
+  - **Aliases:** `/showlootlockout`, `/showlockout`, `/sll`
+  - **Description:** Shows you your current loot lockouts on Quarm.
 
-    /reloadskin
-        Description: reloads your current skin using ini.
+- `/zealcam`
+  - **Aliases:** `/smoothing`
+  - **Arguments:** `x y 3rdperson_x 3rdperson_y`
+  - **Example:** `/zealcam 0.7 0.2 0.7 0.2` if 3rd person arguments are not supplied, the first x and y are applied to both
+  - **Description:** Toggles Zeal's mouse look smoothing methods, the first 2 arguments are first person sensitivity, and the last 2 are for 3rd person
 
-    /fov
-        Arguments: int
-        Example: /fov 65
-        Description: changes your field of view with a value between 45 and 90.
+- `/autoinventory`
+  - **Aliases:** `/autoinv`, `/ai`
+  - **Description:** Drops whatever is on your cursor into your inventory.
 
-    /melody
-        Arguments: song gem #'s (maximum of 5)
-        Example: /melody 1 4 2 3
-        Description: plays songs in order until interrupted in any fashion.
+- `/autobank`
+  - **Aliases:** `/autoba`, `/ab`
+  - **Description:** Drops whatever is on your cursor into your bank. [requires you to be at a banker] (not fully functional atm)
 
-    /pandelay
-        Arguments: ms delay, none
-        Example: /pandelay 200
-        Description: changes the amount of delay before left click panning will start to happen
+- `/target`
+  - **Aliases:** `/cleartarget`
+  - **Description:** acts as normal /target unless you provide no argument in which case it will clear your target.
 
-    /hidecorpse
-        Arguments: looted, none
-        Aliases: /hideco, /hidec, /hc
-        Example: /hidecorpse looted
-        Description: looted Hides a corpse after you have looted it., none reveals all hidden corpses
+- `/sit`
+  - **Description:** The /sit command now accepts "on" as an argument. Using "/sit on" will always make you sit, even if you are currently sitting. This matches the game's native "/sit off" which always makes you stand even if you are currently standing. The "/sit" command will continue to toggle sit/stand state if no argument is provided or if the argument provided is not on or off. Additionally, "/sit down" now works as well and will always make you sit, even if already sitting.
 
-    /spellset
-        Arguments: save, load, delete
-        Example: /spellset save buffs
-        Example: /spellset load buffs
-        Example: /spellset delete buffs
-        Description: allows you to save and load spellsets
+- `/camp`
+  - **Description:** Auto sits before camping.
 
-    /showhelm
-        Aliases: /helm
-        Arguments: on, off
-        Example: /showhelm on
-        Description: Toggles your helmet.
+- `/zeal`
+  - **Arguments:** `version`
+  - **Description:** Shows the version of zeal.
 
-    /showlootlockouts
-        Aliases: /showlootlockout, /showlockout, /sll
-        Description: Shows you your current loot lockouts on Quarm.
+- `/zealinput`
+  - **Description:** toggles the zeal input setup for any input in game, giving you a more modern input (ctrl+c, ctrl+v, left, right, shift left+right for highlighting, home, end ect).
 
-    /zealcam
-        Aliases: /smoothing
-        Arguments: x y 3rdperson_x 3rdperson_y
-        Example: /zealcam 0.7 0.2 0.7 0.2 if 3rd person arguments are not supplied, the first x and y are applied to both
-        Description: Toggles Zeal's mouse look smoothing methods, the first 2 arguments are first person sensitivity, and the last 2 are for 3rd person
+- `/help zeal`
+  - **Description:** Shows the custom Zeal commands.
 
-    /autoinventory
-        Aliases: /autoinv, /ai
-        Description: Drops whatever is on your cursor into your inventory.
+- `/timestamp`
+  - **Aliases:** `/tms`
+  - **Description:** Shows message timestamps.
 
-    /autobank
-        Aliases: /autoba, /ab
-        Description: Drops whatever is on your cursor into your bank. [requires you to be at a banker] (not fully functional atm)
+- `/outputfile`
+  - **Aliases:** `/output`, `/out`
+  - **Arguments:** `inventory | spellbook` `[optional_name]`
+  - **Example:** `/outputfile inventory my_inventory`
+  - **Description:**
+    - `inventory` outputs information about your equipment, inventory bag slots, held item, and bank slots to a file.
+    - `spellbook` outputs a list of all spell ids current scribed in your spellbook.
 
-    /target
-        Aliases: /cleartarget
-        Description: acts as normal /target unless you provide no argument in which case it will clear your target.
+- `/buffs`
+  - **Description:** Outputs the players buff timers to the chat only if they are using OldUI.
 
-    /sit
-        Description: The /sit command now accepts "on" as an argument. Using "/sit on" will always make you sit, even if you are currently sitting. This matches the game's native "/sit off" which always makes you stand even if you are currently standing. The "/sit" command will continue to toggle sit/stand state if no argument is provided or if the argument provided is not on or off. Additionally, "/sit down" now works as well and will always make you sit, even if already sitting.
+- `/bluecon`
+  - **Description:** Changes the blue con color to usercolor #70 which is otherwise unused, you can edit in the options window.
 
-    /camp
-        Description: Auto sits before camping.
+- `/alarm`
+  - **Arguments:** `oldui`
+  - **Description:** Re-opens the alarm window, if oldui is specified it allows for an alarm on it.
+___
+### Binds
+- Cycle through nearest NPCs
+- Cycle through nearest PCs
+- Strafe Right
+- Strafe Left
+- Auto Inventory
+- Toggle last 2 targets
+- Reply target
+- Pet Attack
+- Pet Guard
+- Pet Follow
+- Pet Back
+- Slow turn left
+- Slow turn right
+___
+### UI
+- **Gauge EqType's**
+  - `23` EXP Per Hour
 
-    /zeal
-        Arguments: version
-        Description: Shows the version of zeal.
+- **Label EqType's**
+  - `80` Mana/Max Mana
+  - `81` Exp Per Hour Percentage
+  - `124` Current Mana
+  - `125` Max Mana
+  - `134` Spell being casted
 
-    /zealinput
-        Description: toggles the zeal input setup for any input in game, giving you a more modern input (ctrl+c, ctrl+v, left, right, shift left+right for highlighting, home, end ect).
+- **LootAllButton**
+- **LinkAllButton**
 
-    /help zeal
-        Description: Shows the custom Zeal commands.
 
-    /timestamp
-        Aliases: /tms
-        Description: Shows message timestamps.
-
-    /outputfile
-        Aliases: /output, /out
-        Arguments: inventory | spellbook [optional_name]
-        Example: /outputfile inventory my_inventory
-        Description:
-            inventory outputs information about your equipment, inventory bag slots, held item, and bank slots to a file.
-            spellbook outputs a list of all spell ids current scribed in your spellbook.
-
-    /buffs
-        Description: Outputs the players buff timers to the chat only if they are using OldUI.
-
-    /bluecon
-        Description: Changes the blue con color to usercolor #70 which is otherwise unused, you can edit in the options window.
-
-    /alarm
-        Arguments: oldui
-        Description: Re-opens the alarm window, if oldui is specified it allows for an alarm on it.
-
-Binds
-
-    Cycle through nearest NPCs
-    Cycle through nearest PCs
-    Strafe Right
-    Strafe Left
-    Auto Inventory
-    Toggle last 2 targets
-    Reply target
-    Pet Attack
-    Pet Guard
-    Pet Follow
-    Pet Back
-    Slow turn left
-    Slow turn right
-
-UI
-
-    Gauge EqType's
-        23 EXP Per Hour
-
-    Label EqType's
-        80 Mana/Max Mana
-        81 Exp Per Hour Percentage
-        124 Current Mana
-        125 Max Mana
-        134 Spell being casted
-
-    LootAllButton
-
-    LinkAllButton
-
-Options UI
-
-    ScreenID Checkboxes
-        Zeal_ShowHelm
-        Zeal_HideCorpse
-        Zeal_Cam
-        Zeal_BlueCon
-        Zeal_Timestamp
-        Zeal_Input
-        Zeal_Escape_
-
-    ScreenID Sliders
-        Zeal_PanDelaySlider
-        Zeal_FirstPersonSlider_X
-        Zeal_FirstPersonSlider_Y
-        Zeal_ThirdPersonSlider_X
-        Zeal_ThirdPersonSlider_Y
-
-    ScreenID Labels
-        Zeal_ThirdPersonLabel_X
-        Zeal_ThirdPersonLabel_Y
-        Zeal_FirstPersonLabel_X
-        Zeal_FirstPersonLabel_Y
-        Zeal_PanDelayLabel
-
-Building and Installation
-
+### Options UI 
+- **ScreenID Checkboxes**
+  - Zeal_ShowHelm
+  - Zeal_HideCorpse
+  - Zeal_Cam
+  - Zeal_BlueCon
+  - Zeal_Timestamp
+  - Zeal_Input
+  - Zeal_Escape_
+    
+- **ScreenID Sliders**
+  - Zeal_PanDelaySlider
+  - Zeal_FirstPersonSlider_X
+  - Zeal_FirstPersonSlider_Y
+  - Zeal_ThirdPersonSlider_X
+  - Zeal_ThirdPersonSlider_Y
+    
+- **ScreenID Labels**
+  - Zeal_ThirdPersonLabel_X
+  - Zeal_ThirdPersonLabel_Y
+  - Zeal_FirstPersonLabel_X
+  - Zeal_FirstPersonLabel_Y
+  - Zeal_PanDelayLabel
+___
+### Building and Installation
+<br>
 32bit x86
+<br>
 file extension .asi
-move zeal.asi into the root of your game folder 
+<br>
+move zeal.asi into the root of your game folder

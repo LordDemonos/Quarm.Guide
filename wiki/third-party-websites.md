@@ -17,6 +17,10 @@ I was hesitant to make a list as they seem to pop up and go stagnant pretty quic
 
 - [eqtunnelauctions](https://www.eqtunnelauctions.com/) Allows you to look up items recently sold in the EC tunnel and compare price trends.
 
+## Yet Another Quarm Database Site
+
+- [Yet Another Quarm Database Site](https://yaqds.cc) Offers a comprehensive collection of tools and resources for Project Quarm players, including zone and loot viewers, and database differentials.
+
 ## TAKP Wiki
 
 - [TAKP Wiki](https://wiki.takp.info/index.php/Main_Page) p99 Wiki is great for user content, but its not accurate to Quarm in many cases. TAKP Wiki doesn't have as much user content, but it's more accurate so keep that in mind.
