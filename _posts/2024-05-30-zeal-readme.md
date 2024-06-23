@@ -28,8 +28,8 @@ sitemap: true
 
 ### Commands
 
-/autofire
-        Description: Toggles Autofire on and off. When you throw or shoot you will automatically continue to throw or shoot on cooldown.
+- `/autofire`
+  - **Description:** Toggles Autofire on and off. When you throw or shoot you will automatically continue to throw or shoot on cooldown.
 ___
 - `/timer`
   - **Arguments:** `int`
