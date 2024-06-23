@@ -82,3 +82,9 @@ Although not used with EverQuest, Borderless Gaming is essential for users with 
 Loot Buddy is a comprehensive tool designed for Project Quarm, facilitating the management of auction and vendor prices, item type information, and group or raid loot notifications. It offers customizable notifications and parameters to enhance the user's gaming experience.
 
 - [More Information and Downloads](https://eqtunnelauctions.com/lootbuddy.php)
+
+### 4GB Patch
+
+The 4GB Patch is a small tool designed to patch x86 executables, allowing them to access 4GB of virtual memory on x64 platforms instead of the default 2GB. This is particularly useful for applications that require a significant amount of virtual memory, such as games, 3D rendering software, and multimedia applications. The tool is user-friendly, offering both a graphical interface and command line support, and it automatically creates a backup of the original executable.
+
+- [Download the 4GB Patch](https://ntcore.com/4gb-patch/)
