@@ -192,6 +192,20 @@ Kunark 2.9: March 1st, 2025 (1 month)
 - Added Gnome-sized Skeletons to Gnome Necromancers
 - The "Lich" line will now turn gnome necromancers into a smaller-in-stature skeleton.
 - Iksars under the effect of Illusion: Skeleton (ie; from Amulet of ) will now display as Iksar Skeletons.
+- Mini creatures that were set to 3d in Plane of Hate are now set to 2d 18h - this will require the last 3d timer to expire before applying. (edited)
+- Some of the throwing weapons that previously caused disconnects should no longer disconnect you. Please report any additional items like that in Discord.
+- Tin Banker I and Tin Banker II are no longer associated with a faction.
+- Thought Destroyer now has a 9% chance to spawn in Plane of Hate off of the death of any scorn banshee, up from 5%.
+- Ghost of Glohnor is now a 15% spawn chance from any Fallen Erudite.
+- Fungus Covered Great Saff has been renamed to Fungus Covered Great Staff
+- Fungus Covered Great Staff is now a 1% chance to drop off of any fungus man.
+- Fungus Covered Scale Tunic is now a 1% chance to drop off of any fungus man.
+- Myconid Spore King now spawns 100% of the time, and now drops the legacy no-drop items 100% of the time.
+- Fungus Covered Great Staff is now a 0.5% chance to drop off of any fungus man.
+- Fungus Covered Scale Tunic is now a 0.5% chance to drop off of any fungus man.
+- a shady goblin is now a 900 second respawn timer. You know, I could just write 15 minutes, but it sounds cooler this way.
+- You can now loot the Circlet of Shadow at 27.
+- Circlet of Shadow is now an instant cast timer.
 
 ## Instances and Quakes
 
@@ -211,6 +225,24 @@ Kunark 2.9: March 1st, 2025 (1 month)
 
 10/31/2024
 Oops, All Goos!
+
+## Kunark Era Resists
+From Torven of TAKP:
+
+"This change alters the resist spell method to try and mimic the classic, pre-September 2002 resists while keeping the 0-200 scale and -resist adjusts on spells. Switching to the 0-99 scale would be too disruptive and troublesome to implement and would require a lot of database changes, so maintaining much of the PoP era system was desirable. These changes are all gated to late Luclin and earlier.
+
+Changes in this commit:
+
+    Lifetaps on client targets are unresistable.
+    Resist hardcap of 250 in Classic and Kunark eras, 350 after Kunark.
+    Softcap at 200, overcap returns are half.
+    Dragon breaths with a lure component hardcoded to be -100 instead of -150.
+    Immolating Breath and Stun Breath hardcoded to be granted resist modifiers.
+    Enchanter NPCs will be able to land spells on high resist targets.
+    Partial hit damage is reduced for 51+ client casters. (it's kept as it is at level 50 and under)
+    Partial damage taken by clients is increased.
+
+I omitted the resist floors due to how disruptive those would be. In some scenarios the resists are knowingly more lenient (higher caps) in this than in the Kunark decompile because the hardcap back then was rather harsh and the effectiveness per point of resist is reduced in many cases due to the 200 scale, requiring more resist to reach the same mitigation as classic. I also believe that Sony likely altered the resist function at Velious launch to make resisting dragons easier and I can't say how exactly, but the obvious move would have been to raise the hardcap so that's what I did."
 
 ## Misc
 
