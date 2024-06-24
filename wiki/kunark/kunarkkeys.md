@@ -22,8 +22,8 @@ sitemap: true
 
 This key drops from [Captain of the Guard](https://www.pqdi.cc/npc/90001), a named that spawns randomly in the [City of Mist](https://www.pqdi.cc/zone/90) courtyard. More than 1 can be up at a time. Always drops.
 
-![Captain-of-the-Guard.jpg](/assets/images/kunarkkey/Captain-of-the-Guard.jpg)
 ![Captain-of-the-Guard-Map.jpg](/assets/images/kunarkkey/Captain-of-the-Guard-Map.jpg)
+![Captain-of-the-Guard.jpg](/assets/images/kunarkkey/Captain-of-the-Guard.jpg)
 
 ## [Key to Charasis](https://www.pqdi.cc/item/20600) - Access to [Howling Stones](https://www.pqdi.cc/zone/105)
 
