@@ -206,6 +206,11 @@ Kunark 2.9: March 1st, 2025 (1 month)
 - a shady goblin is now a 900 second respawn timer. You know, I could just write 15 minutes, but it sounds cooler this way.
 - You can now loot the Circlet of Shadow at 27.
 - Circlet of Shadow is now an instant cast timer.
+- Faelin Bloodbriar is now a 2 minute respawn.
+- Decrepit Hide boosted to 19% (was: 12%)
+- Targrin the Rock is now a 50% spawn chance (was 5%)
+- Undead Dragongut Strings is now a 100% drop rate from the normal version of Trakanon.
+- Gnarled Staff is now a 100% chance to drop off of the instanced version of Venril Sathir.
 
 ## Instances and Quakes
 
