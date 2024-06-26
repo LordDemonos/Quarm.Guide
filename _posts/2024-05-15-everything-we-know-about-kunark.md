@@ -229,6 +229,8 @@ Kunark 2.9: March 1st, 2025 (1 month)
 - Himart Kichith will now function as intended.
 - Niblik's Gems quest reward can now drop off of any named Sarnak in Chardok, too.
 - Keeper of Souls now drops a guaranteed Pegasus Feather Cloak at 100% chance.
+- City of Mist is now a 900 second base spawn time.
+- City of Mist is now considered a dungeon with cast outdoors enabled.
 
 ## Instances and Quakes
 
