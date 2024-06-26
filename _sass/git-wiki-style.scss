@@ -274,7 +274,7 @@ img,
   display: inline-block !important;
   margin-right: 5px !important;
   vertical-align: top !important;
-  isolation: isolate;
+  isolation: isolate !important;
 }
 
 .no-resize,
@@ -658,7 +658,13 @@ body.darkmode--activated .darkmode-ignore {
     border: 1px solid #ccc;
     overflow: hidden;
     margin: 0 auto;
+    background-color: #ffffff;
 }
+
+body.darkmode--activated .svg-container {
+    background-color: #000000 !important; 
+}
+
 
 .svg-container img {
     position: absolute;
@@ -668,10 +674,6 @@ body.darkmode--activated .darkmode-ignore {
     max-width: 100%;
     max-height: 100%;
     object-fit: contain;
-}
-
-body.darkmode--activated .svg-container {
-  background-color: #e0e0e0; // Light grey background
 }
 
 .svg-controls {
