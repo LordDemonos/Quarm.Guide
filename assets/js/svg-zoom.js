@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', function() {
     svgContainers.forEach(container => {
         const imgElement = container.querySelector('img');
         if (imgElement) {
-            let scale = 1;
+            let scale = 2;
             let panning = false;
             let pointX = 0;
             let pointY = 0;
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', function() {
             }
 
             function resetTransform() {
-                scale = 1;
+                scale = 2;
                 pointX = 0;
                 pointY = 0;
                 setTransform();
@@ -26,14 +26,14 @@ document.addEventListener('DOMContentLoaded', function() {
                 const zoomInButton = document.createElement('button');
                 zoomInButton.textContent = '+';
                 zoomInButton.onclick = () => {
-                    scale = Math.min(scale * 1.2, 5);
+                    scale *= 1.2; // Remove upper limit
                     setTransform();
                 };
 
                 const zoomOutButton = document.createElement('button');
                 zoomOutButton.textContent = '-';
                 zoomOutButton.onclick = () => {
-                    scale = Math.max(scale / 1.2, 0.5);
+                    scale /= 1.2; // Remove lower limit
                     setTransform();
                 };
 
@@ -61,9 +61,9 @@ document.addEventListener('DOMContentLoaded', function() {
                 const delta = -e.deltaY;
                 
                 if (delta > 0) {
-                    scale = Math.min(scale * 1.2, 5);
+                    scale *= 1.2; // Remove upper limit
                 } else {
-                    scale = Math.max(scale / 1.2, 0.5);
+                    scale /= 1.2; // Remove lower limit
                 }
 
                 pointX = mouseX - xs * scale;
