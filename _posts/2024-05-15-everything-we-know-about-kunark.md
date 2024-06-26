@@ -211,6 +211,24 @@ Kunark 2.9: March 1st, 2025 (1 month)
 - Targrin the Rock is now a 50% spawn chance (was 5%)
 - Undead Dragongut Strings is now a 100% drop rate from the normal version of Trakanon.
 - Gnarled Staff is now a 100% chance to drop off of the instanced version of Venril Sathir.
+- The following creatures can now drop A Piece of a Medallion (Karnors):
+  - a cursed hand
+  - a Drolvarg warlord
+  - undead jailer
+  - skeletal scryer
+  - Hangnail
+  - a drolvarg captain
+  - a drolvarg pawbuster
+  - skeletal captain
+  - skeletal caretaker
+- Medallion of the Jarsath (Top) is now a 30 second respawn timer.
+- Medallion of the Kylong (Bottom) is now a 30 second respawn timer.
+- Medallion of the Obulus (Middle) may now drop off of any skeleton in the Dreadlands.
+- Medallion of the Obulus (Bottom) may now drop off of any spectral <name> creature in Trakanon's Teeth.
+- Herbalist-adjacent mobs now have a 15% chance of dropping the Manisi herb, including the named creature.
+- Himart Kichith will now function as intended.
+- Niblik's Gems quest reward can now drop off of any named Sarnak in Chardok, too.
+- Keeper of Souls now drops a guaranteed Pegasus Feather Cloak at 100% chance.
 
 ## Instances and Quakes
 
