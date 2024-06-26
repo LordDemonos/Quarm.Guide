@@ -650,3 +650,40 @@ body.darkmode--activated .darkmode-ignore {
   filter: invert(0);
 }
 
+.svg-container {
+    position: relative;
+    width: 100%;
+    max-width: 1600px;
+    height: 900px;
+    border: 1px solid #ccc;
+    overflow: hidden;
+    margin: 0 auto;
+}
+
+.svg-container img {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+}
+
+body.darkmode--activated .svg-container {
+  background-color: #e0e0e0ad; // Light grey background
+}
+
+.svg-controls {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    z-index: 1000;
+}
+
+.svg-controls button {
+    margin-right: 5px;
+    padding: 5px 10px;
+    font-size: 16px;
+    cursor: pointer;
+}
