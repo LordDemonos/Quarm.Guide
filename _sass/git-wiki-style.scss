@@ -665,6 +665,10 @@ body.darkmode--activated .svg-container {
     background-color: #000000 !important; 
 }
 
+.svg-container svg {
+    width: 100%;
+    height: 100%;
+}
 
 .svg-container img {
     position: absolute;
