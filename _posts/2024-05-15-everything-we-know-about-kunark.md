@@ -163,9 +163,9 @@ Kunark 2.9: March 1st, 2025 (1 month)
 - High Scale Kirn is now a 1 hour spawn timer, down from 4 in open world and 8 in instanced.
 - Decrepit Hide is now a 12% chance off of any Ashenbone Drake in the Plane of Hate.
 - Wraith of a Shissir is now a 1 hour spawn timer.
-- Essence of a Vampire is now a 9% drop chance. 
+- Essence of a Vampire is now a 9% drop chance.
 - Nortlav the Scalekeeper now drops one of every Dragon Scale - Green, Red, and White - upon being defeated. Additionally, he will now spawn during Kunark.
-- VP Dragons have had their in combat HP regen set to be in line with other raid creatures (1) 
+- VP Dragons have had their in combat HP regen set to be in line with other raid creatures (1)
 - After a bit of deliberation, VP Dragons will be increased to 38,000, with Phara Dar being 42,000
 - Swamp of No Hope and Lake of Ill Omen have had their exp boosted for Kunark Early Access.
 - Iksar mules will no longer be able to log in temporarily during Kunark Early Access.
@@ -173,7 +173,7 @@ Kunark 2.9: March 1st, 2025 (1 month)
 - We added a soulbinder to Warsliks Woods. A bonus experience percent of 25% has been added to WW.
 - Oops, All Iksar Skeletons! is now available near the Kurn's Tower entrance for Iksars to de...cluster. - Yes, Box is in that zone.
 - Hand Made Backpack can now take a Scaled Wolf Hide as a component.
-- Power of Fire is now 9% drop chance from blazing elementals. Power of Fire is now 50% chance from the lava elemental. 
+- Power of Fire is now 9% drop chance from blazing elementals. Power of Fire is now 50% chance from the lava elemental.
 - Pearlescent Shard is now 9% drop chance.
 - Jennus Lykobar is now a 15 minute respawn.
 - Akksstaff is now a 15 minute respawn.
@@ -231,6 +231,7 @@ Kunark 2.9: March 1st, 2025 (1 month)
 - Keeper of Souls now drops a guaranteed Pegasus Feather Cloak at 100% chance.
 - City of Mist is now a 900 second base spawn time.
 - City of Mist is now considered a dungeon with cast outdoors enabled.
+- The Herald in Chardok now requires appropriate faction for the Warlord's head turnin for the Regal Band of Bathezid.
 
 ## Instances and Quakes
 
@@ -252,6 +253,7 @@ Kunark 2.9: March 1st, 2025 (1 month)
 Oops, All Goos!
 
 ## Kunark Era Resists
+
 From Torven of TAKP:
 
 "This change alters the resist spell method to try and mimic the classic, pre-September 2002 resists while keeping the 0-200 scale and -resist adjusts on spells. Switching to the 0-99 scale would be too disruptive and troublesome to implement and would require a lot of database changes, so maintaining much of the PoP era system was desirable. These changes are all gated to late Luclin and earlier.
