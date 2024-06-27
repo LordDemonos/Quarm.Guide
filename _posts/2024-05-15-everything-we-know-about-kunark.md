@@ -232,6 +232,7 @@ Kunark 2.9: March 1st, 2025 (1 month)
 - City of Mist is now a 900 second base spawn time.
 - City of Mist is now considered a dungeon with cast outdoors enabled.
 - The Herald in Chardok now requires appropriate faction for the Warlord's head turnin for the Regal Band of Bathezid.
+- Staff of the Dreaded Gaze and Blade of Xalgoz now drops off of any "<x> of Xalgoz" at a 2.5% chance.
 
 ## Instances and Quakes
 
