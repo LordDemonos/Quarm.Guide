@@ -10,7 +10,7 @@ sitemap: true
 
 ## Xanax's Checklist for Installing Zeal
 
-This checklist provides a summarized version of the steps required to install Zeal in Project Quarm. For detailed instructions, refer to the [Installing Zeal Guide](/installing-the-game#step-4-installing-zeal-).
+This checklist provides a summarized version of the steps required to install Zeal for Project Quarm. For detailed instructions, refer to the [Installing Zeal Guide](/installing-the-game#step-4-installing-zeal-).
 
 ### Prerequisites
 
