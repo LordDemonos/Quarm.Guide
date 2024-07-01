@@ -31,6 +31,6 @@ This checklist provides a summarized version of the steps required to install Ze
 3. **UI Files for Zeal**
    - For features such as **XP Per Hour** or **Total Mana** to work, you need to have a UI that is compatible with Zeal. For more information on UI files, refer to the [UI Files for Zeal section](/after-installing-the-game#where-to-get-quarm-user-interfaces). Nillipuss, CalmetharED, Qrustle, Franken UI, DuxaUI, and Default are the most popular UIs that are compatible with Zeal..
 4. **Zeal Readme**
-   - For a comprehensive list of features and commands, refer to the [Zeal Readme](/2024-05-30-zeal-readme).
+   - For a comprehensive list of features and commands, refer to the [Zeal Readme](https://quarm.guide/2024/06/19/zeal-readme/).
 
 By following these steps, you should have Zeal installed and configured for Project Quarm. For any issues or further details, refer to the [full installation guide](/installing-the-game).
