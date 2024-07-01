@@ -17,7 +17,6 @@ sitemap: true
 - https://github.com/NilliP/NillipussUI_1440p
 - https://www.eqinterface.com/downloads/fileinfo.php?id=6959
 
-
 ### Features
 - Camera motion improvements
 - Additional binds
@@ -159,6 +158,7 @@ sitemap: true
 - `/alarm`
   - **Arguments:** `oldui`
   - **Description:** Re-opens the alarm window, if oldui is specified it allows for an alarm on it.
+
 ___
 ### Binds
 - Cycle through nearest NPCs
@@ -176,6 +176,7 @@ ___
 - Slow turn right
 - Target nearest pc corpse
 - Target nearest npc corpse
+
 ___
 ### UI
 - **Gauge EqType's**
