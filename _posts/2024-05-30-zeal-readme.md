@@ -7,7 +7,7 @@ author: Salty
 published: true
 sitemap: true
 ---
-## Zeal Readme 6-19-2024
+## Zeal Readme 6-26-2024
 
 ### Zeal pipes in c#
 - https://github.com/OkieDan/ZealPipes
@@ -31,6 +31,11 @@ sitemap: true
 - `/autofire`
   - **Description:** Toggles Autofire on and off. When you throw or shoot you will automatically continue to throw or shoot on cooldown.
 
+- `/targetring`
+  - **Arguments:** ``
+  - **Example:** `/targetring`
+  - **Description:** Currently toggles on/off the target ring.
+   
 - `/timer`
   - **Arguments:** `int`
   - **Example:** `/timer 10`
@@ -169,6 +174,8 @@ ___
 - Pet Back
 - Slow turn left
 - Slow turn right
+- Target nearest pc corpse
+- Target nearest npc corpse
 ___
 ### UI
 - **Gauge EqType's**
