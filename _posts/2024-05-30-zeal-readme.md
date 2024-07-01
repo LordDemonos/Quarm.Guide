@@ -1,5 +1,5 @@
 ---
-date: 2024-06-19T00:00:00.000Z
+date: 2024-06-26T00:00:00.000Z
 title: Zeal Readme
 description: Readme for Zeal
 keywords: 'Project Quarm, Quarm, EverQuest, crash fixes, Zeal, '
