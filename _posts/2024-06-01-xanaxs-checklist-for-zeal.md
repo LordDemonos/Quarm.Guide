@@ -23,7 +23,7 @@ This checklist provides a summarized version of the steps required to install Ze
 ### Installation
 
 1. **Download and Extract Zeal**
-   - Visit the [Zeal GitHub Releases](https://github.com/iamclint/Zeal/releases) and download the latest version.
+   - Visit the [Zeal GitHub Releases](https://github.com/iamclint/Zeal/releases) page. Click "Assets" and select the latest `Zeal.v#####.zip` file to download.
    - Extract `Zeal.asi` and the `Zeal.pdb` folder to your TAKP folder.
    - Extract `EQUI_OptionsWindow.xml` to your `/uifiles/duxaUI/` folder or whichever UI folder you have set in your `eqclient.ini`.
 2. **UI Files for Zeal**
