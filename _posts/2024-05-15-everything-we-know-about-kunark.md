@@ -234,6 +234,19 @@ Kunark 2.9: March 1st, 2025 (1 month)
 - The Herald in Chardok now requires appropriate faction for the Warlord's head turnin for the Regal Band of Bathezid.
 - Staff of the Dreaded Gaze and Blade of Xalgoz now drops off of any "<x> of Xalgoz" at a 2.5% chance.
 - Trakanon can now drop between 7 and 10 teeth. He's got some big ones!
+- Skeletal Warlord no longer has a droplimit of 1 on the table containing the Tranquil Staff.
+- Undertow is now a 50/50 chance of spawning in Kedge Keep.
+- ~~a bloodgill marauder is now a 5 minute spawn time, and now drops 6 medallion pieces~~
+- The dungeon respawn time changes will now reduce any timer above 12 minutes but below 30 minutes to 12 minutes as opposed to (> 8 minutes -> 8 minutes)
+- Pulsing Green Stone will now drop from the standard, non-triggered Venril Sathir at the same rate as the Triggered Venril Sathir.
+- Shissar Apothic Staff now drops in place of the Protector staff from Hoshkar.
+- The Robe of Invocation now drops at a normal rate from Xygoz.
+- Iksar Skeleton Illusions will now use the female skull for female characters.
+- a bloodgill goblin now drops the VP medallion at 25% chance instead of a bloodgill marauder. a bloodgill marauder is once again a 8 hour spawn timer and is guaranteed to drop 4 medallions.
+- Hierophant's Cloak is now a Legacy Loot item, and requires 50 to loot.
+- It is no longer possible to multiquest the Veeshan's Peak Key or its subquest medallions.
+- It is no longer possible to multiquest the Sebilis key.
+- Plane of Sky creatures are now immune to pacify.
 
 ## Instances and Quakes
 
