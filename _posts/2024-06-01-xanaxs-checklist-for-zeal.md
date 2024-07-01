@@ -27,7 +27,7 @@ This checklist provides a summarized version of the steps required to install Ze
    - Extract `Zeal.asi` and the `Zeal.pdb` folder to your TAKP folder.
    - Extract `EQUI_OptionsWindow.xml` to your `/uifiles/duxaUI/` folder or whichever UI folder you have set in your `eqclient.ini`.
 2. **UI Files for Zeal**
-   - For features such as **XP Per Hour** or **Total Mana Values** to work, you need to have a UI that is compatible with Zeal. For more information on UI files, refer to the [UI Files for Zeal section](/after-installing-the-game#where-to-get-quarm-user-interfaces). Nillipuss, CalmetharED, Qrustle, Franken UI, DuxaUI, and Default are the most popular UIs that are compatible with Zeal. Don't forget to add the `EQUI_OptionsWindow.xml` file to your UI folder from the previous step.
+   - For features such as **XP Per Hour** or **Total Mana Values** to work, you need to have a UI that is compatible with Zeal. For more information on UI files, refer to the [UI Files for Zeal section](/after-installing-the-game#where-to-get-quarm-user-interfaces). Nillipuss, qqui Calmethar Edition, Qrustle, Franken UI, DuxaUI, and Default are the most popular UIs that are compatible with Zeal. Don't forget to add the `EQUI_OptionsWindow.xml` file to your UI folder from the previous step.
 3. **Verify Zeal Installation**
    - Log into the game and type `/zeal version` to check the version number.
    - Use `/help zeal` to see the list of available commands.
