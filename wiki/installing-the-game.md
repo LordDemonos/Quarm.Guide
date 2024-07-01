@@ -129,6 +129,12 @@ There are several EQ User Interfaces that have been modified to work with Projec
 
 If you are already using a custom user interface, you can determine which UI elements are missing Zeal features and causing errors by analyzing the `UIErrors.txt file` found within the root of your TAKP folder. An easy fix is to download another UI that has everything working such as [qqui Calmethar](https://www.eqinterface.com/downloads/fileinfo.php?id=6959), and just move the files you need into the UI folder you are using. Most user interfaces can be pieced together from different sources to achieve the look and feel you prefer.
 
+### Zeal Crash Reports
+
+In the event that your game crashes while using Zeal, a folder named `/crashes/` will be automatically created in the root directory of your TAKP installation folder. This folder will contain crash reports in a format similar to `2024-06-28_08-54-56.zip`. 
+
+To help the development team diagnose and resolve the issue, you can upload these crash reports to the official Discord channel [#zeal-discussions](https://discord.com/channels/1133452007412334643/1210670176077348934). The team will review the reports and work towards identifying the cause of the crashes, providing the community with potential solutions.
+
 ## Step 5: dgVoodoo2
 
 [dgVoodoo2](http://dege.freeweb.hu/dgVoodoo2/dgVoodoo2/) is a set of implementations of old graphics APIs for Windows 7 and later versions. If you are still having problems with intermittent game crashes, this may help.
