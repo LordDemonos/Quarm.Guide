@@ -1,6 +1,6 @@
 ---
 date: 2024-06-01
-title: "Xanax's Checklist for Installing Zeal in Project Quarm"
+title: "Xanax's Checklist for Installing Zeal"
 description: 'A concise guide to installing Zeal in Project Quarm, including prerequisites, download links, and configuration tips.'
 keywords: 'Project Quarm, Quarm, EverQuest, Zeal, installation, dgVoodoo, compatibility settings'
 author: 'Xanax'
