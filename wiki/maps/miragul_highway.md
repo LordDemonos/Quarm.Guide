@@ -28,6 +28,6 @@ The firepot room was discovered in [Timorous Deep](https://www.pqdi.cc/zone/96) 
 ## References
 Numerous curious adventurers have written about Miragul's Highway over the years.
 
-[Miragul's Highway. Michael's Shenanigans. Accessed on April 4th, 2021. Available at ](https://www.youtube.com/watch?v=knbfiDzYdbQ).
-[The Firepots. Accessed on April 4th, 2021. Available at ](https://everquest.allakhazam.com/db/quest.html?quest=308).
-[EverQuest Lore - Miragul, by ZaideGod](https://www.youtube.com/watch?v=N2uCmhW9aw4)
+- [Miragul's Highway. Michael's Shenanigans. Accessed on April 4th, 2021. Available at ](https://www.youtube.com/watch?v=knbfiDzYdbQ).
+- [The Firepots. Accessed on April 4th, 2021. Available at ](https://everquest.allakhazam.com/db/quest.html?quest=308).
+- [EverQuest Lore - Miragul, by ZaideGod](https://www.youtube.com/watch?v=N2uCmhW9aw4)
