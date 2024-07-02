@@ -14,8 +14,8 @@ Miragul's Highway is the name given to the firepots scattered throughout Norrath
 
 > Note: These firepots were most likely an early idea by the developers at making travel for evil races less dangerous that they never fully implemented. Travel without a wizard or druid used to require crossing the oceans by boat, and these trips usually involved sneaking past good-aligned guards and NPC's at some point. Some have speculated that these were used at some point by developers and/or GM's before teleport commands were implemented. Most discussion on these firepots seem to agree the idea was scrapped after Shadows of Luclin and Planes of Power opened up more modes of travel.
 
-![neriakfirepot.jpg](/assets/images/map/neriakfirepot.jpg)
-![toxxfirepot.jpg](/assets/images/map/toxxfirepot.jpg)
+[![neriakfirepot.jpg](/assets/images/map/neriakfirepot.jpg)](/assets/images/map/neriakfirepot.jpg)
+[![toxxfirepot.jpg](/assets/images/map/toxxfirepot.jpg)](/assets/images/map/toxxfirepot.jpg)
 
 ## Timorous Deep Firepot Room
 
@@ -23,7 +23,7 @@ The firepot room was discovered in Timorous Deep shortly after first adventurers
 
 > Note: On live, there was a patch that prevented binding in the firepot room about three or four days after Kunark came out. 
 
-![timorousfirepot.jpg](/assets/images/map/timorousfirepot.jpg)
+[![timorousfirepot.jpg](/assets/images/map/timorousfirepot.jpg)](/assets/images/map/timorousfirepot.jpg)
 
 ## References
 Numerous curious adventurers have written about Miragul's Highway over the years.
