@@ -413,6 +413,8 @@ The character running the command must first be of appropriate level and no othe
 
 The mule account will be exempt from IP restrictions allowing you to run a game client and buy/sell/transfer items independent of your main account. Again, RUNNING THE COMMAND AND CONFIRMING WILL DELEVEL YOU TO 1 AND FLAG THE ENTIRE ACCOUNT AS A MULE ACCOUNT. BE CERTAIN OF YOUR INTENTIONS. `@CSR` WILL NOT REVOKE THIS FLAG UNDER ANY CIRCUMSTANCES, NOR ARE THEY EQUIPPED TO DEAL WITH ANY ISSUES THAT ARISE.
 
+> Please note that the transfer to East Commonlands (EC) may take some time. We appreciate your patience and understanding as we work to ensure a smooth experience for all players.
+
 ## Elective Services Fees
 
 The following is the current fees for elective character and account services. These services will only be handled under admin discretion. Limit 1 elective service per week.
