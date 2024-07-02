@@ -3,6 +3,7 @@ title: Guide to Miragul's Highway
 description: Detailed guide on navigating Miragul's Highway.
 keywords: Miragul's Highway, EverQuest, Firepot, Teleportation
 author: Xanax
+toc: false
 resize_images: true
 published: true
 sitemap: true
