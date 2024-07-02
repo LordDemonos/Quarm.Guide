@@ -17,7 +17,7 @@ Miragul's Highway is the name given to the firepots scattered throughout Norrath
 ![neriakfirepot.jpg](/assets/images/map/neriakfirepot.jpg)
 ![toxxfirepot.jpg](/assets/images/map/toxxfirepot.jpg)
 
-# Timorous Deep Firepot Room
+## Timorous Deep Firepot Room
 
 The firepot room was discovered in Timorous Deep shortly after first adventurers began venturing from Oasis to the The Ruins of Kunark. It is perhaps the only accessible part of Miragul's Highway - however it is unfortunately well within aggro range of Faydedar. Opportunistic adventurers should be careful about binding in the firepot room - some say that death loops have happened.
 
@@ -25,7 +25,7 @@ The firepot room was discovered in Timorous Deep shortly after first adventurers
 
 ![timorousfirepot.jpg](/assets/images/map/timorousfirepot.jpg)
 
-# References
+## References
 Numerous curious adventurers have written about Miragul's Highway over the years.
 
 [Miragul's Highway. Michael's Shenanigans. Accessed on April 4th, 2021. Available at ](https://www.youtube.com/watch?v=knbfiDzYdbQ).
