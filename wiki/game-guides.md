@@ -24,6 +24,7 @@ Welcome to the central hub for all Project Quarm game guides.
         </ul>
         <h3>Access Guides</h3>
         <ul>
+            <li><a href="{{ 'miragul_highway' | relative_url }}">Miragul's Highway</a></li>
             <li><a href="{{ 'kunarkkeys' | relative_url }}">Ruins of Kunark Keys</a></li>
         </ul>
     </div>
