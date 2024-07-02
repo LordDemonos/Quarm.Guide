@@ -247,6 +247,11 @@ Kunark 2.9: March 1st, 2025 (1 month)
 - It is no longer possible to multiquest the Veeshan's Peak Key or its subquest medallions.
 - It is no longer possible to multiquest the Sebilis key.
 - Plane of Sky creatures are now immune to pacify.
+- Lheana no longer has an 18 hour respawn timer in instances.
+- Althele's respawn is now 3 minutes.
+- The Druid/Ranger Epic NPC in Greater Faydark no longer depops. She also doesn't have variance of 360 anymore, resulting in a variance time of 35+ years on repop.
+- Zordak Ragefire now functions in Nagafen's Lair (Instanced)
+- Mage epic pet minimum damage set to 21 (This was applied yesterday by Secrets but did not get a patch note)
 
 ## Instances and Quakes
 
