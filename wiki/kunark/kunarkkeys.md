@@ -42,7 +42,7 @@ This key drops from [Captain of the Guard](https://www.pqdi.cc/npc/90001), a na
 
 [Chancellor of Di'zok](https://www.pqdi.cc/npc/85062) is a level 40 Shaman. He roams all over the western side of the zone, including into the goblin caves up north. The rest of the mobs are Lv20-30.
 
-Your best plan is to clear as many mobs as possible inside the fort. [Chancellor of Di'zok](https://www.pqdi.cc/npc/85062) runs SoW speed so you’ll want to have a tracker run around to see if he is already up. He does not always have the [Jade Chokidai Prod](https://www.pqdi.cc/item/7256), but seems to almost every time.
+Your best plan is to clear as many mobs as possible inside the fort. [Chancellor of Di'zok](https://www.pqdi.cc/npc/85062) runs SoW speed so you’ll want to have a tracker run around to see if he is already up.
 
 ![Chancellor-of-DiZok-Map.jpg](/assets/images/kunarkkey/Chancellor-of-DiZok-Map.jpg)
 ![Chancellor-of-DiZok.jpg](/assets/images/kunarkkey/Chancellor-of-DiZok.jpg)
@@ -54,7 +54,7 @@ Your best plan is to clear as many mobs as possible inside the fort. [Chancellor
 - [guardian of Xalgox](https://www.pqdi.cc/npc/88123)
 - [spectral librarian](https://www.pqdi.cc/npc/88000)
 
-[Xalgoz](https://www.pqdi.cc/npc/88010) is a Lv40 Necromancer. His's PHs are the [guardian of Xalgox](https://www.pqdi.cc/npc/88123). The rest of the mobs are Lv35-40.
+[Xalgoz](https://www.pqdi.cc/npc/88010) is a Lv40 Necromancer. His PHs are the [guardian of Xalgox](https://www.pqdi.cc/npc/88123). The rest of the mobs are Lv35-40.
 
 ![Kaesora-Map-Charasis-Key.jpg](/assets/images/kunarkkey/Kaesora-Map-Charasis-Key.jpg)
 ![Xalgoz-2.jpg](/assets/images/kunarkkey/Xalgoz-2.jpg)
