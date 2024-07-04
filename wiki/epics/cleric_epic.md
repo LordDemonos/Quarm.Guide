@@ -126,7 +126,7 @@ Go to [Timorous Deep](https://www.pqdi.cc/zone/96) and find [Omat Vastsea](https
 
 ### Step 7
 
-[Script Page](<https://www.pqdi.cc/script-entities/burningwood/Naxot_[Deep](https://www.pqdi.cc/npc/85223)water>)
+[Script Page](https://www.pqdi.cc/script-entities/burningwood/Naxot_Deepwater)
 
 Go to [The Burning Wood](https://www.pqdi.cc/zone/87) and find [Naxot Deepwater](https://www.pqdi.cc/npc/87002) at (3389.0, -2122.0). Give her [Ornate Sea Shell](https://www.pqdi.cc/item/28056) to receive [Message to Natasha](https://www.pqdi.cc/item/28052). This turn-in also spawns a giant fire elemental [Ixiblat Fer](https://www.pqdi.cc/npc/87014) at (-2000.0, 1500.0). Kill [Ixiblat Fer](https://www.pqdi.cc/npc/87014) and loot [Sceptre of Ixiblat Fer](https://www.pqdi.cc/item/28017). This is a mini boss. It's best to bring some friends.
 
