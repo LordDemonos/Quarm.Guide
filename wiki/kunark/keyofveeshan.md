@@ -34,7 +34,7 @@ This is a ground spawn in [Swamp of No Hope](https://www.pqdi.cc/zone/83) at app
 
 Drops from [an ancient Jarsath](https://www.pqdi.cc/npc/84256) in [Firiona Vie](https://www.pqdi.cc/zone/84). He is an undead skeleton that roams the east side of the zone.
 
-![FV-Map-an-ancient-Jarsath.jpg](/assets/images/kunarkkey/jarsath.jpg)
+![jarsath.jpg](/assets/images/kunarkkey/jarsath.png)
 ![an-ancient-Jarsath.jpg](/assets/images/kunarkkey/an-ancient-Jarsath.jpg)
 
 ### 3. [Piece of a Medallion (Jarsath Bottom Piece)](https://www.pqdi.cc/item/19959)
