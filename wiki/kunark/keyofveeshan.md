@@ -27,14 +27,14 @@ You'll also need a [Trakanon's Tooth](https://www.pqdi.cc/item/7276) from [Traka
 
 This is a ground spawn in [Swamp of No Hope](https://www.pqdi.cc/zone/83) at approximately (50.0, 2935.0) along a shoreline.
 
-![Swap-of-No-Hope-Map-1.jpg](/assets/images/kunarkkey/Swap-of-No-Hope-Map-1.jpg)
+![Swap-of-No-Hope-Map-1.jpg](/assets/images/kunarkkey/Swap-of-No-Hope-Map.jpg)
 ![Swap-of-No-Hope-VP.jpg](/assets/images/kunarkkey/Swap-of-No-Hope-VP.jpg)
 
 ### 2. [Piece of a Medallion (Jarsath Middle Piece)](https://www.pqdi.cc/item/19960)
 
 Drops from [an ancient Jarsath](https://www.pqdi.cc/npc/84256) in [Firiona Vie](https://www.pqdi.cc/zone/84). He is an undead skeleton that roams the east side of the zone.
 
-![FV-Map-an-ancient-Jarsath.jpg](/assets/images/kunarkkey/FV-Map-an-ancient-Jarsath.jpg)
+![FV-Map-an-ancient-Jarsath.jpg](/assets/images/kunarkkey/jarsath.jpg)
 ![an-ancient-Jarsath.jpg](/assets/images/kunarkkey/an-ancient-Jarsath.jpg)
 
 ### 3. [Piece of a Medallion (Jarsath Bottom Piece)](https://www.pqdi.cc/item/19959)
@@ -57,7 +57,6 @@ Find [Xiblin Fizzlebik](https://www.pqdi.cc/npc/96035) in [Timorous Deep](https:
 to receive [Medallion of the Jarsath](https://www.pqdi.cc/item/19954).  
 
 ![Timorous-Deep-Map1.jpg](/assets/images/kunarkkey/Timorous-Deep-Map1.jpg)
-![Timorous-Deep-Map1-1.jpg](/assets/images/kunarkkey/Timorous-Deep-Map1-1.jpg)
 ![Xiblin-Fizzlebik.jpg](/assets/images/kunarkkey/Xiblin-Fizzlebik.jpg)
 
 ## [Medallion of the Obulus](https://www.pqdi.cc/item/19953)
@@ -126,8 +125,8 @@ Head to [Burning Woods](https://www.pqdi.cc/npc/87047) and locate [Slixin Klex](
 
 to receive [Medallion of the Obulus](https://www.pqdi.cc/item/19953).  
 
-![Burning-Woods-Map-Slixin-Klex-1.jpg](/assets/images/kunarkkey/Burning-Woods-Map-Slixin-Klex-1.jpg)
-![Slixin-Klex-1.jpg](/assets/images/kunarkkey/Slixin-Klex-1.jpg)
+![Burning-Woods-Map-Slixin-Klex-1.jpg](/assets/images/kunarkkey/Burning-Woods-Map-Slixin-Klex.jpg)
+![Slixin-Klex-1.jpg](/assets/images/kunarkkey/Slixin-Klex.jpg)
 
 ## [Medallion of the Kylong](https://www.pqdi.cc/item/19955)
 
@@ -172,9 +171,9 @@ Once you have the gems, head to [Chardok](https://www.pqdi.cc/zone/103) and find
 - [Foreman Ku`lul](https://www.pqdi.cc/npc/103053) (15.0% x 1)
 - [Sarnak Collective Auditor](https://www.pqdi.cc/npc/103066) (15.0% x 1)
 
-![Niblek-Chardok-Map-1.jpg](/assets/images/kunarkkey/Niblek-Chardok-Map-1.jpg)
-![royal-guard-1.png](/assets/images/kunarkkey/royal-guard-1.png)
-![Niblek-1.jpg](/assets/images/kunarkkey/Niblek-1.jpg)
+![Niblek-Chardok-Map-1.jpg](/assets/images/kunarkkey/Niblek-Chardok-Map.jpg)
+![royal-guard-1.png](/assets/images/kunarkkey/royal-guard.png)
+![Niblek-1.jpg](/assets/images/kunarkkey/Niblek.jpg)
 
 ### 2. [Piece of a Medallion (Kylong Middle Piece)](https://www.pqdi.cc/item/19963)
 
@@ -239,5 +238,5 @@ to receive [Key of Veeshan](https://www.pqdi.cc/item/20884)!
 
 ## Entrance to Veeshan's Peak
 
-![Key of Veeshan Map](/assets/images/kunarkkey/key_of_veeshan_map.jpg)
+![Veeshans-Zone-in.jpg](/assets/images/kunarkkey/Veeshans-Zone-in.jpg)
 
