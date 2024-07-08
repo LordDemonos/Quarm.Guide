@@ -83,7 +83,7 @@ _Note: All items except [Blood Encrusted Glove](https://www.pqdi.cc/item/17751)
 
 ## [Howling Stones](https://www.pqdi.cc/zone/105) - Keys and Dungeon Progression
 
-***WARNING: Upon zoning in, you may be greeted by two to three hostile NPC's! See "Dangers" below.***
+***WARNING: Upon zoning in, you may be greeted by two to three hostile NPC's!***
 
 This dungeon is meant to be done in a linear fashion, your forward progress controlled by the need for no rent keys to move on to further parts of the dungeon. However, rogues are able to bypass these requirements by picking any lock in the dungeon, and are highly prized here for this ability. The keys can be obtained from either monsters or found lying on the ground in various places. You must travel from North Wing, to West Wing, to South Wing, to East Wing if you are using the keys.
 
