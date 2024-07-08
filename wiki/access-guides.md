@@ -9,3 +9,4 @@ author: Xanax
 # Access Guides
 
 - [Ruins of Kunark Keys]({{ 'kunarkkeys' | relative_url }})
+- [Key of Veeshan]({{ 'keyofveeshan' | relative_url }})

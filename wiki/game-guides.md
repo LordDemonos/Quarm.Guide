@@ -26,6 +26,7 @@ Welcome to the central hub for all Project Quarm game guides.
         <ul>
             <li><a href="{{ 'miragul_highway' | relative_url }}">Miragul's Highway</a></li>
             <li><a href="{{ 'kunarkkeys' | relative_url }}">Ruins of Kunark Keys</a></li>
+            <li><a href="{{ 'keyofveeshan' | relative_url }}">Key of Veeshan</a></li>
         </ul>
     </div>
     <div style="flex: 1; margin-left: 10px;">
