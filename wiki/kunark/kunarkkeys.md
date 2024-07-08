@@ -98,7 +98,7 @@ North:
 
 West:
 - [Skull-engraved Coin](https://www.pqdi.cc/item/20515) - floor, room past trap (#5 on map). This is Key to West Boss [Skeletal Procurator](https://www.pqdi.cc/npc/105071).
-0 [Broken Sacrificial Blade](https://www.pqdi.cc/item/20513) - drops from [Skeletal Procurator](https://www.pqdi.cc/npc/105071). This is for access to South wing. 
+- [Broken Sacrificial Blade](https://www.pqdi.cc/item/20513) - drops from [Skeletal Procurator](https://www.pqdi.cc/npc/105071). This is for access to South wing. 
 
 South:
 - [Coin Depicting Innoruuk](https://www.pqdi.cc/item/20516) - Floor drop in south in the room with 3 spawns on the west side of South approx loc (Y: -705.69, X: -51.92) . This is key to East Wing (The door between where [Drusella Sathir](https://www.pqdi.cc/npc/105002) spawns, 14 on the map, and the zone-out portal cannot be opened by any key.) 
