@@ -55,6 +55,20 @@ These are new maps made to work with ZlizEQMap and you'll find your location and
 - Release Notes [Link](https://docs.google.com/document/d/10UuQP3bryrX8Sv5S0x9BH6hJttRCLtKWPy8riOgwRu8/edit?usp=sharing)
 - How to use Keilly's Maps in ZlizEQMap [Link](https://docs.google.com/document/d/17lQBWhthpMA9JGI9GfKN2wCRlaR1a1HKEMyhJtrVnnQ/edit?usp=sharing)
 
+### Quarm+
+
+Quarm+ is a tool built to quickly and painlessly keep Zeal and QuarmTool updated so you can focus on what matters; phat l00t. It asks for your main Project Quarm and QuarmTool directories and saves them to a local settings.json file. Quarm+ is a single button patcher that not only loads the newest versions of Zeal and QuarmTool into your selected directories, but also:
+
+- Allows for installation of older versions through the version selector
+- Installs EQUI_OptionsWindow.xml to all UI's installed in the /uifiles/ folder of your main TAKP folder
+- Offers compatible UI's to install in /uifiles/ folder for highest level of enjoyment
+- Offers a quick and easy Optimize Settings button which applies the most requested optimizations to eqclient.ini
+
+Whether you are in the Discord and up to speed, or you're making the devs scream because you're 10 versions behind, Quarm+ is a tool that can help save you time, worry, and frees you from the lossy streams of #zeal-discussion and #open-source-discussion.
+
+- [GitHub Releases](https://github.com/blastlaster/QuarmPlus/releases)
+
+
 ### EQ Tell Notifier
 
 Desktop notifications for tells received in game.
