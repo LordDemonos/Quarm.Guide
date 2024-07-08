@@ -22,7 +22,7 @@ sitemap: true
 
 This key drops from [Captain of the Guard](https://www.pqdi.cc/npc/90001), a named that spawns randomly in the [City of Mist](https://www.pqdi.cc/zone/90) courtyard. More than 1 can be up at a time. Always drops.
 
-![Captain-of-the-Guard-Map.jpg](/assets/images/kunarkkey/Captain-of-the-Guard-Map.jpg)
+[![Captain-of-the-Guard-Map.jpg](/assets/images/kunarkkey/Captain-of-the-Guard-Map.jpg)](/assets/images/kunarkkey/Captain-of-the-Guard-Map.jpg)
 ![Captain-of-the-Guard.jpg](/assets/images/kunarkkey/Captain-of-the-Guard.jpg)
 
 ## [Key to Charasis](https://www.pqdi.cc/item/20600) - Access to [Howling Stones](https://www.pqdi.cc/zone/105)
@@ -44,7 +44,7 @@ This key drops from [Captain of the Guard](https://www.pqdi.cc/npc/90001), a na
 
 Your best plan is to clear as many mobs as possible inside the fort. [Chancellor of Di'zok](https://www.pqdi.cc/npc/85062) runs SoW speed so you’ll want to have a tracker run around to see if he is already up.
 
-![Chancellor-of-DiZok-Map.jpg](/assets/images/kunarkkey/Chancellor-of-DiZok-Map.jpg)
+[![Chancellor-of-DiZok-Map.jpg](/assets/images/kunarkkey/Chancellor-of-DiZok-Map.jpg)](/assets/images/kunarkkey/Chancellor-of-DiZok-Map.jpg)
 ![Chancellor-of-DiZok.jpg](/assets/images/kunarkkey/Chancellor-of-DiZok.jpg)
 
 [Xalgozian Fang](https://www.pqdi.cc/item/7236) – Drops in [Kaesora](https://www.pqdi.cc/zone/88) from:
@@ -62,7 +62,7 @@ Your best plan is to clear as many mobs as possible inside the fort. [Chancellor
 
 Take [Jade Chokidai Prod](https://www.pqdi.cc/item/7256) and [Xalgozian Fang](https://www.pqdi.cc/item/7236) to [Swap of No Hope](https://www.pqdi.cc/zone/83) and give them to [Dugroz](https://www.pqdi.cc/npc/83149) to receive [Key to Charasis](https://www.pqdi.cc/item/20600)!
 
-![Swamp-of-No-Hope-Map.jpg](/assets/images/kunarkkey/Swamp-of-No-Hope-Map.jpg)
+[![Swamp-of-No-Hope-Map.jpg](/assets/images/kunarkkey/Swamp-of-No-Hope-Map.jpg)](/assets/images/kunarkkey/Swamp-of-No-Hope-Map.jpg)
 ![Dugroz.jpg](/assets/images/kunarkkey/Dugroz.jpg)
 <!-- 
 ## [Hand of Glory](https://www.pqdi.cc/item/17274) - Open Locked Doors in [Howling Stones](https://www.pqdi.cc/zone/105)
@@ -104,7 +104,7 @@ West:
 South:
 - [Coin Depicting Innoruuk](https://www.pqdi.cc/item/20516) - Floor drop in south in the room with 3 spawns on the west side of South approx loc (Y: -705.69, X: -51.92) . This is key to East Wing (The door between where [Drusella Sathir](https://www.pqdi.cc/npc/105002) spawns, 14 on the map, and the zone-out portal cannot be opened by any key.) 
 
-![Map_charasis1.jpg](/assets/images/kunarkkey/Map_charasis1.jpg) 
+[![Map_charasis1.jpg](/assets/images/kunarkkey/Map_charasis1.jpg)](/assets/images/kunarkkey/Map_charasis1.jpg) 
 
 ## [Trakanon Idol](https://www.pqdi.cc/item/20883) - Access to [Old Sebilis](https://www.pqdi.cc/zone/89)
 
@@ -115,11 +115,11 @@ South:
 – [a froglok forager](https://www.pqdi.cc/npc/95004) drops [Medallion of the Kunzar](https://www.pqdi.cc/item/19951)  
 – [a froglok hunter](https://www.pqdi.cc/npc/95000) drops [Medallion of the Nathsar](https://www.pqdi.cc/item/19952)
 
-![Trakanon-Teeth-Map-Idol.jpg](/assets/images/kunarkkey/Trakanon-Teeth-Map-Idol.jpg)
+[![Trakanon-Teeth-Map-Idol.jpg](/assets/images/kunarkkey/Trakanon-Teeth-Map-Idol.jpg)](/assets/images/kunarkkey/Trakanon-Teeth-Map-Idol.jpg)
 ![Froglok-hunter.jpg](/assets/images/kunarkkey/Froglok-hunter.jpg)
 ![Froglok-Forager.jpg](/assets/images/kunarkkey/Froglok-Forager.jpg)
 
 – Give [Medallion of the Kunzar](https://www.pqdi.cc/item/19951)  and [Medallion of the Nathsar](https://www.pqdi.cc/item/19952) to [Emperor Ganak](https://www.pqdi.cc/npc/95034) to receive [Trakanon Idol](https://www.pqdi.cc/item/20883). He can be found in a cave located in the southwest corner of the zone.
 
-![Emperor-Ganak-Map.jpg](/assets/images/kunarkkey/Emperor-Ganak-Map.jpg)
+[![Emperor-Ganak-Map.jpg](/assets/images/kunarkkey/Emperor-Ganak-Map.jpg)](/assets/images/kunarkkey/Emperor-Ganak-Map.jpg)
 ![Emperor-Ganak-1.jpg](/assets/images/kunarkkey/Emperor-Ganak-1.jpg)
