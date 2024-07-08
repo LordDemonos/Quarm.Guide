@@ -90,18 +90,18 @@ This dungeon is meant to be done in a linear fashion, your forward progress cont
 All keys are temporary (they disappear if you log out), but they are added to your keyring. They do **not** appear in the /keys listed text. Their locations are:
 
 Everywhere:
--[Tallow-marked Candle](https://www.pqdi.cc/item/20511) - any [bottomless feaster](https://www.pqdi.cc/npc/105117),  [bottomless gnawer](https://www.pqdi.cc/npc/105129), or [bottomless devourer](https://www.pqdi.cc/npc/105148) can drop. This is for access to the North wing. 
+– [Tallow-marked Candle](https://www.pqdi.cc/item/20511) - any [bottomless feaster](https://www.pqdi.cc/npc/105117),  [bottomless gnawer](https://www.pqdi.cc/npc/105129), or [bottomless devourer](https://www.pqdi.cc/npc/105148) can drop. This is for access to the North wing. 
 
 North:
--[Sacrificial Robe Clasp](https://www.pqdi.cc/item/20514) - floor, center room (#2 on map). This is for key to North Boss [Crypt Keeper](https://www.pqdi.cc/npc/105011).
--[Sigil of the Calendar](https://www.pqdi.cc/item/20512) - drops from the [Crypt Keeper](https://www.pqdi.cc/npc/105011). This is for access to the West Wing. 
+– [Sacrificial Robe Clasp](https://www.pqdi.cc/item/20514) - floor, center room (#2 on map). This is for key to North Boss [Crypt Keeper](https://www.pqdi.cc/npc/105011).
+– [Sigil of the Calendar](https://www.pqdi.cc/item/20512) - drops from the [Crypt Keeper](https://www.pqdi.cc/npc/105011). This is for access to the West Wing. 
 
 West:
--[Skull-engraved Coin](https://www.pqdi.cc/item/20515) - floor, room past trap (#5 on map). This is Key to West Boss [Skeletal Procurator](https://www.pqdi.cc/npc/105071).
--[Broken Sacrificial Blade](https://www.pqdi.cc/item/20513) - drops from [Skeletal Procurator](https://www.pqdi.cc/npc/105071). This is for access to South wing. 
+– [Skull-engraved Coin](https://www.pqdi.cc/item/20515) - floor, room past trap (#5 on map). This is Key to West Boss [Skeletal Procurator](https://www.pqdi.cc/npc/105071).
+– [Broken Sacrificial Blade](https://www.pqdi.cc/item/20513) - drops from [Skeletal Procurator](https://www.pqdi.cc/npc/105071). This is for access to South wing. 
 
 South:
--[Coin Depicting Innoruuk](https://www.pqdi.cc/item/20516) - Floor drop in south in the room with 3 spawns on the west side of South approx loc (Y: -705.69, X: -51.92) . This is key to East Wing (The door between where [Drusella Sathir](https://www.pqdi.cc/npc/105002) spawns, 14 on the map, and the zone-out portal cannot be opened by any key.) 
+– [Coin Depicting Innoruuk](https://www.pqdi.cc/item/20516) - Floor drop in south in the room with 3 spawns on the west side of South approx loc (Y: -705.69, X: -51.92) . This is key to East Wing (The door between where [Drusella Sathir](https://www.pqdi.cc/npc/105002) spawns, 14 on the map, and the zone-out portal cannot be opened by any key.) 
 
 [![Map_charasis1.jpg](/assets/images/kunarkkey/Map_charasis1.jpg)](/assets/images/kunarkkey/Map_charasis1.jpg) 
 
