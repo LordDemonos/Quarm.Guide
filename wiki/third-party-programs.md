@@ -68,7 +68,6 @@ Whether you are in the Discord and up to speed, or you're making the devs scream
 
 - [GitHub Releases](https://github.com/blastlaster/QuarmPlus/releases)
 
-
 ### EQ Tell Notifier
 
 Desktop notifications for tells received in game.
