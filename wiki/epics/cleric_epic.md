@@ -1,12 +1,14 @@
 ---
 title: 'Cleric Epic Quest Guide: Water Sprinkler of Nem Ankh - Project Quarm'
 description: >-
-  Complete guide for the Cleric Epic quest in Project Quarm, detailing the acquisition of the Water Sprinkler of Nem Ankh. This guide includes locations, NPC interactions, and item collection steps necessary to complete the quest.
-
+  Complete guide for the Cleric Epic quest in Project Quarm, detailing the
+  acquisition of the Water Sprinkler of Nem Ankh. This guide includes locations,
+  NPC interactions, and item collection steps necessary to complete the quest.
 keywords: >-
-  Cleric Epic Quest, Water Sprinkler of Nem Ankh, Project Quarm, EverQuest Cleric Guide, MMORPG quests, fantasy game quests, epic weapon quests, online gaming guides, Lake Rathetear, Chardok, Skyfire Mountains, Timorous Deep
-
-author: Xanax, Talodar
+  Cleric Epic Quest, Water Sprinkler of Nem Ankh, Project Quarm, EverQuest
+  Cleric Guide, MMORPG quests, fantasy game quests, epic weapon quests, online
+  gaming guides, Lake Rathetear, Chardok, Skyfire Mountains, Timorous Deep
+author: 'Xanax, Talodar'
 toc: false
 resize_images: true
 published: true
@@ -72,7 +74,7 @@ Go to [Lake Rathetear](https://www.pqdi.cc/zone/51) and camp [Lord Bergurgle](ht
 
 Head to [Shmendrik Lavawalker](https://www.pqdi.cc/npc/51012) in [Lake Rathetear](https://www.pqdi.cc/zone/51). He is located in the North Center of the zone. Give him [Lord Bergurgle's Crown](https://www.pqdi.cc/item/28044). In return, you will receive [Oil of Fennin Ro](https://www.pqdi.cc/item/28045) (not needed for epic). This turn-in also spawns an NPC in the nearby hut, [Natasha Whitewater](https://www.pqdi.cc/npc/51138) (don't let her die). She will roam out and attack [Shmendrik Lavawalker](https://www.pqdi.cc/npc/51012). Once she attacks him, kill [Shmendrik Lavawalker](https://www.pqdi.cc/npc/51012). Upon his death, [a spirit of flame](https://www.pqdi.cc/npc/51145) will spawn. Kill [a spirit of flame](https://www.pqdi.cc/npc/51145) and loot [Damaged Goblin Crown](https://www.pqdi.cc/item/28046). Give the [Damaged Goblin Crown](https://www.pqdi.cc/item/28046) to [Natasha Whitewater](https://www.pqdi.cc/npc/51138) to receive [Ornate Sea Shell](https://www.pqdi.cc/item/28047) ([Script Page](https://www.pqdi.cc/script-entities/lakerathe/%23Natasha_Whitewater) for this turn in).
 
-Respawn on [Shmendrik Lavawalker](https://www.pqdi.cc/npc/51012) is 3 hours.
+Respawn on [Shmendrik Lavawalker](https://www.pqdi.cc/npc/51012) is 15 minutes.
 
 ![shmendrik-lavawalker-Map-Lake-Rathetear.jpg](/assets/images/epics/cleric/shmendrik-lavawalker-Map-Lake-Rathetear.jpg)
 ![Shmendrik-Lavawalker.jpg](/assets/images/epics/cleric/Shmendrik-Lavawalker.jpg)
@@ -124,7 +126,7 @@ Go to [Timorous Deep](https://www.pqdi.cc/zone/96) and find [Omat Vastsea](https
 
 ### Step 7
 
-[Script Page](<https://www.pqdi.cc/script-entities/burningwood/Naxot_[Deep](https://www.pqdi.cc/npc/85223)water>)
+[Script Page](https://www.pqdi.cc/script-entities/burningwood/Naxot_Deepwater)
 
 Go to [The Burning Wood](https://www.pqdi.cc/zone/87) and find [Naxot Deepwater](https://www.pqdi.cc/npc/87002) at (3389.0, -2122.0). Give her [Ornate Sea Shell](https://www.pqdi.cc/item/28056) to receive [Message to Natasha](https://www.pqdi.cc/item/28052). This turn-in also spawns a giant fire elemental [Ixiblat Fer](https://www.pqdi.cc/npc/87014) at (-2000.0, 1500.0). Kill [Ixiblat Fer](https://www.pqdi.cc/npc/87014) and loot [Sceptre of Ixiblat Fer](https://www.pqdi.cc/item/28017). This is a mini boss. It's best to bring some friends.
 
