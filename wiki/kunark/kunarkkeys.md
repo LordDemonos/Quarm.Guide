@@ -64,8 +64,8 @@ Take [Jade Chokidai Prod](https://www.pqdi.cc/item/7256) and [Xalgozian Fang]
 
 [![Swamp-of-No-Hope-Map.jpg](/assets/images/kunarkkey/Swamp-of-No-Hope-Map.jpg)](/assets/images/kunarkkey/Swamp-of-No-Hope-Map.jpg)
 ![Dugroz.jpg](/assets/images/kunarkkey/Dugroz.jpg)
-<!-- 
-## [Hand of Glory](https://www.pqdi.cc/item/17274) - Open Locked Doors in [Howling Stones](https://www.pqdi.cc/zone/105)
+
+<!-- ## [Hand of Glory](https://www.pqdi.cc/item/17274) - Open Locked Doors in [Howling Stones](https://www.pqdi.cc/zone/105)
 
 The [Hand of Glory](https://www.pqdi.cc/item/17274) allows you to open locked doors in [Howling Stones (Charasis)](https://www.pqdi.cc/zone/105). You’ll need to gather four ground spawns around the zone (one per wing); then combine them in a container (which is one of the 4 spawns) to create the key.
 
@@ -79,8 +79,7 @@ _Note: All items except [Blood Encrusted Glove](https://www.pqdi.cc/item/17751)
 - [  ] Combine [Intricate Toothed Ring](https://www.pqdi.cc/item/20523) , [Ring-scored Talon ](https://www.pqdi.cc/item/20521) , and [Petrified Talonless Claw ](https://www.pqdi.cc/item/20522) in  – [Blood Encrusted Glove](https://www.pqdi.cc/item/17751) (4-slot container) to create [Hand of Glory](https://www.pqdi.cc/item/17274) .
 - [  ] Click on a locked door to add it to your key ring. A locked door near the zone-in is easiest.
 
-![Hand-of-Glory-Map.jpg](/assets/images/kunarkkey/Hand-of-Glory-Map.jpg) 
--->
+![Hand-of-Glory-Map.jpg](/assets/images/kunarkkey/Hand-of-Glory-Map.jpg) -->
 
 ## Howling Stones - Keys and Dungeon Progression
 
