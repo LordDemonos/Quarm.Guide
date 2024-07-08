@@ -64,7 +64,7 @@ Take [Jade Chokidai Prod](https://www.pqdi.cc/item/7256) and [Xalgozian Fang]
 
 ![Swamp-of-No-Hope-Map.jpg](/assets/images/kunarkkey/Swamp-of-No-Hope-Map.jpg)
 ![Dugroz.jpg](/assets/images/kunarkkey/Dugroz.jpg)
-
+<!-- 
 ## [Hand of Glory](https://www.pqdi.cc/item/17274) - Open Locked Doors in [Howling Stones](https://www.pqdi.cc/zone/105)
 
 The [Hand of Glory](https://www.pqdi.cc/item/17274) allows you to open locked doors in [Howling Stones (Charasis)](https://www.pqdi.cc/zone/105). You’ll need to gather four ground spawns around the zone (one per wing); then combine them in a container (which is one of the 4 spawns) to create the key.
@@ -79,7 +79,32 @@ _Note: All items except [Blood Encrusted Glove](https://www.pqdi.cc/item/17751)
 - [  ] Combine [Intricate Toothed Ring](https://www.pqdi.cc/item/20523) , [Ring-scored Talon ](https://www.pqdi.cc/item/20521) , and [Petrified Talonless Claw ](https://www.pqdi.cc/item/20522) in  – [Blood Encrusted Glove](https://www.pqdi.cc/item/17751) (4-slot container) to create [Hand of Glory](https://www.pqdi.cc/item/17274) .
 - [  ] Click on a locked door to add it to your key ring. A locked door near the zone-in is easiest.
 
-![Hand-of-Glory-Map.jpg](/assets/images/kunarkkey/Hand-of-Glory-Map.jpg)
+![Hand-of-Glory-Map.jpg](/assets/images/kunarkkey/Hand-of-Glory-Map.jpg) 
+-->
+
+## Howling Stones - Keys and Dungeon Progression
+
+***WARNING: Upon zoning in, you may be greeted by two to three hostile NPC's! See "Dangers" below.***
+
+This dungeon is meant to be done in a linear fashion, your forward progress controlled by the need for no rent keys to move on to further parts of the dungeon. However, rogues are able to bypass these requirements by picking any lock in the dungeon, and are highly prized here for this ability. The keys can be obtained from either monsters or found lying on the ground in various places. You must travel from North Wing, to West Wing, to South Wing, to East Wing if you are using the keys.
+
+All keys are temporary (they disappear if you log out), but they are added to your keyring. They do **not** appear in the /keys listed text. Their locations are:
+
+Everywhere:
+- [Tallow-marked Candle](https://www.pqdi.cc/item/20511) - any [bottomless feaster](https://www.pqdi.cc/npc/105117),  [bottomless gnawer](https://www.pqdi.cc/npc/105129), or [bottomless devourer](https://www.pqdi.cc/npc/105148) can drop. This is for access to the North wing. 
+
+North:
+- [Sacrificial Robe Clasp](https://www.pqdi.cc/item/20514) - floor, center room (#2 on map). This is for key to North Boss [Crypt Keeper](https://www.pqdi.cc/npc/105011).
+- [Sigil of the Calendar](https://www.pqdi.cc/item/20512) - drops from the [Crypt Keeper](https://www.pqdi.cc/npc/105011). This is for access to the West Wing. 
+
+West:
+- [Skull-engraved Coin](https://www.pqdi.cc/item/20515) - floor, room past trap (#5 on map). This is Key to West Boss [Skeletal Procurator](https://www.pqdi.cc/npc/105071).
+- [Broken Sacrificial Blade](https://www.pqdi.cc/item/20513) - drops from [Skeletal Procurator](https://www.pqdi.cc/npc/105071). This is for access to South wing. 
+
+South:
+- [Coin Depicting Innoruuk](https://www.pqdi.cc/item/20516) - Floor drop in south in the room with 3 spawns on the west side of South approx loc (Y: -705.69, X: -51.92) . This is key to East Wing (The door between where [Drusella Sathir](https://www.pqdi.cc/npc/105002) spawns, 14 on the map, and the zone-out portal cannot be opened by any key.) 
+
+![Map_charasis1.jpg](/assets/images/kunarkkey/Map_charasis1.jpg) 
 
 ## [Trakanon Idol](https://www.pqdi.cc/item/20883) - Access to [Old Sebilis](https://www.pqdi.cc/zone/89)
 
