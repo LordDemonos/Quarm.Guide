@@ -21,36 +21,28 @@ To obtain the [Key of Veeshan](https://www.pqdi.cc/item/20884), you need to coll
 
 You'll also need a [Trakanon's Tooth](https://www.pqdi.cc/item/7276) from [Trakanon](https://www.pqdi.cc/npc/89154).  
 
-## Quick Checklist
-
-- [ ] [Medallion of the Jarsath](https://www.pqdi.cc/item/19954)
-- [ ] [Medallion of the Obulus](https://www.pqdi.cc/item/19953)
-- [ ] [Medallion of the Kylong](https://www.pqdi.cc/item/19955)
-- [ ] [Trakanon's Tooth](https://www.pqdi.cc/item/7276)
-- [ ] Turn in all 3 Full Medallions and Trakanon's Tooth
-
 ## Medallion of the Jarsath
 
 ### 1. [Piece of a Medallion (Jarsath Top Piece)](https://www.pqdi.cc/item/19961)
 
 This is a ground spawn in [Swamp of No Hope](https://www.pqdi.cc/zone/83) at approximately (50.0, 2935.0) along a shoreline.
 
-![Swap-of-No-Hope-Map-1.jpg](/assets/images/kunarkey/Swap-of-No-Hope-Map-1.jpg)
-![Swap-of-No-Hope-VP.jpg](/assets/images/kunarkey/Swap-of-No-Hope-VP.jpg)
+![Swap-of-No-Hope-Map-1.jpg](/assets/images/kunarkkey/Swap-of-No-Hope-Map-1.jpg)
+![Swap-of-No-Hope-VP.jpg](/assets/images/kunarkkey/Swap-of-No-Hope-VP.jpg)
 
 ### 2. [Piece of a Medallion (Jarsath Middle Piece)](https://www.pqdi.cc/item/19960)
 
 Drops from [an ancient Jarsath](https://www.pqdi.cc/npc/84256) in [Firiona Vie](https://www.pqdi.cc/zone/84). He is an undead skeleton that roams the east side of the zone.
 
-![FV-Map-an-ancient-Jarsath.jpg](/assets/images/kunarkey/FV-Map-an-ancient-Jarsath.jpg)
-![an-ancient-Jarsath.jpg](/assets/images/kunarkey/an-ancient-Jarsath.jpg)
+![FV-Map-an-ancient-Jarsath.jpg](/assets/images/kunarkkey/FV-Map-an-ancient-Jarsath.jpg)
+![an-ancient-Jarsath.jpg](/assets/images/kunarkkey/an-ancient-Jarsath.jpg)
 
 ### 3. [Piece of a Medallion (Jarsath Bottom Piece)](https://www.pqdi.cc/item/19959)
 
 Drops in [Lake of Ill Omen](https://www.pqdi.cc/zone/85) from [a bloodgill marauder](https://www.pqdi.cc/npc/85180) and [a bloodgill goblin](https://www.pqdi.cc/npc/85053). It spawns underwater in front of the entrance to Veksar.
 
-![Lake-of-Ill-Omen-Map-VP-Key.jpg](/assets/images/kunarkey/Lake-of-Ill-Omen-Map-VP-Key.jpg)
-![bloodgill-maurader.jpg](/assets/images/kunarkey/bloodgill-maurader.jpg)
+![Lake-of-Ill-Omen-Map-VP-Key.jpg](/assets/images/kunarkkey/Lake-of-Ill-Omen-Map-VP-Key.jpg)
+![bloodgill-maurader.jpg](/assets/images/kunarkkey/bloodgill-maurader.jpg)
 
 ### Turn-in the 3 Medallion Pieces
 
@@ -64,9 +56,9 @@ Find [Xiblin Fizzlebik](https://www.pqdi.cc/npc/96035) in [Timorous Deep](https:
 
 to receive [Medallion of the Jarsath](https://www.pqdi.cc/item/19954).  
 
-![Timorous-Deep-Map1.jpg](/assets/images/kunarkey/Timorous-Deep-Map1.jpg)
-![Timorous-Deep-Map1-1.jpg](/assets/images/kunarkey/Timorous-Deep-Map1-1.jpg)
-![Xiblin-Fizzlebik.jpg](/assets/images/kunarkey/Xiblin-Fizzlebik.jpg)
+![Timorous-Deep-Map1.jpg](/assets/images/kunarkkey/Timorous-Deep-Map1.jpg)
+![Timorous-Deep-Map1-1.jpg](/assets/images/kunarkkey/Timorous-Deep-Map1-1.jpg)
+![Xiblin-Fizzlebik.jpg](/assets/images/kunarkkey/Xiblin-Fizzlebik.jpg)
 
 ## [Medallion of the Obulus](https://www.pqdi.cc/item/19953)
 
@@ -86,12 +78,12 @@ Go to [Chardok](https://www.pqdi.cc/zone/103) and loot [Burnished Wooden Stave](
 
 Once you have a [Burnished Wooden Stave](https://www.pqdi.cc/item/6353) take it to [Ssolet Dnaas](https://www.pqdi.cc/npc/79098) in [Warsilks Woods](https://www.pqdi.cc/zone/79). He is located on a super small island in the north section of the zone. You will need to charm him unless you’re an Iksar because he is KoS to all other races. Level 50 mob. Give him [Burnished Wooden Stave](https://www.pqdi.cc/item/6353) to receive [Piece of a Medallion (Obulus Top Piece)](https://www.pqdi.cc/item/19958).
 
-![Niblek-Chardok-Map.jpg](/assets/images/kunarkey/Niblek-Chardok-Map.jpg)
-![royal-guard.png](/assets/images/kunarkey/royal-guard.png)
-![Niblek.jpg](/assets/images/kunarkey/Niblek.jpg)
+![Niblek-Chardok-Map.jpg](/assets/images/kunarkkey/Niblek-Chardok-Map.jpg)
+![royal-guard.png](/assets/images/kunarkkey/royal-guard.png)
+![Niblek.jpg](/assets/images/kunarkkey/Niblek.jpg)
 
-![Warsilks-Woods-Map-VP-Key.jpg](/assets/images/kunarkey/Warsilks-Woods-Map-VP-Key.jpg)
-![Ssolet-Dnaas.jpg](/assets/images/kunarkey/Ssolet-Dnaas.jpg)
+![Warsilks-Woods-Map-VP-Key.jpg](/assets/images/kunarkkey/Warsilks-Woods-Map-VP-Key.jpg)
+![Ssolet-Dnaas.jpg](/assets/images/kunarkkey/Ssolet-Dnaas.jpg)
 
 ### 2. [Piece of a Medallion (Obulus Middle Piece)](https://www.pqdi.cc/item/19957)
 
@@ -104,8 +96,8 @@ Drops off skeletons in [Dreadlands](https://www.pqdi.cc/zone/86).
 - [gem cutter skeleton](https://www.pqdi.cc/npc/86119) (100.0% x 1)
 - [rotting skeleton](https://www.pqdi.cc/npc/86001) (100.0% x 1)
 
-![Dreadlands-Map-VP-Key.jpg](/assets/images/kunarkey/Dreadlands-Map-VP-Key.jpg)
-![rotting-skeleton.jpg](/assets/images/kunarkey/rotting-skeleton.jpg)
+![Dreadlands-Map-VP-Key.jpg](/assets/images/kunarkkey/Dreadlands-Map-VP-Key.jpg)
+![rotting-skeleton.jpg](/assets/images/kunarkkey/rotting-skeleton.jpg)
 
 ### 3. [Piece of a Medallion (Obulus Bottom Piece)](https://www.pqdi.cc/item/19956)
 
@@ -119,8 +111,8 @@ Drops from mobs in [Trakanon's Teeth](https://www.pqdi.cc/zone/95).
 - [spectral footman](https://www.pqdi.cc/npc/95046) (100.0% x 1)
 - [pained soul](https://www.pqdi.cc/npc/95043) (100.0% x 1)
 
-![Pained-Soul-Trak-Teeth-Map.jpg](/assets/images/kunarkey/Pained-Soul-Trak-Teeth-Map.jpg)
-![pained-soul.jpg](/assets/images/kunarkey/pained-soul.jpg)
+![Pained-Soul-Trak-Teeth-Map.jpg](/assets/images/kunarkkey/Pained-Soul-Trak-Teeth-Map.jpg)
+![pained-soul.jpg](/assets/images/kunarkkey/pained-soul.jpg)
 
 ### Turn-in the 3 Medallion Pieces
 
@@ -134,8 +126,8 @@ Head to [Burning Woods](https://www.pqdi.cc/npc/87047) and locate [Slixin Klex](
 
 to receive [Medallion of the Obulus](https://www.pqdi.cc/item/19953).  
 
-![Burning-Woods-Map-Slixin-Klex-1.jpg](/assets/images/kunarkey/Burning-Woods-Map-Slixin-Klex-1.jpg)
-![Slixin-Klex-1.jpg](/assets/images/kunarkey/Slixin-Klex-1.jpg)
+![Burning-Woods-Map-Slixin-Klex-1.jpg](/assets/images/kunarkkey/Burning-Woods-Map-Slixin-Klex-1.jpg)
+![Slixin-Klex-1.jpg](/assets/images/kunarkkey/Slixin-Klex-1.jpg)
 
 ## [Medallion of the Kylong](https://www.pqdi.cc/item/19955)
 
@@ -180,9 +172,9 @@ Once you have the gems, head to [Chardok](https://www.pqdi.cc/zone/103) and find
 - [Foreman Ku`lul](https://www.pqdi.cc/npc/103053) (15.0% x 1)
 - [Sarnak Collective Auditor](https://www.pqdi.cc/npc/103066) (15.0% x 1)
 
-![Niblek-Chardok-Map-1.jpg](/assets/images/kunarkey/Niblek-Chardok-Map-1.jpg)
-![royal-guard-1.png](/assets/images/kunarkey/royal-guard-1.png)
-![Niblek-1.jpg](/assets/images/kunarkey/Niblek-1.jpg)
+![Niblek-Chardok-Map-1.jpg](/assets/images/kunarkkey/Niblek-Chardok-Map-1.jpg)
+![royal-guard-1.png](/assets/images/kunarkkey/royal-guard-1.png)
+![Niblek-1.jpg](/assets/images/kunarkkey/Niblek-1.jpg)
 
 ### 2. [Piece of a Medallion (Kylong Middle Piece)](https://www.pqdi.cc/item/19963)
 
@@ -198,15 +190,15 @@ Drops from various monsters in [Karnor's Castle](https://www.pqdi.cc/zone/102).
 - [Hangnail](https://www.pqdi.cc/npc/102015) (100.0% x 1)
 - [skeletal caretaker](https://www.pqdi.cc/npc/102121) (100.0% x 1)
 
-![Karnors-Map-Verix.jpg](/assets/images/kunarkey/Karnors-Map-Verix.jpg)
-![Karnors-Verix.jpg](/assets/images/kunarkey/Karnors-Verix.jpg)
+![Karnors-Map-Verix.jpg](/assets/images/kunarkkey/Karnors-Map-Verix.jpg)
+![Karnors-Verix.jpg](/assets/images/kunarkkey/Karnors-Verix.jpg)
 
 ### 3. [Piece of a Medallion (Kylong Bottom Piece)](https://www.pqdi.cc/item/19962)
 
 Ground spawn in [Kaesora](https://www.pqdi.cc/zone/88) on the second floor of the library (57.0, -444.0).
 
-![Kaesora-Map-VP-Key-1.jpg](/assets/images/kunarkey/Kaesora-Map-VP-Key-1.jpg)
-![Kaesora-Ground-Spawn.jpg](/assets/images/kunarkey/Kaesora-Ground-Spawn.jpg)
+![Kaesora-Map-VP-Key-1.jpg](/assets/images/kunarkkey/Kaesora-Map-VP-Key-1.jpg)
+![Kaesora-Ground-Spawn.jpg](/assets/images/kunarkkey/Kaesora-Ground-Spawn.jpg)
 
 ### Turn-in the 3 Medallion Pieces
 
@@ -220,14 +212,14 @@ Find [Professor Akabao](https://www.pqdi.cc/npc/85138) in [Lake of Ill Omen](htt
 
 to receive [Medallion of the Kylong]().  
 
-![Lake-of-Ill-Omen-Professor.jpg](/assets/images/kunarkey/Lake-of-Ill-Omen-Professor.jpg)
-![Professor-Akabao.jpg](/assets/images/kunarkey/Professor-Akabao.jpg)
+![Lake-of-Ill-Omen-Professor.jpg](/assets/images/kunarkkey/Lake-of-Ill-Omen-Professor.jpg)
+![Professor-Akabao.jpg](/assets/images/kunarkkey/Professor-Akabao.jpg)
 
 ## Trakanon's Tooth
 
 Kill [Trakanon](https://www.pqdi.cc/npc/89154) in [Old Sebilis](https://www.pqdi.cc/zone/89). Loot [Trakanon's Tooth](https://www.pqdi.cc/item/7276).  
 
-![Trakanon.jpg](/assets/images/kunarkey/Trakanon.jpg)
+![Trakanon.jpg](/assets/images/kunarkkey/Trakanon.jpg)
 
 ## Final Turn-in - Key of Veeshan
 
@@ -242,8 +234,8 @@ Go to [Trakanon's Teeth](https://www.pqdi.cc/zone/95) and find [Emperor Ganak](h
 
 to receive [Key of Veeshan](https://www.pqdi.cc/item/20884)!
 
-![Emperor-Ganak-Map.jpg](/assets/images/kunarkey/Emperor-Ganak-Map.jpg)
-![Emperor-Ganak-1.jpg](/assets/images/kunarkey/Emperor-Ganak-1.jpg)
+![Emperor-Ganak-Map.jpg](/assets/images/kunarkkey/Emperor-Ganak-Map.jpg)
+![Emperor-Ganak-1.jpg](/assets/images/kunarkkey/Emperor-Ganak-1.jpg)
 
 ## Entrance to Veeshan's Peak
 
