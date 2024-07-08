@@ -18,6 +18,8 @@ sitemap: true
 
 ## [A Stone Key](https://www.pqdi.cc/item/12961) - Access to [City of Mist](https://www.pqdi.cc/zone/90)
 
+***At the time of writing, this key does not drop from Captain of the Guard, but exists in the database.***
+
 [A Stone Key](https://www.pqdi.cc/item/12961) allows you to to open the doors in the fortress in the back of [City of Mist](https://www.pqdi.cc/zone/90). It goes on your key ring once used.
 
 This key drops from [Captain of the Guard](https://www.pqdi.cc/npc/90001), a named that spawns randomly in the [City of Mist](https://www.pqdi.cc/zone/90) courtyard. More than 1 can be up at a time. Always drops.
