@@ -81,7 +81,7 @@ _Note: All items except [Blood Encrusted Glove](https://www.pqdi.cc/item/17751)
 
 ![Hand-of-Glory-Map.jpg](/assets/images/kunarkkey/Hand-of-Glory-Map.jpg) -->
 
-## Howling Stones - Keys and Dungeon Progression
+## [Howling Stones](https://www.pqdi.cc/zone/105) - Keys and Dungeon Progression
 
 ***WARNING: Upon zoning in, you may be greeted by two to three hostile NPC's! See "Dangers" below.***
 
