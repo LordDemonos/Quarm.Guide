@@ -5,7 +5,7 @@ description: 'A comprehensive guide to the desired items and their drop location
 keywords: 'Project Quarm, Quarm, EverQuest, wishlist, item drops, zones, named monsters'
 author: 'Xanax'
 toc: false
-published: false
+published: true
 sitemap: true
 ---
 | Zone            | Named Monster       | Level & Health | Link                                                                 |
