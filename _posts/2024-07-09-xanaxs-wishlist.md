@@ -1,6 +1,6 @@
 ---
 date: 2024-07-09
-title: "Xanax's Wishlist for Project Quarm"
+title: "Xanax's Wishlist for Kunark"
 description: 'A comprehensive guide to the desired items and their drop locations in Project Quarm, including zones, named monsters, and drop rates.'
 keywords: 'Project Quarm, Quarm, EverQuest, wishlist, item drops, zones, named monsters'
 author: 'Xanax'
@@ -16,10 +16,10 @@ If you're reading this, this page is only a test. Trying to decide what a table 
 
 | Named Monster       | Stats           | Link                                                                 |
 |---------------------|-----------------|----------------------------------------------------------------------|
-| [An Iksar Trustee (50.0%)](https://www.pqdi.cc/item/5814) | Level: X, Health: Y | [Earring of Purity](https://www.pqdi.cc/item/5814) |
-| [An Iksar Trustee (50.0%)](https://www.pqdi.cc/item/5815) | Level: X, Health: Y | [Earring of Cleansing](https://www.pqdi.cc/item/5815) |
-| [Various Monsters](https://www.pqdi.cc/item/6684) | Level: X, Health: Y | [Water Sprinkler of the Forgiven](https://www.pqdi.cc/item/6684) |
-| [The Bridge Keeper (55.0%)](https://www.pqdi.cc/item/5712) | Level: X, Health: Y | [Stained Cloth Mask](https://www.pqdi.cc/item/5712) |
+| [An Iksar Trustee (50.0%)](https://www.pqdi.cc/npc/103145) | Level: 50, Health: 5000 | [Earring of Purity](https://www.pqdi.cc/item/5814) |
+| [An Iksar Trustee (50.0%)](https://www.pqdi.cc/npc/103145) | Level: X, Health: Y | [Earring of Cleansing](https://www.pqdi.cc/item/5815) |
+| [Various Monsters (0.235%)](https://www.pqdi.cc/item/6684) | Level: X, Health: Y | [Water Sprinkler of the Forgiven](https://www.pqdi.cc/item/6684) |
+| [The Bridge Keeper (55.0%)](https://www.pqdi.cc/npc/103195) | Level: 51, Health: 6000 | [Stained Cloth Mask](https://www.pqdi.cc/item/5712) |
 
 ## Ruins of Sebilis
 
@@ -46,21 +46,21 @@ If you're reading this, this page is only a test. Trying to decide what a table 
 | [Venril Sathir (10.0%)](https://www.pqdi.cc/item/4569) | Level: X, Health: Y | [Donal's Leggings of Mourning](https://www.pqdi.cc/item/4569) |
 | [Venril Sathir (14.0%)](https://www.pqdi.cc/item/6678) | Level: X, Health: Y | [Waters of Impenetrable Aura](https://www.pqdi.cc/item/6678) |
 
-## The Howling Stones
+## [The Howling Stones](https://www.pqdi.cc/zone/105)
 
 | Named Monster       | Stats           | Link                                                                 |
 |---------------------|-----------------|----------------------------------------------------------------------|
-| [Embalming Fluid (20.0%)](https://www.pqdi.cc/item/14751) | Level: X, Health: Y | [Fingerbone Hoop](https://www.pqdi.cc/item/14751) |
+| [Embalming Fluid (20.0%)](https://www.pqdi.cc/npc/105064) | Level: 50, Health: 9,550 | [Fingerbone Hoop](https://www.pqdi.cc/item/14751) |
 
-## Mines of Droga
-
-| Named Monster       | Stats           | Link                                                                 |
-|---------------------|-----------------|----------------------------------------------------------------------|
-| [a goblin soothsayer (10.0% x 1)](https://www.pqdi.cc/item/14735) | Level: X, Health: Y | [Choker of Majdd](https://www.pqdi.cc/item/14735) |
-
-## Veeshan's Peak
+## [Mines of Droga](https://www.pqdi.cc/zone/81)
 
 | Named Monster       | Stats           | Link                                                                 |
 |---------------------|-----------------|----------------------------------------------------------------------|
-| [Hoshkar (4.5% x 4)](https://www.pqdi.cc/item/10892) | Level: X, Health: Y | [Shissar Apothic Staff](https://www.pqdi.cc/item/10892) |
-| [Nexona (5.5% x 4)](https://www.pqdi.cc/item/24621) | Level: X, Health: Y | [Sprinkler of Suffering](https://www.pqdi.cc/item/24621) |
+| [a goblin soothsayer (10.0%)](https://www.pqdi.cc/npc/81013) | Level: 31-33, Health: 1,335 | [Choker of Majdd](https://www.pqdi.cc/item/14735) |
+
+## [Veeshan's Peak](https://www.pqdi.cc/zone/108)
+
+| Named Monster       | Stats           | Link                                                                 |
+|---------------------|-----------------|----------------------------------------------------------------------|
+| [Hoshkar (4.5% x 4)](https://www.pqdi.cc/npc/108517) | Level: 65, Health: 32,000 | [Shissar Apothic Staff](https://www.pqdi.cc/item/10892) |
+| [Nexona (5.5% x 4)](https://www.pqdi.cc/npc/108513) | Level: 63, Health: 30,000 | [Sprinkler of Suffering](https://www.pqdi.cc/item/24621) |
