@@ -5,14 +5,16 @@ description: 'A comprehensive guide to the desired items and their drop location
 keywords: 'Project Quarm, Quarm, EverQuest, wishlist, item drops, zones, named monsters'
 author: 'Xanax'
 toc: false
-published: false
+published: true
 sitemap: true
 ---
 # Xanax's Wishlist
 
-If you're reading this, this page is only a test. Trying to decide what a table should look like. Had trouble getting my test site working locally on this machine so instead, we're just gonna do it live and be a bad developer.
+If you're reading this, this page was only a test. I wanted to test out tables and figure out how a page like this should look. It serves as a decent reminder to me though.
 
-## Chardok
+I think what I really need is to convince Talodar to add tooltips to NPCs and Zones based off Quick Facts. 
+
+## [Chardok]()
 
 | Named Monster       | Stats           | Link                                                                 |
 |---------------------|-----------------|----------------------------------------------------------------------|
@@ -22,7 +24,7 @@ If you're reading this, this page is only a test. Trying to decide what a table 
 | [The Bridge Keeper (55.0%)]() | Level: 57, Health: 16,585 | [Stained Cloth Mask](https://www.pqdi.cc/item/5712) |
 | [Sarnak Collective Auditor (15.0%)]() | Level: X, Health: Y | [Girdle of Rapidity](https://www.pqdi.cc/item/5765) |
 
-## Ruins of Sebilis
+## [Ruins of Sebilis]()
 
 | Named Monster       | Stats           | Link                                                                 |
 |---------------------|-----------------|----------------------------------------------------------------------|
@@ -35,7 +37,7 @@ If you're reading this, this page is only a test. Trying to decide what a table 
 
 | [Trakanon (8.0%)]() | Level: X, Health: Y | [Donal's Chestplate of Mourning](https://www.pqdi.cc/item/4565) |
 
-## Karnor's Castle
+## [Karnor's Castle]()
 
 | Named Monster       | Stats           | Link                                                                 |
 |---------------------|-----------------|----------------------------------------------------------------------|
@@ -54,20 +56,20 @@ If you're reading this, this page is only a test. Trying to decide what a table 
 |---------------------|-----------------|----------------------------------------------------------------------|
 | [a goblin soothsayer (10.0%)]() | Level: 31-33, Health: 1,335 | [Choker of Majdd](https://www.pqdi.cc/item/14735) |
 
-## Warsliks Woods
+## [Warsliks Woods]()
 
 | Named Monster       | Stats           | Link                                                                 |
 |---------------------|-----------------|----------------------------------------------------------------------|
 | [Grachnist the Destroyer (2.0%)]() | Level: X, Health: Y | [Shrunken Goblin Skull Earring](https://www.pqdi.cc/item/10580) |
 
-## Lake of Ill Omen
+## [Lake of Ill Omen]()
 
 | Named Monster       | Stats           | Link                                                                 |
 |---------------------|-----------------|----------------------------------------------------------------------|
 | [Advisor Sh`Orok (100.0%)]() | Level: X, Health: Y | [Iron Bound Tome](https://www.pqdi.cc/item/14811) |
 | [a Sarnak legionnaire (0.499%)]() | Level: X, Health: Y | [Bracer of the Hidden](https://www.pqdi.cc/item/11911) |
 
-## Trakanon's Teeth
+## [Trakanon's Teeth]()
 
 | Named Monster       | Stats           | Link                                                                 |
 |---------------------|-----------------|----------------------------------------------------------------------|
@@ -82,13 +84,13 @@ If you're reading this, this page is only a test. Trying to decide what a table 
 
 # Xanathema's Wishlist
 
-## Kaesora
+## [Kaesora]()
 
 | Named Monster       | Stats           | Link                                                                 |
 |---------------------|-----------------|----------------------------------------------------------------------|
 | [Xalgoz (5.0%)]() | Level: X, Health: Y | [Staff of the Dreaded Gaze](https://www.pqdi.cc/item/6681) |
 
-## Chardok
+## [Chardok]()
 
 | Named Monster       | Stats           | Link                                                                 |
 |---------------------|-----------------|----------------------------------------------------------------------|
@@ -96,19 +98,19 @@ If you're reading this, this page is only a test. Trying to decide what a table 
 | [An Iksar Trustee (50.0%)]() | Level: 56, Health: 15,430 | [Earring of Cleansing](https://www.pqdi.cc/item/5815) |
 | [The Bridge Keeper (55.0%)]() | Level: 57, Health: 16,585 | [Stained Cloth Mask](https://www.pqdi.cc/item/5712) |
 
-## The Howling Stones
+## [The Howling Stones]()
 
 | Named Monster       | Stats           | Link                                                                 |
 |---------------------|-----------------|----------------------------------------------------------------------|
 | [the Crypt Excavator (30.0%)]() | Level: X, Health: Y | [Helot Skull Helm](https://www.pqdi.cc/item/1414) |
 
-## Karnor's Castle
+## [Karnor's Castle]()
 
 | Named Monster       | Stats           | Link                                                                 |
 |---------------------|-----------------|----------------------------------------------------------------------|
 | [Venril Sathir (14.0%)]() | Level: X, Health: Y | [Nightshade Scented Staff](https://www.pqdi.cc/item/6675) |
 
-## Veeshan's Peak
+## [Veeshan's Peak]()
 
 | Named Monster       | Stats           | Link                                                                 |
 |---------------------|-----------------|----------------------------------------------------------------------|
