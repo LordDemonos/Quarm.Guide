@@ -5,7 +5,7 @@ description: 'A comprehensive guide to the desired items and their drop location
 keywords: 'Project Quarm, Quarm, EverQuest, wishlist, item drops, zones, named monsters'
 author: 'Xanax'
 toc: false
-published: true
+published: false
 sitemap: true
 ---
 # Xanax's Wishlist
@@ -29,14 +29,9 @@ If you're reading this, this page is only a test. Trying to decide what a table 
 | [Baron Yosig (45.0%)](https://www.pqdi.cc/item/6618) | Level: X, Health: Y | [Journeyman's Walking Stick](https://www.pqdi.cc/item/6618) |
 | [Myconid Spore King (100.0%)](https://www.pqdi.cc/item/2735) | Level: X, Health: Y | [Fungus Covered Scale Shirt](https://www.pqdi.cc/item/2735) |
 | [Myconid Spore King (100.0%)](https://www.pqdi.cc/item/10895) | Level: X, Health: Y | [Fungus Covered Great Stick](https://www.pqdi.cc/item/10895) |
-| [Myconid Warrior (0.5%)](https://www.pqdi.cc/item/2880) | Level: X, Health: Y | [Fungus Covered Scale Tunic](https://www.pqdi.cc/item/2880) |
-| [Myconid Priest (0.5%)](https://www.pqdi.cc/item/2880) | Level: X, Health: Y | [Fungus Covered Scale Tunic](https://www.pqdi.cc/item/2880) |
-| [Myconid Reaver (0.5%)](https://www.pqdi.cc/item/2880) | Level: X, Health: Y | [Fungus Covered Scale Tunic](https://www.pqdi.cc/item/2880) |
-| [Myconid Adept (0.5%)](https://www.pqdi.cc/item/2880) | Level: X, Health: Y | [Fungus Covered Scale Tunic](https://www.pqdi.cc/item/2880) |
-| [Myconid Warrior (0.5%)](https://www.pqdi.cc/item/2882) | Level: X, Health: Y | [Fungus Covered Great Staff](https://www.pqdi.cc/item/2882) |
-| [Myconid Priest (0.5%)](https://www.pqdi.cc/item/2882) | Level: X, Health: Y | [Fungus Covered Great Staff](https://www.pqdi.cc/item/2882) |
-| [Myconid Reaver (0.5%)](https://www.pqdi.cc/item/2882) | Level: X, Health: Y | [Fungus Covered Great Staff](https://www.pqdi.cc/item/2882) |
-| [Myconid Adept (0.5%)](https://www.pqdi.cc/item/2882) | Level: X, Health: Y | [Fungus Covered Great Staff](https://www.pqdi.cc/item/2882) |
+| [Various Monsters (0.5%)](https://www.pqdi.cc/item/2880) | Level: X, Health: Y | [Fungus Covered Scale Tunic](https://www.pqdi.cc/item/2880) |
+| [Various Monsters (0.5%)](https://www.pqdi.cc/item/2882) | Level: X, Health: Y | [Fungus Covered Great Staff](https://www.pqdi.cc/item/2882) |
+
 | [Trakanon (8.0%)](https://www.pqdi.cc/item/4565) | Level: X, Health: Y | [Donal's Chestplate of Mourning](https://www.pqdi.cc/item/4565) |
 
 ## Karnor's Castle
