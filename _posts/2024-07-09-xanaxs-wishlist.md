@@ -76,10 +76,10 @@ I think what I really need is to convince Talodar to add tooltips to NPCs and Zo
 
 #### [Veeshan's Peak](https://www.pqdi.cc/zone/108)
 
-| Named Monster           | Stats                     | Item                                                         |
-|-------------------------|---------------------------|--------------------------------------------------------------|
-| [Hoshkar (4.5% x 4)]()  | Level: 65, Health: 32,000 | [Shissar Apothic Staff](https://www.pqdi.cc/item/10892)      |
-| [Nexona (5.5% x 4)]()   | Level: 63, Health: 30,000 | [Sprinkler of Suffering](https://www.pqdi.cc/item/24621)     |
+| Named Monster                  | Stats                     | Item                                                                 |
+|--------------------------------|---------------------------|----------------------------------------------------------------------|
+| [Hoshkar (4.5% x 4)]()         | Level: 65, Health: 32,000 | [Shissar Apothic Staff](https://www.pqdi.cc/item/10892)              |
+| [Nexona (5.5% x 4)]()          | Level: 63, Health: 30,000 | [Sprinkler of Suffering](https://www.pqdi.cc/item/24621)             |
 
 ## Xanathema's Wishlist
 
@@ -91,11 +91,9 @@ I think what I really need is to convince Talodar to add tooltips to NPCs and Zo
 
 #### [Chardok]()
 
-| Named Monster                       | Stats                     | Item                                                             |
-|-------------------------------------|---------------------------|------------------------------------------------------------------|
-| [An Iksar Trustee (50.0%)]()        | Level: 56, Health: 15,430 | [Earring of Purity](https://www.pqdi.cc/item/5814)               |
-| [An Iksar Trustee (50.0%)]()        | Level: 56, Health: 15,430 | [Earring of Cleansing](https://www.pqdi.cc/item/5815)            |
-| [The Bridge Keeper (55.0%)]()       | Level: 57, Health: 16,585 | [Stained Cloth Mask](https://www.pqdi.cc/item/5712)              |
+| Named Monster                  | Stats                     | Item                                                                 |
+|--------------------------------|---------------------------|----------------------------------------------------------------------|
+| [The Bridge Keeper (55.0%)]()  | Level: 57, Health: 16,585 | [Stained Cloth Mask](https://www.pqdi.cc/item/5712)                  |
 
 #### [The Howling Stones]()
 
@@ -111,8 +109,6 @@ I think what I really need is to convince Talodar to add tooltips to NPCs and Zo
 
 #### [Veeshan's Peak]()
 
-| Named Monster           | Stats                     | Item                                                         |
-|-------------------------|---------------------------|--------------------------------------------------------------|
-| [Hoshkar (4.5% x 4)]()  | Level: 65, Health: 64,000 | [Shissar Apothic Staff](https://www.pqdi.cc/item/10892)      |
-| [Nexona (5.5% x 4)]()   | Level: 65, Health: 64,000 | [Sprinkler of Suffering](https://www.pqdi.cc/item/24621)     |
-| [Druushk (6.25% x 4)]() | Level: X, Health: Y       | [Shissar Deathspeaker Staff](https://www.pqdi.cc/item/24640) |
+| Named Monster                  | Stats                     | Item                                                                 |
+|--------------------------------|---------------------------|----------------------------------------------------------------------|
+| [Druushk (6.25% x 4)]()        | Level: X, Health: Y       | [Shissar Deathspeaker Staff](https://www.pqdi.cc/item/24640)         |
