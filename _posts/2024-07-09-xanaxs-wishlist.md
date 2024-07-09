@@ -112,3 +112,9 @@ I think what I really need is to convince Talodar to add tooltips to NPCs and Zo
 | Named Monster                  | Stats                     | Item                                                                 |
 |--------------------------------|---------------------------|----------------------------------------------------------------------|
 | [Druushk (6.25% x 4)]()        | Level: X, Health: Y       | [Shissar Deathspeaker Staff](https://www.pqdi.cc/item/24640)         |
+
+#### [Mines of Droga]()
+
+| Named Monster       | Stats           | Link                                                                 |
+|---------------------|-----------------|----------------------------------------------------------------------|
+| [Various Monsters (100.0%)]() | Level: X, Health: Y       | [Circlet of Shadows](https://www.pqdi.cc/item/14730)                 |
