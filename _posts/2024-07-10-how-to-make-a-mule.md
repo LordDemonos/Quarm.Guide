@@ -5,7 +5,7 @@ description: 'A step-by-step guide to creating a mule account in Project Quarm, 
 keywords: 'Project Quarm, Quarm, EverQuest, mule account, IP exemption, game client'
 author: 'Talodar'
 toc: false
-published: false
+published: true
 sitemap: true
 ---
 ## Mule Accounts
