@@ -29,7 +29,7 @@ Welcome to the installation guide for Project Quarm. This page provides comprehe
             <li><a href="{{ 'after-installing-the-game#controlling-your-user-interface' | relative_url }}">User Interface</a> - Customize your UI for a better experience</li>
             <li><a href="{{ 'textures-and-effects' | relative_url }}">Textures and Effects</a> - Customize your experience</li>
             <li><a href="{{ 'third-party-programs' | relative_url }}">Third Party Programs</a> - Enhance gameplay with additional tools</li>
-            <li><a href="{{ 'how-to-make-a-mule' | relative_url }}">How to Make a Mule</a> - A simple guide on creating a mule account</li>
+            <li><a href="https://quarm.guide/2024/07/10/how-to-make-a-mule/">How to Make a Mule</a> - A simple guide on creating a mule account</li>
         </ul>
     </div>
 </div>
