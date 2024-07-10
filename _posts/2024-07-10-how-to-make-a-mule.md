@@ -12,7 +12,7 @@ sitemap: true
 
 Mule accounts are available in game. Mule accounts are exempt from IP restrictions, allowing you to run a game client and buy/sell/transfer items independent of your main account.  Here are the steps to create a mule account, along with some warnings:
 
-1.	Create a new [game account](https://www.takproject.net/forums/tools.php?tool=account) using the same TAKP forum account you use on your main character. Nothing else needs to be done on TAKP website, their trader settings are different from Project Quarm's.
+1.	[Log in to the TAKP Forums](https://www.takproject.net/forums/index.php?login/) and create a new [game account](https://www.takproject.net/forums/tools.php?tool=account) using the same TAKP forum account you use on your main character. Nothing else needs to be done on TAKP website, their trader settings are different from Project Quarm's.
 
 2.	Log out of your main account in the game client, and log in to the mule game account.  IP exemption won't work until the account is officially flagged as a mule account.
 
