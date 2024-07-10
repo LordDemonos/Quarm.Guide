@@ -5,7 +5,7 @@ description: 'A comprehensive guide to the desired items and their drop location
 keywords: 'Project Quarm, Quarm, EverQuest, wishlist, item drops, zones, named monsters'
 author: 'Xanax'
 toc: false
-published: true
+published: false
 sitemap: true
 ---
 ## Xanax's Wishlist
