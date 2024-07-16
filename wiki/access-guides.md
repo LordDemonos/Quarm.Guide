@@ -8,5 +8,6 @@ author: Xanax
 
 # Access Guides
 
+- [Miragul's Highway]({{ 'miragul_highway' | relative_url }})
 - [Ruins of Kunark Keys]({{ 'kunarkkeys' | relative_url }})
 - [Key of Veeshan]({{ 'keyofveeshan' | relative_url }})
