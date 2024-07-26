@@ -42,6 +42,9 @@ I started this because half of my guild seems to crash when they zone in and out
 9. **4GB Patch**
    - Apply the [4GB Patch](https://ntcore.com/4gb-patch/) to `eqgame.exe` to allow it to access 4GB of virtual memory on x64 platforms.
 
+10. **/showspelleffects off**
+   - Edit your `eqclient.ini` file and set this value to zero `ShowSpellEffects=0` or in-game can type `/showspell OFF`. When using KaichoFX I still see spell effects just fine and the game looks great, so this might also be true without KaichoFX.
+
 10. **Additional Enhancements**
     - I use muted sound files and graphical enhancements like [EQ Basic 1.1](https://www.reddit.com/r/project1999/comments/10rz5r0/eq_basic_v11_an_eq_graphics_overhaul_project/), [KaichoFX Spell Effects](https://www.reddit.com/r/ProjectQuarm/comments/17h98xq/comment/k6prhur/), and [Nillipuss UI 1440p](https://github.com/NilliP/NillipussUI_1440p).
 
