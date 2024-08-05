@@ -50,10 +50,10 @@ If you want to learn more about Project Quarm specific features and rules, head 
             <li><a href="https://www.pqdi.cc/" aria-label="Project Quarm Database Interface - Direct information from the Project Quarm database">Project Quarm Database Interface</a> - Direct database info</li>
             <li><a href="https://yaqds.cc" aria-label="Yet Another Quarm Database Site - An alternative view of the Project Quarm database">Yet Another Quarm Database Site</a> - Alternative database tools</li>
             <li><a href="https://www.eqtunnelauctions.com/" aria-label="EQTunnelAuctions - Track EC tunnel item prices">EQTunnelAuctions</a> - Track EC tunnel item prices</li>
+            <li><a href="https://quarm.dinodna.dev/" aria-label="Quarm Dinodna Auction Tracker and Feed - Auction feed and tracking">Quarm Dinodna Auction Tracker and Feed</a> - Auction feed and tracking</li>
             <li><a href="https://eqmap.vercel.app/" aria-label="Advanced Map Parser - Visualize map data">Advanced Map Parser</a> - Visualize map data</li>
             <li><a href="https://www.eqemulator.org/index.php?pageid=serverinfo&worldid=3962" aria-label="Project Quarm Server Population - Live statistics and information about the Project Quarm server">Project Quarm Server Population</a> - Live statistics about Project Quarm</li>
             <li><a href="https://unixgeek.com/eqemu.html" aria-label="EQ Emulator Server Population Trends - Track population trends across different EQEmu servers">EQ Emulator Server Population Trends</a> - Compare Server Population</li>
-            <li><a href="https://github.com/ryhoneyman/quick-quarm" aria-label="Quick Quarm - A quick way to spin up a single host Quarm EQEmu server">Quick Quarm</a> - A quick way to spin up a single host Quarm EQEmu server</li>
         </ul>
         <h2>Enhancing Your Experience</h2>
         <ul>
