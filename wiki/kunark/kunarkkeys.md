@@ -91,7 +91,7 @@ South:
 
 [![Map_charasis1.jpg](/assets/images/kunarkkey/Map_charasis1.jpg)](/assets/images/kunarkkey/Map_charasis1.jpg) 
 
-## [Hand of Glory](https://www.pqdi.cc/item/17274) - PermanentlyOpen Locked Doors in [Howling Stones](https://www.pqdi.cc/zone/105)
+## [Hand of Glory](https://www.pqdi.cc/item/17274) - Permanently Open Locked Doors in [Howling Stones](https://www.pqdi.cc/zone/105)
 
 The [Hand of Glory](https://www.pqdi.cc/item/17274) allows you to open locked doors in [Howling Stones (Charasis)](https://www.pqdi.cc/zone/105). You’ll need to gather four ground spawns around the zone (one per wing); then combine them in a container (which is one of the 4 spawns) to create the key.
 
