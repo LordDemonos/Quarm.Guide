@@ -105,7 +105,7 @@ _Note: All items except [Blood Encrusted Glove](https://www.pqdi.cc/item/17751)
 - [  ] Combine [Intricate Toothed Ring](https://www.pqdi.cc/item/20523) , [Ring-scored Talon ](https://www.pqdi.cc/item/20521) , and [Petrified Talonless Claw ](https://www.pqdi.cc/item/20522) in  – [Blood Encrusted Glove](https://www.pqdi.cc/item/17751) (4-slot container) to create [Hand of Glory](https://www.pqdi.cc/item/17274) .
 - [  ] Click on a locked door to add it to your key ring. A locked door near the zone-in is easiest.
 
-![Hand-of-Glory-Map.jpg](/assets/images/kunarkkey/Hand-of-Glory-Map.jpg) -->
+![Hand-of-Glory-Map.jpg](/assets/images/kunarkkey/Hand-of-Glory-Map.jpg)
 
 ## [Trakanon Idol](https://www.pqdi.cc/item/20883) - Access to [Old Sebilis](https://www.pqdi.cc/zone/89)
 
