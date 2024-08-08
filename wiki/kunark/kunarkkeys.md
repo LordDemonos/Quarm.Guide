@@ -67,7 +67,7 @@ Take [Jade Chokidai Prod](https://www.pqdi.cc/item/7256) and [Xalgozian Fang]
 [![Swamp-of-No-Hope-Map.jpg](/assets/images/kunarkkey/Swamp-of-No-Hope-Map.jpg)](/assets/images/kunarkkey/Swamp-of-No-Hope-Map.jpg)
 ![Dugroz.jpg](/assets/images/kunarkkey/Dugroz.jpg)
 
-## [Howling Stones](https://www.pqdi.cc/zone/105) - Keys and Dungeon Progression
+## [Howling Stones](https://www.pqdi.cc/zone/105) - TemporaryKeys and Dungeon Progression
 
 ***WARNING: Upon zoning in, you may be greeted by two to three hostile NPC's!***
 
