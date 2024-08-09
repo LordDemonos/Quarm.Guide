@@ -73,7 +73,7 @@ I was hesitant to make a list as they seem to pop up and go stagnant pretty quic
 
 - [EQ Clerics](https://eqclerics.org/forum/index.php) A forum specifically for EverQuest clerics, offering discussions, guides, and community support for cleric players.
 
-### Quarm Dinodna Auction Tracker and Feed
+## Quarm Dinodna Auction Tracker and Feed
 
 QuarmDinodna allows you to look up auction feed, use tracking, mouseover chat items, integrated DB links, and more.
 
