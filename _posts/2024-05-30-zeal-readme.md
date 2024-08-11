@@ -1,5 +1,5 @@
 ---
-date: 2024-06-26T00:00:00.000Z
+date: 2024-08-11T00:00:00.000Z
 title: Zeal Readme
 description: Readme for Zeal
 keywords: 'Project Quarm, Quarm, EverQuest, crash fixes, Zeal, '
@@ -7,7 +7,7 @@ author: Salty
 published: true
 sitemap: true
 ---
-## Zeal Readme 6-26-2024
+## Zeal Readme 8-11-2024
 
 ### Zeal pipes in c#
 - https://github.com/OkieDan/ZealPipes
@@ -17,6 +17,7 @@ sitemap: true
 - https://github.com/NilliP/NillipussUI_1440p
 - https://www.eqinterface.com/downloads/fileinfo.php?id=6959
 
+
 ### Features
 - Camera motion improvements
 - Additional binds
@@ -25,16 +26,32 @@ sitemap: true
 - Various bug fixes
 - Unique npc naming for better parsing
 
-### Commands
+### % Replacements
+- %n or %mana for mana%
+- %h or %hp for hp%
+- %loc for your location
+- %th or %targethp for your targets health %
 
+### Commands
+___
 - `/autofire`
   - **Description:** Toggles Autofire on and off. When you throw or shoot you will automatically continue to throw or shoot on cooldown.
 
-- `/targetring`
+- `/cc`
   - **Arguments:** ``
-  - **Example:** `/targetring`
-  - **Description:** Currently toggles on/off the target ring.
-   
+  - **Example:** `/cc`
+  - **Description:** toggles classic classes in who and other areas.
+
+- `/targetring`
+  - **Arguments:** `float size`
+  - **Example:** `/targetring 0.25`
+  - **Description:** toggles targetring on/off if float is specified it sets the size.
+
+- `/resetexp`
+  - **Arguments:** ``
+  - **Example:** `/resetexp`
+  - **Description:** resets the exp per hour calculations.
+  - 
 - `/timer`
   - **Arguments:** `int`
   - **Example:** `/timer 10`
@@ -158,7 +175,6 @@ sitemap: true
 - `/alarm`
   - **Arguments:** `oldui`
   - **Description:** Re-opens the alarm window, if oldui is specified it allows for an alarm on it.
-
 ___
 ### Binds
 - Cycle through nearest NPCs
@@ -176,7 +192,6 @@ ___
 - Slow turn right
 - Target nearest pc corpse
 - Target nearest npc corpse
-
 ___
 ### UI
 - **Gauge EqType's**
@@ -216,7 +231,6 @@ ___
   - Zeal_FirstPersonLabel_X
   - Zeal_FirstPersonLabel_Y
   - Zeal_PanDelayLabel
-
 ___
 ### Building and Installation
 <br>
@@ -225,3 +239,4 @@ ___
 file extension .asi
 <br>
 move zeal.asi into the root of your game folder
+
