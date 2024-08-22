@@ -85,6 +85,12 @@ The following zones have 'pull limits' and when you aggro a quantity of mobs ove
 - pojustice    Plane of Justice    40
 - potorment    Torment, the Plane of Pain    40
 
+### Death Mechanics
+
+At Lv10, you'll lose your items. 
+At Lv11, you'll lose XP. It's a lot of exp, but a custom curve for the era. About as bad as it was on live. - Secrets
+EXP Values per race can be found on [pqdi.cc](https://www.pqdi.cc/exp)
+
 ### Reduced Respawn Timers & Anti Kite 
 
 For launch, we will impose a limit on the amount of mobs that can be pulled in newbie zones to 4. Anti Kite code will be applied after 4 NPCs are pulled. This is to prevent folks from monopolizing zones with PBAOE classes early on.
