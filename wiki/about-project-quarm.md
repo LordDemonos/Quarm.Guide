@@ -87,8 +87,9 @@ The following zones have 'pull limits' and when you aggro a quantity of mobs ove
 
 ### Death Mechanics
 
-At Lv10, you'll lose your items. 
-At Lv11, you'll lose XP. It's a lot of exp, but a custom curve for the era. About as bad as it was on live. - Secrets
+Prior to Lv10 you do not leave a corpse. When you die, you will respawn with your belongings and exp.
+At Lv10, when you die you'll leave a corpse behind with all your items on it. 
+At Lv11, in addition to leaving a corpse you'll lose EXP as well. It's a lot of exp, but a custom curve for the era. About as bad as it was on live. - Secrets
 EXP Values per race can be found on [pqdi.cc](https://www.pqdi.cc/exp)
 
 ### Reduced Respawn Timers & Anti Kite 
