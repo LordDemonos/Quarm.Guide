@@ -241,7 +241,7 @@ There are a number of revamps to Time-Limited Legacy Items. These new versions w
 - Manastone -> Manarock (30) (Functionally Identical)
 - Rubicite Armor -> Pinkicite Armor (25, 30) (It's Pink, Functionally Identical)
 - Thex Dagger -> Thexian Shiv (0) (Faction Requirement)
-- Scimitar of the Mistwalker -> Falchion of the Mistwalker (30) (Functionally Identical)
+- Scimitar of the Mistwalker -> Falchion of the Mistwalker (46) (Functionally Identical)
 - Lustrous Russet Armor -> Brilliant Russet Armor (46) (It's Teal, Functionally Identical)**
 - *NOTE:* **The above will be available indefinitely, even after an item's removal.*
 
