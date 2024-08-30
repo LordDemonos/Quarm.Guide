@@ -150,12 +150,14 @@ Kunark 2.3: October 1st, 2024 (3 months)
 - Cazic Thule / Innoruuk given minor damage boost over classic.
 
 Kunark 2.6: Jan 1st, 2025 (2 months)
-- Kunark Legacy Items 'disabled' and no-trade versions of legacy loot are added.
-- A single tradeskill allowed above 200 is added.
+- Trakanon 'Hard Mode'
+- Veeshan's Peak 'Hard Mode'
 
 Kunark 2.9: March 1st, 2025 (1 month)
 - Pre-Velious patch.
-- Gnomes appear, wanting help crafting a new feat of gnomish engineering that will allow their expedition to reach an island they saw in the distance...
+- Khati Sha the Lost appears from another timeline within the City of Halas to teach Barbarians how to tame animals and have them fight on their behalf.
+This version of Khati Sha was not blasted to the moon by Al'Kabor; instead, he is looking to improve his knowledge of animals. Being an effective anomaly, it may turn out that he has a darker history to hide..
+Beastlords will be available up to level 50 after this patch, including Luclin spells.
 
 ### Velious (3.x): April 1st, 2025
 
@@ -164,7 +166,7 @@ Velious (3.0): April 1st, 2025 (3 months)
 - Level cap remains 60.
 - Runnyeye revamps.
 - Warrens and Stonebrunt quests NPCs enable.
-- Legacy Items enabled.
+- Legacy Items enable.
 - Seaworthy planking is enabled as a rare spawn.
 - EXP/ ZEM rules change to Velious group bonus / Velious newbie ZEM boost.
 - Sleeper's Tomb is unavailable at launch.
@@ -172,16 +174,17 @@ Velious (3.0): April 1st, 2025 (3 months)
 Velious 3.3: July 1st, 2025 (3 months)
 - The Planes of Hate and Fear revamp.
 - The Sleeper's tomb opens.
--Seaworthy Planking is disabled.
 
 Velious 3.6 October 1st, 2025 (2 months)
 - The Warrens and Stonebrunt opens.
-- Legacy Items are 'disabled' for Velious (eg; no trade beads, BFG)
+- Other Race Beastlord Quests!
+- Server Anniversary! We've made it two years year.
 
-Velious 3.9 December 1st (1 month)
+Velious 3.9 December 1st, 2025 (1 month)
 - Chardok revamps.
 - Pre-Luclin milestone.
-- Vah Shir Beastlord & Vah Shir early access event up to Level 30, Luclin locked, select zones available
+- Vah Shir early access event up to Level 60, Luclin locked, select zones available
+- Beastlord level cap increases to 60. 
 
 ### Luclin (4.x): Jan 1st, 2026
 
