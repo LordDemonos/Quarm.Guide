@@ -57,7 +57,7 @@ If you want to learn more about Project Quarm specific features and rules, head 
         </ul>
         <h2>Enhancing Your Experience</h2>
         <ul>
-            <li><a href="https://github.com/iamclint/Zeal/releases" aria-label="Zeal Releases - Download the latest version of Zeal">Zeal Releases</a> - Latest version available <a href="/2024/08/11/zeal-readme/">Zeal README</a></li>
+            <li><a href="https://github.com/iamclint/Zeal/releases" aria-label="Zeal Releases - Download the latest version of Zeal">Zeal Releases</a> - Latest version available <a href="/2024/09/01/zeal-readme/">Zeal README</a></li>
             <li><a href="https://github.com/EJWellman/QuarmTool" aria-label="Quarm Tool - Get help with technical questions">Quarm Tool</a> - 3D Maps, Timers and damage meters</li>
             <li><a href="https://github.com/nickgal/EqSkelePatcher" aria-label="Old Skeleton Models - Download and install classic skeleton models">Old Skeleton Models</a> - Download and install classic skeleton models</li>
             <li><a href="https://www.eqinterface.com/downloads/fileinfo.php?id=6959" aria-label="Calmetar's UI - Custom UI for Quarm">Calmetar's UI</a> - Custom UI for Project Quarm</li>
