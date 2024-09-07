@@ -7,7 +7,7 @@ author: Salty
 published: true
 sitemap: true
 ---
-## Zeal Readme 8-11-2024
+## Zeal Readme 9-01-2024
 
 Zeal pipes in c#
 
