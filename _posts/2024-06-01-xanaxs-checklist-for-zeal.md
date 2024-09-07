@@ -36,6 +36,6 @@ This checklist provides a summarized version of the steps required to install Ze
 If your game crashes, Zeal will create a folder in the root of your TAKP installation folder called `/crashes/` with crash reports in this format `2024-06-28_08-54-56.zip`. You can upload these to the official discord's [#zeal-discussions](https://discord.com/channels/1133452007412334643/1210670176077348934) and the team will try to identify the cause of the crashes to provide the community with a resolution.
 
 ### Zeal Readme
-For a comprehensive list of features and commands, refer to the [Zeal Readme](https://quarm.guide/2024/06/26/zeal-readme/).
+For a comprehensive list of features and commands, refer to the [Zeal Readme](https://quarm.guide/2024/09/01/zeal-readme/).
 
 By following these steps, you should have Zeal installed and configured for Project Quarm. For any issues or further details, refer to the [full installation guide](/installing-the-game).
