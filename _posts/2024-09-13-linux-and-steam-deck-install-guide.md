@@ -180,8 +180,18 @@ _NOTE: If you already have Quarm running on Linux, you still may be interested i
 
 # Bonus Step 7 Edit eqclient.ini
 1. Open `[quarm-directory]/client/eqclient.ini`
-2. Under `[VideoMode]` change `Width=1440` and `Height=900` (Optimal for Steam Deck, may need different values on other systems)
-3. 
+2. Under `[VideoMode]` change
+    - _Below is Optimal for Steam Deck, may need different values on other systems_
+    1. `Width=1440`
+    2. `Height=900`
+3. Under `[Defaults]` you can toggle 
+    1. `CombatMusic=` to 1 for on, 0 for off
+    2. `ShowDyanmicLights=` to `TRUE` for the best quality, or `FALSE` if you notice light flickering
+    3. `AllLuclinPcModelsOff=` to `TRUE` for Classic models, `FALSE` for Luclin models
+    4. `EnableClassicMusic=` to `TRUE` for Classic MIDI, `FALSE` for MP3s
+4. Under `[Defaults]` you can set
+    1. `ClipPlane=20` to set farthest view distance
+    2. `InspectOthers=FALSE` as `TRUE` can cause a lot of accidental inspections as in annoying
 
 # Bonus Step 8 Import Character Settings
 _Note: This is for players who were playing elsewhere on another device_
@@ -193,6 +203,8 @@ _Note: This is for players who were playing elsewhere on another device_
 
 # Bonus Step 9 Adopt an actual useable controller profile (Steam Deck)
 _Note: I didn't create this layout. This layout was originally created by Yuuhi for P99, I've simply exported it to Quarm. You can read more about this layout via [this Reddit post](https://www.reddit.com/r/project1999/comments/11xn4j2/steam_deck_control_scheme/). This profile is AMAZING and really pushes the bounds of what a Steam controller profile can do by exploring layers, hover and radial menus, and providing a 'touchpad' keyboard._
+
+_Note: As you play and explore this profile, edit it to make different versions and share your different templates with the community!_
 1. Open Steam in handheld mode
 2. Navigate to Everquest Quarm in your library under Non-Steam games
 3. If the game isn't named `Everquest Quarm` (EXACTLY) then rename it
