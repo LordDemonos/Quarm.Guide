@@ -27,14 +27,14 @@ Before you can download and install the game, you'll need to create an account o
 
 3. Click "Create Login Server Account" and create a game account.
 
-## Step 2: Download the Game Client
+# Step 2: Download the Game Client
 
 1. Visit the Getting Started page on the TAKP wiki [Getting Started](https://wiki.takp.info/index.php?title=Getting_Started)
 2. Click on the [Getting Started with Windows](https://wiki.takp.info/index.php/Getting_Started_on_Windows) section.
 3. Download the recommended 2.2 client [Download Here](https://drive.google.com/file/d/1qoBktDeJMJKPBr-EZxub1vspJhz11i1y).
 4. Unzip the client zip into its own folder on the root of your C drive (or other drive letter), **do not put this under the \Program Files or \Program Files (x86) folders.**
 
-## Step 3: Converting your TAKP client to Quarm
+# Step 3: Converting your TAKP client to Quarm
 
 1. Join the [Project Quarm Discord](https://discord.gg/3nDQ9AkUz8).
 2. Navigate to the #server-files channel.
@@ -42,7 +42,7 @@ Before you can download and install the game, you'll need to create an account o
    An experimental release of `eqgame.dll` can be found under [#zeal-discussions](https://discord.com/channels/1133452007412334643/1210670176077348934/1227704216655761499). I find this gives me a smoother camera experience.
 4. Extract the `eqgame.dll` file to your TAKP folder (where you installed the game client).
 
-## Step 4: Installing Zeal ![Zeal](./assets/images/Zeal.png){: .step-image}
+# Step 4: Installing Zeal ![Zeal](./assets/images/Zeal.png){: .step-image}
 
 Zeal is used to add additional functionality to EverQuest. Main additions include 3rd person camera smoothing fix, better tab targeting, spell sets, and melody. A full list of features can be found in the [readme](https://github.com/iamclint/Zeal/blob/master/README.md). _The readme is based on latest commits not the latest release build._
 
@@ -135,7 +135,7 @@ In the event that your game crashes while using Zeal, a folder named `/crashes/`
 
 To help the development team diagnose and resolve the issue, you can upload these crash reports to the official Discord channel [#zeal-discussions](https://discord.com/channels/1133452007412334643/1210670176077348934). The team will review the reports and work towards identifying the cause of the crashes, providing the community with potential solutions.
 
-## Step 5: dgVoodoo2
+# Step 5: dgVoodoo2
 
 [dgVoodoo2](http://dege.freeweb.hu/dgVoodoo2/dgVoodoo2/) is a set of implementations of old graphics APIs for Windows 7 and later versions. If you are still having problems with intermittent game crashes, this may help.
 
@@ -156,7 +156,7 @@ To help the development team diagnose and resolve the issue, you can upload thes
 
 Source: [El Hefe](https://www.youtube.com/watch?v=ArLNnN0GwfQ)
 
-## Step 6: Issues Running the Game
+# Step 6: Issues Running the Game
 
 If you see any of these when trying to first run the game:
 
@@ -176,7 +176,7 @@ It could also be caused when Directx 9c or a Visual C runtime is not installed. 
 Navigate to your TAKP folder and find `eqgame.exe`. Right click and select Properties.
 Under Compatibility, select "Run this program in compatibility mode for Windows XP (Service Pack 2)".
 
-## Step 7: Launch the game
+# Step 7: Launch the game
 
 Run the `eqgame.exe` to launch the game. Click through the next few pages. You can choose to click on or off the luclin models here which is easier than changing it in your `eqclient.ini`. I do not recommend changing anything on the final screen though.
 
