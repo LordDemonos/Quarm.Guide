@@ -76,3 +76,36 @@ After following these steps, the Old Skeleton Models will be installed and appli
 Sources: [ItsKensterrr](https://www.youtube.com/watch?v=spMp-f7S7FA) | [ItsKensterrr](https://www.youtube.com/watch?v=zvhGnkbRW9g)
 
 This concludes [Textures and Effects](textures-and-effects). Please proceed to [Third Party Programs](third-party-programs).
+
+
+### Kunark Music Mod
+
+This mod enhances the musical experience in EverQuest by adding music tracks to various zones, particularly focusing on Kunark.
+
+- [Download Link](https://www.dropbox.com/s/tk9s0ta33j04y0f/EQMusicMod.zip?dl=0)
+
+To install the Kunark Music Mod, follow these steps:
+
+1. Back up all the `.emt` files in your EQ folder. While the mod should work, it hasn't been tested in every high-end dungeon. If you experience crashes when entering a certain zone or if you don't like the changes, you can restore the zone's original `.emt` file.
+
+2. Extract the downloaded `.zip` file directly into your EQ folder, overwriting all the `.emt` files.
+
+How it works:
+
+Each zone in your EQ folder has an `.emt` file that tells the game which sounds to load. This mod includes new music (`.mp3` files in a folder called `\modmusic`) and replacement `.emt` files that reference these new music files and specify where to play them in each zone.
+
+For those interested in modding:
+- The key is at the top of each `.emt` file.
+- You can add a new line with a new track.
+- Some settings in the key may not work (e.g., Delayed Repeats don't function, so everything loops).
+- You can only combine 1 external file with 1 internal `.wav` file, regardless of whether they're flagged as music or environment sound.
+
+The music is all under Creative-Commons licenses or otherwise free for non-commercial use. A list of credits can be found in the `\modmusic` folder. Some tracks have been edited or combined in FL Studio to better suit EverQuest.
+
+Credits: Vaithe and Shendare
+Thanks: Alaktu
+
+Sources: 
+- [Project 1999 Forum Thread](https://www.project1999.com/forums/showthread.php?t=306213)
+- [EQ Emulator Forum Thread](http://www.eqemulator.org/forums/showthread.php?t=39747)
+
