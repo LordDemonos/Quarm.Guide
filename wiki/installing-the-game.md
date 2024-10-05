@@ -127,11 +127,6 @@ Additionally, Zeal includes several other UI files that enhance its functionalit
 
 Move these files to your active UI folder (e.g., `/uifiles/default/` or whichever UI folder you have set in your `eqclient.ini`):
 
-     1. Hold Ctrl and left-click each file/folder to select them
-     2. Right-click and choose "Cut"
-     3. Navigate to your active UI folder
-     4. Right-click in the folder and choose "Paste"
-
 ![ChangeButton_ZealOptions](./assets/images/step4/ChangeButton_ZealOptions.png)
 
 However Zeal does not come with user interface files for every Zeal feature and your game chat window will show errors when playing. These are not harmful to your gameplay experience and can be ignored. EverQuest will identify which files are missing or broken and attempt to load them from the default folder instead.
