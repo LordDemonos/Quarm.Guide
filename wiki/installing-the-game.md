@@ -137,6 +137,8 @@ There are several EQ User Interfaces that have been modified to work with Projec
 
 If you are already using a custom user interface, you can determine which UI elements are missing Zeal features and causing errors by analyzing the `UIErrors.txt file` found within the root of your TAKP folder. An easy fix is to download another UI that has everything working such as [qqui Calmethar](https://www.eqinterface.com/downloads/fileinfo.php?id=6959), and just move the files you need into the UI folder you are using. Most user interfaces can be pieced together from different sources to achieve the look and feel you prefer.
 
+If you choose to download and install a new user interface, make sure you add the folders and files at the top of this step to your new UI folder. 
+
 ### Verify Zeal Installation
 
 To verify that Zeal has been installed correctly, follow these steps:
