@@ -126,6 +126,7 @@ Additionally, Zeal includes several other UI files that enhance its functionalit
   - `EQUI_ZealOptions.xml`
 
 Move these files to your active UI folder (e.g., `/uifiles/default/` or whichever UI folder you have set in your `eqclient.ini`):
+
      1. Hold Ctrl and left-click each file/folder to select them
      2. Right-click and choose "Cut"
      3. Navigate to your active UI folder
