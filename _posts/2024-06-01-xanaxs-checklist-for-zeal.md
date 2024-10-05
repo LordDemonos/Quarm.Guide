@@ -24,21 +24,19 @@ This checklist provides a summarized version of the steps required to install Ze
 
 1. **Download and Extract Zeal**
    - Visit the [Zeal GitHub Releases](https://github.com/iamclint/Zeal/releases) page. Click "Assets" and select the latest `Zeal.v#####.zip` file to download.
-   - Extract the `Zeal.asi` and `Zeal.pdb` files to the root of your TAKP folder.
+   - Extract the `uifiles` folder, `Zeal.asi` and `Zeal.pdb` files to the root of your TAKP folder, overwriting if/when asked.
 2. **UI for Zeal**
    - For features such as **XP Per Hour** or **Total Mana Values** to work, you need to have a UI that is compatible with Zeal. For more information on UI files, refer to the [UI Files for Zeal section](/after-installing-the-game#where-to-get-quarm-user-interfaces). [Nillipuss UI 1440p](https://github.com/NilliP/NillipussUI_1440p), [qqui Calmethar Edition](https://www.eqinterface.com/downloads/fileinfo.php?id=6959), [Qrustle](https://github.com/UnforgivunAL/QRustle/releases/tag/QrustleZv2.0), [Murmurs / Franken UI](https://discord.com/channels/1133452007412334643/1162826324092657757/1228748380310733022), [DuxaUI](https://github.com/LordDemonos/Quarm.Guide/blob/master/assets/duxaUI.7z?raw=true), and [defaultUI](https://github.com/LordDemonos/Quarm.Guide/blob/master/assets/default.7z?raw=true) are the most popular UIs that are compatible with Zeal. 
-3. **Zeal Specific UI Files**
-   - After extracting the contents of `zeal.zip` to your TAKP folder, you will have several new files in your `uifiles` folder:
-     - `targetrings` folder
-     - `EQUI.xml`
-     - `EQUI_GuildManagementWnd.xml`
-     - `EQUI_OptionsWindow.xml`
-     - `EQUI_ZealOptions.xml`
-   - Move these files to your active UI folder (e.g., `/uifiles/duxaUI/` or whichever UI folder you have set in your `eqclient.ini`):
-4. **Verify Zeal Installation**
+3. **Verify Zeal Installation**
+   - Verify that your `uifiles` folder has the `Zeal` folder within. This is acts like your default UI files and will be included in your UI regardless of which UI folder you're using. The `Zeal` folder should contain the following files:
+      - `targetrings` folder
+      - `EQUI.xml`
+      - `EQUI_GuildManagementWnd.xml`
+      - `EQUI_OptionsWindow.xml`
+      - `EQUI_ZealOptions.xml`
    - Log into the game and type `/zeal version` to check the version number.
    - Use `/help zeal` to see the list of available commands.
-   - Press `Alt + O` to open the options menu and verify you have new options tabs related to Zeal (from Step 2).
+   - Press `Alt + O` to open the options menu and verify you have new options tabs related to Zeal.
 
 ### Crash Reports
 If your game crashes, Zeal will create a folder in the root of your TAKP installation folder called `/crashes/` with crash reports in this format `2024-06-28_08-54-56.zip`. You can upload these to the official discord's [#zeal-discussions](https://discord.com/channels/1133452007412334643/1210670176077348934) and the team will try to identify the cause of the crashes to provide the community with a resolution.
