@@ -18,7 +18,7 @@ Welcome to the installation guide for Project Quarm. This page provides comprehe
             <li><a href="{{ 'installing-the-game#step-4-installing-zeal-' | relative_url }}">Installing Zeal</a> - Enhance your gameplay with Zeal</li>
             <li><a href="https://quarm.guide/2024/09/13/linux-and-steam-deck-install-guide/">EverQuest on Linux</a> - Install Project Quarm on Linux (including Steam Deck and other handhelds)</li>
             <li><a href="https://quarm.guide/2024/04/20/xanaxs-checklist-for-minimal-crashes/">Checklist for Minimal Crashes</a> - Ensure all installation steps are covered</li>
-            <li><a href="https://quarm.guide/2024/07/01/xanaxs-checklist-for-zeal/">Checklist for Installing Zeal</a> - Quick steps for installing Zeal</li>
+            <li><a href="https://quarm.guide/2024/10/05/xanaxs-checklist-for-zeal/">Checklist for Installing Zeal</a> - Quick steps for installing Zeal</li>
         </ul>
     </div>
     <div style="flex: 1; margin-left: 10px;">
