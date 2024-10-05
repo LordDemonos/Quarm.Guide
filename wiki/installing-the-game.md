@@ -117,7 +117,7 @@ The Project Quarm team plans to address this issue by obtaining a digital certif
 
 ### UI Files for Zeal
 
-Additionally, Zeal includes several other UI files that enhance its functionality. These are contained within the `uifiles` folder within the `zeal.zip` file and are placed within your `\TAKPv22\uifiles\` folder:
+Additionally, Zeal includes several other UI files that enhance its functionality. These are contained within the `\uifiles\zeal\` folder. This is acts like your default UI files and will be included in your UI regardless of which UI folder you're using. It is a good idea to verify that the `\uifiles\zeal\` folder contains the following files:
 
   - `targetrings` folder
   - `EQUI.xml`
@@ -125,7 +125,7 @@ Additionally, Zeal includes several other UI files that enhance its functionalit
   - `EQUI_OptionsWindow.xml`
   - `EQUI_ZealOptions.xml`
 
-Move these files to your active UI folder (e.g., `/uifiles/default/` or whichever UI folder you have set in your `eqclient.ini`):
+When in game, you can press `ALT + O` to view the options menu and look for new tabs related to Zeal:
 
 ![ChangeButton_ZealOptions](./assets/images/step4/ChangeButton_ZealOptions.png)
 

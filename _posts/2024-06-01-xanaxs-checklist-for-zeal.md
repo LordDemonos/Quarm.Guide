@@ -28,7 +28,7 @@ This checklist provides a summarized version of the steps required to install Ze
 2. **UI for Zeal**
    - For features such as **XP Per Hour** or **Total Mana Values** to work, you need to have a UI that is compatible with Zeal. For more information on UI files, refer to the [UI Files for Zeal section](/after-installing-the-game#where-to-get-quarm-user-interfaces). [Nillipuss UI 1440p](https://github.com/NilliP/NillipussUI_1440p), [qqui Calmethar Edition](https://www.eqinterface.com/downloads/fileinfo.php?id=6959), [Qrustle](https://github.com/UnforgivunAL/QRustle/releases/tag/QrustleZv2.0), [Murmurs / Franken UI](https://discord.com/channels/1133452007412334643/1162826324092657757/1228748380310733022), [DuxaUI](https://github.com/LordDemonos/Quarm.Guide/blob/master/assets/duxaUI.7z?raw=true), and [defaultUI](https://github.com/LordDemonos/Quarm.Guide/blob/master/assets/default.7z?raw=true) are the most popular UIs that are compatible with Zeal. 
 3. **Verify Zeal Installation**
-   - Verify that your `uifiles` folder has the `Zeal` folder within. This is acts like your default UI files and will be included in your UI regardless of which UI folder you're using. The `Zeal` folder should contain the following files:
+   - Verify that your `uifiles` folder has the `zeal` folder within. This is acts like your default UI files and will be included in your UI regardless of which UI folder you're using. The `Zeal` folder should contain the following files:
       - `targetrings` folder
       - `EQUI.xml`
       - `EQUI_GuildManagementWnd.xml`
