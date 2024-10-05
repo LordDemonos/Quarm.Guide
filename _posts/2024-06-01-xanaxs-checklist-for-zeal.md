@@ -35,10 +35,6 @@ This checklist provides a summarized version of the steps required to install Ze
      - `EQUI_OptionsWindow.xml`
      - `EQUI_ZealOptions.xml`
    - Move these files to your active UI folder (e.g., `/uifiles/duxaUI/` or whichever UI folder you have set in your `eqclient.ini`):
-     1. Hold Ctrl and left-click each file/folder to select them
-     2. Right-click and choose "Cut"
-     3. Navigate to your active UI folder
-     4. Right-click in the folder and choose "Paste"
 4. **Verify Zeal Installation**
    - Log into the game and type `/zeal version` to check the version number.
    - Use `/help zeal` to see the list of available commands.
