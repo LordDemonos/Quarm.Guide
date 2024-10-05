@@ -113,11 +113,23 @@ The Project Quarm team plans to address this issue by obtaining a digital certif
 1. To download Zeal, visit the project's GitHub repository at and navigate to the '[Releases](https://github.com/iamclint/Zeal/releases)' section. You'll find the latest version available for download in a file named `zeal.zip`. Ensure that you have previously excluded your TAKP folder from virus scans, as discussed in the previous step. Click on _Assets_ to expand and reveal the files underneath. Right click the `zeal.v#####.zip` link and select Save Link As..., and save the file to your TAKP folder.
 2. If you encounter any difficulties downloading the file, consider using an alternative browser such as Edge or Firefox. Alternatively, if you're using Chrome and experiencing issues, you may need to force the download by following the instructions [here](https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/This-file-is-dangerous-so-Chrome-has-blocked-it-message-received-when-downloading-ZIP-files-from-BIM-360-Team.html).
 3. Once downloaded, extract the contents of the zip file directly into the root directory of your TAKP folder. Make sure you see `zeal.asi` and `zeal.pdb` in your TAKP folder and if you encounter any trouble, your first step is to make sure `zeal.asi` is still in your TAKP folder.
-4. Log into the game and type `/zeal version` to show the version number. `/help zeal` will output the command list.
+
 
 ### UI Files for Zeal
 
-Zeal comes prepackaged with `EQUI_OptionsWindow.xml` containing modifications to display new sliders and feature options found within Zeal. When extracting `zeal.zip` to your TAKP folder, place this file in your `/uifiles/default/` folder (or whichever UI folder you have set in your `eqclient.ini`).
+Additionally, Zeal includes several other UI files that enhance its functionality. These are contained within the `uifiles` folder within the `zeal.zip` file and are placed within your `\TAKPv22\uifiles\` folder:
+
+  - `targetrings` folder
+  - `EQUI.xml`
+  - `EQUI_GuildManagementWnd.xml`
+  - `EQUI_OptionsWindow.xml`
+  - `EQUI_ZealOptions.xml`
+
+Move these files to your active UI folder (e.g., `/uifiles/default/` or whichever UI folder you have set in your `eqclient.ini`):
+     1. Hold Ctrl and left-click each file/folder to select them
+     2. Right-click and choose "Cut"
+     3. Navigate to your active UI folder
+     4. Right-click in the folder and choose "Paste"
 
 ![ChangeButton_ZealOptions](./assets/images/step4/ChangeButton_ZealOptions.png)
 
@@ -128,6 +140,17 @@ However Zeal does not come with user interface files for every Zeal feature and 
 There are several EQ User Interfaces that have been modified to work with Project Quarm and Zeal. A list of these can be found down under [Where to get Quarm User Interfaces](after-installing-the-game#where-to-get-quarm-user-interfaces). If you are looking for something simple and quick to get started with, I have compressed a more complete collection of duxaUI files, the default UI for Quarm/TAKP clients, found [here](https://github.com/LordDemonos/Quarm.Guide/blob/master/assets/duxaUI.7z?raw=true).
 
 If you are already using a custom user interface, you can determine which UI elements are missing Zeal features and causing errors by analyzing the `UIErrors.txt file` found within the root of your TAKP folder. An easy fix is to download another UI that has everything working such as [qqui Calmethar](https://www.eqinterface.com/downloads/fileinfo.php?id=6959), and just move the files you need into the UI folder you are using. Most user interfaces can be pieced together from different sources to achieve the look and feel you prefer.
+
+### Verify Zeal Installation
+
+To verify that Zeal has been installed correctly, follow these steps:
+
+1. Log into the game and type `/zeal version` to check the version number.
+2. Use `/help zeal` to see the list of available commands.
+3. Open the Options window in-game (usually by pressing 'ALT + O' or clicking the Options button from the window selector).
+4. Look for new tabs or settings related to Zeal features, such as the "Zeal", "Cam" or "FPS Limit".
+
+If you see these new options, it further confirms that Zeal is working correctly.
 
 ### Zeal Crash Reports
 
