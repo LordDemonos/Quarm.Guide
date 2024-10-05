@@ -78,3 +78,7 @@ I was hesitant to make a list as they seem to pop up and go stagnant pretty quic
 QuarmDinodna allows you to look up auction feed, use tracking, mouseover chat items, integrated DB links, and more.
 
 - [QuarmDinodna](https://quarm.dinodna.dev/)
+
+## Chardok Faction Calculator
+
+- [Chardok Faction Calculator](https://chardokfaction.github.io/) A useful tool for players working on their Chardok faction. It helps calculate how much faction you need to reach maximum standing with Chardok, and estimates the number of goblin skins and mineral salts required to achieve this goal.
