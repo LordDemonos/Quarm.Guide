@@ -10,11 +10,11 @@ prose:
     - /_includes
   metadata:
     _posts:
-      - name: "layout"
+      - name: "toc"
         field:
-          label: "layout"
-          element: "hidden"
-          value: "post"
+          label: "toc"
+          element: "text"
+          placeholder: "Show table of contents? Enter true or false"
       - name: "date"
         field:
           label: "date"
