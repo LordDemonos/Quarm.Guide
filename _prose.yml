@@ -9,32 +9,34 @@ prose:
     - /_layouts
     - /_includes
   metadata:
-    _posts:
+        _posts:
       - name: "layout"
         field:
-          element: "hidden"
-          value: "blog"
+          label: "layout"
+          element: "text"
+          value: "post"
+      - name: "date"
+        field:
+          label: "date"
+          element: "text"
+          value: "CURRENT_DATETIME"
+      - name: "author"
+        field:
+          label: "author"
+          element: "text"
+          value: "CURRENT_USER"
+      - name: "categories"
+        field:
+          label: "categories"
+          element: "text"
+          placeholder: "Enter categories"
+      - name: "description"
+        field:
+          label: "description"
+          element: "text"
+          placeholder: "Enter a description for your post."
       - name: "tags"
         field:
-          element: "multiselect"
-          label: "Add Tags"
-          placeholder: "Choose Tags"
-          options:
-            - name: "Description"
-              value: "description"
-            - name: "Keywords"
-              value: "keywords"
-            - name: "User"
-              field:
-                element: "hidden"
-                value: CURRENT_USER
-    _posts/static:
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "page"
-      - name: "permalink"
-        field:
+          label: "tags"
           element: "text"
-          label: "Permalink"
-          value: ""
+          placeholder: "Enter tags"
