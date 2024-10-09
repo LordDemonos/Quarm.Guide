@@ -2,7 +2,7 @@ prose:
   rooturl: '_posts'
   siteurl: 'http://prose.github.io/starter/'
   relativeLinks: 'http://prose.github.io/starter/links.jsonp'
-  media: 'media'
+  media: 'assets'
   ignore:
     - index.md
     - _config.yml
@@ -20,10 +20,14 @@ prose:
           label: "Add Tags"
           placeholder: "Choose Tags"
           options:
-            - name: "Apples"
-              value: "apples"
-            - name: "Bananas"
-              value: "bananas"
+            - name: "Description"
+              value: "description"
+            - name: "Keywords"
+              value: "keywords"
+            - name: "User"
+              field:
+                element: "hidden"
+                value: CURRENT_USER
     _posts/static:
       - name: "layout"
         field:
