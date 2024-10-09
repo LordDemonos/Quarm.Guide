@@ -35,8 +35,8 @@ prose:
           label: "description"
           element: "text"
           placeholder: "Enter a description for your post."
-      - name: "tags"
+      - name: "keywords"
         field:
-          label: "tags"
+          label: "keywords"
           element: "text"
-          placeholder: "Enter tags"
+          placeholder: "Enter keywords you might use to search for this page."
