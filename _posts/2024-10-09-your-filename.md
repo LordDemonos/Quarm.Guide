@@ -1,5 +1,4 @@
 ---
-layout: post
 date: '2024-10-09 00:51 -0400'
 author: Xanax
 tags: 'Project Quarm, Quarm, EverQuest, github, wiki, post, prose.io'
