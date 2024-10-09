@@ -47,11 +47,18 @@ prose.io has the ability to allow you to upload images directly to quarm.guide b
 
 Front matter is a set of tags at the top of the page that tells the website the title, date, author, and keywords for a page. Sometimes this is also referred to as _metadata_. You can add this information my clicking the Metadata button on the sidebar. The page will guide you on how to add everything you need.
 
-## Step 4 Preview and Save
+## Step 4 Filename
 
-You then have the option to press the Preview button to see a sample of what the final page should look like. When you are satisfied, press the Save icon to push the request up to the quarm.guide repository. This will create what is called a "Pull Request" where it will have to be approved by the website maintainer before being published on Quarm.Guide
+At the very top of the page, you'll see the file name for the post you're making. 
+
+`_posts/2024-10-09-your-filename.md`
+
+I recommend leaving the `_posts/####-##-##-` portion and editing `your-filename`. Think of the file name as a short title for your post. What you choose as a file name is how it will show up on Quarm.Guide if you are making a post. Choose something short and simple that describes the content of your post.
+
+## Step 5 Preview and Save
+
+You then have the option to press the Preview button to see a sample of what the final page should look like. When you are satisfied, press the Save icon to push the request up to the quarm.guide repository. This will create what is called a "Pull Request" where it will have to be approved by the website maintainer before being published on Quarm.Guide. Before you "Submit" your post, you'll be asked for another short description. All "Pull Requests" require a description. Think of this as a short message to the website maintainer to describe your request. 
 
 ## Edit
 
-Once the post is published on Quarm.Guide you can always view the article and press the Edit button. Here you can edit any page's content and submit them to the site for approval. 
-
+Once the post is published on Quarm.Guide you can always view the article and press the Edit button. Here you can edit any page's content and submit them to the site for approval.
