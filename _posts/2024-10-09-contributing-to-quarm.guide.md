@@ -22,7 +22,7 @@ There are two ways to add content.
 
 #### Add New
 
-Add new places articles under the Wiki section. I typically prefer this for guides that will be linked off of the other sections on the site. This is where the majority of content exists on quarm.guide.
+Add new places articles under the Wiki section. I typically prefer this for guides that will be linked off of the other sections on the site. This is where the majority of content exists on Quarm.Guide.
 
 #### Add Post
 
@@ -36,7 +36,7 @@ Before we can proceed, you're going to need a Github.com account. Don't worry, y
 
 ## Step 2: Authorize Prose.io with your Github Account
 
-Back in the Prose.io editor we opened in the overview. The page layout shows some controls at the top, content in the body, and a sidebar on the far right. At the bottom of the sidebar should be a button for authorizing prose.io with your github account. 
+Back in the Prose.io editor we opened in the overview. The page layout shows some controls at the top, content in the body, and a sidebar on the far right. At the bottom of the sidebar should be a button for authorizing Prose.io with your github account. 
 
 ![approve-button]({{site.baseurl}}/assets/images/approve_github1.jpg)
 
@@ -48,7 +48,7 @@ Quarm.Guide is mostly written in markdown, a simple formatting language that man
 
 #### Adding Images
 
-prose.io has the ability to allow you to upload images directly to quarm.guide by dragging them into the web browser. I found the feedback to be misleading, and the Insert Image > Upload Image function to be more reliable in uploading and displaying the proper markdown on the page. Also be aware that while it says alt text is optional, I believe it is required for the submit button to create the markdown link for you. Alt text can just be the name of the file, for example.  
+Prose.io has the ability to allow you to upload images directly to Quarm.Guide by dragging them into the web browser. I found the feedback to be misleading, and the Insert Image > Upload Image function to be more reliable in uploading and displaying the proper markdown on the page. Also be aware that while it says alt text is optional, I believe it is required for the submit button to create the markdown link for you. Alt text can just be the name of the file, for example.  
 
 ![proseio_image_upload]({{site.baseurl}}/assets/images/proseio_image.jpg)
 
