@@ -66,6 +66,10 @@ You then have the option to press the Preview button to see a sample of what the
 
 Once the post is published on Quarm.Guide you can always view the article and press the Edit button. Here you can edit any page's content and submit them to the site for approval.
 
+## Removal
+
+When editing a post, you can click on the Settings button on the right. Only the maintainer of Quarm.Guide has the ability to delete a post. If you want to remove your post, you can click the "Unpublish" button at the top of the tool bar. You will then have to save and submit another "Pull Request", which must then be approved to remove the post.
+
 ## Limitations
 
-The drawback of the prose.io module is that it does not support autocorrect or spellchecking. Make sure to double check what you post. If you do make an error though, you can easily edit and correct it. 
+The drawback of the prose.io module is that it does not support autocorrect or spellchecking. Make sure to double check what you post. If you do make an error though, you can easily edit and correct it.
