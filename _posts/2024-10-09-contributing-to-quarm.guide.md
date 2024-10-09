@@ -6,6 +6,7 @@ description: >-
   Quick guide on how to easily contribute to Quarm.Guide using the Prose.io
   controls at the top right corner of the site.
 categories: How to Contribute to Quarm.Guide using Prose.io
+toc: 'false'
 ---
 ## Using Prose.io Overview
 
