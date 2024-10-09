@@ -25,7 +25,7 @@ prose:
           label: "author"
           element: "text"
           value: "CURRENT_USER"
-      - name: "categories"
+      - name: "title"
         field:
           label: "title"
           element: "text"
