@@ -4,4 +4,4 @@
 
 - Please submit suggestions/help/feedback to me via DM on X or Discord. 
 
-- Feel free to ask `Xanax/Xantagonist <Former Glory>` any questions, anywhere you find me in game!
+- Feel free to ask `Xanax <Former Glory>` any questions, anywhere you find me in game!
