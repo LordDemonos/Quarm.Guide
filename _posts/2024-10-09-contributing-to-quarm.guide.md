@@ -48,7 +48,7 @@ Quarm.Guide is mostly written in markdown, a simple formatting language that man
 
 #### Adding Images
 
-prose.io has the ability to allow you to upload images directly to quarm.guide by dragging them into the web browser. I found the feedback to be misleading, and the Insert Image > Upload Image function to be more reliable in uploading and displaying the proper markdown on the page.  
+prose.io has the ability to allow you to upload images directly to quarm.guide by dragging them into the web browser. I found the feedback to be misleading, and the Insert Image > Upload Image function to be more reliable in uploading and displaying the proper markdown on the page. Also be aware that while it says alt text is optional, I believe it is required for the submit button to create the markdown link for you. Alt text can just be the name of the file, for example.  
 
 ![proseio_image_upload]({{site.baseurl}}/assets/images/proseio_image.jpg)
 
