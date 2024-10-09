@@ -1,4 +1,7 @@
 ---
+sitemap: 'true'
+published: 'true'
+toc: 'false'
 date: '2024-10-09 00:51 -0400'
 author: Xanax
 keywords: 'Project Quarm, Quarm, EverQuest, github, wiki, post, prose.io'
@@ -6,7 +9,6 @@ description: >-
   Quick guide on how to easily contribute to Quarm.Guide using the Prose.io
   controls at the top right corner of the site.
 title: How to Contribute to Quarm.Guide using Prose.io
-toc: 'false'
 ---
 ## Using Prose.io Overview
 
@@ -54,7 +56,7 @@ At the very top of the page, you'll see the file name for the post you're making
 
 `_posts/2024-10-09-your-filename.md`
 
-I recommend leaving the `_posts/####-##-##-` portion and editing `your-filename`. Think of the file name as a short title for your post. What you choose as a file name is how it will show up on Quarm.Guide if you are making a post. Choose something short and simple that describes the content of your post.
+I recommend leaving the `_posts/####-##-##-` portion and editing `your-filename`. Think of the file name as a short title for your post. Choose something short and simple that describes the content of your post.
 
 ## Step 5 Preview and Save
 
