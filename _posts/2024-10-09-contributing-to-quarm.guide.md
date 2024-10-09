@@ -14,7 +14,7 @@ title: How to Contribute to Quarm.Guide using Prose.io
 
 _The following guide was made using the Firefox web browser. I lost some functionality using Chrome such as the ability to upload images._
 
-If you'd like to contribute to Quarm.Guide, the prose.io controls are an easy way for non-technical users to add wiki articles and blog posts directly into the site without having to go through the hassle of taking a class on using github and forking the entire repository. You may have already noticed these controls when browsing the site. 
+If you'd like to contribute to Quarm.Guide, the Prose.io controls are an easy way for non-technical users to add wiki articles and blog posts directly into the site without having to go through the hassle of taking a class on using github and forking the entire repository. You may have already noticed these controls when browsing the site. 
 
 ![proseio1]({{site.baseurl}}/assets/images/proseio1.jpg)
 
@@ -32,17 +32,17 @@ In the end it really doesn't matter too much and if needed, I can move content a
 
 ## Step 1 Create a Github Account
 
-Before we can proceed, you're going to need a github.com account. Don't worry, you shouldn't need to interact with github beyond signing up for an account. You can find simple instructions [HERE](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github)
+Before we can proceed, you're going to need a Github.com account. Don't worry, you shouldn't need to interact with Github beyond signing up for an account. You can find simple instructions [HERE](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github)
 
-## Step 2 Authorize prose.io with your Github Account
+## Step 2 Authorize Prose.io with your Github Account
 
-Back in the prose.io editor we opened in the overview. The page layout shows some controls at the top, content in the body, and a sidebar on the far right. At the bottom of the sidebar should be a button for authorizing prose.io with your github account. 
+Back in the Prose.io editor we opened in the overview. The page layout shows some controls at the top, content in the body, and a sidebar on the far right. At the bottom of the sidebar should be a button for authorizing prose.io with your github account. 
 
 ![approve-button]({{site.baseurl}}/assets/images/approve_github1.jpg)
 
 ## Step 3 Add Your Content
 
-Quarm.Guide is mostly written in markdown, a simple formatting language that many websites and programs understand. You can find a help ? button at the top that will help you understand links, images, paragraphs, etc. 
+Quarm.Guide is mostly written in markdown, a simple formatting language that many websites and programs understand. You can find a help `?` button at the top that will help you understand links, images, paragraphs, etc. 
 
 ![proseio_content]({{site.baseurl}}/assets/images/proseio2.jpg)
 
@@ -84,6 +84,6 @@ When editing a post, you can click on the Settings button on the right. Only the
 
 ## Limitations
 
-The drawback of the prose.io module is that it does not support autocorrect or spellchecking. Make sure to double check what you post. If you do make an error though, you can easily edit and correct it.
+The drawback of the Prose.io module is that it does not support autocorrect or spellchecking. Make sure to double check what you post. If you do make an error though, you can easily edit and correct it.
 
 Remember, any post that you submit needs to be approved first. Please be patient while your content is under review. I appreciate your contributions to the community!
