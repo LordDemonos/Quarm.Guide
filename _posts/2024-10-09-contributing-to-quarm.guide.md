@@ -50,13 +50,13 @@ prose.io has the ability to allow you to upload images directly to quarm.guide b
 
 Front matter is a set of tags at the top of the page that tells the website the title, date, author, and keywords for a page. Sometimes this is also referred to as _metadata_. You can add this information my clicking the Metadata button on the sidebar. The page will guide you on how to add everything you need.
 
-## Step 4 Filename
+## Step 4 Title
 
-At the very top of the page, you'll see the file name for the post you're making. 
+At the very top of the page, you'll see the file name for the post you're making, which is also considered as the title. 
 
-`_posts/2024-10-09-your-filename.md`
+`untitled`
 
-I recommend leaving the `_posts/####-##-##-` portion and editing `your-filename`. Think of the file name as a short title for your post. Choose something short and simple that describes the content of your post.
+I recommend choosing something short and simple that describes the content of your post. This will be used as the file name for your post within the github repository.
 
 ## Step 5 Preview and Save
 
