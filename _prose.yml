@@ -9,7 +9,7 @@ prose:
     - /_layouts
     - /_includes
   metadata:
-        _posts:
+    _posts:
       - name: "layout"
         field:
           label: "layout"
