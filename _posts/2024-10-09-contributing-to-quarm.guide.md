@@ -78,7 +78,7 @@ Once the post is published on Quarm.Guide you can always view the article and pr
 
 ## Removal
 
-When editing a post, you can click on the Settings button on the right. Only the maintainer of Quarm.Guide has the ability to delete a post. If you want to remove your post, you can click the "Unpublish" button at the top of the tool bar. You will then have to save and submit another "Pull Request", which must then be approved to remove the post.
+When editing a post, you can click on the Settings button on the right, and you will see controls for deleting posts. However, only the maintainer of Quarm.Guide has the ability to delete a post. If you want to remove your post, you can click the "Unpublish" button at the top of the tool bar. You will then have to save and submit a "Change Request", which must then be approved to remove the post.
 
 ![unpublish]({{site.baseurl}}/assets/images/unpublish.jpg)
 
