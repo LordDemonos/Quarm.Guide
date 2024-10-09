@@ -65,3 +65,7 @@ You then have the option to press the Preview button to see a sample of what the
 ## Edit
 
 Once the post is published on Quarm.Guide you can always view the article and press the Edit button. Here you can edit any page's content and submit them to the site for approval.
+
+## Limitations
+
+The drawback of the prose.io module is that it does not support autocorrect or spellchecking. Make sure to double check what you post. If you do make an error though, you can easily edit and correct it. 
