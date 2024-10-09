@@ -1,7 +1,7 @@
 prose:
   rooturl: '/'
   siteurl: 'http://quarm.guide'
-  media: 'assets'
+  media: '/assets/images/'
   ignore:
     - index.md
     - _config.yml
