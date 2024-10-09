@@ -1,7 +1,6 @@
 prose:
   rooturl: '/'
   siteurl: 'http://quarm.guide'
-  relativeLinks: ''
   media: 'assets'
   ignore:
     - index.md
