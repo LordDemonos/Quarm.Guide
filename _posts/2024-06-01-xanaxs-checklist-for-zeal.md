@@ -1,12 +1,16 @@
 ---
-date: 2024-10-05
-title: "Xanax's Checklist for Installing Zeal"
-description: 'A concise guide to installing Zeal on Project Quarm, including prerequisites, download links, and configuration tips.'
-keywords: 'Project Quarm, Quarm, EverQuest, Zeal, installation, dgVoodoo, compatibility settings'
-author: 'Xanax'
-toc: false
-published: true
 sitemap: true
+published: true
+toc: false
+date: 'Fri Oct 04 2024 20:00:00 GMT-0400 (Eastern Daylight Time)'
+title: Xanax's Checklist for Installing Zeal
+description: >-
+  A concise guide to installing Zeal on Project Quarm, including prerequisites,
+  download links, and configuration tips.
+keywords: >-
+  Project Quarm, Quarm, EverQuest, Zeal, installation, dgVoodoo, compatibility
+  settings
+author: Xanax
 ---
 
 ## Xanax's Checklist for Installing Zeal
@@ -19,6 +23,8 @@ This checklist provides a summarized version of the steps required to install Ze
    - Ensure `Sound=TRUE` is listed in your `eqclient.ini`. Zeal requires sound to be enabled to function properly.
 2. **Exclude TAKP Installation from Antivirus Scanning**
    - Exclude your TAKP folder from antivirus scans to reduce load times and prevent stuttering. Follow the [detailed instructions](/installing-the-game#prerequisite-2-required-excluding-your-takp-installation).
+3. **Remove Previous Zeal Files**
+	- If you have recently installed Zeal, there may be a conflict with the newer version. Make sure you delete your `uifiles\zeal` folder before installing the latest version. 
 
 ### Installation
 
