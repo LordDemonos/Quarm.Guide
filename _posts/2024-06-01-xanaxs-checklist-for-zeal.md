@@ -2,7 +2,7 @@
 sitemap: true
 published: true
 toc: false
-date: 'Fri Oct 04 2024 20:00:00 GMT-0400 (Eastern Daylight Time)'
+date: 'Fri Oct 05 2024 20:00:00 GMT-0400 (Eastern Daylight Time)'
 title: Xanax's Checklist for Installing Zeal
 description: >-
   A concise guide to installing Zeal on Project Quarm, including prerequisites,
