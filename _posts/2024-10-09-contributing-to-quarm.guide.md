@@ -66,6 +66,8 @@ At the very top of the page, you'll see the file name for the post you're making
 
 I recommend choosing something short and simple that describes the content of your post. This will be used as the file name for your post within the github repository.
 
+__Note: If you choose Add New and place your content under the Wiki section, your title should end in .md as its file extension. Add Post does not seem to require this, as all posts are in markdown format.__
+
 ## Step 5: Preview and Save
 
 You then have the option to press the Preview button to see a sample of what the final page should look like. When you are satisfied, press the Save icon to push the request up to the quarm.guide repository. This will create what is called a "Pull Request" where it will have to be approved by the website maintainer before being published on Quarm.Guide. Before you "Submit" your post, you'll be asked for another short description. All "Pull Requests" require a description. Think of this as a short message to the website maintainer to describe your request. 
