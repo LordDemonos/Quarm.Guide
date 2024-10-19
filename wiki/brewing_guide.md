@@ -1,11 +1,8 @@
 ---
-title: 'Brewing Guide - Project Quarm'
-description: >-
-  Complete guide for leveling brewing from 1 to 248.
-keywords: >-
-  Brewing, Project Quarm, EverQuest
-  tradeskills, kunark, cabilis
-author: 'Xanax'
+title: Brewing Guide - Project Quarm
+description: Complete guide for leveling brewing from 1 to 248.
+keywords: 'Brewing, Project Quarm, EverQuest tradeskills, kunark, cabilis'
+author: Xanax
 toc: false
 resize_images: true
 published: true
@@ -23,7 +20,9 @@ sitemap: true
 
 [Water Flask](https://www.pqdi.cc/item/13006)
 
-Combine in Brewing Barrel ![ecabilisbrewing]({{site.baseurl}}/assets/images/Map_ecabilis.jpg)
+Combine in Brewing Barrel 
+
+![ecabilisbrewing]({{site.baseurl}}/assets/images/Map_ecabilis.jpg)
 
 1x [Fishing Grubs](https://www.pqdi.cc/item/13106) – Bought ([Klok Foxmyr](https://www.pqdi.cc/npc/106047), [Cabilis East](https://www.pqdi.cc/zone/106), (123.0, -200.0, 2.1))
 
@@ -47,7 +46,9 @@ Combine in Brewing Barrel ![ecabilisbrewing]({{site.baseurl}}/assets/images/Map_
 
 [Water Flask](https://www.pqdi.cc/item/13006)
 
-Combine in Brewing Barrel ![ecabilisbrewing]({{site.baseurl}}/assets/images/Map_ecabilis.jpg)
+Combine in Brewing Barrel 
+
+![ecabilisbrewing]({{site.baseurl}}/assets/images/Map_ecabilis.jpg)
 
 
 1x [Barley](https://www.pqdi.cc/item/16590) – Bought ([Brewer Prixal](https://www.pqdi.cc/npc/106096), [Cabilis East](https://www.pqdi.cc/zone/106), (678.0, -25.0, 1.7))
@@ -77,7 +78,9 @@ Combine in Brewing Barrel ![ecabilisbrewing]({{site.baseurl}}/assets/images/Map_
 
 2x [Water Flask](https://www.pqdi.cc/item/13006)
 
-Combine in Brewing Barrel ![ecabilisbrewing]({{site.baseurl}}/assets/images/Map_ecabilis.jpg)
+Combine in Brewing Barrel 
+
+![ecabilisbrewing]({{site.baseurl}}/assets/images/Map_ecabilis.jpg)
 
 1x [Cask](https://www.pqdi.cc/item/16580) –  Bought ([Klok Sass](https://www.pqdi.cc/npc/106095), [Cabilis East](https://www.pqdi.cc/zone/106), (667.0, -37.0, 2.1))
 
