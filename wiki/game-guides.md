@@ -1,7 +1,11 @@
 ---
-title: 'Game Guides for Project Quarm'
-description: 'Comprehensive guides covering all aspects of Project Quarm, including leveling, quests, classes, and more.'
-keywords: 'Project Quarm, Quarm guides, Quarm Wiki, leveling, quests, classes, epics, gear, items, stats'
+title: Game Guides for Project Quarm
+description: >-
+  Comprehensive guides covering all aspects of Project Quarm, including
+  leveling, quests, classes, and more.
+keywords: >-
+  Project Quarm, Quarm guides, Quarm Wiki, leveling, quests, classes, epics,
+  gear, items, stats
 toc: false
 author: Xanax
 ---
@@ -21,6 +25,7 @@ Welcome to the central hub for all Project Quarm game guides.
         <h3>Leveling Guides</h3>
         <ul>
             <li><a href="{{ 'BathorySSFGuide' | relative_url }}">Bathory's Solo Self Found Guide</a></li>
+          	<li><a href="{{ 'Brewing Guide' | relative_url }}">Brewing Guide</a></li>
         </ul>
         <h3>Access Guides</h3>
         <ul>
@@ -50,4 +55,3 @@ Welcome to the central hub for all Project Quarm game guides.
         </ul>
     </div>
 </div>
-
