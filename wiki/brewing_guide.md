@@ -1,3 +1,17 @@
+---
+title: 'Brewing Guide - Project Quarm'
+description: >-
+  Complete guide for leveling brewing from 1 to 248.
+keywords: >-
+  Brewing, Project Quarm, EverQuest
+  tradeskills, kunark, cabilis
+author: 'Xanax'
+toc: false
+resize_images: true
+published: true
+sitemap: true
+---
+
 # 1-248 Brewing Guide
 
 ## 1 – 122
