@@ -25,7 +25,7 @@ Welcome to the central hub for all Project Quarm game guides.
         <h3>Leveling Guides</h3>
         <ul>
             <li><a href="{{ 'BathorySSFGuide' | relative_url }}">Bathory's Solo Self Found Guide</a></li>
-          	<li><a href="{{ 'Brewing Guide' | relative_url }}">Brewing Guide</a></li>
+          	<li><a href="{{ 'Brewing_Guide' | relative_url }}">Brewing Guide</a></li>
         </ul>
         <h3>Access Guides</h3>
         <ul>
