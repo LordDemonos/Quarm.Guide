@@ -9,7 +9,7 @@
 
 [Water Flask](https://www.pqdi.cc/item/13006)
 
-Combine in [Brewing Barrel](![ecabilisbrewing]({{site.baseurl}}/assets/images/Map_ecabilis.jpg))
+Combine in Brewing Barrel ![ecabilisbrewing]({{site.baseurl}}/assets/images/Map_ecabilis.jpg)
 
 1x [Fishing Grubs](https://www.pqdi.cc/item/13106) – Bought ([Klok Foxmyr](https://www.pqdi.cc/npc/106047), [Cabilis East](https://www.pqdi.cc/zone/106), (123.0, -200.0, 2.1))
 
