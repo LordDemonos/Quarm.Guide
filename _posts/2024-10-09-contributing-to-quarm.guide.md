@@ -18,29 +18,21 @@ If you'd like to contribute to Quarm.Guide, the Prose.io controls are an easy wa
 
 ![proseio1]({{site.baseurl}}/assets/images/proseio1.jpg)
 
-There are two ways to add content.
-
-#### Add New
-
-Add new places articles under the Wiki section. I typically prefer this for guides that will be linked off of the other sections on the site. This is where the majority of content exists on Quarm.Guide.
-
-#### Add Post
-
-The website also has a blog post function, typically found on the bottom left. These are often reserves for one-off posts and topics. 
-
-In the end it really doesn't matter too much and if needed, I can move content around as needed afterwards. Once you choose one, you'll be presented with the prose.io markdown editor. 
-
 ## Step 1: Create a Github Account
 
 Before we can proceed, you're going to need a Github.com account. Don't worry, you shouldn't need to interact with Github beyond signing up for an account. You can find simple instructions [HERE](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github)
 
-## Step 2: Authorize Prose.io with your Github Account
+## Step 2: Add Post
 
-Back in the Prose.io editor we opened in the overview. The page layout shows some controls at the top, content in the body, and a sidebar on the far right. At the bottom of the sidebar should be a button for authorizing Prose.io with your github account. 
+The website has a blog post function, where articles are typically found on the bottom left of the sidebar. These posts can be searched for, and moved/linked to the wiki easily. 
+
+## Step 3: Authorize Prose.io with your Github Account
+
+In the Prose.io editor we opened in step 2, the page layout shows some controls at the top, content in the body, and a sidebar on the far right. At the bottom of the sidebar should be a button for authorizing Prose.io with your github account. 
 
 ![approve-button]({{site.baseurl}}/assets/images/approve_github1.jpg)
 
-## Step 3: Add Your Content
+## Step 4: Add Your Content
 
 Quarm.Guide is mostly written in markdown, a simple formatting language that many websites and programs understand. You can find a help `?` button at the top that will help you understand links, images, paragraphs, etc. 
 
@@ -58,17 +50,15 @@ Metadata is a set of tags at the top of the page that tells the website the titl
 
 ![proseio_metadata]({{site.baseurl}}/assets/images/proseio_metadata.jpg)
 
-## Step 4: Title
+## Step 5: Title
 
 At the very top of the page, you'll see the file name for the post you're making, which is also considered as the title. 
 
 ![proseio_title]({{site.baseurl}}/assets/images/proseio_title.jpg)
 
-I recommend choosing something short and simple that describes the content of your post. This will be used as the file name for your post within the github repository.
+I recommend choosing something short and simple that describes the content of your post. This will be used as the file name for your post within the github repository. File names are created in the format `YYYY-MM-DD-title.md`.
 
-__Note: If you choose Add New and place your content under the Wiki section, your title should end in .md as its file extension. Add Post does not seem to require this, as all posts are in markdown format.__
-
-## Step 5: Preview and Save
+## Step 6: Preview and Save
 
 You then have the option to press the Preview button to see a sample of what the final page should look like. When you are satisfied, press the Save icon to push the request up to the quarm.guide repository. This will create what is called a "Pull Request" where it will have to be approved by the website maintainer before being published on Quarm.Guide. Before you "Submit" your post, you'll be asked for another short description. All "Pull Requests" require a description. Think of this as a short message to the website maintainer to describe your request. 
 
