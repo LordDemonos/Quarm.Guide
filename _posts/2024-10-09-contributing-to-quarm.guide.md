@@ -24,7 +24,9 @@ Before we can proceed, you're going to need a Github.com account. Don't worry, y
 
 ## Step 2: Add New Post
 
-The website has a blog post function, where articles are typically found on the bottom left of the sidebar. These posts can be searched for, and moved/linked to the wiki easily. 
+Find the Add New Post button in the upper right corner of any page.
+
+The website has a blog post function, where published articles are typically found on the bottom left of the sidebar. These posts can be searched for, and moved/linked to the wiki easily. 
 
 ## Step 3: Authorize Prose.io with your Github Account
 
