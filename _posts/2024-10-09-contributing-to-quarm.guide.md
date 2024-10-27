@@ -22,7 +22,7 @@ If you'd like to contribute to Quarm.Guide, the Prose.io controls are an easy wa
 
 Before we can proceed, you're going to need a Github.com account. Don't worry, you shouldn't need to interact with Github beyond signing up for an account. You can find simple instructions [HERE](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github)
 
-## Step 2: Add Post
+## Step 2: Add New Post
 
 The website has a blog post function, where articles are typically found on the bottom left of the sidebar. These posts can be searched for, and moved/linked to the wiki easily. 
 
