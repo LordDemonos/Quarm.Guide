@@ -2,7 +2,7 @@
 sitemap: true
 published: true
 toc: 'true'
-date: 'Sat Nov 02 2024 20:00:00 GMT-0400 (Eastern Daylight Time)'
+date: 'Sat Nov 24 2024 20:00:00 GMT-0400 (Eastern Daylight Time)'
 title: Zeal Readme
 description: Readme for Zeal
 keywords: 'Project Quarm, Quarm, EverQuest, crash fixes, Zeal, '
@@ -135,7 +135,8 @@ ___
   - **Description:** changes your field of view with a value between 45 and 90.
 
 - `/lead`
-  - **Description:** prints out your current group leader.
+  - **Arguments:** none, `open` (reports raid groups with open slots), `all` (lists all raid groups)
+  - **Description:** prints out your current group leader (and raid leader if in raid).
 
 - `/melody`
   - **Arguments:** `song gem #'s (maximum of 5)`
@@ -190,6 +191,16 @@ ___
   - **Aliases:** `/autoba`, `/ab`
   - **Description:** Drops whatever is on your cursor into your bank. [requires you to be at a banker] (not fully functional atm)
 
+- `/corpsedrag`
+  - **Aliases:** `/drag`
+  - **Arguments:** none, `nearest` (auto-targets nearest corpse for dragging)
+  - **Description:** Attempts to corpse drag your current target. Use `/corpsedrag nearest` to auto-target.
+
+- `/corpsedrop`
+  - **Aliases:** `/drop`
+  - **Arguments:** none, `all` (drops all corpses)
+  - **Description:** Stop dragging your currently targeted corpse. To drop all use `/corpsedrop all`.
+
 - `/target`
   - **Aliases:** `/cleartarget`
   - **Description:** acts as normal /target unless you provide no argument in which case it will clear your target.
@@ -238,14 +249,26 @@ ___
 - `/nameplateconcolors`
   - **Description:** toggles nameplate con colors for npcs
 
-- `/nameplateself`
+- `/nameplatehideself`
   - **Description:** toggles nameplate for self (on/off)
 
 - `/nameplatex`
   - **Description:** toggles nameplate for self as X (on/off)
 
-- `/nameplateraidpets`
+- `/nameplatehideraidpets`
   - **Description:** toggles nameplate for raid pets and your pet (on/off)
+ 
+- `/nameplatecharselect`
+  - **Description:** toggles nameplate choices shown at character selection screen on and off (on/off)
+
+- `/nameplatetargetcolor`
+  - **Description:** toggles target nameplate color on and off (on/off)
+ 
+- `/nameplatetargetmarker`
+  - **Description:** toggles target nameplate marker on and off (on/off)
+ 
+- `/nameplatetargethealth`
+  - **Description:** toggles target nameplate health on and off (on/off)
 ___
 ### Binds
 - Cycle through nearest NPCs
@@ -268,14 +291,19 @@ ___
 - Toggle through map backgrounds
 - Toggle through map label modes
 - Toggle up or down through visible map levels
-- Toggle map visibility of raid members
+- Toggle map visibility of raid members and member names
 - Toggle map visibility of grid lines
+- Toggle map interactive mode (internal overlay)
 - Press to display group and raid member labels
 - Toggle nameplate colors for players on/off
 - Toggle nameplate con colors for npcs on/off
 - Toggle nameplate for self on/off
 - Toggle nameplate for self as X on/off
 - Toggle nameplate for raid pets and your pet on/off
+- Toggle nameplate choices that are shown at character selection screen on and off
+- Toggle target nameplate color on and off
+- Toggle target nameplate marker on and off
+- Toggle target nameplate health on and off
 ___
 ### UI
 - **Gauge EqType's**
@@ -337,7 +365,7 @@ Build in `Release` `x86` (32bit) mode using Microsoft Visual Studio 2022 (free C
 ### Nameplate Options
 #### Setup and configuration
 Zeal 5.0 and later includes options for players to adjust Player Nameplates and NPC Nameplates in game.
-In addition, Skeleton corpses now show a Nameplate. (Client Nameplate Bug Fix)
+In addition, Skeletons now show a Nameplate. (Client Skeleton Nameplate Bug Fix)
 Necromancers will now have an easier time finding their corpses.
 
 The nameplate is controlled through three interfaces:
@@ -348,16 +376,20 @@ The nameplate is controlled through three interfaces:
 #### Enabling Disabling Nameplate Options
 * The `/nameplatecolors` command - Toggles Nameplate Colors for Players on and off
 * The `/nameplateconcolors` command - Toggles Nameplate Con Colors for NPCs on and off
-* The `/nameplateself` command - Toggles Player Nameplate on and off
+* The `/nameplatehideself` command - Toggles Player Nameplate on and off
 * The `/nameplatex` command - Toggles Player Nameplate as X on and off
-* The `/nameplateraidpets` command - Toggles NPC Raid Pets Nameplate on and off
+* The `/nameplatehideraidpets` command - Toggles NPC Raid Pets Nameplate on and off
+* The `/nameplatecharselect` command - Toggles Nameplate Choices Shown at Character Selection Screen on and off
+* The `/nameplatetargetcolor` command - Toggles Target Nameplate Color on and off
+* The `/nameplatetargetmarker` command - Toggles Target Nameplate Marker on and off
+* The `/nameplatetargethealth` command - Toggles Target Nameplate Health on and off
 
 #### Changing the Color of Nameplates
 Zeal allows players to change the colors of the Nameplates of Players and NPCs in game.
 The Color Selector is available in the Zeal Colors Tab of the Zeal Options menu.
-The following 18 Nameplate Colors can be changed to custom colors.
+The following 19 Nameplate Colors can be changed to custom colors.
 * AFK, LFG, LD, MyGuild, Raid, Group, PVP, Roleplay, OtherGuilds, DefaultAdventurer
-* NPC Corpse, Player Corpse, GreenCon, LightBlueCon, BlueCon, WhiteCon, YellowCon, RedCon
+* NPC Corpse, Player Corpse, GreenCon, LightBlueCon, BlueCon, WhiteCon, YellowCon, RedCon, Target Color
 
 #### Default Colors of Nameplates when using Nameplate Colors system
 * 1 - AFK - Orange                   
@@ -377,7 +409,8 @@ The following 18 Nameplate Colors can be changed to custom colors.
 * 15 - Blue Con NPCs - Default DarkBlue is lighter than CON_BLUE
 * 16 - White Con NPCs - CON_WHITE
 * 17 - Yellow Con NPCs - CON_YELLOW
-* 18 - Red Con NPCs- CON_RED
+* 18 - Red Con NPCs - CON_RED
+* 19 - Target Color - Default Pink
 
 ### In-game Map
 #### Map data source
@@ -387,7 +420,7 @@ modifications (see README.md in zone_map_src). As a result there are some out of
 #### Setup and configuration
 Zeal 4.0 and later includes an integrated in-game map that contains the map data for
 all zones through Planes of Power. The map is drawn into the game's DirectX viewport
-as part of the rendering sequence and is currently not 'clickable'.
+as part of the rendering sequence and is by default not 'clickable' (see interactive mode below).
 
 The map is controlled through three interfaces:
 * Dedicated Zeal options window tab (requires `zeal\uifiles`, see Installation notes above)
@@ -440,11 +473,11 @@ clear (0), dark (1), light (2), or tan (3).  Additionally, it supports alpha tra
   - `/map background 1` sets the background to dark with no change to alpha
   - `/map background 2 40` sets the background to light with 40% alpha
 
-#### External map window (Beta)
+#### External map window
 The map has simple support for opening an external window outside of the EQ client window.
 This window can be dragged with the title bar and positioned as desired, but it is only resizable
 using the height and width Zeal map options sliders. The top and left sliders are ignored
-in external window mode. It does not accept any inputs and the map content is controlled
+in external window mode. See interactive mode for mouse inputs. The map content is controlled
 with the normal map key binds. Also note that if external window mode is set in options,
 the map will not automatically open when the game starts. Use the map enable to open and
 close the window (recommend using the keybind 'm').
@@ -472,6 +505,25 @@ background will scroll with the player centered in the viewport.
 * Command examples:
   - `/map zoom 200` sets map scaling to 200% (2x)
 
+#### Interactive mode
+The map supports drag panning and mouse wheel zoom in interactive mode. Interactive mode is always 
+enabled in external window mode, while a keybind toggle is used to toggle the internal overlay map
+in and out of interactive mode. When not in interactive mode, the internal overlay map is transparent
+to the mouse. When interactive mode is enabled, the map can be panned using a left mouse button drag
+and zoomed using the scroll wheel. Once panning starts, auto-center is disabled until a right mouse
+button click. The external window also supports a middle mouse button click to drop markers.
+
+* Key bind: "Toggle Map Interactive Mode" - toggles internal overlay between transparent and interactive
+
+#### Show zone mode
+Zone maps other than the player's current location can be explored using the show_zone command. The
+target zone is specified using the zone's short name (like /who all). Interactive mode, levels, grid,
+labels, and poi search all work for the selected zone.
+
+* Command examples
+  - `/map show_zone gukbottom` shows the zone map for the Ruins of Old Guk
+  - `/map show_zone` exits show_zone mode
+
 #### Map grid
 A simple background grid aligned at a selectable pitch is available. The x == 0 and y == 0 axes
 are colored orange.
@@ -480,6 +532,16 @@ are colored orange.
 * Command examples:
   - `/map grid` toggles grid on and off
   - `/map grid 500` sets the grid pitch to 500 loc units (lines at multiples of 500)
+
+#### Map ring
+A simple distance ring around the current position is available. The distance can be auto-set
+based on the tracking skill for rangers, druids, and bards, so they can simply toggle the ring
+on and off with `/map ring`.
+
+* Command examples:
+  - `/map ring` if visible or a non-tracker, turns ring off
+  - `/map ring` if not visible, sets the ring at max tracking distance per skill level
+  - `/map ring 500` sets the ring around the player at a distance of 500 (all classes)
 
 #### Showing group and raid members
 The map supports showing the live position of other group and raid members. The group
@@ -493,7 +555,7 @@ in the options tab and instead use the key bind to situationally toggle it on an
 * Zeal checkbox to enable raid member visibility
 * Zeal slider to adjust name length
 * Key bind: "Toggle Map Show Raid" - Toggles visibility of raid members
-* Key bind: "Flash Map Member Names" - Displays names of group and raid members while held (if visible)
+* Key bind: "Flash Map Member Names" - Toggles (previously flashed) names of group and raid members
 * Command examples:
   - `/map show_group` toggles the group member markers on and off
   - `/map show_group labels_off` disables group member labels
@@ -504,9 +566,14 @@ in the options tab and instead use the key bind to situationally toggle it on an
 
 #### Showing map levels
 The map supports showing different levels based on the Brewall map color standards. Not all of
-the zones are properly colored, but it does work well in some of the 3-D overlapping zones.
+the zones are properly colored, but it does work well in some of the 3-D overlapping zones. It
+also supports a simplified auto z-level mode that shows map data within a z-level range of the
+player as fully opaque and further data at a faded alpha transparency level. The auto-mode
+is selectable using the toggle map level keybinds (see below).
 
+* Zeal slider to adjust the faded z-level alpha transparency value
 * Key bind: "Toggle Map Level Up", "Toggle Map Level Down" - toggles up or down the visible level
+  - The default index of 0 shows all levels and -1 = auto z-level.
 * Command examples:
   - `/map level` shows the current zone's map data level info
   - `/map level 0` shows default of all levels
