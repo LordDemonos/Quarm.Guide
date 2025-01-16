@@ -80,63 +80,63 @@ _NOTE: If you already have Quarm running on Linux, you still may be interested i
         humblestoreid_real:
 
         script:
-        wine:
-            version: wine-ge-8-7-x86_64
-            dxvk: true
-            esync: true
-
-        files:
-        - client_zip: N/A:Please select your TAKP client zip file (TAKP PC V2.1c.zip)
-        - dgvoodoo2_zip: N/A:Please select your dgvoodoo2 zip file/download (dgVoodoo2_81_1.zip).
-        - quarm_zip: N/A:Please select your Quarm zip file from Discord (projectquarm_08_05_2023.zip)
-
-        game:
-            prefix: $GAMEDIR
-            arch: win32
-            exe: $GAMEDIR/client/eqgame.exe
-            working_dir: $GAMEDIR/client
-
-        installer:
-        - task:
-            description: Creating Wine prefix
-            name: create_prefix
-            prefix: $GAMEDIR
-            install_mono: false
-            install_gecko: false
-        - extract:
-            dst: $GAMEDIR/client
-            file: client_zip
-        - extract:
-            dst: $GAMEDIR/dgvoodoo
-            file: dgvoodoo2_zip
-        - extract:
-            dst: $GAMEDIR/quarm
-            file: quarm_zip
-        - move:
-            src: $GAMEDIR/dgvoodoo/MS/x86/D3D8.dll
-            dst: $GAMEDIR/client/d3d8.dll
-        - move:
-            src: $GAMEDIR/dgvoodoo/MS/x86/D3D9.dll
-            dst: $GAMEDIR/client/d3d9.dll
-        - move:
-            src: $GAMEDIR/quarm/eqgame.dll
-            dst: $GAMEDIR/client/eqgame.dll
-        - task:
-            description: Edit registry to set it to use dgvoodoo2 d3d8
-            prefix: $GAMEDIR
-            name: set_regedit
-            path: HKEY_CURRENT_USER\Software\Wine\DllOverrides
-            key: d3d8
-            value: native
-            type: REG_SZ
-        - task:
-            description: Edit registry to set it to use dgvoodoo2 d3d9
-            prefix: $GAMEDIR
-            name: set_regedit
-            path: HKEY_CURRENT_USER\Software\Wine\DllOverrides
-            key: d3d9
-            value: native
-            type: REG_SZ
+          wine:
+              version: wine-ge-8-7-x86_64
+              dxvk: true
+              esync: true
+  
+          files:
+          - client_zip: N/A:Please select your TAKP client zip file (TAKP PC V2.1c.zip)
+          - dgvoodoo2_zip: N/A:Please select your dgvoodoo2 zip file/download (dgVoodoo2_81_1.zip).
+          - quarm_zip: N/A:Please select your Quarm zip file from Discord (projectquarm_08_05_2023.zip)
+  
+          game:
+              prefix: $GAMEDIR
+              arch: win32
+              exe: $GAMEDIR/client/eqgame.exe
+              working_dir: $GAMEDIR/client
+  
+          installer:
+          - task:
+              description: Creating Wine prefix
+              name: create_prefix
+              prefix: $GAMEDIR
+              install_mono: false
+              install_gecko: false
+          - extract:
+              dst: $GAMEDIR/client
+              file: client_zip
+          - extract:
+              dst: $GAMEDIR/dgvoodoo
+              file: dgvoodoo2_zip
+          - extract:
+              dst: $GAMEDIR/quarm
+              file: quarm_zip
+          - move:
+              src: $GAMEDIR/dgvoodoo/MS/x86/D3D8.dll
+              dst: $GAMEDIR/client/d3d8.dll
+          - move:
+              src: $GAMEDIR/dgvoodoo/MS/x86/D3D9.dll
+              dst: $GAMEDIR/client/d3d9.dll
+          - move:
+              src: $GAMEDIR/quarm/eqgame.dll
+              dst: $GAMEDIR/client/eqgame.dll
+          - task:
+              description: Edit registry to set it to use dgvoodoo2 d3d8
+              prefix: $GAMEDIR
+              name: set_regedit
+              path: HKEY_CURRENT_USER\Software\Wine\DllOverrides
+              key: d3d8
+              value: native
+              type: REG_SZ
+          - task:
+              description: Edit registry to set it to use dgvoodoo2 d3d9
+              prefix: $GAMEDIR
+              name: set_regedit
+              path: HKEY_CURRENT_USER\Software\Wine\DllOverrides
+              key: d3d9
+              value: native
+              type: REG_SZ
         ```
     7. Open PQ.yaml and paste
     8. Save/Close
