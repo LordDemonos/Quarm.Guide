@@ -242,7 +242,7 @@ There are no longer permanent loot lockouts from legacy items. However, there wi
 
 There are a number of revamps to Time-Limited Legacy Items. These new versions will be functionally identical, require specific levels to acquire, and will all be no drop. The Time-limited factor will only apply to legacy items that are able to be traded, and are traditionally time-limited, nerfed, or removed in EQ's timeline that we select to be. They are, currently, as follows:
 - Manastone -> Manarock (30) (Functionally Identical)
-- Rubicite Armor -> Pinkicite Armor (25, 30) (It's Pink, Functionally Identical)
+- Rubicite Armor -> Pinkicite Armor (15, 20) (It's Pink, Functionally Identical)
 - Thex Dagger -> Thexian Shiv (0) (Faction Requirement)
 - Scimitar of the Mistwalker -> Falchion of the Mistwalker (46) (Functionally Identical)
 - Lustrous Russet Armor -> Brilliant Russet Armor (46) (It's Teal, Functionally Identical)**
