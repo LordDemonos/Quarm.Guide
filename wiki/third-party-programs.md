@@ -89,12 +89,17 @@ Although not used with EverQuest, Borderless Gaming is essential for users with 
 ## Quick Quarm
 
 [Quick Quarm](https://github.com/ryhoneyman/quick-quarm) provides a streamlined method to deploy a single-host Quarm EQEmu server. It is particularly useful for personal projects or developers looking to test new patches and modifications in the game environment.
-
 ## Loot Buddy
 
 Loot Buddy is a comprehensive tool designed for Project Quarm, facilitating the management of auction and vendor prices, item type information, and group or raid loot notifications. It offers customizable notifications and parameters to enhance the user's gaming experience.
 
 - [More Information and Downloads](https://eqtunnelauctions.com/lootbuddy.php)
+
+## EQLogParser
+
+EQLogParser is a tool designed to parse and analyze EverQuest log files, providing insights into gameplay, combat, and other in-game activities. It offers a range of features, including combat analysis, damage parsing, and loot tracking, making it an invaluable resource for players looking to optimize their gameplay.
+
+- [GitHub Repository](https://github.com/kauffman12/EQLogParser?tab=readme-ov-file)
 
 ## 4GB Patch
 
