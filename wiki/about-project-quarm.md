@@ -307,7 +307,7 @@ The following items are not traditionally legacy items in EverQuest, but have se
 Due to overwhelming player feedback about casual accessibility, and my own intuition on the subject, we've overhauled how raid rotations work - by scrapping them and replacing them with private guild instances. Don't worry, competition is still available via an overhauled Earthquake system!
 
 - Guild instances are accessible via the Knowledge book near any adjacent-to-raid zone where the tryout books were formerly present.
-~~- Guild instances require an officer from your guild, 12 guild members, and 18 players total in a raid to enter, as well as the requirement of all members in your raid being over level 30.~~
+- Guild instances require an officer from your guild, ~~12 guild members, and 18 players total in a raid to enter, as well as the requirement of all members in your raid being over level 30.~~
 - Guild instances have a combat engagement requirement equal to the above. If you do not meet the engage requirement above, players are forced to their bind point on any combat action, including friendly heals.
 - Guild instances have heightened respawn when compared to normal instances. This means that every raid creature may not share the same timer as open-world creatures.
 - If your corpse becomes unretrievable in a guild instance, fear not: The Graveyard system from Planes of Power is active in these zones, and your corpses will be dispensed every 2 hours to the adjacent zone where the zone-in book is located.
