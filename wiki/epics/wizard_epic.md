@@ -1,10 +1,12 @@
 ---
 title: Wizard Epic Quest Guide - Staff of the Four
 description: >-
-  Complete walkthrough for the Wizard Epic Quest in Quarm Guide, detailing the steps to obtain the Staff of the Four.
+  Complete walkthrough for the Wizard Epic Quest in Quarm Guide, detailing the
+  steps to obtain the Staff of the Four.
 keywords: >-
-  Wizard Epic Quest, Staff of the Four, Wizard Guide, Epic Weapons, MMORPG Quests
-author: Xanax, Talodar
+  Wizard Epic Quest, Staff of the Four, Wizard Guide, Epic Weapons, MMORPG
+  Quests
+author: 'Xanax, Talodar'
 toc: false
 resize_images: true
 published: true
@@ -94,7 +96,7 @@ Go to [Northern Felwithe](https://www.pqdi.cc/zone/61) and find [Challice](https
 ### Step 7
 [Script Page](https://www.pqdi.cc/script-entities/butcher/Kandin_Firepot)
 
-Go to [Butcherblock](https://www.pqdi.cc/zone/68) and find [Kandin Firepot](https://www.pqdi.cc/npc/68109) (-1500, +2840), give him [Note from Arantir](https://www.pqdi.cc/item/18169), then say "oil" to receive [Golem Sprocket](https://www.pqdi.cc/item/14319).
+Go to [Butcherblock](https://www.pqdi.cc/zone/68) and find [Kandin Firepot](https://www.pqdi.cc/npc/68109) (-1500, +2840), give him [Note from Arantir](https://www.pqdi.cc/item/18169), then say "what oil" to receive [Golem Sprocket](https://www.pqdi.cc/item/14319).
 
 ![Kandin-Firepot-Map.jpg](/assets/images/epics/wizard/Kandin-Firepot-Map.jpg)
 ![Kandin-Firepot.jpg](/assets/images/epics/wizard/Kandin-Firepot.jpg)
