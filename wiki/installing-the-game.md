@@ -38,9 +38,10 @@ Before you can download and install the game, you'll need to create an account o
 
 1. Join the [Project Quarm Discord](https://discord.gg/3nDQ9AkUz8).
 2. Navigate to the #server-files channel.
-3. Download the `eqgame.dll` file from the following message [#server-files](https://discord.com/channels/1133452007412334643/1135981619858128998/1237107004049457264). This is the latest stable release.
-   An experimental release of `eqgame.dll` can be found under [#zeal-discussions](https://discord.com/channels/1133452007412334643/1210670176077348934/1227704216655761499). I find this gives me a smoother camera experience.
-4. Extract the `eqgame.dll` file to your TAKP folder (where you installed the game client).
+3. Download the latest game patch files from [#server-files](https://discord.com/channels/1133452007412334643/1135981619858128998/1340358261475508246). 
+4. Extract the downloaded Patch-M-DD-YYYY-V.zip file into your TAKP folder.
+
+*Note: As of February 2025, game updates will be delivered through the #server-files channel on the Project Quarm discord. Make sure to check this channel periodically for the latest updates.*
 
 # Step 4: Installing Zeal ![Zeal](./assets/images/Zeal.png){: .step-image}
 

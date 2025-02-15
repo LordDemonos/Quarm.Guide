@@ -35,6 +35,7 @@ Some commonly changed settings include:
 - MaxMouseLookFPS= - Allows you to set the mouselook FPS to help with mouselook slowness. If your mouselook is too slow, try adjusting this to 60 or 45. A setting of 0 disables the limit.
 - AllLuclinPcModelsOff=TRUE - This disables Luclin models. This also allows use of the famous horse bug that existed on AK where you don't have the limitations of horse speed up/down that you do with Luclin models on.
 - UISkin= - Sets your default UI skin. **I changed this value and it did nothing. Change in game.**
+- **TextureCache=FALSE** - **2025 Update** This value should be set to FALSE to avoid graphic issues when using the latest server patch files. 
 
 - Velious armor textures:
 
