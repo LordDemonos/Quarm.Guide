@@ -186,8 +186,6 @@ Once created, you can even right click your spellbook to choose one of your spel
 
 Screenshots can be taken by pressing PRINT SCREEN within the game, and can be changed within the Options. These are saved in your TAKP folder as `EQ000001.bmp` for example.
 
-This concludes [After Installing the Game](after-installing-the-game). Please proceed to [Textures and Effects](textures-and-effects).
-
 ### Nameplate Fonts
 
 Nameplate Fonts are a feature of Zeal. From Zeal Options, select Nameplate and enable "Zeal fonts". Below you can use the drop down to select different nameplate fonts. From the Zeal Readme:
@@ -287,4 +285,5 @@ Here are some of Xanax's favorite fonts. Currently rocking Segoe UI Bold 24. [Do
 
 ![nameplate]({{site.baseurl}}/assets/images/nameplate.png)
 
+This concludes [After Installing the Game](after-installing-the-game). Please proceed to [Textures and Effects](textures-and-effects).
 
