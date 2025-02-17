@@ -187,3 +187,105 @@ Once created, you can even right click your spellbook to choose one of your spel
 Screenshots can be taken by pressing PRINT SCREEN within the game, and can be changed within the Options. These are saved in your TAKP folder as `EQ000001.bmp` for example.
 
 This concludes [After Installing the Game](after-installing-the-game). Please proceed to [Textures and Effects](textures-and-effects).
+
+### Nameplate Fonts
+
+Nameplate Fonts are a feature of Zeal. From Zeal Options, select Nameplate and enable "Zeal fonts". Below you can use the drop down to select different nameplate fonts. From the Zeal Readme:
+
+Nameplate Options
+Setup and configuration
+
+Zeal includes options for players to adjust Player Nameplates and NPC Nameplates in game. In addition, Skeletons now show a Nameplate. (Client Skeleton Nameplate Bug Fix) Necromancers will now have an easier time finding their corpses.
+
+The nameplate is controlled through three interfaces:
+
+    Dedicated Zeal options window tab (requires zeal\uifiles, see Installation notes above)
+    Key binds for nameplate options (configure in EQ Options->Keyboard->Target)
+    The /nameplate commands described below
+
+Enabling Disabling Nameplate Options
+
+The Zeal Nameplate options tab is the primary interface, but the redundant commands below are available:
+
+    /nameplate colors - Toggles Nameplate Colors for Players on and off
+    /nameplate concolors - Toggles Nameplate Con Colors for NPCs on and off
+    /nameplate hideself - Toggles Player Nameplate on and off
+    /nameplate x - Toggles Player Nameplate as X on and off
+    /nameplate hideraidpets - Toggles Raid member Pets Nameplate on and off
+    /nameplate showpetownername - Toggles Players Pet Owner on Nameplate on and off
+    /nameplate charselect - Toggles Nameplate Choices Shown at Character Selection Screen on and off
+    /nameplate targetcolor - Toggles Target Nameplate Color on and off
+    /nameplate targetblink - Toggles blinking of target nameplate on and off (rate controlled by targetring slider)
+    /nameplate attackonly - Limits blinking of target nameplate to only when auto-attack is on
+    /nameplate targetmarker - Toggles Target Nameplate Marker on and off
+    /nameplate targethealth - Toggles Target Nameplate Health on and off
+    /nameplate targethealth - Toggles Target Nameplate Health on and off
+    /nameplate inlineguild - Toggles guild name appearing inline or on a separate line
+    /nameplate zealfont - Toggles internal client or custom Zeal fonts
+    /nameplate dropshadow - Toggles drop shadowing on Zeal fonts
+
+Changing the Color of Nameplates
+
+Zeal allows players to change the colors of the Nameplates of Players and NPCs in game. The Color Selector is available in the Zeal Colors Tab of the Zeal Options menu. The following 19 Nameplate Colors can be changed to custom colors.
+
+    AFK, LFG, LD, MyGuild, Raid, Group, PVP, Roleplay, OtherGuilds, DefaultAdventurer
+    NPC Corpse, Player Corpse, GreenCon, LightBlueCon, BlueCon, WhiteCon, YellowCon, RedCon, Target Color
+
+Default Colors of Nameplates when using Nameplate Colors system
+
+    1 - AFK - Orange
+    2 - LFG - Yellow
+    3 - LD - Red
+    4 - MyGuild - White Red
+    5 - Raid - White Light Purple
+    6 - Group - Light Green
+    7 - PVP - Red
+    8 - Roleplay - Purple
+    9 - OtherGuilds - White Yellow
+    10 - DefaultAdventurer - Default Blue
+    11 - Npc Corpse - Black
+    12 - Players Corpse - White Light Purple
+    13 - Green Con NPCs - CON_GREEN
+    14 - LightBlue Con NPCs - CON_LIGHTBLUE
+    15 - Blue Con NPCs - Default DarkBlue is lighter than CON_BLUE
+    16 - White Con NPCs - CON_WHITE
+    17 - Yellow Con NPCs - CON_YELLOW
+    18 - Red Con NPCs - CON_RED
+    19 - Target Color - Default Pink
+
+Zeal Nameplate Font Choices and Drop Shadow option
+
+    The Zeal Nameplate tab now supports selecting custom "spritefont" formatted bitmap font files to choose which font your Zeal Nameplate has. Using this option turns off the normal Nameplate and replaces it with the Zeal Nameplate. There will be some variation in the location of the custom Zeal nameplate versus the client.
+    The Zeal Nameplate tab now offers a Drop Shadow option when using custom fonts for Nameplates. This option makes the font more visible by adding a black shadow behind the text.
+
+A few sizes of arial font and arial_bold font are included with Zeal install and accessed through the options tab combobox. See above for notes on how to generate new fonts.
+
+#### Creating your own Font
+
+Below are steps for creating your own fonts, from the Zeal Readme:
+
+Creating Fonts (advanced users)
+
+Zeal advanced users can create their own fonts to use with Zeal in addition to those that come with zeal install. The custom created fonts can be used with the following Zeal features:
+
+    Floating Combat Damage, Maps, and Nameplates
+
+Generation of new font files:
+
+Zeal uses 'spritefont' files generated by MakeSprintFont.exe, a Microsoft windows command line tool.
+
+    https://github.com/microsoft/DirectXTK/wiki/MakeSpriteFont
+    Click on Downloads@Latest
+    Example command line: ./MakeSpriteFont "Arial" /FontStyle:Bold /FontSize:30 /TextureFormat:CompressedMono arial_bold_30.spritefont
+    Copy the new fonts to the uifiles/zeal/fonts folder
+    It will now be selectable from the combobox in game next time the options window is opened
+    Note: You will need to manually back up these fonts when updating Zeal if erasing the uifiles folder
+
+
+#### Quarm.Guide Hosted Fonts
+
+Here are some of Xanax's favorite fonts. Currently rocking Segoe UI Bold 24. [Download](https://github.com/LordDemonos/Quarm.Guide/blob/master/assets/fonts.zip?raw=true)
+
+![nameplate]({{site.baseurl}}/assets/images/nameplate.png)
+
+
