@@ -18,7 +18,7 @@ I started this because half of my guild seems to crash when they zone in and out
 1. **TAKP Version 2.2**
    - Use the [2.2 version](https://drive.google.com/file/d/1qoBktDeJMJKPBr-EZxub1vspJhz11i1y) of TAKP.
 
-2. **#zeal-discussions DLL File**
+2. **#server-files Patch Files**
    - Use the latest patch files from [#server-files](https://discord.com/channels/1133452007412334643/1135981619858128998/1340358261475508246) for the smoothest camera. FPS limiters [should be disabled](https://discord.com/channels/1133452007412334643/1135968760281432164/1340358514484445186) in 2025 and beyond. Also make sure `TextureCache=FALSE` is set to FALSE in your `eqclient.ini` or you will experience graphical problems. I repatch my `global6_chr.s3d` with Old Skeleton Models too and sometimes that also fixes some graphical bugs seen like goofy feet and eyes.
 
 3. **Antivirus Exclusion**
