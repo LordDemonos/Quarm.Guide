@@ -102,10 +102,8 @@ _NOTE: If you already have Quarm running on Linux, you still may be interested i
     - _Select `Overwrite` option_
 6. Drag `Zeal.asi` to /home/USERNAMEHERE/Games/everquest/client
 
-# Step 6 PLAY!
-
-OR
-  follows steps for steamdeck/steam 
+**OR**
+  Follow steps for Steam Deck/Steam 
   
 1.Click play button in Lutris another shortcut like desktop shortcut 
 2. Right click `Everquest` in lutris
