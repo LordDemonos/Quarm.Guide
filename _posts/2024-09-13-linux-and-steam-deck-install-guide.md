@@ -92,20 +92,12 @@ _NOTE: If you already have Quarm running on Linux, you still may be interested i
 6. Drag `Zeal.asi` to `/home/USERNAMEHERE/Games/everquest/client`
 
 # Step 6 PLAY!
-1. Click play button in Lutris another shortcut like desktop shortcut or follows steps 2-6 for steamdeck/steam 
-
-3. Replace > /home/USERNAMEHERE/Games/everquest/dgvoodoo/dgVoodoo.conf  with the one downloaded in #3.5 
-    - _Select `Overwrite` option_
-3. Install Zeal compatible UI files /home/USERNAMEHERE/Games/everquest/client/uifiles/ with the files in #3.4 
-4. Double click `zeal_v[#].zip` we downloaded in #3.3
-5. Drag `uifiles` from the zip directory to /home/USERNAMEHERE/Games/everquest/client`
-    - _Select `Overwrite` option_
-6. Drag `Zeal.asi` to /home/USERNAMEHERE/Games/everquest/client
+1. Click play button in Lutris or another shortcut like desktop shortcut. If you do not need to launch the game from steam/steamdeck you are done.
 
 **OR**
-  Follow steps for Steam Deck/Steam 
+ 
+ Continue to follow steps 2-6 for Steam Deck/Steam 
   
-1.Click play button in Lutris another shortcut like desktop shortcut 
 2. Right click `Everquest` in lutris
 3. Select 'Create Steam Shortcut`
   - _This may take a few tries or require you to restart Steam to take effect_
@@ -138,9 +130,9 @@ _Note: This is for players who were playing elsewhere on another device_
 3. Via the old device - Upload `UI_[charactername]_pq.proj.ini` to a cloud service (like [Google Drive](https://drive.google.com/drive/home))
 4. Via linux device - Download both files
 5. Via linux device - Place in `[quarm-directory]/client`
-    - _**Warning** - Importing from non zeal clients Within your client's root folder there are " UI_CHARACTERNAMEHERE_pq.proj.ini "files for each character name and the UI chosen **MUST HAVE ZEAL SUPPORT** or you **WILL CRASH AT CHARACTER SELECT SCREEN**_
+    - **Warning** - Importing from a client without zeal installed can cause issues if the character previously loaded with a non supported UI. If you are crashing from character select or while using /loadskin it is reccomended you change UISkin=Default to troubleshoot as seen below.
     
-    ![](https://i.imgur.com/UppAgB6.png)
+    ![](https://i.imgur.com/d3usXBk.png)
 
 
 # Bonus Step 9 Adopt an actual useable controller profile (Steam Deck)
@@ -166,8 +158,8 @@ _Note: As you play and explore this profile, edit it to make different versions 
 
 # Bonus Step 10 Remove dgVoodoo Watermark Through Lutris
 1. Open Lutris and Select Everquest
-2. Select run exe in wine prefix (second arrow to the right of ["Play"]
-(https://i.imgur.com/Vay8RzD.png)
+2. Select run exe in wine prefix (second arrow to the right of Play)
+![](https://i.imgur.com/Vay8RzD.png)
 3. Select dgVoodooCpl.exe from the correct folder(lutris does not store this in the client folder like on windows).  It's default location is "/home/USERNAMEHERE/Games/everquest/dgvoodoo/"
 4. Uncheck dgVoodoo watermark in the "directx" tab of dgvoodoo options
 5. Click Apply and Ok to close out program.
