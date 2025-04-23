@@ -96,20 +96,20 @@ _NOTE: If you already have Quarm running on Linux, you still may be interested i
 
 # Step 6 PLAY!
 
-1. Click play button in Lutris or another shortcut like desktop shortcut. If you do not need to launch the game from steam/steamdeck you are done.
+- Click play button in Lutris or another shortcut like desktop shortcut. If you do not need to launch the game from steam/steamdeck you are done.
 
 **OR**
  
- Continue to follow steps 2-6 for Steam Deck/Steam 
+### Continue for Steam Deck/Steam 
   
-2. Right click `Everquest` in lutris
-3. Select 'Create Steam Shortcut`
+1. Right click `Everquest` in lutris
+2. Select 'Create Steam Shortcut`
   - _This may take a few tries or require you to restart Steam to take effect_
-4. Open Steam
+3. Open Steam
   - _Or select the `Return to Gaming Mode` icon on your desktop if you're on Steam Deck_
-5. Find `Everquest Quarm` in your library
+4. Find `Everquest Quarm` in your library
   - _In Non-Steam for the Steam Deck handheld library_
-6. Click `Play`!
+5. Click `Play`!
 - _You MAY need to add `ENABLE_GAMESCOPE_WSI=0` to the Options->Properties->Launch Options on Steam Deck_
 
 # Bonus Step 7 Edit eqclient.ini
