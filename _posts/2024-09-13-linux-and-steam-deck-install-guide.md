@@ -93,7 +93,7 @@ _NOTE: If you already have Quarm running on Linux, you still may be interested i
 
 # Step 6 PLAY!
 1. Click play button in Lutris another shortcut like desktop shortcut or follows steps 2-6 for steamdeck/steam 
-=======
+
 3. Replace > /home/USERNAMEHERE/Games/everquest/dgvoodoo/dgVoodoo.conf  with the one downloaded in #3.5 
     - _Select `Overwrite` option_
 3. Install Zeal compatible UI files /home/USERNAMEHERE/Games/everquest/client/uifiles/ with the files in #3.4 
