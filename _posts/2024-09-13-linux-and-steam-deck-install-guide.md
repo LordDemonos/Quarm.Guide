@@ -93,15 +93,14 @@ _NOTE: If you already have Quarm running on Linux, you still may be interested i
 
 # Step 6 PLAY!
 
-1. Click play button in Lutris another shortcut like desktop shortcut. If you do not need to launch the game from steam/steamdeck you are done.
+1. Click play button in Lutris or another shortcut like desktop shortcut. If you do not need to launch the game from steam/steamdeck you are done.
 
 **OR**
  
  Continue to follow steps 2-6 for Steam Deck/Steam 
   
-2.Click play button in Lutris another shortcut like desktop shortcut 
-3. Right click `Everquest` in lutris
-4. Select 'Create Steam Shortcut`
+2. Right click `Everquest` in lutris
+3. Select 'Create Steam Shortcut`
   - _This may take a few tries or require you to restart Steam to take effect_
 5. Open Steam
   - _Or select the `Return to Gaming Mode` icon on your desktop if you're on Steam Deck_
