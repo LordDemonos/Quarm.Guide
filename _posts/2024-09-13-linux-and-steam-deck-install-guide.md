@@ -159,8 +159,8 @@ _Note: As you play and explore this profile, edit it to make different versions 
 
 # Bonus Step 10 Remove dgVoodoo Watermark Through Lutris
 1. Open Lutris and Select Everquest
-2. Select run exe in wine prefix (second arrow to the right of ["Play"]
-(https://i.imgur.com/Vay8RzD.png)
+2. Select run exe in wine prefix (second arrow to the right of Play)
+![](https://i.imgur.com/Vay8RzD.png)
 3. Select dgVoodooCpl.exe from the correct folder(lutris does not store this in the client folder like on windows).  It's default location is "/home/USERNAMEHERE/Games/everquest/dgvoodoo/"
 4. Uncheck dgVoodoo watermark in the "directx" tab of dgvoodoo options
 5. Click Apply and Ok to close out program.
