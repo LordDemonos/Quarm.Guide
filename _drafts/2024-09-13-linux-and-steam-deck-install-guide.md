@@ -83,6 +83,17 @@ _NOTE: If you already have Quarm running on Linux, you still may be interested i
 # Step 5 Install Zeal and dgVoodoo.conf
 1. Right click `Everquest` in lutris
 2. Select `Browse files`
+3. Replace `/home/USERNAMEHERE/Games/everquest/dgvoodoo/dgVoodoo.conf`  with the one downloaded in #3.5 
+    - _Select `Overwrite` option_
+3. Install Zeal compatible UI files `/home/USERNAMEHERE/Games/everquest/client/uifiles/` with the files in #3.4 
+4. Double click `zeal_v[#].zip` we downloaded in #3.3
+5. Drag `uifiles` from the zip directory to `/home/USERNAMEHERE/Games/everquest/client`
+    - _Select `Overwrite` option_
+6. Drag `Zeal.asi` to `/home/USERNAMEHERE/Games/everquest/client`
+
+# Step 6 PLAY!
+1. Click play button in Lutris another shortcut like desktop shortcut or follows steps 2-6 for steamdeck/steam 
+=======
 3. Replace > /home/USERNAMEHERE/Games/everquest/dgvoodoo/dgVoodoo.conf  with the one downloaded in #3.5 
     - _Select `Overwrite` option_
 3. Install Zeal compatible UI files /home/USERNAMEHERE/Games/everquest/client/uifiles/ with the files in #3.4 
@@ -92,13 +103,11 @@ _NOTE: If you already have Quarm running on Linux, you still may be interested i
 6. Drag `Zeal.asi` to /home/USERNAMEHERE/Games/everquest/client
 
 # Step 6 PLAY!
-1.Click play button in Lutris another shortcut like desktop shortcut 
 
 OR
-
- follows steps for steamdeck/steam 
- 
- 
+  follows steps for steamdeck/steam 
+  
+1.Click play button in Lutris another shortcut like desktop shortcut 
 2. Right click `Everquest` in lutris
 3. Select 'Create Steam Shortcut`
     - _This may take a few tries or require you to restart Steam to take effect_
