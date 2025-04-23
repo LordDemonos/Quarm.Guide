@@ -47,6 +47,7 @@ _NOTE: If you already have Quarm running on Linux, you still may be interested i
     - _I have no idea why this is required, but Quarm won't install without it_
 
 # Step 3 Download All Appropriate Files
+
 1. Download windows client from [TAKP](https://drive.google.com/file/d/1qoBktDeJMJKPBr-EZxub1vspJhz11i1y/edit)
 2. Quarm patch files
     1. Go to [Quarm Discord](https://discord.gg/projectquarm)
@@ -63,16 +64,17 @@ _NOTE: If you already have Quarm running on Linux, you still may be interested i
     - _You can close the Login modal to download if you don't have a dropbox account_
 
 # Step 4 Install Quarm
+
 1. Open [Lutris.net/games/everquest](https://lutris.net/games/everquest/)
 2. Click `Install` On the "Quarm Version"
 3. Choose `Install` when prompted by Lutris program
 4. Select the desired shortcuts to desktop, steam, or application menu.
     - _Make sure `Create steam shortcut` is checked for steamdeck_
-6. Click `Continue``
-7. Select `...` and choose the appropriate zips for `TAKP client zip file` and `Quarm zip file` we downloaded above
+5. Click `Continue``
+6. Select `...` and choose the appropriate zips for `TAKP client zip file` and `Quarm zip file` we downloaded above
     - _The file names and version numbers may not match the examples provided in the popup, this is okay_
     
-6. Keep dg_voodoo2_79_3.zip Selected as downloaded from installer.(See below)
+7. Keep dg_voodoo2_79_3.zip Selected as downloaded from installer.(See below)
 8. Click `Install`
     1. Click `Install` on any additional requirement popups
     2. Once `Installation completed!` is displayed, select Close
@@ -81,15 +83,16 @@ _NOTE: If you already have Quarm running on Linux, you still may be interested i
 
 
 # Step 5 Install Zeal and dgVoodoo.conf
+
 1. Right click `Everquest` in lutris
 2. Select `Browse files`
 3. Replace `/home/USERNAMEHERE/Games/everquest/dgvoodoo/dgVoodoo.conf`  with the one downloaded in #3.5 
     - _Select `Overwrite` option_
-3. Install Zeal compatible UI files `/home/USERNAMEHERE/Games/everquest/client/uifiles/` with the files in #3.4 
-4. Double click `zeal_v[#].zip` we downloaded in #3.3
-5. Drag `uifiles` from the zip directory to `/home/USERNAMEHERE/Games/everquest/client`
+4. Install Zeal compatible UI files `/home/USERNAMEHERE/Games/everquest/client/uifiles/` with the files in #3.4 
+5. Double click `zeal_v[#].zip` we downloaded in #3.3
+6. Drag `uifiles` from the zip directory to `/home/USERNAMEHERE/Games/everquest/client`
     - _Select `Overwrite` option_
-6. Drag `Zeal.asi` to `/home/USERNAMEHERE/Games/everquest/client`
+7. Drag `Zeal.asi` to `/home/USERNAMEHERE/Games/everquest/client`
 
 # Step 6 PLAY!
 
@@ -102,11 +105,11 @@ _NOTE: If you already have Quarm running on Linux, you still may be interested i
 2. Right click `Everquest` in lutris
 3. Select 'Create Steam Shortcut`
   - _This may take a few tries or require you to restart Steam to take effect_
-5. Open Steam
+4. Open Steam
   - _Or select the `Return to Gaming Mode` icon on your desktop if you're on Steam Deck_
-6. Find `Everquest Quarm` in your library
+5. Find `Everquest Quarm` in your library
   - _In Non-Steam for the Steam Deck handheld library_
-7. Click `Play`!
+6. Click `Play`!
 - _You MAY need to add `ENABLE_GAMESCOPE_WSI=0` to the Options->Properties->Launch Options on Steam Deck_
 
 # Bonus Step 7 Edit eqclient.ini
@@ -125,6 +128,7 @@ _NOTE: If you already have Quarm running on Linux, you still may be interested i
     2. `InspectOthers=FALSE` as `TRUE` can cause a lot of accidental inspections as in annoying
 
 # Bonus Step 8 Import Character Settings
+
 _Note: This is for players who were playing elsewhere on another device_
 1. Via the old device - Open `[quarm-directory]/client`
 2. Via the old device - Upload `[charactername]_pq.proj.ini` to a cloud service (like [Google Drive](https://drive.google.com/drive/home))
@@ -137,6 +141,7 @@ _Note: This is for players who were playing elsewhere on another device_
 
 
 # Bonus Step 9 Adopt an actual useable controller profile (Steam Deck)
+
 _Note: I didn't create this layout. This layout was originally created by Yuuhi for P99, I've simply exported it to Quarm. You can read more about this layout via [this Reddit post](https://www.reddit.com/r/project1999/comments/11xn4j2/steam_deck_control_scheme/). This profile is AMAZING and really pushes the bounds of what a Steam controller profile can do by exploring layers, hover and radial menus, and providing a 'touchpad' keyboard._
 
 _Note: As you play and explore this profile, edit it to make different versions and share your different templates with the community!_
