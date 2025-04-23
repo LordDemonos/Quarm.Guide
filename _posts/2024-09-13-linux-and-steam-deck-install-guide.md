@@ -92,6 +92,7 @@ _NOTE: If you already have Quarm running on Linux, you still may be interested i
 6. Drag `Zeal.asi` to `/home/USERNAMEHERE/Games/everquest/client`
 
 # Step 6 PLAY!
+
 1. Click play button in Lutris another shortcut like desktop shortcut. If you do not need to launch the game from steam/steamdeck you are done.
 
 **OR**
