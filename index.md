@@ -61,6 +61,8 @@ If you want to learn more about Project Quarm specific features and rules, head 
             <li><a href="https://github.com/nickgal/EqSkelePatcher" aria-label="Old Skeleton Models - Download and install classic skeleton models">Old Skeleton Models</a> - Download and install classic skeleton models</li>
             <li><a href="https://www.eqinterface.com/downloads/fileinfo.php?id=6959" aria-label="Calmetar's UI - Custom UI for Quarm">Calmetar's UI</a> - Custom UI for Project Quarm</li>
             <li><a href="{{ '/after-installing-the-game#where-to-get-quarm-user-interfaces' | relative_url }}" aria-label="Nillipuss's UI - Custom UI for Quarm">Nillipuss's UI</a> - Custom UI for Project Quarm <a href="https://github.com/NilliP/NillipussUI_1080p">1080p</a>, <a href="https://github.com/NilliP/NillipussUI_1440p">1440p</a></li>
+          <li><a href="https://www.eqinterface.com/downloads/fileinfo.php?id=6942" aria-label="Lunakin Quarmified - Custom UI for Quarm">Lunakin Quarmified</a> - A custom colorful UI for Project Quarm</li>
+          <li><a href="https://www.eqinterface.com/downloads/fileinfo.php?id=6940" aria-label="QQQuarm - Custom UI for Quarm">QQQuarm</a> - A custom qq UI for Project Quarm</li>
             <li><a href="https://github.com/guildantix/eq-nag/releases" aria-label="EQ Nag - Essential tool for in-game notifications">EQ Nag</a> - Essential tool for in-game notifications</li>
         </ul>
     </div>
