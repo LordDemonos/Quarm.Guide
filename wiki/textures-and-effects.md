@@ -53,7 +53,15 @@ This link provides edited sound files to change the volumes of certain annoying 
 - [EMT_25% Volume](https://www.dropbox.com/s/lz853tlc3of4xt5/EMT_25%25.zip?dl=0) (set to 0.25 - music works, 25% volume on environment sounds)
 - [EMT_50% Volume](https://www.dropbox.com/s/nn5f4elgdbpc07c/EMT_50%25.zip?dl=0) (set to 0.50 - music works, 50% volume on environment sounds)
 
-To install, open your TAKP folder, sort by type. Locate all the EMT files. Move them into a folder to have a backup. Extract the .zip file into your TAKP directory. Log out/back in.
+To install, open your TAKP folder, sort by type. Locate all the EMT files. Move them into a folder to have a backup. Extract the `.zip` file into your TAKP directory. Log out/back in.
+
+#### Silent Spectre
+
+This mod silences the Spectre pet and Arch Lich form so they do not howl.
+
+- [Download Link](https://github.com/LordDemonos/Quarm.Guide/blob/master/assets/silentspectre.7z?raw=true)
+
+To install, extract the contents of the  archive to your TAKP folder, overwriting files when prompted.
 
 ### Old Skeleton Models
 
