@@ -146,6 +146,7 @@ Its tricky searching around Project Quarm's Discord but I can provide a list tha
 - [Nillipuss UI 1080p](https://github.com/NilliP/NillipussUI_1080p)
 - [Nillipuss UI 1440p](https://github.com/NilliP/NillipussUI_1440p)
 - qqui Calmethar Edition - [eqinterface.com](https://www.eqinterface.com/downloads/fileinfo.php?id=6959)
+- [Lunakin Quarmified](https://www.eqinterface.com/downloads/fileinfo.php?id=6942) - A custom colorful UI for Project Quarm
 - Murmurs / Franken UI - ⁠[ui-discussion](https://discord.com/channels/1133452007412334643/1162826324092657757/1228748380310733022)
 - [Qrustle](https://github.com/UnforgivunAL/QRustle/releases/)
 - Custom Nillipus Setup Newborn - [ui-discussion](https://discord.com/channels/1133452007412334643/1162826324092657757/1210675276699148370)
