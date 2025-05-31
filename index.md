@@ -37,7 +37,7 @@ If you want to learn more about Project Quarm specific features and rules, head 
             <li><a href="{{ '/installing-the-game#step-4-installing-zeal-' | relative_url }}" aria-label="Installing Zeal - Requirements and Installation for Zeal">Installing Zeal</a> - Requirements and Installation for Zeal</li>
             <li><a href="https://quarm.guide/2024/04/20/xanaxs-checklist-for-minimal-crashes/" aria-label="Checklist for Minimal Crashes - Ensure all installation steps are covered">Checklist for Minimal Crashes</a> - Ensure all installation steps are covered</li>
             <li><a href="{{ '/after-installing-the-game#controlling-your-user-interface' | relative_url }}">Controlling Your User Interface</a> - Understanding UI Files</li>
-            <li><a href="{{ '/2025/04/23/linux-and-steam-deck-install-guide/' | relative_url }}">Linux and Steam Deck Install Guide</a> - Play Project Quarm on Linux or Steam Deck</li>
+            <li><a href="{{ '/2025/04/23/linux-and-steam-deck-install-guide/' | relative_url }}">Linux and Steam Deck Install Guide</a> - Play on Linux or Steam Deck</li>
             <li><a href="{{ '/2024/07/09/how-to-make-a-mule/' | relative_url }}">How to Make a Mule</a> - Guide to creating and using mule characters</li>
             <li><a href="{{ '/troubleshooting-faq' | relative_url }}">Troubleshooting FAQ</a> - Common Issues and Solutions</li>
             <li><a href="https://www.youtube.com/watch?v=aM0MX67me5Y" aria-label="Video Guide: Installing the Game - Quick visual walkthrough">Video Guide: Installing the Game</a> - Quick visual walkthrough</li>
