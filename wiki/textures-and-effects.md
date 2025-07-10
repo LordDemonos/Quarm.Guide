@@ -59,7 +59,7 @@ To install, open your TAKP folder, sort by type. Locate all the EMT files. Move 
 
 This mod silences the Spectre pet and Arch Lich form so they do not howl.
 
-- [Download Link](https://github.com/LordDemonos/Quarm.Guide/blob/master/assets/silentspectre.7z?raw=true)
+- [Download Link](https://github.com/LordDemonos/Quarm.Guide/blob/master/assets/silentspectre.zip?raw=true)
 
 To install, extract the contents of the  archive to your TAKP folder, overwriting files when prompted.
 
