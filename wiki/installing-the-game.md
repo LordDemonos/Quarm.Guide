@@ -30,9 +30,8 @@ Before you can download and install the game, you'll need to create an account o
 # Step 2: Download the Game Client
 
 1. Visit the Getting Started page on the TAKP wiki [Getting Started](https://wiki.takp.info/index.php?title=Getting_Started)
-2. Click on the [Getting Started with Windows](https://wiki.takp.info/index.php/Getting_Started_on_Windows) section.
-3. Download the recommended 2.2 client [Download Here](https://drive.google.com/file/d/1qoBktDeJMJKPBr-EZxub1vspJhz11i1y).
-4. Unzip the client zip into its own folder on the root of your C drive (or other drive letter), **do not put this under the \Program Files or \Program Files (x86) folders.**
+2. Follow the instructions in the "Getting Started with Windows" section to locate and download the recommended game client.
+3. Once you have the client files, unzip them into their own folder on the root of your C drive (or other drive letter), **do not put this under the \Program Files or \Program Files (x86) folders.**
 
 # Step 3: Converting your TAKP client to Quarm
 

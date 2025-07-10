@@ -16,7 +16,7 @@ I started this because half of my guild seems to crash when they zone in and out
 ### Checklist
 
 1. **TAKP Version 2.2**
-   - Use the [2.2 version](https://drive.google.com/file/d/1qoBktDeJMJKPBr-EZxub1vspJhz11i1y) of TAKP.
+   - Use the 2.2 version of TAKP, which can be found on the [TAKP Getting Started page](https://wiki.takp.info/index.php?title=Getting_Started).
 
 2. **Antivirus Exclusion**
    - Exclude the TAKP folder from antivirus scanning. Follow the [detailed instructions](https://quarm.guide/installing-the-game#prerequisite-2-required-excluding-your-takp-installation).
