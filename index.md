@@ -16,7 +16,7 @@ footer: false
 
 ## A Brief Introduction to Project Quarm
 
-[Project Quarm](https://projectquarm.com/) is a 1-Box EverQuest emulated server based on the [TAKProject](https://www.takproject.net/) codebase! **Exciting news: Project Quarm has entered into a written agreement with Daybreak Game Company LLC and will be resuming operation in the Luclin era! [Learn more here](/2025/01/15/project-quarm-daybreak-agreement-announcement/)** This agreement formally recognizes Project Quarm as a personal, non-commercial, not-for-profit fan-based private server, ensuring our continued operation.
+[Project Quarm](https://projectquarm.com/) is a 1-Box EverQuest emulated server based on the [TAKProject](https://www.takproject.net/) codebase! **Exciting news: Project Quarm has entered into a written agreement with Daybreak Game Company LLC and will be resuming operation in the Luclin era! [Learn more here](/2025/07/15/project-quarm-daybreak-agreement-announcement/)** This agreement formally recognizes Project Quarm as a personal, non-commercial, not-for-profit fan-based private server, ensuring our continued operation.
 
 Some server highlights include: TLP through Planes of Power at 9 month intervals, instanced raid encounters, legacy items drop forever, hardcore and solo self found gameplay modes, custom content and events, and a ton of QOL features through [Zeal](https://github.com/iamclint/Zeal). The server features a 1200 player cap with offline Bazaar trading, currently in the Luclin era as of July 2025.
 

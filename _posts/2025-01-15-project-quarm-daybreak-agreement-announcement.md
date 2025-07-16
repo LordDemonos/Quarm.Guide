@@ -1,5 +1,5 @@
 ---
-date: 2025-01-15
+date: 2025-07-15
 title: "Project Quarm Daybreak Agreement Announcement"
 description: >-
   Project Quarm has entered into a written agreement with Daybreak Game Company LLC 
