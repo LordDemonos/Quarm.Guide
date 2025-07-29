@@ -48,7 +48,7 @@ If you want to learn more about Project Quarm specific features and rules, head 
         <ul>
             <li><a href="https://www.pqdi.cc/" aria-label="Project Quarm Database Interface - Direct information from the Project Quarm database">Project Quarm Database Interface</a> - Direct database info</li>
             <li><a href="https://yaqds.cc" aria-label="Yet Another Quarm Database Site - An alternative view of the Project Quarm database">Yet Another Quarm Database Site</a> - Alternative database tools</li>
-            <li><a href="https://quarmcalc.app/" aria-label="QuarmCalc - Plan your alternate advancement (AA) point allocation on Quarm">QuarmCalc</a> - A tool for planning your alternate advancement (AA) point allocation on Quarm. Helps you calculate and strategize how to spend your AA points efficiently.</li>
+            <li><a href="https://quarmcalc.app/" aria-label="QuarmCalc - Plan your alternate advancement (AA) point allocation on Quarm">QuarmCalc</a> - Plan your AA points</li>
             <li><a href="https://www.eqemulator.org/index.php?pageid=serverinfo&worldid=3962" aria-label="Project Quarm Server Population - Live statistics and information about the Project Quarm server">Project Quarm Server Population</a> - Live statistics about Project Quarm</li>
             <li><a href="https://unixgeek.com/eqemu.html" aria-label="EQ Emulator Server Population Trends - Track population trends across different EQEmu servers">EQ Emulator Server Population Trends</a> - Compare Server Population</li>
         </ul>
