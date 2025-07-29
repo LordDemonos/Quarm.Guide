@@ -38,7 +38,6 @@ If you want to learn more about Project Quarm specific features and rules, head 
             <li><a href="https://quarm.guide/2024/04/20/xanaxs-checklist-for-minimal-crashes/" aria-label="Checklist for Minimal Crashes - Ensure all installation steps are covered">Checklist for Minimal Crashes</a> - Ensure all installation steps are covered</li>
             <li><a href="{{ '/after-installing-the-game#controlling-your-user-interface' | relative_url }}">Controlling Your User Interface</a> - Understanding UI Files</li>
             <li><a href="{{ '/2025/04/23/linux-and-steam-deck-install-guide/' | relative_url }}">Linux and Steam Deck Install Guide</a> - Play on Linux or Steam Deck</li>
-            <li><a href="{{ '/2024/07/09/how-to-make-a-mule/' | relative_url }}">How to Make a Mule</a> - Guide to creating and using mule characters</li>
             <li><a href="{{ '/troubleshooting-faq' | relative_url }}">Troubleshooting FAQ</a> - Common Issues and Solutions</li>
             <li><a href="https://www.youtube.com/watch?v=aM0MX67me5Y" aria-label="Video Guide: Installing the Game - Quick visual walkthrough">Video Guide: Installing the Game</a> - Quick visual walkthrough</li>
             <li><a href="https://www.youtube.com/watch?v=tmU_5kBZbu8" aria-label="Video Guide: After Installing the Game - Textures and UI customization">Video Guide: After Installing the Game</a> - Textures and UI customization</li>
@@ -49,8 +48,7 @@ If you want to learn more about Project Quarm specific features and rules, head 
         <ul>
             <li><a href="https://www.pqdi.cc/" aria-label="Project Quarm Database Interface - Direct information from the Project Quarm database">Project Quarm Database Interface</a> - Direct database info</li>
             <li><a href="https://yaqds.cc" aria-label="Yet Another Quarm Database Site - An alternative view of the Project Quarm database">Yet Another Quarm Database Site</a> - Alternative database tools</li>
-            <li><a href="https://www.eqtunnelauctions.com/" aria-label="EQTunnelAuctions - Track EC tunnel item prices">EQTunnelAuctions</a> - Track EC tunnel item prices</li>
-            <li><a href="https://quarm.dinodna.dev/" aria-label="Quarm Dinodna Auction Tracker and Feed - Auction feed and tracking">Quarm Dinodna Auction Tracker and Feed</a> - Auction feed and tracking</li>
+            <li><a href="https://quarmcalc.app/" aria-label="QuarmCalc - Plan your alternate advancement (AA) point allocation on Quarm">QuarmCalc</a> - A tool for planning your alternate advancement (AA) point allocation on Quarm. Helps you calculate and strategize how to spend your AA points efficiently.</li>
             <li><a href="https://www.eqemulator.org/index.php?pageid=serverinfo&worldid=3962" aria-label="Project Quarm Server Population - Live statistics and information about the Project Quarm server">Project Quarm Server Population</a> - Live statistics about Project Quarm</li>
             <li><a href="https://unixgeek.com/eqemu.html" aria-label="EQ Emulator Server Population Trends - Track population trends across different EQEmu servers">EQ Emulator Server Population Trends</a> - Compare Server Population</li>
         </ul>

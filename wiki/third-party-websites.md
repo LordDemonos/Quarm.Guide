@@ -79,6 +79,10 @@ QuarmDinodna allows you to look up auction feed, use tracking, mouseover chat it
 
 - [QuarmDinodna](https://quarm.dinodna.dev/)
 
+## Quarm AA Calculator
+
+- [QuarmCalc](https://quarmcalc.app/) A tool for planning your alternate advancement (AA) point allocation on Quarm. Helps you calculate and strategize how to spend your AA points efficiently.
+
 ## Chardok Faction Calculator
 
 - [Chardok Faction Calculator](https://chardokfaction.github.io/) A useful tool for players working on their Chardok faction. It helps calculate how much faction you need to reach maximum standing with Chardok, and estimates the number of goblin skins and mineral salts required to achieve this goal.
