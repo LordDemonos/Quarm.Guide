@@ -18,7 +18,7 @@ footer: false
 
 [Project Quarm](https://projectquarm.com/) is a 1-Box EverQuest emulated server based on the [TAKProject](https://www.takproject.net/) codebase! **Exciting news: Project Quarm has entered into a written agreement with Daybreak Game Company LLC and will be resuming operation in the Luclin era! [Learn more here](/2025/07/15/project-quarm-daybreak-agreement-announcement/)** This agreement formally recognizes Project Quarm as a personal, non-commercial, not-for-profit fan-based private server, ensuring our continued operation.
 
-Some server highlights include: TLP through Planes of Power at 9 month intervals, instanced raid encounters, legacy items drop forever, hardcore and solo self found gameplay modes, custom content and events, and a ton of QOL features through [Zeal](https://github.com/iamclint/Zeal). The server features a 1200 player cap with offline Bazaar trading, currently in the Luclin era as of July 2025.
+Some server highlights include: TLP through Planes of Power at 9 month intervals, instanced raid encounters, legacy items drop forever, hardcore and solo self found gameplay modes, custom content and events, and a ton of QOL features through [Zeal](https://github.com/CoastalRedwood/Zeal). The server features a 1200 player cap with offline Bazaar trading, currently in the Luclin era as of July 2025.
 
 If you want to learn more about Project Quarm specific features and rules, head over to the [About Project Quarm](about-project-quarm) section.
 
@@ -54,7 +54,7 @@ If you want to learn more about Project Quarm specific features and rules, head 
         </ul>
         <h2>Enhancing Your Experience</h2>
         <ul>
-            <li><a href="https://github.com/iamclint/Zeal/releases" aria-label="Zeal Releases - Download the latest version of Zeal">Zeal Releases</a> - Latest version available <a href="/2024/11/24/zeal-readme/">Zeal README</a></li>
+            <li><a href="https://github.com/CoastalRedwood/Zeal/releases" aria-label="Zeal Releases - Download the latest version of Zeal">Zeal Releases</a> - Latest version available <a href="/2024/11/24/zeal-readme/">Zeal README</a></li>
             <li><a href="https://eq.gimasoft.com/gina/" aria-label="GINA - Audio and visual triggers for EverQuest">GINA</a> - Audio and visual triggers for EverQuest</li>
             <li><a href="https://www.redguides.com/community/resources/eqlogparser.1/" aria-label="EQLogParser - Parse logs for DPS and healing">EQLogParser</a> - Parse logs for DPS and healing</li>
             <li><a href="https://www.eqinterface.com/downloads/fileinfo.php?id=6959" aria-label="Calmetar's UI - Custom UI for Quarm">Calmetar's UI</a> - Custom UI for Project Quarm</li>

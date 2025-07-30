@@ -29,7 +29,7 @@ This checklist provides a summarized version of the steps required to install Ze
 ### Installation
 
 1. **Download and Extract Zeal**
-   - Visit the [Zeal GitHub Releases](https://github.com/iamclint/Zeal/releases) page. Click "Assets" and select the latest `Zeal.v#####.zip` file to download.
+   - Visit the [Zeal GitHub Releases](https://github.com/CoastalRedwood/Zeal/releases) page. Click "Assets" and select the latest `Zeal.v#####.zip` file to download.
    - Extract the `uifiles` folder, `Zeal.asi` and `Zeal.pdb` files to the root of your TAKP folder, overwriting if/when asked.
 2. **UI for Zeal**
    - For features such as **XP Per Hour** or **Total Mana Values** to work, you need to have a UI that is compatible with Zeal. For more information on UI files, refer to the [UI Files for Zeal section](/after-installing-the-game#where-to-get-quarm-user-interfaces). [Nillipuss UI 1440p](https://github.com/NilliP/NillipussUI_1440p), [qqui Calmethar Edition](https://www.eqinterface.com/downloads/fileinfo.php?id=6959), [Qrustle](https://github.com/UnforgivunAL/QRustle/releases/tag/QrustleZv2.0), [Murmurs / Franken UI](https://discord.com/channels/1133452007412334643/1162826324092657757/1228748380310733022), [DuxaUI](https://github.com/LordDemonos/Quarm.Guide/blob/master/assets/duxaUI.7z?raw=true), and [defaultUI](https://github.com/LordDemonos/Quarm.Guide/blob/master/assets/default.7z?raw=true) are the most popular UIs that are compatible with Zeal. 

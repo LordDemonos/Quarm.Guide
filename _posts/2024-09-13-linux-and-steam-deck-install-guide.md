@@ -53,7 +53,7 @@ _NOTE: If you already have Quarm running on Linux, you still may be interested i
     1. Go to [Quarm Discord](https://discord.gg/projectquarm)
     2. Go to [#server-files](https://discord.com/channels/1133452007412334643/1135981619858128998) channel
     3. Download `pq_files_[date].zip`
-3. Download the most recent [Zeal](https://github.com/iamclint/Zeal/releases)
+3. Download the most recent [Zeal](https://github.com/CoastalRedwood/Zeal/releases)
 4. Download Zeal compatible UI   (skip step if using default ui)
     1. Go to [Quarm Discord](https://discord.gg/projectquarm)
     2. Go to [#ui-discussion](https://discord.com/channels/1133452007412334643/1162826324092657757/1228694493117681686)

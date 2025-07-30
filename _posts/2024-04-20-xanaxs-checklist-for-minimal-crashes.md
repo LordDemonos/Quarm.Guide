@@ -26,7 +26,7 @@ I started this because half of my guild seems to crash when they zone in and out
    - Also make sure `TextureCache=FALSE` is set to FALSE in your `eqclient.ini` or you will experience graphical problems. I repatch my `global6_chr.s3d` with Old Skeleton Models too and sometimes that also fixes some graphical bugs seen like goofy feet and eyes.
 
 4. **Latest Zeal**
-   - Always run the [latest Zeal](https://github.com/iamclint/Zeal/releases) unless it contains a specific bug. Keep previous versions backed up. If you notice strangeness, you can identify the files and folders from the previous version and delete them from your installation, then install the new ones cleanly. This has been necessary in the past with new Zeal versions and files.
+   - Always run the [latest Zeal](https://github.com/CoastalRedwood/Zeal/releases) unless it contains a specific bug. Keep previous versions backed up. If you notice strangeness, you can identify the files and folders from the previous version and delete them from your installation, then install the new ones cleanly. This has been necessary in the past with new Zeal versions and files.
 
 5. **Folder Location**
    - Ensure the TAKP folder is NOT in `/Program Files/` or `/Program Files x86/`. Place it in the root of a drive, e.g., `D:\`.

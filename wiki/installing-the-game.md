@@ -44,7 +44,7 @@ Before you can download and install the game, you'll need to create an account o
 
 # Step 4: Installing Zeal ![Zeal](./assets/images/Zeal.png){: .step-image}
 
-Zeal is used to add additional functionality to EverQuest. Main additions include 3rd person camera smoothing fix, better tab targeting, spell sets, and melody. A full list of features can be found in the [readme](https://github.com/iamclint/Zeal/blob/master/README.md). _The readme is based on latest commits not the latest release build._
+Zeal is used to add additional functionality to EverQuest. Main additions include 3rd person camera smoothing fix, better tab targeting, spell sets, and melody. A full list of features can be found in the [readme](https://github.com/CoastalRedwood/Zeal/blob/master/README.md). _The readme is based on latest commits not the latest release build._
 
 ### Prerequisite 1. (Required) Enable sound in your eqclient.ini
 
@@ -110,7 +110,7 @@ The Project Quarm team plans to address this issue by obtaining a digital certif
 
 ### Download and Extract Zeal.asi to your TAKP Folder
 
-1. To download Zeal, visit the project's GitHub repository at and navigate to the '[Releases](https://github.com/iamclint/Zeal/releases)' section. You'll find the latest version available for download in a file named `zeal.zip`. Ensure that you have previously excluded your TAKP folder from virus scans, as discussed in the previous step. Click on _Assets_ to expand and reveal the files underneath. Right click the `zeal.v#####.zip` link and select Save Link As..., and save the file to your TAKP folder.
+1. To download Zeal, visit the project's GitHub repository at and navigate to the '[Releases](https://github.com/CoastalRedwood/Zeal/releases)' section. You'll find the latest version available for download in a file named `zeal.zip`. Ensure that you have previously excluded your TAKP folder from virus scans, as discussed in the previous step. Click on _Assets_ to expand and reveal the files underneath. Right click the `zeal.v#####.zip` link and select Save Link As..., and save the file to your TAKP folder.
 2. If you encounter any difficulties downloading the file, consider using an alternative browser such as Edge or Firefox. Alternatively, if you're using Chrome and experiencing issues, you may need to force the download by following the instructions [here](https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/This-file-is-dangerous-so-Chrome-has-blocked-it-message-received-when-downloading-ZIP-files-from-BIM-360-Team.html).
 3. Once downloaded, extract the contents of the zip file directly into the root directory of your TAKP folder. Make sure you see `zeal.asi` and `zeal.pdb` in your TAKP folder and if you encounter any trouble, your first step is to make sure `zeal.asi` is still in your TAKP folder.
 
