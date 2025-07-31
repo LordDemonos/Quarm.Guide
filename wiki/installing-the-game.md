@@ -44,7 +44,7 @@ Before you can download and install the game, you'll need to create an account o
 
 # Step 4: Installing Zeal ![Zeal](./assets/images/Zeal.png){: .step-image}
 
-Zeal is used to add additional functionality to EverQuest. Main additions include 3rd person camera smoothing fix, better tab targeting, spell sets, and melody. A full list of features can be found in the [readme](https://github.com/CoastalRedwood/Zeal/blob/master/README.md). _The readme is based on latest commits not the latest release build._
+Zeal is used to add additional functionality to EverQuest. Main additions include 3rd person camera smoothing fix, better tab targeting, spell sets, and melody. A full list of features can be found in the [readme](https://github.com/CoastalRedwood/Zeal/blob/main/README.md). _The readme is based on latest commits not the latest release build._
 
 ### Prerequisite 1. (Required) Enable sound in your eqclient.ini
 
