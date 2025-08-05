@@ -81,6 +81,16 @@ _NOTE: If you already have Quarm running on Linux, you still may be interested i
 
 ![](https://i.imgur.com/2cqUrDI.png)
 
+# Step 4.5 Switch/Update to use the Quarm Patcher
+1. Quarm patch files
+    1. Go to [Quarm Discord](https://discord.gg/projectquarm)
+    2. Go to [#server-files](https://discord.com/channels/1133452007412334643/1135981619858128998) channel
+    3. Download `QuarmPatcher.zip`
+2. Extract the contents of `QuarmPatcher.zip` to `/home/USERNAMEHERE/Games/everquest/client`
+3. In Lutris, right click `Everquest Quarm` and select `Configure`
+4. Navigate to `Game Options`
+5. Change the executable to `/home/USERNAMEHERE/Games/everquest/client/eqemupatcher.exe`
+
 
 # Step 5 Install Zeal and dgVoodoo.conf
 
