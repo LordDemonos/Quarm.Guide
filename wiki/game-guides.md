@@ -61,5 +61,3 @@ Welcome to the central hub for all Project Quarm game guides.
             <li><a href="{{ 'warrior_epic' | relative_url }}">Warrior</a></li>
             <li><a href="{{ 'wizard_epic' | relative_url }}">Wizard</a></li>
             <li><a href="{{ 'cleric-epic-guide' | relative_url }}">Alt Cleric Guide</a></li>
-    </div>
-</div>
