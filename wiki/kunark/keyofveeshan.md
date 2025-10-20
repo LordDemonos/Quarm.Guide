@@ -11,33 +11,41 @@ sitemap: true
 
 # [Key of Veeshan](https://www.pqdi.cc/item/20884) - Access to [Veeshan's Peak](https://www.pqdi.cc/zone/108)
 
+
+
 ## Overview
 
 To obtain the [Key of Veeshan](https://www.pqdi.cc/item/20884), you need to collect **9** Medallion Pieces. These pieces are turned in in sets of three, yielding:
 
-- [Medallion of the Obulus](https://www.pqdi.cc/item/19953)
-- [Medallion of the Jarsath](https://www.pqdi.cc/item/19954)
-- [Medallion of the Kylong](https://www.pqdi.cc/item/19955)
+<div class="tip-blockquote">
+
+> **💡 Tip:** Use the Zeal feature `/outputfile inventory` in-game to generate a `Charactername-Inventory.txt` file in your TAKP folder containing all your item numbers. You can compare these numbers with the ones in this guide to quickly identify which medallion pieces you already have, saving you from using the Identify spell.
+
+</div>
+
+- [Medallion of the Obulus](https://www.pqdi.cc/item/19953) (19953)
+- [Medallion of the Jarsath](https://www.pqdi.cc/item/19954) (19954)
+- [Medallion of the Kylong](https://www.pqdi.cc/item/19955) (19955)
 
 You'll also need a [Trakanon's Tooth](https://www.pqdi.cc/item/7276) from [Trakanon](https://www.pqdi.cc/npc/89154).  
 
 ## Medallion of the Jarsath
 
-### 1. [Piece of a Medallion (Jarsath Top Piece)](https://www.pqdi.cc/item/19961)
+### 1. [Piece of a Medallion (Jarsath Top Piece)](https://www.pqdi.cc/item/19961) (19961)
 
 This is a ground spawn in [Swamp of No Hope](https://www.pqdi.cc/zone/83) at approximately (50.0, 2935.0) along a shoreline.
 
 ![Swap-of-No-Hope-Map-1.jpg](/assets/images/kunarkkey/Swap-of-No-Hope-Map.jpg)
 ![Swap-of-No-Hope-VP.jpg](/assets/images/kunarkkey/Swap-of-No-Hope-VP.jpg)
 
-### 2. [Piece of a Medallion (Jarsath Middle Piece)](https://www.pqdi.cc/item/19960)
+### 2. [Piece of a Medallion (Jarsath Middle Piece)](https://www.pqdi.cc/item/19960) (19960)
 
 Drops from [an ancient Jarsath](https://www.pqdi.cc/npc/84256) in [Firiona Vie](https://www.pqdi.cc/zone/84). He is an undead skeleton that roams the east side of the zone.
 
 ![jarsath.jpg](/assets/images/kunarkkey/jarsath.png)
 ![an-ancient-Jarsath.jpg](/assets/images/kunarkkey/an-ancient-Jarsath.jpg)
 
-### 3. [Piece of a Medallion (Jarsath Bottom Piece)](https://www.pqdi.cc/item/19959)
+### 3. [Piece of a Medallion (Jarsath Bottom Piece)](https://www.pqdi.cc/item/19959) (19959)
 
 Drops in [Lake of Ill Omen](https://www.pqdi.cc/zone/85) from [a bloodgill marauder](https://www.pqdi.cc/npc/85180) and [a bloodgill goblin](https://www.pqdi.cc/npc/85053). It spawns underwater in front of the entrance to Veksar.
 
@@ -50,18 +58,18 @@ Drops in [Lake of Ill Omen](https://www.pqdi.cc/zone/85) from [a bloodgill marau
 
 Find [Xiblin Fizzlebik](https://www.pqdi.cc/npc/96035) in [Timorous Deep](https://www.pqdi.cc/zone/96) (-5777.0, 2943.0, 0.8). Give him:
 
-- [Piece of a Medallion (Jarsath Top Piece)](https://www.pqdi.cc/item/19961)
-- [Piece of a Medallion (Jarsath Middle Piece)](https://www.pqdi.cc/item/19960)
-- [Piece of a Medallion (Jarsath Bottom Piece)](https://www.pqdi.cc/item/19959)
+- [Piece of a Medallion (Jarsath Top Piece)](https://www.pqdi.cc/item/19961) (19961)
+- [Piece of a Medallion (Jarsath Middle Piece)](https://www.pqdi.cc/item/19960) (19960)
+- [Piece of a Medallion (Jarsath Bottom Piece)](https://www.pqdi.cc/item/19959) (19959)
 
-to receive [Medallion of the Jarsath](https://www.pqdi.cc/item/19954).  
+to receive [Medallion of the Jarsath](https://www.pqdi.cc/item/19954) (19954).  
 
 ![Timorous-Deep-Map1.jpg](/assets/images/kunarkkey/Timorous-Deep-Map1.jpg)
 ![Xiblin-Fizzlebik.jpg](/assets/images/kunarkkey/Xiblin-Fizzlebik.jpg)
 
-## [Medallion of the Obulus](https://www.pqdi.cc/item/19953)
+## [Medallion of the Obulus](https://www.pqdi.cc/item/19953) (19953)
 
-### 1. [Piece of a Medallion (Obulus Top Piece)](https://www.pqdi.cc/item/19958)
+### 1. [Piece of a Medallion (Obulus Top Piece)](https://www.pqdi.cc/item/19958) (19958)
 
 [Script Page](https://www.pqdi.cc/script-entities/warslikswood/Ssolet_Dnaas)
 
@@ -75,7 +83,7 @@ Go to [Chardok](https://www.pqdi.cc/zone/103) and loot [Burnished Wooden Stave](
 - [a Reanimated Berserker](https://www.pqdi.cc/npc/103093) (8.129% x 1)
 - [a Reanimated Conscript](https://www.pqdi.cc/npc/103018) (6.047% x 1)
 
-Once you have a [Burnished Wooden Stave](https://www.pqdi.cc/item/6353) take it to [Ssolet Dnaas](https://www.pqdi.cc/npc/79098) in [Warsilks Woods](https://www.pqdi.cc/zone/79). He is located on a super small island in the north section of the zone. You will need to charm him unless you’re an Iksar because he is KoS to all other races. Level 50 mob. Give him [Burnished Wooden Stave](https://www.pqdi.cc/item/6353) to receive [Piece of a Medallion (Obulus Top Piece)](https://www.pqdi.cc/item/19958).
+Once you have a [Burnished Wooden Stave](https://www.pqdi.cc/item/6353) take it to [Ssolet Dnaas](https://www.pqdi.cc/npc/79098) in [Warsilks Woods](https://www.pqdi.cc/zone/79). He is located on a super small island in the north section of the zone. You will need to charm him unless you’re an Iksar because he is KoS to all other races. Level 50 mob. Give him [Burnished Wooden Stave](https://www.pqdi.cc/item/6353) to receive [Piece of a Medallion (Obulus Top Piece)](https://www.pqdi.cc/item/19958) (19958).
 
 ![Niblek-Chardok-Map.jpg](/assets/images/kunarkkey/Niblek-Chardok-Map.jpg)
 ![royal-guard.png](/assets/images/kunarkkey/royal-guard.png)
@@ -84,7 +92,7 @@ Once you have a [Burnished Wooden Stave](https://www.pqdi.cc/item/6353) take it 
 ![Warsilks-Woods-Map-VP-Key.jpg](/assets/images/kunarkkey/Warsilks-Woods-Map-VP-Key.jpg)
 ![Ssolet-Dnaas.jpg](/assets/images/kunarkkey/Ssolet-Dnaas.jpg)
 
-### 2. [Piece of a Medallion (Obulus Middle Piece)](https://www.pqdi.cc/item/19957)
+### 2. [Piece of a Medallion (Obulus Middle Piece)](https://www.pqdi.cc/item/19957) (19957)
 
 Drops off skeletons in [Dreadlands](https://www.pqdi.cc/zone/86).  
 
@@ -98,7 +106,7 @@ Drops off skeletons in [Dreadlands](https://www.pqdi.cc/zone/86).
 ![Dreadlands-Map-VP-Key.jpg](/assets/images/kunarkkey/Dreadlands-Map-VP-Key.jpg)
 ![rotting-skeleton.jpg](/assets/images/kunarkkey/rotting-skeleton.jpg)
 
-### 3. [Piece of a Medallion (Obulus Bottom Piece)](https://www.pqdi.cc/item/19956)
+### 3. [Piece of a Medallion (Obulus Bottom Piece)](https://www.pqdi.cc/item/19956) (19956)
 
 Drops from mobs in [Trakanon's Teeth](https://www.pqdi.cc/zone/95).  
 
@@ -119,25 +127,25 @@ Drops from mobs in [Trakanon's Teeth](https://www.pqdi.cc/zone/95).
 
 Head to [Burning Woods](https://www.pqdi.cc/npc/87047) and locate [Slixin Klex](https://www.pqdi.cc/zone/87) at (-677.0, -1128.0, -559.8). Give him:
 
-- [Piece of a Medallion (Obulus Top Piece)](https://www.pqdi.cc/item/19958)
-- [Piece of a Medallion (Obulus Middle Piece)](https://www.pqdi.cc/item/19957)
-- [Piece of a Medallion (Obulus Bottom Piece)](https://www.pqdi.cc/item/19956)
+- [Piece of a Medallion (Obulus Top Piece)](https://www.pqdi.cc/item/19958) (19958)
+- [Piece of a Medallion (Obulus Middle Piece)](https://www.pqdi.cc/item/19957) (19957)
+- [Piece of a Medallion (Obulus Bottom Piece)](https://www.pqdi.cc/item/19956) (19956)
 
-to receive [Medallion of the Obulus](https://www.pqdi.cc/item/19953).  
+to receive [Medallion of the Obulus](https://www.pqdi.cc/item/19953) (19953).  
 
 ![Burning-Woods-Map-Slixin-Klex-1.jpg](/assets/images/kunarkkey/Burning-Woods-Map-Slixin-Klex.jpg)
 ![Slixin-Klex-1.jpg](/assets/images/kunarkkey/Slixin-Klex.jpg)
 
-## [Medallion of the Kylong](https://www.pqdi.cc/item/19955)
+## [Medallion of the Kylong](https://www.pqdi.cc/item/19955) (19955)
 
-### 1. [Piece of a Medallion (Kylong Top Piece)](https://www.pqdi.cc/item/19964)
+### 1. [Piece of a Medallion (Kylong Top Piece)](https://www.pqdi.cc/item/19964) (19964)
 
 There are two ways to get it:
 
 [Script Page](https://www.pqdi.cc/script-entities/chardok/Niblek)
 
 1. You will need a [Black Sapphire](https://www.pqdi.cc/item/10036) and a [Ruby](https://www.pqdi.cc/item/10035), which is bought at most Jewelcrafting Vendors.
-Once you have the gems, head to [Chardok](https://www.pqdi.cc/zone/103) and find [Niblek](https://www.pqdi.cc/npc/103125) (506.0, -106.0, -290.1). He is down in the mines. Give him [Black Sapphire](https://www.pqdi.cc/item/10036) and [Ruby](https://www.pqdi.cc/item/10035) to receive [Piece of a Medallion (Kylong Top Piece)](https://www.pqdi.cc/item/19964).
+Once you have the gems, head to [Chardok](https://www.pqdi.cc/zone/103) and find [Niblek](https://www.pqdi.cc/npc/103125) (506.0, -106.0, -290.1). He is down in the mines. Give him [Black Sapphire](https://www.pqdi.cc/item/10036) and [Ruby](https://www.pqdi.cc/item/10035) to receive [Piece of a Medallion (Kylong Top Piece)](https://www.pqdi.cc/item/19964) (19964).
 
 2. Has a chance to drop off named bosses in [Chardok](https://www.pqdi.cc/zone/103). 
 
@@ -175,7 +183,7 @@ Once you have the gems, head to [Chardok](https://www.pqdi.cc/zone/103) and find
 ![royal-guard-1.png](/assets/images/kunarkkey/royal-guard.png)
 ![Niblek-1.jpg](/assets/images/kunarkkey/Niblek.jpg)
 
-### 2. [Piece of a Medallion (Kylong Middle Piece)](https://www.pqdi.cc/item/19963)
+### 2. [Piece of a Medallion (Kylong Middle Piece)](https://www.pqdi.cc/item/19963) (19963)
 
 Drops from various monsters in [Karnor's Castle](https://www.pqdi.cc/zone/102). 
 
@@ -192,7 +200,7 @@ Drops from various monsters in [Karnor's Castle](https://www.pqdi.cc/zone/102).
 ![Karnors-Map-Verix.jpg](/assets/images/kunarkkey/Karnors-Map-Verix.jpg)
 ![Karnors-Verix.jpg](/assets/images/kunarkkey/Karnors-Verix.jpg)
 
-### 3. [Piece of a Medallion (Kylong Bottom Piece)](https://www.pqdi.cc/item/19962)
+### 3. [Piece of a Medallion (Kylong Bottom Piece)](https://www.pqdi.cc/item/19962) (19962)
 
 Ground spawn in [Kaesora](https://www.pqdi.cc/zone/88) on the second floor of the library (57.0, -444.0).
 
@@ -205,11 +213,11 @@ Ground spawn in [Kaesora](https://www.pqdi.cc/zone/88) on the second floor of th
 
 Find [Professor Akabao](https://www.pqdi.cc/npc/85138) in [Lake of Ill Omen](https://www.pqdi.cc/zone/85) (-2539.0, -2995.0, 119.3). Give him:
 
-- [Piece of a Medallion (Kylong Top Piece)](https://www.pqdi.cc/item/19964)
-- [Piece of a Medallion (Kylong Middle Piece)](https://www.pqdi.cc/item/19963)
-- [Piece of a Medallion (Kylong Bottom Piece)](https://www.pqdi.cc/item/19962)
+- [Piece of a Medallion (Kylong Top Piece)](https://www.pqdi.cc/item/19964) (19964)
+- [Piece of a Medallion (Kylong Middle Piece)](https://www.pqdi.cc/item/19963) (19963)
+- [Piece of a Medallion (Kylong Bottom Piece)](https://www.pqdi.cc/item/19962) (19962)
 
-to receive [Medallion of the Kylong]().  
+to receive [Medallion of the Kylong](https://www.pqdi.cc/item/19955) (19955).  
 
 ![Lake-of-Ill-Omen-Professor.jpg](/assets/images/kunarkkey/Lake-of-Ill-Omen-Professor.jpg)
 ![Professor-Akabao.jpg](/assets/images/kunarkkey/Professor-Akabao.jpg)
@@ -226,9 +234,9 @@ Kill [Trakanon](https://www.pqdi.cc/npc/89154) in [Old Sebilis](https://www.pqdi
 
 Go to [Trakanon's Teeth](https://www.pqdi.cc/zone/95) and find [Emperor Ganak](https://www.pqdi.cc/npc/95034) (-3331.0, 2649.0, -367.6). Give him:
 
-- [Medallion of the Obulus](https://www.pqdi.cc/item/19966)
-- [Medallion of the Jarsath](https://www.pqdi.cc/item/19967)
-- [Medallion of the Kylong](https://www.pqdi.cc/item/19968)
+- [Medallion of the Obulus](https://www.pqdi.cc/item/19953) (19953)
+- [Medallion of the Jarsath](https://www.pqdi.cc/item/19954) (19954)
+- [Medallion of the Kylong](https://www.pqdi.cc/item/19955) (19955)
 - [Trakanon's Tooth](https://www.pqdi.cc/item/7276)
 
 to receive [Key of Veeshan](https://www.pqdi.cc/item/20884)!

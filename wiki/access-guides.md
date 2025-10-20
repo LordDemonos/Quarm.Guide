@@ -11,3 +11,4 @@ author: Xanax
 - [Miragul's Highway]({{ 'miragul_highway' | relative_url }})
 - [Ruins of Kunark Keys]({{ 'kunarkkeys' | relative_url }})
 - [Key of Veeshan]({{ 'keyofveeshan' | relative_url }})
+- [Key to Vex Thal]({{ 'keytovexthal' | relative_url }})

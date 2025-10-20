@@ -223,6 +223,73 @@ blockquote {
   font-style: italic;
 }
 
+/* Tip styling for Zeal features and helpful hints */
+blockquote:has(strong:contains("💡")) {
+  background: linear-gradient(135deg, #d4f1d4 0%, #e1f2ff 100%);
+  border: 2px solid #00a0a0;
+  border-left: 6px solid #00a0a0;
+  border-radius: 12px;
+  padding: 20px 24px;
+  margin: 24px 0;
+  box-shadow: 0 4px 16px rgba(0, 160, 160, 0.25), 0 2px 8px rgba(0, 160, 160, 0.15);
+  font-style: normal;
+  position: relative;
+  transform: translateY(-2px);
+  transition: all 0.3s ease;
+}
+
+blockquote:has(strong:contains("💡")):hover {
+  transform: translateY(-4px);
+  box-shadow: 0 6px 20px rgba(0, 160, 160, 0.3), 0 4px 12px rgba(0, 160, 160, 0.2);
+}
+
+blockquote:has(strong:contains("💡")) strong {
+  color: #006666;
+  font-weight: 800;
+  font-size: 1.1em;
+  text-shadow: 0 1px 2px rgba(0, 160, 160, 0.3);
+}
+
+/* Fallback for browsers that don't support :has() */
+.tip-blockquote {
+  background: linear-gradient(135deg, #d4f1d4 0%, #e1f2ff 100%);
+  border: 2px solid #00a0a0;
+  border-left: 6px solid #00a0a0;
+  border-radius: 12px;
+  padding: 20px 24px;
+  margin: 24px 0;
+  box-shadow: 0 4px 16px rgba(0, 160, 160, 0.25), 0 2px 8px rgba(0, 160, 160, 0.15);
+  font-style: normal;
+  position: relative;
+  transform: translateY(-2px);
+  transition: all 0.3s ease;
+}
+
+.tip-blockquote:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 6px 20px rgba(0, 160, 160, 0.3), 0 4px 12px rgba(0, 160, 160, 0.2);
+}
+
+.tip-blockquote strong {
+  color: #006666;
+  font-weight: 800;
+  font-size: 1.1em;
+  text-shadow: 0 1px 2px rgba(0, 160, 160, 0.3);
+}
+
+/* Dark mode support for tips */
+body.darkmode--activated blockquote:has(strong:contains("💡")),
+body.darkmode--activated .tip-blockquote {
+  background: linear-gradient(135deg, #1a2a1a 0%, #0f1419 100%);
+  border-left-color: #00cccc;
+  box-shadow: 0 2px 8px rgba(0, 204, 204, 0.2);
+}
+
+body.darkmode--activated blockquote:has(strong:contains("💡")) strong,
+body.darkmode--activated .tip-blockquote strong {
+  color: #00cccc;
+}
+
 code,
 pre {
   font-family: 'Fira Code', monospace;
@@ -701,4 +768,771 @@ body.darkmode--activated .svg-container {
     padding: 5px 10px;
     font-size: 16px;
     cursor: pointer;
+}
+
+/* Focus Page Styles - Modern clean design inspired by Former Glory */
+.focus-page {
+  max-width: 100%;
+  margin: 0 auto;
+  font-family: system-ui, -apple-system, sans-serif;
+}
+
+/* More specific selectors to override general table styles */
+.focus-page table,
+#git-wiki-content .focus-page table {
+  width: 100% !important;
+  border-collapse: separate !important;
+  border-spacing: 0 !important;
+  margin: 24px 0 !important;
+  font-size: 0.9em !important;
+  table-layout: fixed !important;
+  background: #fff !important;
+  border-radius: 8px !important;
+  overflow: hidden !important;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1) !important;
+  border: none !important;
+}
+
+.focus-page table th,
+.focus-page table td,
+#git-wiki-content .focus-page table th,
+#git-wiki-content .focus-page table td {
+  padding: 12px 16px !important;
+  text-align: left !important;
+  border-bottom: 1px solid #e5e7eb !important;
+  word-wrap: break-word !important;
+  vertical-align: top !important;
+  line-height: 1.5 !important;
+  border-left: none !important;
+  border-right: none !important;
+  border-top: none !important;
+}
+
+/* Column widths optimized for focus table */
+.focus-page table th:nth-child(1),
+.focus-page table td:nth-child(1),
+#git-wiki-content .focus-page table th:nth-child(1),
+#git-wiki-content .focus-page table td:nth-child(1) {
+  width: 25% !important; /* Name */
+  font-weight: 500 !important;
+}
+
+.focus-page table th:nth-child(2),
+.focus-page table td:nth-child(2),
+#git-wiki-content .focus-page table th:nth-child(2),
+#git-wiki-content .focus-page table td:nth-child(2) {
+  width: 20% !important; /* Zone */
+  font-size: 0.85em !important;
+  color: #6b7280 !important;
+}
+
+.focus-page table th:nth-child(3),
+.focus-page table td:nth-child(3),
+#git-wiki-content .focus-page table th:nth-child(3),
+#git-wiki-content .focus-page table td:nth-child(3) {
+  width: 55% !important; /* Mob */
+  line-height: 1.4 !important;
+}
+
+.focus-page table th,
+#git-wiki-content .focus-page table th {
+  background-color: #28a745 !important;
+  font-weight: 600 !important;
+  color: #fff !important;
+  font-size: 0.85em !important;
+  text-transform: uppercase !important;
+  letter-spacing: 0.05em !important;
+  position: sticky !important;
+  top: 0 !important;
+  z-index: 10 !important;
+  border-bottom: 2px solid #28a745 !important;
+}
+
+.focus-page table td,
+#git-wiki-content .focus-page table td {
+  color: #4b5563 !important;
+  font-size: 0.9em !important;
+}
+
+.focus-page table tr:hover,
+#git-wiki-content .focus-page table tr:hover {
+  background-color: #f8fafc !important;
+  transition: background-color 0.15s ease !important;
+}
+
+.focus-page table tr:last-child td,
+#git-wiki-content .focus-page table tr:last-child td {
+  border-bottom: none !important;
+}
+
+/* Focus styling for the page */
+.focus-page h1,
+#git-wiki-content .focus-page h1 {
+  color: #28a745 !important;
+  border-bottom: 2px solid #28a745 !important;
+  padding-bottom: 10px !important;
+  margin-bottom: 30px !important;
+  font-family: system-ui, -apple-system, sans-serif !important;
+}
+
+.focus-page h1::before,
+#git-wiki-content .focus-page h1::before {
+  content: "🔮 " !important;
+  margin-right: 10px !important;
+}
+
+/* Responsive design for Focus page */
+@media (max-width: 768px) {
+  .focus-page,
+  #git-wiki-content .focus-page {
+    max-width: 100% !important;
+    margin: 0 !important;
+  }
+  
+  .focus-page table,
+  #git-wiki-content .focus-page table {
+    font-size: 0.8em !important;
+    table-layout: auto !important;
+    border-radius: 4px !important;
+  }
+  
+  .focus-page table th,
+  .focus-page table td,
+  #git-wiki-content .focus-page table th,
+  #git-wiki-content .focus-page table td {
+    padding: 8px 12px !important;
+  }
+  
+  .focus-page table th:nth-child(1),
+  .focus-page table td:nth-child(1),
+  #git-wiki-content .focus-page table th:nth-child(1),
+  #git-wiki-content .focus-page table td:nth-child(1) {
+    width: auto !important;
+  }
+  
+  .focus-page table td:first-child,
+  #git-wiki-content .focus-page table td:first-child {
+    font-weight: 500 !important;
+  }
+}
+
+/* Dark theme support for Focus page */
+[data-theme="dark"] .focus-page table,
+[data-theme="dark"] #git-wiki-content .focus-page table {
+  background: #1f2937 !important;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3) !important;
+}
+
+[data-theme="dark"] .focus-page table th,
+[data-theme="dark"] #git-wiki-content .focus-page table th {
+  background-color: #28a745 !important;
+  color: #fff !important;
+  border-bottom-color: #28a745 !important;
+}
+
+[data-theme="dark"] .focus-page table td,
+[data-theme="dark"] #git-wiki-content .focus-page table td {
+  color: #d1d5db !important;
+  border-bottom-color: #4b5563 !important;
+}
+
+[data-theme="dark"] .focus-page table tr:hover,
+[data-theme="dark"] #git-wiki-content .focus-page table tr:hover {
+  background-color: #374151 !important;
+}
+
+[data-theme="dark"] .focus-page h1,
+[data-theme="dark"] #git-wiki-content .focus-page h1 {
+  color: #20c997 !important;
+  border-bottom-color: #20c997 !important;
+}
+
+[data-theme="light"] .focus-page table tr:hover,
+[data-theme="light"] #git-wiki-content .focus-page table tr:hover {
+  background-color: #f8fafc !important;
+}
+
+/* AA Page Styles - Modern clean design inspired by Former Glory */
+.aa-page {
+  max-width: 100%;
+  margin: 0 auto;
+  font-family: system-ui, -apple-system, sans-serif;
+}
+
+/* More specific selectors to override general table styles */
+.aa-page table,
+#git-wiki-content .aa-page table {
+  width: 100% !important;
+  border-collapse: separate !important;
+  border-spacing: 0 !important;
+  margin: 24px 0 !important;
+  font-size: 0.9em !important;
+  table-layout: fixed !important;
+  background: #fff !important;
+  border-radius: 8px !important;
+  overflow: hidden !important;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1) !important;
+  border: none !important;
+}
+
+.aa-page table th,
+.aa-page table td,
+#git-wiki-content .aa-page table th,
+#git-wiki-content .aa-page table td {
+  padding: 12px 16px !important;
+  text-align: left !important;
+  border-bottom: 1px solid #e5e7eb !important;
+  word-wrap: break-word !important;
+  vertical-align: top !important;
+  line-height: 1.5 !important;
+  border-left: none !important;
+  border-right: none !important;
+  border-top: none !important;
+}
+
+.aa-page table th,
+#git-wiki-content .aa-page table th {
+  background-color: #f8fafc !important;
+  font-weight: 600 !important;
+  color: #374151 !important;
+  font-size: 0.85em !important;
+  text-transform: uppercase !important;
+  letter-spacing: 0.05em !important;
+  position: sticky !important;
+  top: 0 !important;
+  z-index: 10 !important;
+  border-bottom: 2px solid #e5e7eb !important;
+}
+
+.aa-page table td,
+#git-wiki-content .aa-page table td {
+  color: #4b5563 !important;
+  font-size: 0.9em !important;
+}
+
+/* Column widths optimized for AA tables */
+.aa-page table th:nth-child(1),
+.aa-page table td:nth-child(1),
+#git-wiki-content .aa-page table th:nth-child(1),
+#git-wiki-content .aa-page table td:nth-child(1) {
+  width: 22% !important; /* Name */
+  font-weight: 500 !important;
+}
+
+.aa-page table th:nth-child(2),
+.aa-page table td:nth-child(2),
+#git-wiki-content .aa-page table th:nth-child(2),
+#git-wiki-content .aa-page table td:nth-child(2) {
+  width: 14% !important; /* Classes */
+  font-size: 0.85em !important;
+  color: #6b7280 !important;
+}
+
+.aa-page table th:nth-child(3),
+.aa-page table td:nth-child(3),
+#git-wiki-content .aa-page table th:nth-child(3),
+#git-wiki-content .aa-page table td:nth-child(3) {
+  width: 8% !important; /* Ranks */
+  text-align: center !important;
+  font-weight: 500 !important;
+}
+
+.aa-page table th:nth-child(4),
+.aa-page table td:nth-child(4),
+#git-wiki-content .aa-page table th:nth-child(4),
+#git-wiki-content .aa-page table td:nth-child(4) {
+  width: 8% !important; /* Cost */
+  text-align: center !important;
+  font-weight: 500 !important;
+}
+
+.aa-page table th:nth-child(5),
+.aa-page table td:nth-child(5),
+#git-wiki-content .aa-page table th:nth-child(5),
+#git-wiki-content .aa-page table td:nth-child(5) {
+  width: 40% !important; /* Description */
+  line-height: 1.4 !important;
+}
+
+.aa-page table th:nth-child(6),
+.aa-page table td:nth-child(6),
+#git-wiki-content .aa-page table th:nth-child(6),
+#git-wiki-content .aa-page table td:nth-child(6) {
+  width: 8% !important; /* Alt Activation Code */
+  text-align: center !important;
+  font-family: monospace !important;
+  font-weight: 500 !important;
+}
+
+.aa-page table tr:hover,
+#git-wiki-content .aa-page table tr:hover {
+  background-color: #f8fafc !important;
+  transition: background-color 0.15s ease !important;
+}
+
+.aa-page table tr:last-child td,
+#git-wiki-content .aa-page table tr:last-child td {
+  border-bottom: none !important;
+}
+
+/* Quick Reference table specific styles */
+.aa-page table:last-of-type,
+#git-wiki-content .aa-page table:last-of-type {
+  margin-bottom: 40px !important;
+}
+
+.aa-page table:last-of-type th:nth-child(1),
+.aa-page table:last-of-type td:nth-child(1),
+#git-wiki-content .aa-page table:last-of-type th:nth-child(1),
+#git-wiki-content .aa-page table:last-of-type td:nth-child(1) {
+  width: 15% !important; /* Alt Activate # */
+  font-family: monospace !important;
+  font-weight: 600 !important;
+  color: #059669 !important;
+}
+
+.aa-page table:last-of-type th:nth-child(2),
+.aa-page table:last-of-type td:nth-child(2),
+#git-wiki-content .aa-page table:last-of-type th:nth-child(2),
+#git-wiki-content .aa-page table:last-of-type td:nth-child(2) {
+  width: 85% !important; /* Ability Name (Classes) */
+  font-weight: 500 !important;
+}
+
+/* Responsive design for AA page */
+@media (max-width: 768px) {
+  .aa-page {
+    max-width: 100%;
+    margin: 0;
+  }
+  
+  .aa-page table {
+    font-size: 0.8em;
+    table-layout: auto;
+    border-radius: 4px;
+  }
+  
+  .aa-page table th,
+  .aa-page table td {
+    padding: 8px 12px;
+  }
+  
+  .aa-page table th:nth-child(1),
+  .aa-page table td:nth-child(1) {
+    width: auto;
+  }
+  
+  .aa-page table td:first-child {
+    font-weight: 500;
+  }
+}
+
+/* Dark theme support for AA page */
+[data-theme="dark"] .aa-page table,
+[data-theme="dark"] #git-wiki-content .aa-page table {
+  background: #1f2937 !important;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3) !important;
+}
+
+[data-theme="dark"] .aa-page table th,
+[data-theme="dark"] #git-wiki-content .aa-page table th {
+  background-color: #374151 !important;
+  color: #f9fafb !important;
+  border-bottom-color: #4b5563 !important;
+}
+
+[data-theme="dark"] .aa-page table td,
+[data-theme="dark"] #git-wiki-content .aa-page table td {
+  color: #d1d5db !important;
+  border-bottom-color: #4b5563 !important;
+}
+
+[data-theme="dark"] .aa-page table tr:hover,
+[data-theme="dark"] #git-wiki-content .aa-page table tr:hover {
+  background-color: #374151 !important;
+}
+
+[data-theme="dark"] .aa-page table:last-of-type th:nth-child(1),
+[data-theme="dark"] .aa-page table:last-of-type td:nth-child(1),
+[data-theme="dark"] #git-wiki-content .aa-page table:last-of-type th:nth-child(1),
+[data-theme="dark"] #git-wiki-content .aa-page table:last-of-type td:nth-child(1) {
+  color: #10b981 !important;
+}
+
+[data-theme="light"] .aa-page table tr:hover,
+[data-theme="light"] #git-wiki-content .aa-page table tr:hover {
+  background-color: #f8fafc !important;
+}
+
+/* AA Page warning box styling for both themes */
+.aa-page div[style*="background-color: #fff5f5"] {
+  background-color: #fff5f5 !important;
+  border: 2px solid #dc3545 !important;
+  color: #dc3545 !important;
+}
+
+/* Dark theme support for AA warning box */
+[data-theme="dark"] .aa-page div[style*="background-color: #fff5f5"] {
+  background-color: #0f0707 !important;
+  border-color: #dc3545 !important;
+  color: #ff6b6b !important;
+}
+
+[data-theme="dark"] .aa-page div[style*="background-color: #fff5f5"] a {
+  color: #ff6b6b !important;
+}
+
+/* Highlight broken AA rows in aa-page */
+.aa-page table tr:has(a[href="/baa/"]) {
+  background-color: #ffe6e6 !important;
+  border-left: 4px solid #dc3545;
+}
+
+.aa-page table tr:has(a[href="/baa/"]):hover {
+  background-color: #ffcccc !important;
+}
+
+/* Dark theme support for broken AA rows */
+[data-theme="dark"] .aa-page table tr:has(a[href="/baa/"]) {
+  background-color: #3a1a1a !important;
+  border-left: 4px solid #dc3545;
+}
+
+[data-theme="dark"] .aa-page table tr:has(a[href="/baa/"]):hover {
+  background-color: #4a2a2a !important;
+}
+
+/* BAA Page Styles - Modern clean design inspired by Former Glory */
+.baa-page {
+  max-width: 100%;
+  margin: 0 auto;
+  font-family: system-ui, -apple-system, sans-serif;
+}
+
+/* More specific selectors to override general table styles */
+.baa-page table,
+#git-wiki-content .baa-page table {
+  width: 100% !important;
+  border-collapse: separate !important;
+  border-spacing: 0 !important;
+  margin: 24px 0 !important;
+  font-size: 0.9em !important;
+  table-layout: fixed !important;
+  background: #fff !important;
+  border-radius: 8px !important;
+  overflow: hidden !important;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1) !important;
+  border: none !important;
+}
+
+.baa-page table th,
+.baa-page table td,
+#git-wiki-content .baa-page table th,
+#git-wiki-content .baa-page table td {
+  padding: 12px 16px !important;
+  text-align: left !important;
+  border-bottom: 1px solid #e5e7eb !important;
+  word-wrap: break-word !important;
+  vertical-align: top !important;
+  line-height: 1.5 !important;
+  border-left: none !important;
+  border-right: none !important;
+  border-top: none !important;
+}
+
+/* Column widths optimized for BAA table */
+.baa-page table th:nth-child(1),
+.baa-page table td:nth-child(1),
+#git-wiki-content .baa-page table th:nth-child(1),
+#git-wiki-content .baa-page table td:nth-child(1) {
+  width: 22% !important; /* Name */
+  font-weight: 500 !important;
+}
+
+.baa-page table th:nth-child(2),
+.baa-page table td:nth-child(2),
+#git-wiki-content .baa-page table th:nth-child(2),
+#git-wiki-content .baa-page table td:nth-child(2) {
+  width: 18% !important; /* Classes affected */
+  font-size: 0.85em !important;
+  color: #6b7280 !important;
+}
+
+.baa-page table th:nth-child(3),
+.baa-page table td:nth-child(3),
+#git-wiki-content .baa-page table th:nth-child(3),
+#git-wiki-content .baa-page table td:nth-child(3) {
+  width: 30% !important; /* How you may expect it to work */
+  line-height: 1.4 !important;
+}
+
+.baa-page table th:nth-child(4),
+.baa-page table td:nth-child(4),
+#git-wiki-content .baa-page table th:nth-child(4),
+#git-wiki-content .baa-page table td:nth-child(4) {
+  width: 30% !important; /* How it actually works */
+  line-height: 1.4 !important;
+}
+
+.baa-page table th,
+#git-wiki-content .baa-page table th {
+  background-color: #dc3545 !important;
+  font-weight: 600 !important;
+  color: #fff !important;
+  font-size: 0.85em !important;
+  text-transform: uppercase !important;
+  letter-spacing: 0.05em !important;
+  position: sticky !important;
+  top: 0 !important;
+  z-index: 10 !important;
+  border-bottom: 2px solid #dc3545 !important;
+}
+
+.baa-page table td,
+#git-wiki-content .baa-page table td {
+  color: #4b5563 !important;
+  font-size: 0.9em !important;
+}
+
+.baa-page table tr:hover,
+#git-wiki-content .baa-page table tr:hover {
+  background-color: #f8fafc !important;
+  transition: background-color 0.15s ease !important;
+}
+
+.baa-page table tr:last-child td,
+#git-wiki-content .baa-page table tr:last-child td {
+  border-bottom: none !important;
+}
+
+/* Warning styling for the page */
+.baa-page h1,
+#git-wiki-content .baa-page h1 {
+  color: #dc3545 !important;
+  border-bottom: 2px solid #dc3545 !important;
+  padding-bottom: 10px !important;
+  margin-bottom: 30px !important;
+  font-family: system-ui, -apple-system, sans-serif !important;
+}
+
+.baa-page h1::before,
+#git-wiki-content .baa-page h1::before {
+  content: "⚠️ " !important;
+  margin-right: 10px !important;
+}
+
+/* Responsive design for BAA page */
+@media (max-width: 768px) {
+  .baa-page,
+  #git-wiki-content .baa-page {
+    max-width: 100% !important;
+    margin: 0 !important;
+  }
+  
+  .baa-page table,
+  #git-wiki-content .baa-page table {
+    font-size: 0.8em !important;
+    table-layout: auto !important;
+    border-radius: 4px !important;
+  }
+  
+  .baa-page table th,
+  .baa-page table td,
+  #git-wiki-content .baa-page table th,
+  #git-wiki-content .baa-page table td {
+    padding: 8px 12px !important;
+  }
+  
+  .baa-page table th:nth-child(1),
+  .baa-page table td:nth-child(1),
+  #git-wiki-content .baa-page table th:nth-child(1),
+  #git-wiki-content .baa-page table td:nth-child(1) {
+    width: auto !important;
+  }
+  
+  .baa-page table td:first-child,
+  #git-wiki-content .baa-page table td:first-child {
+    font-weight: 500 !important;
+  }
+}
+
+/* Dark theme support for BAA page */
+[data-theme="dark"] .baa-page table,
+[data-theme="dark"] #git-wiki-content .baa-page table {
+  background: #1f2937 !important;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3) !important;
+}
+
+[data-theme="dark"] .baa-page table th,
+[data-theme="dark"] #git-wiki-content .baa-page table th {
+  background-color: #dc3545 !important;
+  color: #fff !important;
+  border-bottom-color: #dc3545 !important;
+}
+
+[data-theme="dark"] .baa-page table td,
+[data-theme="dark"] #git-wiki-content .baa-page table td {
+  color: #d1d5db !important;
+  border-bottom-color: #4b5563 !important;
+}
+
+[data-theme="dark"] .baa-page table tr:hover,
+[data-theme="dark"] #git-wiki-content .baa-page table tr:hover {
+  background-color: #374151 !important;
+}
+
+[data-theme="dark"] .baa-page h1,
+[data-theme="dark"] #git-wiki-content .baa-page h1 {
+  color: #ff6b6b !important;
+  border-bottom-color: #ff6b6b !important;
+}
+
+[data-theme="light"] .baa-page table tr:hover,
+[data-theme="light"] #git-wiki-content .baa-page table tr:hover {
+  background-color: #f8fafc !important;
+}
+
+/* Spell Tooltip Styles */
+.spell-tooltip {
+    font-family: system-ui, sans-serif;
+    padding: 12px;
+    background: #1a1a1a;
+    border: 1px solid #333;
+    border-radius: 4px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+    max-width: 400px;
+    min-width: 350px;
+}
+
+.spell-tooltip h4 {
+    margin: 0 0 8px 0;
+    color: #f5f5f5;
+    font-size: 1.1em;
+}
+
+.spell-meta {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 8px;
+    margin-bottom: 12px;
+    font-size: 0.9em;
+    color: #888;
+}
+
+.spell-effects {
+    font-size: 0.95em;
+}
+
+.spell-effect {
+    padding: 4px 0;
+    border-top: 1px solid #333;
+}
+
+/* Item tooltips */
+.item-tooltip { /* styles */ }
+
+/* Spell tooltips */
+.spell-tooltip { 
+    /* Reset any inherited item styles */
+    background-image: none !important;
+}
+
+.spell-tooltip .item-icon {
+    display: none !important;
+}
+
+/* Add this rule to prevent icon inheritance */
+a[href*="/spell/"] .item-icon {
+    display: none !important;
+}
+
+a[href^="https://www.pqdi.cc/spell/"]:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+    color: #00a0a0 !important;
+    border-color: #444;
+}
+
+/* spell tooltips */
+.spell-item:hover a {
+    color: #00a0a0 !important;
+    background: rgba(60, 60, 60, 0.9);
+    border-color: rgba(80, 80, 80, 0.9);
+}
+
+.tippy-box {
+    background-color: transparent !important;
+    border: none !important;
+}
+
+.tippy-arrow {
+    display: none !important;
+}
+
+.spell-tooltip {
+    background: #1a1a1a;
+    border: 1px solid #333;
+    border-radius: 4px;
+    padding: 12px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+    max-width: 400px;
+    min-width: 350px;
+}
+
+/* Spells List Container */
+.spells-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    padding: 4px 0;
+    margin: 8px 0;
+}
+
+.spell-item {
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+}
+
+.spell-icon {
+    width: 16px;
+    height: 16px;
+}
+
+.spell-item a {
+    color: #00a0a0;
+    text-decoration: none;
+    background: rgba(40, 40, 40, 0.9);
+    padding: 2px 6px;
+    border-radius: 8px;
+    font-size: 0.95em;
+    border: 1px solid rgba(60, 60, 60, 0.8);
+}
+
+/* Ensure spell links are always visible */
+a[href^="https://www.pqdi.cc/spell/"] {
+    color: #00a0a0 !important;
+    text-decoration: none;
+}
+
+a[href^="https://www.pqdi.cc/spell/"]:visited {
+    color: #00a0a0 !important;
+}
+
+/* Light mode support for spell links */
+[data-theme="light"] a[href^="https://www.pqdi.cc/spell/"] {
+    color: #006666 !important;
+}
+
+[data-theme="light"] a[href^="https://www.pqdi.cc/spell/"]:hover {
+    color: #00a0a0 !important;
+    background-color: rgba(0, 160, 160, 0.1);
+}
+
+[data-theme="light"] .spell-item a {
+    color: #006666;
+}
+
+[data-theme="light"] .spell-item:hover a {
+    color: #00a0a0 !important;
+    background: rgba(0, 160, 160, 0.1);
 }

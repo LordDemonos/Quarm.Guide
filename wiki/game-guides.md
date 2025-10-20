@@ -18,6 +18,13 @@ Welcome to the central hub for all Project Quarm game guides.
 
 <div style="display: flex;">
     <div style="flex: 1; margin-right: 10px;">
+        <h3>Game Guides</h3>
+        <ul>
+            <li><a href="{{ 'aa' | relative_url }}">Alternate Advancement (AA) Guide</a></li>
+            <li><a href="{{ 'focus' | relative_url }}">Focus Effects Information</a></li>
+            <li><a href="{{ 'gina' | relative_url }}">GINA Triggers & Setup</a></li>
+            <li><a href="{{ 'norrath-map' | relative_url }}">Interactive Norrath Map</a></li>
+        </ul>
         <h3>Class Guides</h3>
         <ul>
             <li><a href="{{ 'enchanter-faq' | relative_url }}">Enchanter FAQ</a></li>
@@ -32,6 +39,8 @@ Welcome to the central hub for all Project Quarm game guides.
             <li><a href="{{ 'miragul_highway' | relative_url }}">Miragul's Highway</a></li>
             <li><a href="{{ 'kunarkkeys' | relative_url }}">Ruins of Kunark Keys</a></li>
             <li><a href="{{ 'keyofveeshan' | relative_url }}">Key of Veeshan</a></li>
+            <li><a href="{{ 'ring-of-the-shissar' | relative_url }}">Ring of the Shissar</a></li>
+            <li><a href="{{ 'keytovexthal' | relative_url }}">Key to Vex Thal</a></li>
         </ul>
     </div>
     <div style="flex: 1; margin-left: 10px;">
@@ -52,6 +61,13 @@ Welcome to the central hub for all Project Quarm game guides.
             <li><a href="{{ 'warrior_epic' | relative_url }}">Warrior</a></li>
             <li><a href="{{ 'wizard_epic' | relative_url }}">Wizard</a></li>
             <li><a href="{{ 'cleric-epic-guide' | relative_url }}">Alt Cleric Guide</a></li>
+        /*
         </ul>
+        <h3>Quests</h3>
+        <ul>
+            <li><a href="{{ 'earring_of_the_solstice' | relative_url }}">Earring of the Solstice</a></li>
+            <li><a href="{{ 'sigil-earring-of-veracity' | relative_url }}">Sigil Earring of Veracity</a></li>
+        </ul>
+        */
     </div>
 </div>

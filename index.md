@@ -22,14 +22,16 @@ Some server highlights include: TLP through Planes of Power at 9 month intervals
 
 If you want to learn more about Project Quarm specific features and rules, head over to the [About Project Quarm](about-project-quarm) section.
 
+#### **🗺️ [Interactive Norrath Map]({{ '/norrath-map' | relative_url }})** – Explore Luclin, Velious, Kunark, and Norrath with zoom, pan, and quick-jump navigation.
+
 <div style="display: flex;">
     <div style="flex: 1; margin-right: 10px;">
         <h2>New and Featured Guides</h2>
         <ul>
             <li><a href="{{ '/epic-guides' | relative_url }}">Epic Guides</a> - Comprehensive guides for epic quests</li>
-            <li><a href="{{ '/leveling-guides' | relative_url }}">Leveling Guides</a> - Featuring <a href="{{ '/BathorySSFGuide' | relative_url }}">BathorySSFGuide</a></li>
+            <li><a href="{{ '/leveling-guides' | relative_url }}">Leveling Guides</a> - Featuring <a href="{{ '/focus' | relative_url }}">Focus Effects</a> and <a href="{{ '/aa' | relative_url }}">Alternate Advancement (AA)</a></li>
             <li><a href="{{ '/class-guides' | relative_url }}">Class Guides</a> - Featuring <a href="{{ '/enchanter-faq' | relative_url }}">Enchanter FAQ</a></li>
-            <li><a href="{{ '/access-guides' | relative_url }}">Access Guides</a> - Featuring <a href="{{ '/kunarkkeys' | relative_url }}">Ruins of Kunark Keys</a></li>
+            <li><a href="{{ '/access-guides' | relative_url }}">Access Guides</a> - Featuring <a href="{{ '/ring-of-the-shissar' | relative_url }}">Ring of the Shissar</a> and <a href="{{ '/keytovexthal' | relative_url }}">Key to Vex Thal</a></li>
         </ul>
         <h2>Popular Guides</h2>
         <ul>
@@ -55,7 +57,7 @@ If you want to learn more about Project Quarm specific features and rules, head 
         <h2>Enhancing Your Experience</h2>
         <ul>
             <li><a href="https://github.com/CoastalRedwood/Zeal/releases" aria-label="Zeal Releases - Download the latest version of Zeal">Zeal Releases</a> - Latest version available <a href="/2024/11/24/zeal-readme/">Zeal README</a></li>
-            <li><a href="https://eq.gimasoft.com/gina/" aria-label="GINA - Audio and visual triggers for EverQuest">GINA</a> - Audio and visual triggers for EverQuest</li>
+            <li><a href="{{ '/gina' | relative_url }}" aria-label="GINA - Audio and visual triggers for EverQuest">GINA</a> - Audio and visual triggers for EverQuest</li>
             <li><a href="https://www.redguides.com/community/resources/eqlogparser.1/" aria-label="EQLogParser - Parse logs for DPS and healing">EQLogParser</a> - Parse logs for DPS and healing</li>
             <li><a href="https://www.eqinterface.com/downloads/fileinfo.php?id=6959" aria-label="Calmetar's UI - Custom UI for Quarm">Calmetar's UI</a> - Custom UI for Project Quarm</li>
             <li><a href="{{ '/after-installing-the-game#where-to-get-quarm-user-interfaces' | relative_url }}" aria-label="Nillipuss's UI - Custom UI for Quarm">Nillipuss's UI</a> - Custom UI for Project Quarm <a href="https://github.com/NilliP/NillipussUI_1080p">1080p</a>, <a href="https://github.com/NilliP/NillipussUI_1440p">1440p</a></li>
@@ -64,4 +66,3 @@ If you want to learn more about Project Quarm specific features and rules, head 
         </ul>
     </div>
 </div>
- 
