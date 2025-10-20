@@ -61,13 +61,5 @@ Welcome to the central hub for all Project Quarm game guides.
             <li><a href="{{ 'warrior_epic' | relative_url }}">Warrior</a></li>
             <li><a href="{{ 'wizard_epic' | relative_url }}">Wizard</a></li>
             <li><a href="{{ 'cleric-epic-guide' | relative_url }}">Alt Cleric Guide</a></li>
-        /*
-        </ul>
-        <h3>Quests</h3>
-        <ul>
-            <li><a href="{{ 'earring_of_the_solstice' | relative_url }}">Earring of the Solstice</a></li>
-            <li><a href="{{ 'sigil-earring-of-veracity' | relative_url }}">Sigil Earring of Veracity</a></li>
-        </ul>
-        */
     </div>
 </div>
