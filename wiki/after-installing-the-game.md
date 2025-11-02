@@ -142,7 +142,7 @@ Its tricky searching around Project Quarm's Discord but I can provide a list tha
 - [Official Discord #ui-discussion](https://discord.com/channels/1133452007412334643/1162826324092657757)
 
 - [defaultUI](https://github.com/LordDemonos/Quarm.Guide/blob/master/assets/default.7z?raw=true)
-- [DuxaUI](https://github.com/LordDemonos/Quarm.Guide/blob/master/assets/duxaUI.7z?raw=true)
+- [DuxaUI](https://www.eqinterface.com/downloads/fileinfo.php?id=6896)
 - [Nillipuss UI 1080p](https://github.com/NilliP/NillipussUI_1080p)
 - [Nillipuss UI 1440p](https://github.com/NilliP/NillipussUI_1440p)
 - qqui Calmethar Edition - [eqinterface.com](https://www.eqinterface.com/downloads/fileinfo.php?id=6959)
