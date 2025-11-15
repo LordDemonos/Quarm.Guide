@@ -60,6 +60,13 @@ The green circle on the map is where the statue is that you’ll need to click t
   - [a runed grimling](https://www.pqdi.cc/npc/154029) (5.0% x 1)
   - [a grimling skullcracker](https://www.pqdi.cc/npc/154030) (5.0% x 1)
 
+The Acrylia Caverns shard "Ved" can also be obtained in Grimling Forest
+
+- [Grimling Forests](https://www.pqdi.cc/zone/167)
+
+  - [a grimling grunt](https://www.pqdi.cc/npc/167517) (5.0% x 1)
+  - [a grimling priest](https://www.pqdi.cc/npc/167244)
+
 #### [Akheva Ruins – Dax](https://www.pqdi.cc/item/22190) (22190)
 
 This shard can drop off most **“rock”** model mobs in Akheva Ruins. It also can drop off **shadow reavers** and **Xi Xaui,** both which have death character models. It’s best to setup camp in the yellow circle and kill mobs / traps in the red circle. Some of the rock mobs have a lot of hp.
@@ -267,7 +274,9 @@ The **Ssraeshza Temple** shard drops off the skeletons in the caverns of the tem
 
 Bring an **Essence Emerald** and a **Summoned: Wisp Stone to Akheva Ruins.** Necromancers can sacrifice someone to get the **Essence Emerald.** Magicians can summon the **Summoned: Wisp Stone** (No Rent). You can also check the Bazaar.
 
-Head to the spot on the map and on a small ledge you'll see four **Sacrificed Remains.** They have approx. 5 min respawn. Keep killing them until a **shimmering presence** spawns. Once it does, give it your **Summoned: Wisp Stone** . Doing so will spawn **The** **Spirit of Akelha`Ra** . Give **The Spirit of Akelha`Ra** your **Essence Emerald** to receive [Shadowed Scepter Frame](https://www.pqdi.cc/item/17323) .
+Head to the spot on the map and on a small ledge you'll see four **Sacrificed Remains.** They have approx. 5 min respawn. Keep killing them until a **shimmering presence** spawns. Once it does, give it your **Summoned: Wisp Stone** . Doing so will spawn **The Spirit of Akelha'Ra** . Give **The Spirit of Akelha'Ra** your **Essence Emerald** to receive [Shadowed Scepter Frame](https://www.pqdi.cc/item/17323).
+
+![](/assets/images/Akheva-VT4.jpg) ![](/assets/images/Akheva-VT3.jpg) ![](/assets/images/a-shimmering-presence.jpg) ![](/assets/images/The-Spirit-of-AkelhaRa.jpg)
 
 **Planes Rift and Glowing Orb of Luclinite**
 
