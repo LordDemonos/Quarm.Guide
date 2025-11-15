@@ -60,7 +60,7 @@ The green circle on the map is where the statue is that you’ll need to click t
   - [a runed grimling](https://www.pqdi.cc/npc/154029) (5.0% x 1)
   - [a grimling skullcracker](https://www.pqdi.cc/npc/154030) (5.0% x 1)
 
-The Acrylia Caverns shard "Ved" can also be obtained in Grimling Forest
+The Acrylia Caverns shard "Ved" can also be obtained in **[Grimling Forests](https://www.pqdi.cc/zone/167)**.
 
 - [Grimling Forests](https://www.pqdi.cc/zone/167)
 
