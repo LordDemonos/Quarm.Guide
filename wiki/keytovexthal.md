@@ -31,16 +31,16 @@ To create your key you will need to collect the following items:
 
 The 10 **[Lucid Shards](https://www.pqdi.cc/item/22185)** all have the same item icon. You can only tell which one is which by looking at the item lore. They identify as follows:
 
-- [Acrylia Caverns – Ved](#acrylia-caverns--ved) (22193)
-- [Akheva Ruins – Dax](#akheva-ruins--dax) (22190)
-- [Dawnshroud Peaks – Lor](#dawnshroud-peaks--lor) (22191)
-- [Fungus Grove – Dat](#fungus-grove--dat) (22192)
-- [Maiden’s Eye – Tak](#maidens-eye--tak) (22194)
-- [Sanctus Seru/Katta Castellum – Kelara](#sanctus-serukatta-castellum--kelara) (22187)
-- [Scarlet Desert – Set](#scarlet-desert--set) (22187)
-- [Ssraeshza Temple – Vin](#ssraeshza-temple--vin) (22189)
-- [The Grey – Kel](#the-grey--kel) (22185)
-- [The Deep – Raf](#the-deep--raf) (22188)
+- [Acrylia Caverns – Ved](#acrylia-caverns--ved-22193)
+- [Akheva Ruins – Dax](#akheva-ruins--dax-22190)
+- [Dawnshroud Peaks – Lor](#dawnshroud-peaks--lor-22191)
+- [Fungus Grove – Dat](#fungus-grove--dat-22192)
+- [Maiden’s Eye – Tak](#maidens-eye--tak-22194)
+- [Sanctus Seru/Katta Castellum – Kelara](#sanctus-serukatta-castellum--kelara-22187)
+- [Scarlet Desert – Set](#scarlet-desert--set-22187)
+- [Ssraeshza Temple – Vin](#ssraeshza-temple--vin-22189)
+- [The Grey – Kel](#the-grey--kel-22185)
+- [The Deep – Raf](#the-deep--raf-22188)
 
 #### [Acrylia Caverns – Ved](https://www.pqdi.cc/item/22193) (22193)
 
