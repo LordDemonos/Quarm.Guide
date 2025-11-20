@@ -86,3 +86,9 @@ QuarmDinodna allows you to look up auction feed, use tracking, mouseover chat it
 ## Chardok Faction Calculator
 
 - [Chardok Faction Calculator](https://chardokfaction.github.io/) A useful tool for players working on their Chardok faction. It helps calculate how much faction you need to reach maximum standing with Chardok, and estimates the number of goblin skins and mineral salts required to achieve this goal.
+
+## EverQuest Charm Pet Finder
+
+A tool for charmers to explore and compare the best charmable pets in any zone on the Quarm server. Fetches detailed pet data directly from pqdi to assist with pet selection and charm strategy.
+
+- [EQ Pet Finder](https://eqpetfinder.vercel.app/)
