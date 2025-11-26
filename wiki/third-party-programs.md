@@ -95,6 +95,12 @@ Loot Buddy is a comprehensive tool designed for Project Quarm, facilitating the 
 
 - [More Information and Downloads](https://eqtunnelauctions.com/lootbuddy.php)
 
+## OpenDKP Helper
+
+OpenDKP Helper is a browser extension designed to make life easier for raid leaders and help raiders not miss items while they're focused on gameplay. It provides reminders to start and upload logs, alerts when OpenDKP auctions expire (so raid leads don't forget to announce), quick copy/paste buttons for dropped items, and optional audio readouts for new auctions and your winning bids.
+
+- [Download for Chrome](https://chromewebstore.google.com/detail/opendkp-helper/bfojhganekfilpiigejiombkkeaclifi) | [Download for Firefox](https://addons.mozilla.org/en-US/firefox/addon/opendkp-helper/)
+
 ## EQLogParser
 
 EQLogParser is a tool designed to parse and analyze EverQuest log files, providing insights into gameplay, combat, and other in-game activities. It offers a range of features, including combat analysis, damage parsing, and loot tracking, making it an invaluable resource for players looking to optimize their gameplay.

@@ -59,6 +59,11 @@ If you want to learn more about Project Quarm specific features and rules, head 
         <ul>
             <li><a href="https://github.com/CoastalRedwood/Zeal/releases" aria-label="Zeal Releases - Download the latest version of Zeal">Zeal Releases</a> - Latest version available <a href="/2024/11/24/zeal-readme/">Zeal README</a></li>
             <li><a href="{{ '/gina' | relative_url }}" aria-label="GINA - Audio and visual triggers for EverQuest">GINA</a> - Audio and visual triggers for EverQuest</li>
+            <li>
+              <a href="https://github.com/LordDemonos/opendkp-helper" aria-label="OpenDKP Helper – Browser extension for raid leaders">OpenDKP Helper</a> – Browser extension for raiders.
+              <a href="https://chromewebstore.google.com/detail/opendkp-helper/bfojhganekfilpiigejiombkkeaclifi" aria-label="Download OpenDKP Helper for Chrome">Chrome</a>,
+              <a href="https://addons.mozilla.org/en-US/firefox/addon/opendkp-helper/" aria-label="Download OpenDKP Helper for Firefox">Firefox</a>
+            </li>
             <li><a href="https://www.redguides.com/community/resources/eqlogparser.1/" aria-label="EQLogParser - Parse logs for DPS and healing">EQLogParser</a> - Parse logs for DPS and healing</li>
             <li><a href="https://www.eqinterface.com/downloads/fileinfo.php?id=6959" aria-label="Calmetar's UI - Custom UI for Quarm">Calmetar's UI</a> - Custom UI for Project Quarm</li>
             <li><a href="{{ '/after-installing-the-game#where-to-get-quarm-user-interfaces' | relative_url }}" aria-label="Nillipuss's UI - Custom UI for Quarm">Nillipuss's UI</a> - Custom UI for Project Quarm <a href="https://github.com/NilliP/NillipussUI_1080p">1080p</a>, <a href="https://github.com/NilliP/NillipussUI_1440p">1440p</a></li>
