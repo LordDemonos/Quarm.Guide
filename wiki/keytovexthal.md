@@ -1,8 +1,13 @@
 ---
-title: "Key to Vex Thal"
-description: "Complete guide to obtaining the Key to Vex Thal in EverQuest"
-date: 2024-01-15
-tags: ['everquest', 'quest', 'vex-thal', 'lucin', 'progression']
+title: Key to Vex Thal
+description: Complete guide to obtaining the Key to Vex Thal in EverQuest
+date: {}
+tags:
+  - everquest
+  - quest
+  - vex-thal
+  - lucin
+  - progression
 toc: false
 resize_images: true
 ---
@@ -34,9 +39,9 @@ The 10 **[Lucid Shards](https://www.pqdi.cc/item/22185)** all have the same item
 - [Acrylia Caverns – Ved](#acrylia-caverns--ved-22193)
 - [Akheva Ruins – Dax](#akheva-ruins--dax-22190)
 - [Dawnshroud Peaks – Lor](#dawnshroud-peaks--lor-22191)
-- [Fungus Grove – Dat](#fungus-grove--dat-22192)
-- [Maiden’s Eye – Tak](#maidens-eye--tak-22194)
-- [Sanctus Seru/Katta Castellum – Kelara](#sanctus-serukatta-castellum--kelara-22187)
+- [Fungus Grove – Dat](#fungus-grove--dat-22196)
+- [Maiden’s Eye – Tak](#maidens-eye--tak-22192)
+- [Sanctus Seru/Katta Castellum – Kelara](#sanctus-serukatta-castellum--kelara-22194)
 - [Scarlet Desert – Set](#scarlet-desert--set-22187)
 - [Ssraeshza Temple – Vin](#ssraeshza-temple--vin-22189)
 - [The Grey – Kel](#the-grey--kel-22185)
