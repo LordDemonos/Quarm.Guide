@@ -1,7 +1,6 @@
 ---
 title: Key to Vex Thal
 description: Complete guide to obtaining the Key to Vex Thal in EverQuest
-date: {}
 tags:
   - everquest
   - quest

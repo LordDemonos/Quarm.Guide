@@ -4,8 +4,6 @@ title: "Quarm.Guide"
 # (string) if you've installed your wiki in subfolder, you must change this configuration
 # with your folder name, otherwise leave it empty
 baseurl: "/"
-# the base hostname & protocol for your site
-url: "https://quarm.guide"
 # (string) Description of your wiki
 description: Your Project Quarm Adventure Awaits
 # (boolean) disable edit functionalities (edit/delete/add pages)
@@ -122,7 +120,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-titles-from-headings
   - jemoji
-  - jekyll-gitlab-metadata
 
 
 #
