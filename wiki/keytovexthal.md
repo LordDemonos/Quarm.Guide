@@ -39,11 +39,7 @@ The 10 **[Lucid Shards](https://www.pqdi.cc/item/22185)** all have the same item
 - [Acrylia Caverns – Ved](#acrylia-caverns--ved-22193)
 - [Akheva Ruins – Dax](#akheva-ruins--dax-22190)
 - [Dawnshroud Peaks – Lor](#dawnshroud-peaks--lor-22191)
-<<<<<<< Updated upstream
-- [Fungus Grove – Dat](#fungus-grove--dat-22196)
-=======
 - [Fungus Grove – Dat](#fungus-grove--dat-22186)
->>>>>>> Stashed changes
 - [Maiden’s Eye – Tak](#maidens-eye--tak-22192)
 - [Sanctus Seru/Katta Castellum – Kelara](#sanctus-serukatta-castellum--kelara-22194)
 - [Scarlet Desert – Set](#scarlet-desert--set-22187)
@@ -345,8 +341,5 @@ Head to the spot on the map and on a small ledge you'll see four **Sacrificed Re
 **1.** Combine all 10 of your [Lucid Shards](https://www.pqdi.cc/item/22185) in your **[Shadowed Scepter Frame](https://www.pqdi.cc/item/17323)** to receive **Unadorned Scepter of Shadows.**
 
 **2.** Combine **[Planes Rift](https://www.pqdi.cc/item/9410) and [Glowing Orb of Luclinite](https://www.pqdi.cc/item/22196)** in your **Unadorned Scepter of Shadows** to receive **[The Scepter of Shadows](https://www.pqdi.cc/item/22198)**!
-<<<<<<< Updated upstream
-=======
 
 ![](/assets/images/Vex_Thal_Key/VT-ENT.jpg)
->>>>>>> Stashed changes
