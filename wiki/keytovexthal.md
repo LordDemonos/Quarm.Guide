@@ -18,7 +18,7 @@ resize_images: true
 
 <div class="tip-blockquote">
 
-> **💡 Tip:** Use the Zeal feature `/outputfile inventory` in-game to generate a `Charactername-Inventory.txt` file in your TAKP folder containing all your item numbers. You can compare these numbers with the ones in this guide to quickly identify which shards you already have, saving you from using the Identify spell.
+💡 Tip: Use the Zeal feature `/outputfile inventory` in-game to generate a `Charactername-Inventory.txt` file in your TAKP folder containing all your item numbers. You can compare these numbers with the ones in this guide to quickly identify which shards you already have, saving you from using the Identify spell.
 
 </div>
 
@@ -39,7 +39,11 @@ The 10 **[Lucid Shards](https://www.pqdi.cc/item/22185)** all have the same item
 - [Acrylia Caverns – Ved](#acrylia-caverns--ved-22193)
 - [Akheva Ruins – Dax](#akheva-ruins--dax-22190)
 - [Dawnshroud Peaks – Lor](#dawnshroud-peaks--lor-22191)
+<<<<<<< Updated upstream
 - [Fungus Grove – Dat](#fungus-grove--dat-22196)
+=======
+- [Fungus Grove – Dat](#fungus-grove--dat-22186)
+>>>>>>> Stashed changes
 - [Maiden’s Eye – Tak](#maidens-eye--tak-22192)
 - [Sanctus Seru/Katta Castellum – Kelara](#sanctus-serukatta-castellum--kelara-22194)
 - [Scarlet Desert – Set](#scarlet-desert--set-22187)
@@ -139,6 +143,8 @@ I have the chieftan circled in the picture (north named), but it does not drop t
   - [a goranga seer](https://www.pqdi.cc/npc/173010) (85.0% x 1)
   - [a goranga forager](https://www.pqdi.cc/npc/173129) (100.0% x 1)
 
+![](/assets/images/The-Maidens-Eye-VT.jpg)
+
 #### [Sanctus Seru/Katta Castellum – Kelara](https://www.pqdi.cc/item/22194) (22194)
 
 The **Sanctus Seru** shard drops off the NPC’s in the upper hallway that go around the edge of the zone (see red area highlighted on the map). Run all the way and keep killing until it drops. You can reach this area by clicking on the teleport pad in the yellow circle on the map. This will lower your faction in the zone.
@@ -223,6 +229,8 @@ You can also get the same shard from **Katta Castellum** in the " **Centurion** 
   - [Legionnaire Voleo](https://www.pqdi.cc/npc/159636) (5.0% x 1)
   - [Legionnaire Durus](https://www.pqdi.cc/npc/159638) (5.0% x 1)
 
+![](/assets/images/Katta-VT.jpg) ![](/assets/images/Katta-VT2.jpg)
+
 ![](/assets/images/Seru-VT.png) ![](/assets/images/Seru-2.png)
 
 #### [Scarlet Desert – Set](https://www.pqdi.cc/item/22187) (22187)
@@ -235,6 +243,8 @@ The **Scarlet Desert** shard drops off the **sun reavers** and **sun revenants**
   - [a sun revenant](https://www.pqdi.cc/npc/175013) (10.0% x 1)
   - [a sun revenant](https://www.pqdi.cc/npc/175016) (10.0% x 1)
   - [a sun revenant](https://www.pqdi.cc/npc/175171) (10.0% x 1)
+
+![](/assets/images/The-Scarlet-Desert-VT.jpg) ![](/assets/images/Scarlet-Desert-VT2.jpg)
 
 #### [Ssraeshza Temple – Vin](https://www.pqdi.cc/item/22189) (22189)
 
@@ -335,3 +345,8 @@ Head to the spot on the map and on a small ledge you'll see four **Sacrificed Re
 **1.** Combine all 10 of your [Lucid Shards](https://www.pqdi.cc/item/22185) in your **[Shadowed Scepter Frame](https://www.pqdi.cc/item/17323)** to receive **Unadorned Scepter of Shadows.**
 
 **2.** Combine **[Planes Rift](https://www.pqdi.cc/item/9410) and [Glowing Orb of Luclinite](https://www.pqdi.cc/item/22196)** in your **Unadorned Scepter of Shadows** to receive **[The Scepter of Shadows](https://www.pqdi.cc/item/22198)**!
+<<<<<<< Updated upstream
+=======
+
+![](/assets/images/Vex_Thal_Key/VT-ENT.jpg)
+>>>>>>> Stashed changes
