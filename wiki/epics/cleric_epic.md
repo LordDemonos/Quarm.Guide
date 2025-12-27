@@ -27,7 +27,7 @@ sitemap: true
     - [ ] [Step 1](#step-1): Loot [Lord Bergurgle's Crown](https://www.pqdi.cc/item/28044) in [Lake Rathetear](https://www.pqdi.cc/zone/51)
     - [ ] [Step 2](#step-2): Get [Ornate Sea Shell](https://www.pqdi.cc/item/28047) in [Lake Rathetear](https://www.pqdi.cc/zone/51)
     - [ ] [Step 3](#step-3): Get [Coral Statue of Tarew](https://www.pqdi.cc/item/28051) in [Timorous Deep](https://www.pqdi.cc/zone/96)
-    - [ ] [Step 4](#step-4): Loot [Blood Soaked Plasmatic Priest Robe](https://www.pqdi.cc/zone/1299) in [Temple of Solusek Ro](https://www.pqdi.cc/zone/80)
+    - [ ] [Step 4](#step-4): Loot [Blood Soaked Plasmatic Priest Robe](https://www.pqdi.cc/item/1299) in [Temple of Solusek Ro](https://www.pqdi.cc/zone/80)
     - [ ] [Step 5](#step-5): Loot [Lord Gimblox's Signet Ring](https://www.pqdi.cc/item/28018) in [Solusek's Eye](https://www.pqdi.cc/zone/31)
     - [ ] [Step 6](#step-6): Get [Orb of Frozen Water](https://www.pqdi.cc/item/28049) and [Ornate Sea Shell](https://www.pqdi.cc/item/28047) in [Timorous Deep](https://www.pqdi.cc/zone/96)
   - [ ] [Orb of Clear Water](#orb-of-clear-water)
@@ -96,7 +96,7 @@ Go to [Timorous Deep](https://www.pqdi.cc/zone/96) and find [Omat Vastsea](https
 
 Head to [Temple of Solusek Ro](https://www.pqdi.cc/zone/80) and find [a seeker](https://www.pqdi.cc/npc/80002). There are several in the zone, but the one you are looking for specifically is at. He is in a small room on the 2nd floor. To easily find him, go to the back of the zone, then turn left at the fake dresser and go up the stairs. Spawns at roughly 7am, despawns at roughly 9pm. Make sure to hand it into the Male version only. Do not hand to female version that spawns at night.
 
-Give [a seeker](https://www.pqdi.cc/npc/80002) the [Coral Statue of Tarew](https://www.pqdi.cc/item/28051) to spawn [a plasmatic priest](https://www.pqdi.cc/npc/80042). It's best to either kill [a plasmatic priest](https://www.pqdi.cc/npc/80042) quickly in his room or in the hallway just outside his room. He casts Reckoning (Single target DD) and Complete Heal. The fight is trivial with a small group of 60's. The mob is level 55. Loot [Blood Soaked Plasmatic Priest Robe](https://www.pqdi.cc/zone/1299).
+Give [a seeker](https://www.pqdi.cc/npc/80002) the [Coral Statue of Tarew](https://www.pqdi.cc/item/28051) to spawn [a plasmatic priest](https://www.pqdi.cc/npc/80042). It's best to either kill [a plasmatic priest](https://www.pqdi.cc/npc/80042) quickly in his room or in the hallway just outside his room. He casts Reckoning (Single target DD) and Complete Heal. The fight is trivial with a small group of 60's. The mob is level 55. Loot [Blood Soaked Plasmatic Priest Robe](https://www.pqdi.cc/item/1299).
 
 ![a-seeker-map-Temple-of-Ro.jpg](/assets/images/epics/cleric/a-seeker-map-Temple-of-Ro.jpg)
 ![a-seeker.jpg](/assets/images/epics/cleric/a-seeker.jpg)
@@ -114,7 +114,7 @@ Go to [Solusek's Eye](https://www.pqdi.cc/zone/31) (SolA). You will need to kill
 
 [Script Page](https://www.pqdi.cc/script-entities/timorous/Omat_Vastsea)
 
-Go to [Timorous Deep](https://www.pqdi.cc/zone/96) and find [Omat Vastsea](https://www.pqdi.cc/npc/96033) (-11564.0, -2234.0). Give him [Blood Soaked Plasmatic Priest Robe](https://www.pqdi.cc/zone/1299) to receive [Orb of Frozen Water](https://www.pqdi.cc/item/28049).
+Go to [Timorous Deep](https://www.pqdi.cc/zone/96) and find [Omat Vastsea](https://www.pqdi.cc/npc/96033) (-11564.0, -2234.0). Give him [Blood Soaked Plasmatic Priest Robe](https://www.pqdi.cc/item/1299) to receive [Orb of Frozen Water](https://www.pqdi.cc/item/28049).
 
 [Natasha Whitewater](https://www.pqdi.cc/npc/96080) is in the nearby hut. Give [Natasha Whitewater](https://www.pqdi.cc/npc/51138) [Lord Gimblox's Signet Ring](https://www.pqdi.cc/item/28018) to receive _a different_ [Ornate Sea Shell](https://www.pqdi.cc/item/28056) ([Script Page](https://www.pqdi.cc/script-entities/timorous/Natasha_Whitewater) for this step).
 
