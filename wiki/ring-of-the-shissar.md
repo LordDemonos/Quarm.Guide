@@ -1,8 +1,16 @@
 ---
-title: "Ring of the Shissar – Emperor Ssraeshza Chamber Access"
-description: "Complete guide to obtaining the Ring of the Shissar for Emperor Ssraeshza Chamber access in EverQuest"
-date: 2024-01-15
-tags: ['everquest', 'quest', 'ring-of-the-shissar', 'ssraeshza', 'lucin', 'progression']
+title: Ring of the Shissar – Emperor Ssraeshza Chamber Access
+description: >-
+  Complete guide to obtaining the Ring of the Shissar for Emperor Ssraeshza
+  Chamber access in EverQuest
+date: {}
+tags:
+  - everquest
+  - quest
+  - ring-of-the-shissar
+  - ssraeshza
+  - lucin
+  - progression
 resize_images: true
 toc: false
 ---
@@ -33,7 +41,7 @@ All items are found in **Ssraeshza Temple.** Once you have them all, combine the
 
 ### [Zazuzh’s Idol](https://www.pqdi.cc/item/19716)
 
-This drops from **[Commander Zazuzh](https://www.pqdi.cc/npc/162003)** also known as “C1”. Always drops.
+This drops from **[Commander Zazuzh](https://www.pqdi.cc/npc/162003)** also known as “C1”. Six will drop at a time.
 
 **[Commander Zazuzh](https://www.pqdi.cc/npc/162003)** spawns on the 1st floor (same level as the zone in). He has many spawn points throughout the 1st floor. The best strat is to clear as many snakes as possible and have a tracker tell you when he is up.
 
@@ -48,7 +56,7 @@ I have highlighted common known spawn points on the map, **but there may be othe
 
 #### [Zeruzsh's Ring](https://www.pqdi.cc/item/19717)
 
-This drops from **[Commander Zherozsh](https://www.pqdi.cc/item/19717)** also known as “C2”. Always drops.
+This drops from **[Commander Zherozsh](https://www.pqdi.cc/item/19717)** also known as “C2”. Six will drop at a time.
 
 **[Commander Zherozsh](https://www.pqdi.cc/item/19717)** spawns on the 2nd floor (one tube level up from zone in). He has many spawn points throughout the 2nd floor. The best strat is to clear as many snakes as possible and have a tracker tell you when he is up.
 
@@ -88,7 +96,7 @@ This drops off named in the room just before Emperor’s chambers. Always drops.
 - [Ssraeshza Temple](https://www.pqdi.cc/zone/162)
   - [Advisor Zekuzh](https://www.pqdi.cc/npc/162017) (100.0% x 1)
   - [Arbiter Korazhk](https://www.pqdi.cc/npc/162018) (100.0% x 1)
-  - [General Kizuhx](https://www.pqdi.cc/npc/162066) (100.0% x 1)
+  - [General Kizuhx](https://www.pqdi.cc/npc/162066) (100.0% x 6)
 
 They are low level (mid 50’s) but don’t let that fool you, these guys have huge amounts of HP. They can also cast knockback. You may need up to 2 groups to defeat them in era. Any mob ( **an imperial guard** ) in the room can be a PH. You will need a picklock to get here as there are multiple locked doors along the way.
 
