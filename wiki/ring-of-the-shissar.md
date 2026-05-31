@@ -3,7 +3,7 @@ title: Ring of the Shissar – Emperor Ssraeshza Chamber Access
 description: >-
   Complete guide to obtaining the Ring of the Shissar for Emperor Ssraeshza
   Chamber access in EverQuest
-date: {}
+date: 2026-01-01
 tags:
   - everquest
   - quest
