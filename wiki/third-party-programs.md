@@ -68,6 +68,12 @@ Whether you are in the Discord and up to speed, or you're making the devs scream
 
 - [GitHub Releases](https://github.com/blastlaster/QuarmPlus/releases)
 
+## PQ Companion
+
+PQ Companion is a desktop companion app for Project Quarm that brings many of the separate tools players use into one application. It includes a database explorer, DPS meter, spell timers, NPC info overlay, combat log parsing, roll tracker, inventory and key trackers, custom GINA-style triggers, and more. It reads your EverQuest log file and integrates with Zeal over named pipes for real-time target, buff, and spellbook data.
+
+- [GitHub Releases](https://github.com/jasonsoprovich/pq-companion/releases) | [GitHub Link](https://github.com/jasonsoprovich/pq-companion)
+
 ## EQ Tell Notifier
 
 Desktop notifications for tells received in game.
@@ -95,11 +101,23 @@ Loot Buddy is a comprehensive tool designed for Project Quarm, facilitating the 
 
 - [More Information and Downloads](https://eqtunnelauctions.com/lootbuddy.php)
 
+## Quarmy
+
+Quarmy is an EverQuest character builder for Project Quarm, similar to the old Magelo site. Create and share public character profiles so others can see your gear and build. Import is easy with Zeal: run `/outputfile quarmy` in-game to export a compatible file, or enable export inventory on logout and a Quarmy file will be written automatically when you exit.
+
+- [Quarmy](https://quarmy.com/)
+
 ## OpenDKP Helper
 
 OpenDKP Helper is a browser extension designed to make life easier for raid leaders and help raiders not miss items while they're focused on gameplay. It provides reminders to start and upload logs, alerts when OpenDKP auctions expire (so raid leads don't forget to announce), quick copy/paste buttons for dropped items, and optional audio readouts for new auctions and your winning bids.
 
 - [Download for Chrome](https://chromewebstore.google.com/detail/opendkp-helper/bfojhganekfilpiigejiombkkeaclifi) | [Download for Firefox](https://addons.mozilla.org/en-US/firefox/addon/opendkp-helper/)
+
+## Project Quarm Boss Tracker
+
+Project Quarm Boss Tracker monitors your EverQuest log for boss kills and posts death notifications to Discord. It automatically discovers new bosses from guild kill and lockout messages, organizes targets by zone, and keeps a searchable history so your guild can track spawn timers and past kills.
+
+- [GitHub Releases](https://github.com/LordDemonos/Project-Quarm-Boss-Tracker/releases) | [GitHub Link](https://github.com/LordDemonos/Project-Quarm-Boss-Tracker)
 
 ## EQLogParser
 

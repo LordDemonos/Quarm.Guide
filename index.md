@@ -52,13 +52,12 @@ If you want to learn more about Project Quarm specific features and rules, head 
             <li><a href="https://yaqds.cc" aria-label="Yet Another Quarm Database Site - An alternative view of the Project Quarm database">Yet Another Quarm Database Site</a> - Alternative database tools</li>
             <li><a href="https://quarmcalc.app/" aria-label="QuarmCalc - Plan your alternate advancement (AA) point allocation on Quarm">QuarmCalc</a> - Plan your AA points</li>
             <li><a href="https://eqpetfinder.vercel.app/" aria-label="EQ Pet Finder - Find and compare charmable pets by zone">EQ Pet Finder</a> - Find and compare charmable pets</li>
-            <li><a href="https://www.eqemulator.org/index.php?pageid=serverinfo&worldid=3962" aria-label="Project Quarm Server Population - Live statistics and information about the Project Quarm server">Project Quarm Server Population</a> - Live statistics about Project Quarm</li>
-            <li><a href="https://unixgeek.com/eqemu.html" aria-label="EQ Emulator Server Population Trends - Track population trends across different EQEmu servers">EQ Emulator Server Population Trends</a> - Compare Server Population</li>
+            <li><a href="https://quarmy.com/" aria-label="Quarmy - Upload and share your character gear and build">Quarmy</a> - Share your character gear and build</li>
         </ul>
         <h2>Enhancing Your Experience</h2>
         <ul>
             <li><a href="https://github.com/CoastalRedwood/Zeal/releases" aria-label="Zeal Releases - Download the latest version of Zeal">Zeal Releases</a> - Latest version available <a href="/2024/11/24/zeal-readme/">Zeal README</a></li>
-            <li><a href="{{ '/gina' | relative_url }}" aria-label="GINA - Audio and visual triggers for EverQuest">GINA</a> - Audio and visual triggers for EverQuest</li>
+            <li><a href="https://github.com/jasonsoprovich/pq-companion/releases" aria-label="PQ Companion - All-in-one desktop companion for Project Quarm">PQ Companion</a> - DPS, timers, database, and more</li>
             <li>
               <a href="https://github.com/LordDemonos/opendkp-helper" aria-label="OpenDKP Helper – Browser extension for raid leaders">OpenDKP Helper</a> – Browser extension for raiders.
               <a href="https://chromewebstore.google.com/detail/opendkp-helper/bfojhganekfilpiigejiombkkeaclifi" aria-label="Download OpenDKP Helper for Chrome">Chrome</a>,
