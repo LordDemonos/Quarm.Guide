@@ -104,7 +104,21 @@ On P99, giving a torch to your charmed pet will cause it to quad-hit. That trick
 
 ## Mezmerize can memblur?
 
-Yes, all of our mezzes have a 100% chance of memblurring on npcs level 30 and under, with diminishing %-chance as levels increase. Many players opt for just chain-casting mez until the npc is memblurred (check with /assist macro), rather than use another spell slot for memblur.
+Yes, all of our mezzes have a 100% chance of memblurring on npcs level 17 and under, with diminishing %-chance as levels increase, but the chance remains very good:
+
+- Lvl 17 - 100% chance to memblur.
+- Lvl 18 - 98%
+- Lvl 20 - 94%
+- Lvl 30 - 73%
+- Lvl 40 - 53%
+- Lvl 50 - 32%
+- Lvl 55 - 26%
+
+You also get a 1% bonus to the memblur chance for every 10 CHA you have above 150, maxing out at +15% bonus at 300 CHA.
+
+The memblur chance happens on initial cast of the mez if not resisted. You can check if the memblur worked with /assist on the NPC - if the NPC has no target the memblur worked. (NPCs with no hate will also regen 3% hp per tick.)
+
+The memblur is specifically suppressed if you refresh the mez instead of casting a new one. (Same spell ID.) So if you want to use mezzes to get a memblur effect, you have to cast _two different_ mez spells, otherwise you're just refreshing the mez duration and not getting a new memblur chance.
 
 ## What's the difference between Lull, Soothe, Calm, and Pacify?
 
