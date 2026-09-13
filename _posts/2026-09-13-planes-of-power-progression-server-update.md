@@ -427,6 +427,7 @@ These are **not final until approved**:
 - Emperor Ssraeshza's guards would no longer respawn.
 
 Neither change removes bane requirements. **Emperor Ssraeshza and Lord Seru will still require their intended bane weapons.** 
+
 # Guild 1 / PvP Changes
 
 Everything below applies specifically to **Guild 1 / PvP progression** and is separate from the normal progression rules above. Guild 1 raid targets follow the server's **earthquake / timed raid-window system** rather than simply mirroring normal guild-instance availability. This allows PvP raid availability to be controlled separately without turning Guild 1 into a faster keying or gearing path. Guild 1 remains **single loot by default**, with normal and raid double-loot settings controlled separately. Earthquake raid availability lasts **8 hours**.
@@ -472,6 +473,7 @@ At Rank 10:
 
 - **+30% total level XP**
 - **+10% total AA XP**
+
 ### Earning Glory
 
 Glory is awarded to the character credited with the qualifying killing blow.
